@@ -1,0 +1,212 @@
+
+
+PokerStars Hand #189830803489: Tournament #2381089200, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:33:54 MSK [2018/08/13 0:33:54 ET]
+Table '2381089200 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (500 in chips)
+Seat 2: victorpra209 (500 in chips)
+Seat 3: waqw (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: andreeng10 (500 in chips)
+Seat 6: mariusboeser (500 in chips)
+chorls464: posts the ante 2
+victorpra209: posts the ante 2
+waqw: posts the ante 2
+DiggErr555: posts the ante 2
+andreeng10: posts the ante 2
+mariusboeser: posts the ante 2
+victorpra209: posts small blind 10
+waqw: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 8s]
+DiggErr555: folds
+andreeng10: folds
+mariusboeser: raises 20 to 40
+chorls464: folds
+victorpra209: folds
+waqw: calls 20
+*** FLOP *** [Ts 2c 6d]
+waqw: checks
+mariusboeser: bets 60
+waqw: folds
+Uncalled bet (60) returned to mariusboeser
+mariusboeser collected 102 from pot
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Board [Ts 2c 6d]
+Seat 1: chorls464 (button) folded before Flop (didn't bet)
+Seat 2: victorpra209 (small blind) folded before Flop
+Seat 3: waqw (big blind) folded on the Flop
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: andreeng10 folded before Flop (didn't bet)
+Seat 6: mariusboeser collected (102)
+
+PokerStars Hand #189830807281: Tournament #2381089200, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:34:13 MSK [2018/08/13 0:34:13 ET]
+Table '2381089200 1' 6-max Seat #2 is the button
+Seat 1: chorls464 (498 in chips)
+Seat 2: victorpra209 (488 in chips)
+Seat 3: waqw (458 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: andreeng10 (498 in chips)
+Seat 6: mariusboeser (560 in chips)
+chorls464: posts the ante 2
+victorpra209: posts the ante 2
+waqw: posts the ante 2
+DiggErr555: posts the ante 2
+andreeng10: posts the ante 2
+mariusboeser: posts the ante 2
+waqw: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 2s]
+andreeng10: folds
+mariusboeser: folds
+chorls464: raises 24 to 44
+victorpra209: calls 44
+waqw: calls 34
+DiggErr555: calls 24
+*** FLOP *** [7h Ks 6h]
+waqw: checks
+DiggErr555: checks
+chorls464: checks
+victorpra209: bets 80
+waqw: calls 80
+DiggErr555: folds
+chorls464: folds
+*** TURN *** [7h Ks 6h] [5d]
+waqw: checks
+victorpra209: bets 362 and is all-in
+waqw: calls 332 and is all-in
+Uncalled bet (30) returned to victorpra209
+*** RIVER *** [7h Ks 6h 5d] [9s]
+*** SHOW DOWN ***
+waqw: shows [Th Qh] (high card King)
+victorpra209: shows [Td Kd] (a pair of Kings)
+victorpra209 collected 1012 from pot
+victorpra209 wins the $4.79 bounty for eliminating waqw
+waqw finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1012 | Rake 0
+Board [7h Ks 6h 5d 9s]
+Seat 1: chorls464 folded on the Flop
+Seat 2: victorpra209 (button) showed [Td Kd] and won (1012) with a pair of Kings
+Seat 3: waqw (small blind) showed [Th Qh] and lost with high card King
+Seat 4: DiggErr555 (big blind) folded on the Flop
+Seat 5: andreeng10 folded before Flop (didn't bet)
+Seat 6: mariusboeser folded before Flop (didn't bet)
+
+PokerStars Hand #189830818966: Tournament #2381089200, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:35:09 MSK [2018/08/13 0:35:09 ET]
+Table '2381089200 1' 6-max Seat #4 is the button
+Seat 1: chorls464 (452 in chips)
+Seat 2: victorpra209 (1042 in chips)
+Seat 4: DiggErr555 (452 in chips)
+Seat 5: andreeng10 (496 in chips)
+Seat 6: mariusboeser (558 in chips)
+chorls464: posts the ante 2
+victorpra209: posts the ante 2
+DiggErr555: posts the ante 2
+andreeng10: posts the ante 2
+mariusboeser: posts the ante 2
+andreeng10: posts small blind 10
+mariusboeser: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Qh]
+chorls464: folds
+victorpra209: folds
+DiggErr555: folds
+andreeng10: calls 10
+mariusboeser: raises 536 to 556 and is all-in
+andreeng10: folds
+Uncalled bet (536) returned to mariusboeser
+mariusboeser collected 50 from pot
+mariusboeser: shows [Js As]
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 2: victorpra209 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: andreeng10 (small blind) folded before Flop
+Seat 6: mariusboeser (big blind) collected (50)
+
+PokerStars Hand #189830824825: Tournament #2381089200, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:35:37 MSK [2018/08/13 0:35:37 ET]
+Table '2381089200 1' 6-max Seat #5 is the button
+Seat 1: chorls464 (450 in chips)
+Seat 2: victorpra209 (1040 in chips)
+Seat 4: DiggErr555 (450 in chips)
+Seat 5: andreeng10 (474 in chips)
+Seat 6: mariusboeser (586 in chips)
+chorls464: posts the ante 3
+victorpra209: posts the ante 3
+DiggErr555: posts the ante 3
+andreeng10: posts the ante 3
+mariusboeser: posts the ante 3
+mariusboeser: posts small blind 15
+chorls464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Qh]
+victorpra209: folds
+DiggErr555: folds
+andreeng10: folds
+mariusboeser: calls 15
+chorls464: checks
+*** FLOP *** [Jc 3c Jh]
+mariusboeser: checks
+chorls464: checks
+*** TURN *** [Jc 3c Jh] [9c]
+mariusboeser: checks
+chorls464: checks
+*** RIVER *** [Jc 3c Jh 9c] [5h]
+mariusboeser: checks
+chorls464: checks
+*** SHOW DOWN ***
+mariusboeser: shows [7c 4h] (a pair of Jacks)
+chorls464: shows [2c 8d] (a pair of Jacks - Nine+Eight kicker)
+chorls464 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Board [Jc 3c Jh 9c 5h]
+Seat 1: chorls464 (big blind) showed [2c 8d] and won (75) with a pair of Jacks
+Seat 2: victorpra209 folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: andreeng10 (button) folded before Flop (didn't bet)
+Seat 6: mariusboeser (small blind) showed [7c 4h] and lost with a pair of Jacks
+
+PokerStars Hand #189830833765: Tournament #2381089200, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:36:20 MSK [2018/08/13 0:36:20 ET]
+Table '2381089200 1' 6-max Seat #6 is the button
+Seat 1: chorls464 (492 in chips)
+Seat 2: victorpra209 (1037 in chips)
+Seat 4: DiggErr555 (447 in chips)
+Seat 5: andreeng10 (471 in chips)
+Seat 6: mariusboeser (553 in chips)
+chorls464: posts the ante 3
+victorpra209: posts the ante 3
+DiggErr555: posts the ante 3
+andreeng10: posts the ante 3
+mariusboeser: posts the ante 3
+chorls464: posts small blind 15
+victorpra209: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Ks]
+DiggErr555: raises 30 to 60
+andreeng10: raises 408 to 468 and is all-in
+mariusboeser: folds
+chorls464: folds
+victorpra209: folds
+DiggErr555: calls 384 and is all-in
+Uncalled bet (24) returned to andreeng10
+*** FLOP *** [Th 9s 6d]
+*** TURN *** [Th 9s 6d] [Qd]
+*** RIVER *** [Th 9s 6d Qd] [2d]
+*** SHOW DOWN ***
+DiggErr555: shows [Ac Ks] (high card Ace)
+andreeng10: shows [Ah As] (a pair of Aces)
+andreeng10 collected 948 from pot
+andreeng10 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 948 | Rake 0
+Board [Th 9s 6d Qd 2d]
+Seat 1: chorls464 (small blind) folded before Flop
+Seat 2: victorpra209 (big blind) folded before Flop
+Seat 4: DiggErr555 showed [Ac Ks] and lost with high card Ace
+Seat 5: andreeng10 showed [Ah As] and won (948) with a pair of Aces
+Seat 6: mariusboeser (button) folded before Flop (didn't bet)

@@ -1,0 +1,917 @@
+
+
+PokerStars Hand #189830376949: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:01:13 MSK [2018/08/13 0:01:13 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (500 in chips)
+Seat 2: PainEcho (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: cmerg777 (500 in chips)
+Seat 5: knan571 (500 in chips)
+Seat 6: LimpAndJam (500 in chips)
+RellasRent: posts the ante 2
+PainEcho: posts the ante 2
+DiggErr555: posts the ante 2
+cmerg777: posts the ante 2
+knan571: posts the ante 2
+LimpAndJam: posts the ante 2
+PainEcho: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 2h]
+cmerg777: calls 20
+knan571: calls 20
+LimpAndJam: folds
+RellasRent: calls 20
+PainEcho: folds
+DiggErr555: checks
+*** FLOP *** [Jc 8h 6d]
+DiggErr555: checks
+cmerg777: checks
+knan571: checks
+RellasRent: checks
+*** TURN *** [Jc 8h 6d] [Qh]
+DiggErr555: checks
+cmerg777: checks
+knan571: bets 120
+RellasRent: calls 120
+DiggErr555: folds
+cmerg777: folds
+*** RIVER *** [Jc 8h 6d Qh] [2s]
+knan571: bets 358 and is all-in
+RellasRent: folds
+Uncalled bet (358) returned to knan571
+knan571 collected 342 from pot
+knan571: doesn't show hand
+*** SUMMARY ***
+Total pot 342 | Rake 0
+Board [Jc 8h 6d Qh 2s]
+Seat 1: RellasRent (button) folded on the River
+Seat 2: PainEcho (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded on the Turn
+Seat 4: cmerg777 folded on the Turn
+Seat 5: knan571 collected (342)
+Seat 6: LimpAndJam folded before Flop (didn't bet)
+
+PokerStars Hand #189830390994: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:02:18 MSK [2018/08/13 0:02:18 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (358 in chips)
+Seat 2: PainEcho (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: cmerg777 (478 in chips)
+Seat 5: knan571 (700 in chips)
+Seat 6: LimpAndJam (498 in chips)
+RellasRent: posts the ante 2
+PainEcho: posts the ante 2
+DiggErr555: posts the ante 2
+cmerg777: posts the ante 2
+knan571: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts small blind 10
+cmerg777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td Ad]
+knan571: folds
+LimpAndJam: folds
+RellasRent: folds
+PainEcho: folds
+DiggErr555: raises 456 to 476 and is all-in
+cmerg777: folds
+Uncalled bet (456) returned to DiggErr555
+DiggErr555 collected 52 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: RellasRent folded before Flop (didn't bet)
+Seat 2: PainEcho (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) collected (52)
+Seat 4: cmerg777 (big blind) folded before Flop
+Seat 5: knan571 folded before Flop (didn't bet)
+Seat 6: LimpAndJam folded before Flop (didn't bet)
+
+PokerStars Hand #189830397874: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:02:50 MSK [2018/08/13 0:02:50 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (356 in chips)
+Seat 2: PainEcho (486 in chips)
+Seat 3: DiggErr555 (508 in chips)
+Seat 4: cmerg777 (456 in chips)
+Seat 5: knan571 (698 in chips)
+Seat 6: LimpAndJam (496 in chips)
+RellasRent: posts the ante 2
+PainEcho: posts the ante 2
+DiggErr555: posts the ante 2
+cmerg777: posts the ante 2
+knan571: posts the ante 2
+LimpAndJam: posts the ante 2
+cmerg777: posts small blind 10
+knan571: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 2h]
+LimpAndJam: folds
+RellasRent: folds
+PainEcho: folds
+DiggErr555: folds
+cmerg777: raises 434 to 454 and is all-in
+knan571: folds
+Uncalled bet (434) returned to cmerg777
+cmerg777 collected 52 from pot
+cmerg777: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: RellasRent folded before Flop (didn't bet)
+Seat 2: PainEcho folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cmerg777 (small blind) collected (52)
+Seat 5: knan571 (big blind) folded before Flop
+Seat 6: LimpAndJam folded before Flop (didn't bet)
+
+PokerStars Hand #189830402971: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:03:13 MSK [2018/08/13 0:03:13 ET]
+Table '2381081856 1' 6-max Seat #4 is the button
+Seat 1: RellasRent (354 in chips)
+Seat 2: PainEcho (484 in chips)
+Seat 3: DiggErr555 (506 in chips)
+Seat 4: cmerg777 (486 in chips)
+Seat 5: knan571 (676 in chips)
+Seat 6: LimpAndJam (494 in chips)
+RellasRent: posts the ante 3
+PainEcho: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+knan571: posts the ante 3
+LimpAndJam: posts the ante 3
+knan571: posts small blind 15
+LimpAndJam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 9s]
+RellasRent: calls 30
+PainEcho: folds
+DiggErr555: folds
+cmerg777: folds
+knan571: raises 60 to 90
+LimpAndJam: folds
+RellasRent: calls 60
+*** FLOP *** [9h 8d Td]
+knan571: checks
+RellasRent: bets 261 and is all-in
+knan571: calls 261
+*** TURN *** [9h 8d Td] [Qs]
+*** RIVER *** [9h 8d Td Qs] [6s]
+*** SHOW DOWN ***
+knan571: shows [Qd Ad] (a pair of Queens)
+RellasRent: shows [Jc Ts] (a straight, Eight to Queen)
+RellasRent collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [9h 8d Td Qs 6s]
+Seat 1: RellasRent showed [Jc Ts] and won (750) with a straight, Eight to Queen
+Seat 2: PainEcho folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cmerg777 (button) folded before Flop (didn't bet)
+Seat 5: knan571 (small blind) showed [Qd Ad] and lost with a pair of Queens
+Seat 6: LimpAndJam (big blind) folded before Flop
+
+PokerStars Hand #189830412034: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:03:54 MSK [2018/08/13 0:03:54 ET]
+Table '2381081856 1' 6-max Seat #5 is the button
+Seat 1: RellasRent (750 in chips)
+Seat 2: PainEcho (481 in chips)
+Seat 3: DiggErr555 (503 in chips)
+Seat 4: cmerg777 (483 in chips)
+Seat 5: knan571 (322 in chips)
+Seat 6: LimpAndJam (461 in chips)
+RellasRent: posts the ante 3
+PainEcho: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+knan571: posts the ante 3
+LimpAndJam: posts the ante 3
+LimpAndJam: posts small blind 15
+RellasRent: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c Tc]
+PainEcho: folds
+DiggErr555: folds
+cmerg777: folds
+knan571: raises 289 to 319 and is all-in
+LimpAndJam: folds
+RellasRent: calls 289
+*** FLOP *** [Jh Ad Kc]
+*** TURN *** [Jh Ad Kc] [Js]
+*** RIVER *** [Jh Ad Kc Js] [5c]
+*** SHOW DOWN ***
+RellasRent: shows [2c Ah] (two pair, Aces and Jacks)
+knan571: shows [Ac Th] (two pair, Aces and Jacks)
+RellasRent collected 336 from pot
+knan571 collected 335 from pot
+*** SUMMARY ***
+Total pot 671 | Rake 0
+Board [Jh Ad Kc Js 5c]
+Seat 1: RellasRent (big blind) showed [2c Ah] and won (336) with two pair, Aces and Jacks
+Seat 2: PainEcho folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cmerg777 folded before Flop (didn't bet)
+Seat 5: knan571 (button) showed [Ac Th] and won (335) with two pair, Aces and Jacks
+Seat 6: LimpAndJam (small blind) folded before Flop
+
+PokerStars Hand #189830421035: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:04:35 MSK [2018/08/13 0:04:35 ET]
+Table '2381081856 1' 6-max Seat #6 is the button
+Seat 1: RellasRent (764 in chips)
+Seat 2: PainEcho (478 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: cmerg777 (480 in chips)
+Seat 5: knan571 (335 in chips)
+Seat 6: LimpAndJam (443 in chips)
+RellasRent: posts the ante 3
+PainEcho: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+knan571: posts the ante 3
+LimpAndJam: posts the ante 3
+RellasRent: posts small blind 15
+PainEcho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Ts]
+DiggErr555: raises 30 to 60
+cmerg777: folds
+knan571: raises 272 to 332 and is all-in
+LimpAndJam: folds
+RellasRent: folds
+PainEcho: folds
+DiggErr555: calls 272
+*** FLOP *** [Js 5c Th]
+*** TURN *** [Js 5c Th] [3h]
+*** RIVER *** [Js 5c Th 3h] [7s]
+*** SHOW DOWN ***
+DiggErr555: shows [Tc Ts] (three of a kind, Tens)
+knan571: shows [Ah 6h] (high card Ace)
+DiggErr555 collected 727 from pot
+DiggErr555 wins the $2.38 bounty for eliminating knan571
+knan571 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 727 | Rake 0
+Board [Js 5c Th 3h 7s]
+Seat 1: RellasRent (small blind) folded before Flop
+Seat 2: PainEcho (big blind) folded before Flop
+Seat 3: DiggErr555 showed [Tc Ts] and won (727) with three of a kind, Tens
+Seat 4: cmerg777 folded before Flop (didn't bet)
+Seat 5: knan571 showed [Ah 6h] and lost with high card Ace
+Seat 6: LimpAndJam (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830428049: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:05:06 MSK [2018/08/13 0:05:06 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (746 in chips)
+Seat 2: PainEcho (445 in chips)
+Seat 3: DiggErr555 (892 in chips)
+Seat 4: cmerg777 (477 in chips)
+Seat 6: LimpAndJam (440 in chips)
+RellasRent: posts the ante 3
+PainEcho: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+LimpAndJam: posts the ante 3
+PainEcho: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 5c]
+cmerg777: folds
+LimpAndJam: folds
+RellasRent: calls 30
+PainEcho: folds
+DiggErr555: checks
+*** FLOP *** [9d 3d Ac]
+DiggErr555: checks
+RellasRent: bets 45
+DiggErr555: calls 45
+*** TURN *** [9d 3d Ac] [Jd]
+DiggErr555: checks
+RellasRent: bets 90
+DiggErr555: folds
+Uncalled bet (90) returned to RellasRent
+RellasRent collected 180 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [9d 3d Ac Jd]
+Seat 1: RellasRent (button) collected (180)
+Seat 2: PainEcho (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded on the Turn
+Seat 4: cmerg777 folded before Flop (didn't bet)
+Seat 6: LimpAndJam folded before Flop (didn't bet)
+
+PokerStars Hand #189830440773: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:06:04 MSK [2018/08/13 0:06:04 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (848 in chips)
+Seat 2: PainEcho (427 in chips)
+Seat 3: DiggErr555 (814 in chips)
+Seat 4: cmerg777 (474 in chips)
+Seat 6: LimpAndJam (437 in chips)
+RellasRent: posts the ante 4
+PainEcho: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts small blind 20
+cmerg777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 8s]
+LimpAndJam: folds
+RellasRent: folds
+PainEcho: folds
+DiggErr555: raises 770 to 810 and is all-in
+cmerg777: folds
+Uncalled bet (770) returned to DiggErr555
+DiggErr555 collected 100 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: RellasRent folded before Flop (didn't bet)
+Seat 2: PainEcho (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) collected (100)
+Seat 4: cmerg777 (big blind) folded before Flop
+Seat 6: LimpAndJam folded before Flop (didn't bet)
+
+PokerStars Hand #189830444524: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:06:21 MSK [2018/08/13 0:06:21 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (844 in chips)
+Seat 2: PainEcho (423 in chips)
+Seat 3: DiggErr555 (870 in chips)
+Seat 4: cmerg777 (430 in chips)
+Seat 6: LimpAndJam (433 in chips)
+RellasRent: posts the ante 4
+PainEcho: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+LimpAndJam: posts the ante 4
+cmerg777: posts small blind 20
+LimpAndJam: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Qd]
+RellasRent: folds
+PainEcho: folds
+DiggErr555: folds
+cmerg777: folds
+Uncalled bet (20) returned to LimpAndJam
+LimpAndJam collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: RellasRent folded before Flop (didn't bet)
+Seat 2: PainEcho folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cmerg777 (small blind) folded before Flop
+Seat 6: LimpAndJam (big blind) collected (60)
+
+PokerStars Hand #189830448442: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:06:38 MSK [2018/08/13 0:06:38 ET]
+Table '2381081856 1' 6-max Seat #4 is the button
+Seat 1: RellasRent (840 in chips)
+Seat 2: PainEcho (419 in chips)
+Seat 3: DiggErr555 (866 in chips)
+Seat 4: cmerg777 (406 in chips)
+Seat 6: LimpAndJam (469 in chips)
+RellasRent: posts the ante 4
+PainEcho: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+LimpAndJam: posts the ante 4
+LimpAndJam: posts small blind 20
+RellasRent: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 5c]
+PainEcho: folds
+DiggErr555: folds
+cmerg777: raises 40 to 80
+LimpAndJam: folds
+RellasRent: folds
+Uncalled bet (40) returned to cmerg777
+cmerg777 collected 120 from pot
+cmerg777: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: RellasRent (big blind) folded before Flop
+Seat 2: PainEcho folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cmerg777 (button) collected (120)
+Seat 6: LimpAndJam (small blind) folded before Flop
+
+PokerStars Hand #189830451257: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:06:51 MSK [2018/08/13 0:06:51 ET]
+Table '2381081856 1' 6-max Seat #6 is the button
+Seat 1: RellasRent (796 in chips)
+Seat 2: PainEcho (415 in chips)
+Seat 3: DiggErr555 (862 in chips)
+Seat 4: cmerg777 (482 in chips)
+Seat 6: LimpAndJam (445 in chips)
+RellasRent: posts the ante 4
+PainEcho: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+LimpAndJam: posts the ante 4
+RellasRent: posts small blind 20
+PainEcho: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 4h]
+DiggErr555: folds
+cmerg777: folds
+LimpAndJam: raises 401 to 441 and is all-in
+RellasRent: folds
+PainEcho: calls 371 and is all-in
+Uncalled bet (30) returned to LimpAndJam
+*** FLOP *** [Ac 6h 2s]
+*** TURN *** [Ac 6h 2s] [7d]
+*** RIVER *** [Ac 6h 2s 7d] [Td]
+*** SHOW DOWN ***
+PainEcho: shows [5c 5h] (a pair of Fives)
+LimpAndJam: shows [Jc 3c] (high card Ace)
+PainEcho collected 862 from pot
+*** SUMMARY ***
+Total pot 862 | Rake 0
+Board [Ac 6h 2s 7d Td]
+Seat 1: RellasRent (small blind) folded before Flop
+Seat 2: PainEcho (big blind) showed [5c 5h] and won (862) with a pair of Fives
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cmerg777 folded before Flop (didn't bet)
+Seat 6: LimpAndJam (button) showed [Jc 3c] and lost with high card Ace
+
+PokerStars Hand #189830457540: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:07:19 MSK [2018/08/13 0:07:19 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (772 in chips)
+Seat 2: PainEcho (862 in chips)
+Seat 3: DiggErr555 (858 in chips)
+Seat 4: cmerg777 (478 in chips)
+Seat 6: LimpAndJam (30 in chips)
+RellasRent: posts the ante 6
+PainEcho: posts the ante 6
+DiggErr555: posts the ante 6
+cmerg777: posts the ante 6
+LimpAndJam: posts the ante 6
+PainEcho: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4c]
+cmerg777: folds
+LimpAndJam: calls 24 and is all-in
+RellasRent: raises 60 to 120
+PainEcho: raises 736 to 856 and is all-in
+DiggErr555: folds
+RellasRent: calls 646 and is all-in
+Uncalled bet (90) returned to PainEcho
+*** FLOP *** [Qh 3d Kc]
+*** TURN *** [Qh 3d Kc] [Ad]
+*** RIVER *** [Qh 3d Kc Ad] [6d]
+*** SHOW DOWN ***
+PainEcho: shows [8h Jc] (high card Ace)
+RellasRent: shows [Kh 6h] (two pair, Kings and Sixes)
+RellasRent collected 1520 from side pot
+LimpAndJam: shows [Jd As] (a pair of Aces)
+RellasRent collected 126 from main pot
+RellasRent wins the $2.38 bounty for eliminating LimpAndJam
+LimpAndJam finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1646 Main pot 126. Side pot 1520. | Rake 0
+Board [Qh 3d Kc Ad 6d]
+Seat 1: RellasRent (button) showed [Kh 6h] and won (1646) with two pair, Kings and Sixes
+Seat 2: PainEcho (small blind) showed [8h Jc] and lost with high card Ace
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: cmerg777 folded before Flop (didn't bet)
+Seat 6: LimpAndJam showed [Jd As] and lost with a pair of Aces
+
+PokerStars Hand #189830463683: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:07:46 MSK [2018/08/13 0:07:46 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (1646 in chips)
+Seat 2: PainEcho (90 in chips)
+Seat 3: DiggErr555 (792 in chips)
+Seat 4: cmerg777 (472 in chips)
+RellasRent: posts the ante 6
+PainEcho: posts the ante 6
+DiggErr555: posts the ante 6
+cmerg777: posts the ante 6
+DiggErr555: posts small blind 30
+cmerg777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 4c]
+RellasRent: raises 1580 to 1640 and is all-in
+PainEcho: calls 84 and is all-in
+DiggErr555: folds
+cmerg777: folds
+Uncalled bet (1556) returned to RellasRent
+*** FLOP *** [3h 3s Ks]
+*** TURN *** [3h 3s Ks] [9s]
+*** RIVER *** [3h 3s Ks 9s] [6c]
+*** SHOW DOWN ***
+RellasRent: shows [9d Ac] (two pair, Nines and Threes)
+PainEcho: shows [Ts 6s] (a flush, King high)
+PainEcho collected 282 from pot
+*** SUMMARY ***
+Total pot 282 | Rake 0
+Board [3h 3s Ks 9s 6c]
+Seat 1: RellasRent showed [9d Ac] and lost with two pair, Nines and Threes
+Seat 2: PainEcho (button) showed [Ts 6s] and won (282) with a flush, King high
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: cmerg777 (big blind) folded before Flop
+
+PokerStars Hand #189830468010: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:08:05 MSK [2018/08/13 0:08:05 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (1556 in chips)
+Seat 2: PainEcho (282 in chips)
+Seat 3: DiggErr555 (756 in chips)
+Seat 4: cmerg777 (406 in chips)
+RellasRent: posts the ante 6
+PainEcho: posts the ante 6
+DiggErr555: posts the ante 6
+cmerg777: posts the ante 6
+cmerg777: posts small blind 30
+RellasRent: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Qh]
+PainEcho: raises 216 to 276 and is all-in
+DiggErr555: folds
+cmerg777: calls 246
+RellasRent: folds
+*** FLOP *** [4s 3d Ac]
+*** TURN *** [4s 3d Ac] [3s]
+*** RIVER *** [4s 3d Ac 3s] [6h]
+*** SHOW DOWN ***
+cmerg777: shows [Js Ts] (a pair of Threes)
+PainEcho: shows [Kd 9c] (a pair of Threes - Ace+King kicker)
+PainEcho collected 636 from pot
+*** SUMMARY ***
+Total pot 636 | Rake 0
+Board [4s 3d Ac 3s 6h]
+Seat 1: RellasRent (big blind) folded before Flop
+Seat 2: PainEcho showed [Kd 9c] and won (636) with a pair of Threes
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cmerg777 (small blind) showed [Js Ts] and lost with a pair of Threes
+
+PokerStars Hand #189830474152: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:08:33 MSK [2018/08/13 0:08:33 ET]
+Table '2381081856 1' 6-max Seat #4 is the button
+Seat 1: RellasRent (1490 in chips)
+Seat 2: PainEcho (636 in chips)
+Seat 3: DiggErr555 (750 in chips)
+Seat 4: cmerg777 (124 in chips)
+RellasRent: posts the ante 6
+PainEcho: posts the ante 6
+DiggErr555: posts the ante 6
+cmerg777: posts the ante 6
+RellasRent: posts small blind 30
+PainEcho: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 7h]
+DiggErr555: folds
+cmerg777: raises 58 to 118 and is all-in
+RellasRent: raises 320 to 438
+PainEcho: folds
+Uncalled bet (320) returned to RellasRent
+*** FLOP *** [Qc 3h 7d]
+*** TURN *** [Qc 3h 7d] [Ts]
+*** RIVER *** [Qc 3h 7d Ts] [Jd]
+*** SHOW DOWN ***
+RellasRent: shows [Js Jc] (three of a kind, Jacks)
+cmerg777: shows [5s 4s] (high card Queen)
+RellasRent collected 320 from pot
+RellasRent wins the $2.38 bounty for eliminating cmerg777
+cmerg777 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [Qc 3h 7d Ts Jd]
+Seat 1: RellasRent (small blind) showed [Js Jc] and won (320) with three of a kind, Jacks
+Seat 2: PainEcho (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cmerg777 (button) showed [5s 4s] and lost with high card Queen
+
+PokerStars Hand #189830481082: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:09:04 MSK [2018/08/13 0:09:04 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (1686 in chips)
+Seat 2: PainEcho (570 in chips)
+Seat 3: DiggErr555 (744 in chips)
+RellasRent: posts the ante 6
+PainEcho: posts the ante 6
+DiggErr555: posts the ante 6
+PainEcho: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 5h]
+RellasRent: folds
+PainEcho: raises 504 to 564 and is all-in
+DiggErr555: folds
+Uncalled bet (504) returned to PainEcho
+PainEcho collected 138 from pot
+PainEcho: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 1: RellasRent (button) folded before Flop (didn't bet)
+Seat 2: PainEcho (small blind) collected (138)
+Seat 3: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830484029: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:09:18 MSK [2018/08/13 0:09:18 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (1680 in chips)
+Seat 2: PainEcho (642 in chips)
+Seat 3: DiggErr555 (678 in chips)
+RellasRent: posts the ante 8
+PainEcho: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+RellasRent: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 5h]
+PainEcho: folds
+DiggErr555: raises 590 to 670 and is all-in
+RellasRent: folds
+Uncalled bet (590) returned to DiggErr555
+DiggErr555 collected 184 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 1: RellasRent (big blind) folded before Flop
+Seat 2: PainEcho (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) collected (184)
+
+PokerStars Hand #189830486367: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:09:28 MSK [2018/08/13 0:09:28 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (1592 in chips)
+Seat 2: PainEcho (634 in chips)
+Seat 3: DiggErr555 (774 in chips)
+RellasRent: posts the ante 8
+PainEcho: posts the ante 8
+DiggErr555: posts the ante 8
+RellasRent: posts small blind 40
+PainEcho: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 5c]
+DiggErr555: folds
+RellasRent: calls 40
+PainEcho: checks
+*** FLOP *** [3d Kc 2h]
+RellasRent: checks
+PainEcho: bets 80
+RellasRent: folds
+Uncalled bet (80) returned to PainEcho
+PainEcho collected 184 from pot
+PainEcho: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Board [3d Kc 2h]
+Seat 1: RellasRent (small blind) folded on the Flop
+Seat 2: PainEcho (big blind) collected (184)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830489492: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:09:43 MSK [2018/08/13 0:09:43 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (1504 in chips)
+Seat 2: PainEcho (730 in chips)
+Seat 3: DiggErr555 (766 in chips)
+RellasRent: posts the ante 8
+PainEcho: posts the ante 8
+DiggErr555: posts the ante 8
+PainEcho: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Ac]
+RellasRent: folds
+PainEcho: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 104 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: RellasRent (button) folded before Flop (didn't bet)
+Seat 2: PainEcho (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (104)
+
+PokerStars Hand #189830491049: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:09:50 MSK [2018/08/13 0:09:50 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (1496 in chips)
+Seat 2: PainEcho (682 in chips)
+Seat 3: DiggErr555 (822 in chips)
+RellasRent: posts the ante 8
+PainEcho: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+RellasRent: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 2s]
+PainEcho: folds
+DiggErr555: folds
+Uncalled bet (40) returned to RellasRent
+RellasRent collected 104 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: RellasRent (big blind) collected (104)
+Seat 2: PainEcho (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830492683: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:09:57 MSK [2018/08/13 0:09:57 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (1552 in chips)
+Seat 2: PainEcho (674 in chips)
+Seat 3: DiggErr555 (774 in chips)
+RellasRent: posts the ante 8
+PainEcho: posts the ante 8
+DiggErr555: posts the ante 8
+RellasRent: posts small blind 40
+PainEcho: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 5s]
+DiggErr555: folds
+RellasRent: raises 80 to 160
+PainEcho: folds
+Uncalled bet (80) returned to RellasRent
+RellasRent collected 184 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 1: RellasRent (small blind) collected (184)
+Seat 2: PainEcho (big blind) folded before Flop
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830497275: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:10:19 MSK [2018/08/13 0:10:19 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (1648 in chips)
+Seat 2: PainEcho (586 in chips)
+Seat 3: DiggErr555 (766 in chips)
+RellasRent: posts the ante 10
+PainEcho: posts the ante 10
+DiggErr555: posts the ante 10
+PainEcho: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 4c]
+RellasRent: folds
+PainEcho: raises 476 to 576 and is all-in
+DiggErr555: calls 476
+*** FLOP *** [7s 6d 3c]
+*** TURN *** [7s 6d 3c] [Jd]
+*** RIVER *** [7s 6d 3c Jd] [7c]
+*** SHOW DOWN ***
+PainEcho: shows [Ks 6c] (two pair, Sevens and Sixes)
+DiggErr555: shows [Ad 4c] (a pair of Sevens)
+PainEcho collected 1182 from pot
+*** SUMMARY ***
+Total pot 1182 | Rake 0
+Board [7s 6d 3c Jd 7c]
+Seat 1: RellasRent (button) folded before Flop (didn't bet)
+Seat 2: PainEcho (small blind) showed [Ks 6c] and won (1182) with two pair, Sevens and Sixes
+Seat 3: DiggErr555 (big blind) showed [Ad 4c] and lost with a pair of Sevens
+
+PokerStars Hand #189830501567: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:10:38 MSK [2018/08/13 0:10:38 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (1638 in chips)
+Seat 2: PainEcho (1182 in chips)
+Seat 3: DiggErr555 (180 in chips)
+RellasRent: posts the ante 10
+PainEcho: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+RellasRent: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Qc]
+PainEcho: folds
+DiggErr555: raises 70 to 170 and is all-in
+RellasRent: calls 70
+*** FLOP *** [7s 4s Qd]
+*** TURN *** [7s 4s Qd] [4d]
+*** RIVER *** [7s 4s Qd 4d] [Kh]
+*** SHOW DOWN ***
+DiggErr555: shows [3s Qc] (two pair, Queens and Fours)
+RellasRent: shows [Qs Ts] (two pair, Queens and Fours)
+DiggErr555 collected 185 from pot
+RellasRent collected 185 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0
+Board [7s 4s Qd 4d Kh]
+Seat 1: RellasRent (big blind) showed [Qs Ts] and won (185) with two pair, Queens and Fours
+Seat 2: PainEcho (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [3s Qc] and won (185) with two pair, Queens and Fours
+
+PokerStars Hand #189830506085: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:10:58 MSK [2018/08/13 0:10:58 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (1643 in chips)
+Seat 2: PainEcho (1172 in chips)
+Seat 3: DiggErr555 (185 in chips)
+RellasRent: posts the ante 10
+PainEcho: posts the ante 10
+DiggErr555: posts the ante 10
+RellasRent: posts small blind 50
+PainEcho: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 3c]
+DiggErr555: folds
+RellasRent: raises 100 to 200
+PainEcho: folds
+Uncalled bet (100) returned to RellasRent
+RellasRent collected 230 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: RellasRent (small blind) collected (230)
+Seat 2: PainEcho (big blind) folded before Flop
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830509938: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:11:16 MSK [2018/08/13 0:11:16 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (1763 in chips)
+Seat 2: PainEcho (1062 in chips)
+Seat 3: DiggErr555 (175 in chips)
+RellasRent: posts the ante 10
+PainEcho: posts the ante 10
+DiggErr555: posts the ante 10
+PainEcho: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 9s]
+RellasRent: raises 100 to 200
+PainEcho: calls 150
+DiggErr555: calls 65 and is all-in
+*** FLOP *** [2h Ts 7s]
+PainEcho: bets 300
+RellasRent: folds
+Uncalled bet (300) returned to PainEcho
+*** TURN *** [2h Ts 7s] [Qc]
+*** RIVER *** [2h Ts 7s Qc] [5d]
+*** SHOW DOWN ***
+PainEcho: shows [Tc 6h] (a pair of Tens)
+PainEcho collected 70 from side pot
+DiggErr555: shows [Th 9s] (a pair of Tens - Queen+Nine kicker)
+DiggErr555 collected 525 from main pot
+*** SUMMARY ***
+Total pot 595 Main pot 525. Side pot 70. | Rake 0
+Board [2h Ts 7s Qc 5d]
+Seat 1: RellasRent (button) folded on the Flop
+Seat 2: PainEcho (small blind) showed [Tc 6h] and won (70) with a pair of Tens
+Seat 3: DiggErr555 (big blind) showed [Th 9s] and won (525) with a pair of Tens
+
+PokerStars Hand #189830519154: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:11:59 MSK [2018/08/13 0:11:59 ET]
+Table '2381081856 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (1553 in chips)
+Seat 2: PainEcho (922 in chips)
+Seat 3: DiggErr555 (525 in chips)
+RellasRent: posts the ante 10
+PainEcho: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+RellasRent: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 5s]
+PainEcho: folds
+DiggErr555: folds
+Uncalled bet (50) returned to RellasRent
+RellasRent collected 130 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: RellasRent (big blind) collected (130)
+Seat 2: PainEcho (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830520701: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:12:06 MSK [2018/08/13 0:12:06 ET]
+Table '2381081856 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (1623 in chips)
+Seat 2: PainEcho (912 in chips)
+Seat 3: DiggErr555 (465 in chips)
+RellasRent: posts the ante 10
+PainEcho: posts the ante 10
+DiggErr555: posts the ante 10
+RellasRent: posts small blind 50
+PainEcho: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 5c]
+DiggErr555: folds
+RellasRent: raises 230 to 330
+PainEcho: folds
+Uncalled bet (230) returned to RellasRent
+RellasRent collected 230 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: RellasRent (small blind) collected (230)
+Seat 2: PainEcho (big blind) folded before Flop
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830523494: Tournament #2381081856, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:12:19 MSK [2018/08/13 0:12:19 ET]
+Table '2381081856 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (1743 in chips)
+Seat 2: PainEcho (802 in chips)
+Seat 3: DiggErr555 (455 in chips)
+RellasRent: posts the ante 12
+PainEcho: posts the ante 12
+DiggErr555: posts the ante 12
+PainEcho: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc Ts]
+RellasRent: calls 120
+PainEcho: folds
+DiggErr555: raises 323 to 443 and is all-in
+RellasRent: calls 323
+*** FLOP *** [Ah 2h 8h]
+*** TURN *** [Ah 2h 8h] [5h]
+*** RIVER *** [Ah 2h 8h 5h] [6d]
+*** SHOW DOWN ***
+DiggErr555: shows [Qc Ts] (high card Ace)
+RellasRent: shows [4c 8c] (a pair of Eights)
+RellasRent collected 982 from pot
+RellasRent wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 982 | Rake 0
+Board [Ah 2h 8h 5h 6d]
+Seat 1: RellasRent (button) showed [4c 8c] and won (982) with a pair of Eights
+Seat 2: PainEcho (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) showed [Qc Ts] and lost with high card Ace

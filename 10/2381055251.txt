@@ -1,0 +1,199 @@
+
+
+PokerStars Hand #189829231657: Tournament #2381055251, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:44:51 MSK [2018/08/12 22:44:51 ET]
+Table '2381055251 1' 6-max Seat #1 is the button
+Seat 1: Founder15 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: PAVAROTTI965 (500 in chips)
+Seat 4: stockwatch (500 in chips)
+Seat 5: josefmil (500 in chips)
+Seat 6: Mishator (500 in chips)
+Founder15: posts the ante 2
+DiggErr555: posts the ante 2
+PAVAROTTI965: posts the ante 2
+stockwatch: posts the ante 2
+josefmil: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts small blind 10
+PAVAROTTI965: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Ks]
+stockwatch: folds
+josefmil: raises 478 to 498 and is all-in
+Mishator: folds
+Founder15: folds
+DiggErr555: folds
+PAVAROTTI965: folds
+Uncalled bet (478) returned to josefmil
+josefmil collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: Founder15 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: PAVAROTTI965 (big blind) folded before Flop
+Seat 4: stockwatch folded before Flop (didn't bet)
+Seat 5: josefmil collected (62)
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829236795: Tournament #2381055251, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:45:10 MSK [2018/08/12 22:45:10 ET]
+Table '2381055251 1' 6-max Seat #2 is the button
+Seat 1: Founder15 (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: PAVAROTTI965 (478 in chips)
+Seat 4: stockwatch (498 in chips)
+Seat 5: josefmil (540 in chips)
+Seat 6: Mishator (498 in chips)
+Founder15: posts the ante 2
+DiggErr555: posts the ante 2
+PAVAROTTI965: posts the ante 2
+stockwatch: posts the ante 2
+josefmil: posts the ante 2
+Mishator: posts the ante 2
+PAVAROTTI965: posts small blind 10
+stockwatch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 3c]
+josefmil: calls 20
+Mishator: folds
+Founder15: folds
+DiggErr555: folds
+PAVAROTTI965: raises 456 to 476 and is all-in
+stockwatch: folds
+josefmil: folds
+Uncalled bet (456) returned to PAVAROTTI965
+PAVAROTTI965 collected 72 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 1: Founder15 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: PAVAROTTI965 (small blind) collected (72)
+Seat 4: stockwatch (big blind) folded before Flop
+Seat 5: josefmil folded before Flop
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829243136: Tournament #2381055251, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:45:33 MSK [2018/08/12 22:45:33 ET]
+Table '2381055251 1' 6-max Seat #3 is the button
+Seat 1: Founder15 (496 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: PAVAROTTI965 (528 in chips)
+Seat 4: stockwatch (476 in chips)
+Seat 5: josefmil (518 in chips)
+Seat 6: Mishator (496 in chips)
+Founder15: posts the ante 2
+DiggErr555: posts the ante 2
+PAVAROTTI965: posts the ante 2
+stockwatch: posts the ante 2
+josefmil: posts the ante 2
+Mishator: posts the ante 2
+stockwatch: posts small blind 10
+josefmil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 6c]
+Mishator: folds
+Founder15: raises 20 to 40
+DiggErr555: folds
+PAVAROTTI965: calls 40
+stockwatch: folds
+josefmil: calls 20
+*** FLOP *** [Qh 5s 7h]
+josefmil: checks
+Founder15: bets 142
+PAVAROTTI965: folds
+josefmil: raises 334 to 476 and is all-in
+Founder15: calls 312 and is all-in
+Uncalled bet (22) returned to josefmil
+*** TURN *** [Qh 5s 7h] [7c]
+*** RIVER *** [Qh 5s 7h 7c] [8s]
+*** SHOW DOWN ***
+josefmil: shows [7s 2d] (three of a kind, Sevens)
+Founder15: shows [Qc Th] (two pair, Queens and Sevens)
+josefmil collected 1050 from pot
+josefmil wins the $2.38 bounty for eliminating Founder15
+Founder15 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1050 | Rake 0
+Board [Qh 5s 7h 7c 8s]
+Seat 1: Founder15 showed [Qc Th] and lost with two pair, Queens and Sevens
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: PAVAROTTI965 (button) folded on the Flop
+Seat 4: stockwatch (small blind) folded before Flop
+Seat 5: josefmil (big blind) showed [7s 2d] and won (1050) with three of a kind, Sevens
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829258341: Tournament #2381055251, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:46:27 MSK [2018/08/12 22:46:27 ET]
+Table '2381055251 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: PAVAROTTI965 (486 in chips)
+Seat 4: stockwatch (464 in chips)
+Seat 5: josefmil (1072 in chips)
+Seat 6: Mishator (494 in chips)
+DiggErr555: posts the ante 3
+PAVAROTTI965: posts the ante 3
+stockwatch: posts the ante 3
+josefmil: posts the ante 3
+Mishator: posts the ante 3
+josefmil: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 8h]
+DiggErr555: raises 451 to 481 and is all-in
+PAVAROTTI965: folds
+stockwatch: calls 461 and is all-in
+josefmil: folds
+Mishator: folds
+Uncalled bet (20) returned to DiggErr555
+*** FLOP *** [5h Jd 9c]
+*** TURN *** [5h Jd 9c] [Ah]
+*** RIVER *** [5h Jd 9c Ah] [Kd]
+*** SHOW DOWN ***
+DiggErr555: shows [8c 8h] (a pair of Eights)
+stockwatch: shows [Td Th] (a pair of Tens)
+stockwatch collected 982 from pot
+*** SUMMARY ***
+Total pot 982 | Rake 0
+Board [5h Jd 9c Ah Kd]
+Seat 2: DiggErr555 showed [8c 8h] and lost with a pair of Eights
+Seat 3: PAVAROTTI965 folded before Flop (didn't bet)
+Seat 4: stockwatch (button) showed [Td Th] and won (982) with a pair of Tens
+Seat 5: josefmil (small blind) folded before Flop
+Seat 6: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829265322: Tournament #2381055251, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:46:53 MSK [2018/08/12 22:46:53 ET]
+Table '2381055251 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (20 in chips)
+Seat 3: PAVAROTTI965 (483 in chips)
+Seat 4: stockwatch (982 in chips)
+Seat 5: josefmil (1054 in chips)
+Seat 6: Mishator (461 in chips)
+DiggErr555: posts the ante 3
+PAVAROTTI965: posts the ante 3
+stockwatch: posts the ante 3
+josefmil: posts the ante 3
+Mishator: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 17 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Qd]
+PAVAROTTI965: raises 463 to 480 and is all-in
+stockwatch: folds
+josefmil: folds
+Mishator: folds
+Uncalled bet (463) returned to PAVAROTTI965
+*** FLOP *** [6d Td 5d]
+*** TURN *** [6d Td 5d] [9h]
+*** RIVER *** [6d Td 5d 9h] [Ah]
+*** SHOW DOWN ***
+DiggErr555: shows [8c Qd] (high card Ace)
+PAVAROTTI965: shows [As 3h] (a pair of Aces)
+PAVAROTTI965 collected 64 from pot
+PAVAROTTI965 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 64 | Rake 0
+Board [6d Td 5d 9h Ah]
+Seat 2: DiggErr555 (big blind) showed [8c Qd] and lost with high card Ace
+Seat 3: PAVAROTTI965 showed [As 3h] and won (64) with a pair of Aces
+Seat 4: stockwatch folded before Flop (didn't bet)
+Seat 5: josefmil (button) folded before Flop (didn't bet)
+Seat 6: Mishator (small blind) folded before Flop

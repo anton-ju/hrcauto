@@ -1,0 +1,912 @@
+
+
+PokerStars Hand #189830447616: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:06:34 MSK [2018/08/13 0:06:34 ET]
+Table '2381082747 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: Ahrisanti (500 in chips)
+Seat 4: joebrauser (500 in chips)
+Seat 5: ngbruno (500 in chips)
+Seat 6: Kentaqk (500 in chips)
+wildchiId: posts the ante 2
+DiggErr555: posts the ante 2
+Ahrisanti: posts the ante 2
+joebrauser: posts the ante 2
+ngbruno: posts the ante 2
+Kentaqk: posts the ante 2
+DiggErr555: posts small blind 10
+Ahrisanti: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 7d]
+joebrauser: folds
+ngbruno: raises 20 to 40
+Kentaqk: raises 458 to 498 and is all-in
+wildchiId: folds
+DiggErr555: folds
+Ahrisanti: folds
+ngbruno: folds
+Uncalled bet (458) returned to Kentaqk
+Kentaqk collected 122 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Seat 1: wildchiId (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Ahrisanti (big blind) folded before Flop
+Seat 4: joebrauser folded before Flop (didn't bet)
+Seat 5: ngbruno folded before Flop
+Seat 6: Kentaqk collected (122)
+
+PokerStars Hand #189830455831: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:07:11 MSK [2018/08/13 0:07:11 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 1: wildchiId (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: Ahrisanti (478 in chips)
+Seat 4: joebrauser (498 in chips)
+Seat 5: ngbruno (458 in chips)
+Seat 6: Kentaqk (580 in chips)
+wildchiId: posts the ante 2
+DiggErr555: posts the ante 2
+Ahrisanti: posts the ante 2
+joebrauser: posts the ante 2
+ngbruno: posts the ante 2
+Kentaqk: posts the ante 2
+Ahrisanti: posts small blind 10
+joebrauser: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Kh]
+ngbruno: folds
+Kentaqk: folds
+wildchiId: raises 20 to 40
+DiggErr555: raises 446 to 486 and is all-in
+Ahrisanti: folds
+joebrauser: folds
+wildchiId: folds
+Uncalled bet (446) returned to DiggErr555
+DiggErr555 collected 122 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Seat 1: wildchiId folded before Flop
+Seat 2: DiggErr555 (button) collected (122)
+Seat 3: Ahrisanti (small blind) folded before Flop
+Seat 4: joebrauser (big blind) folded before Flop
+Seat 5: ngbruno folded before Flop (didn't bet)
+Seat 6: Kentaqk folded before Flop (didn't bet)
+
+PokerStars Hand #189830460645: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:07:33 MSK [2018/08/13 0:07:33 ET]
+Table '2381082747 1' 6-max Seat #3 is the button
+Seat 1: wildchiId (456 in chips)
+Seat 2: DiggErr555 (568 in chips)
+Seat 3: Ahrisanti (466 in chips)
+Seat 4: joebrauser (476 in chips)
+Seat 5: ngbruno (456 in chips)
+Seat 6: Kentaqk (578 in chips)
+wildchiId: posts the ante 2
+DiggErr555: posts the ante 2
+Ahrisanti: posts the ante 2
+joebrauser: posts the ante 2
+ngbruno: posts the ante 2
+Kentaqk: posts the ante 2
+joebrauser: posts small blind 10
+ngbruno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Jd]
+Kentaqk: raises 20 to 40
+wildchiId: folds
+DiggErr555: folds
+Ahrisanti: folds
+joebrauser: calls 30
+ngbruno: calls 20
+*** FLOP *** [3s Ah 9h]
+joebrauser: checks
+ngbruno: checks
+Kentaqk: bets 140
+joebrauser: raises 294 to 434 and is all-in
+ngbruno: folds
+Kentaqk: calls 294
+*** TURN *** [3s Ah 9h] [5d]
+*** RIVER *** [3s Ah 9h 5d] [9s]
+*** SHOW DOWN ***
+joebrauser: shows [Tc Ac] (two pair, Aces and Nines)
+Kentaqk: shows [Qh Ad] (two pair, Aces and Nines - Queen kicker)
+Kentaqk collected 1000 from pot
+Kentaqk wins the $12.01 bounty for eliminating joebrauser
+joebrauser finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [3s Ah 9h 5d 9s]
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Ahrisanti (button) folded before Flop (didn't bet)
+Seat 4: joebrauser (small blind) showed [Tc Ac] and lost with two pair, Aces and Nines
+Seat 5: ngbruno (big blind) folded on the Flop
+Seat 6: Kentaqk showed [Qh Ad] and won (1000) with two pair, Aces and Nines
+
+PokerStars Hand #189830469485: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:08:12 MSK [2018/08/13 0:08:12 ET]
+Table '2381082747 1' 6-max Seat #5 is the button
+Seat 1: wildchiId (454 in chips)
+Seat 2: DiggErr555 (566 in chips)
+Seat 3: Ahrisanti (464 in chips)
+Seat 5: ngbruno (414 in chips)
+Seat 6: Kentaqk (1102 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+Ahrisanti: posts the ante 3
+ngbruno: posts the ante 3
+Kentaqk: posts the ante 3
+Kentaqk: posts small blind 15
+wildchiId: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Ah]
+DiggErr555: folds
+Ahrisanti: folds
+ngbruno: folds
+Kentaqk: calls 15
+wildchiId: raises 33 to 63
+Kentaqk: folds
+Uncalled bet (33) returned to wildchiId
+wildchiId collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: wildchiId (big blind) collected (75)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Ahrisanti folded before Flop (didn't bet)
+Seat 5: ngbruno (button) folded before Flop (didn't bet)
+Seat 6: Kentaqk (small blind) folded before Flop
+
+PokerStars Hand #189830478328: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:08:52 MSK [2018/08/13 0:08:52 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 1: wildchiId (496 in chips)
+Seat 2: DiggErr555 (563 in chips)
+Seat 3: Ahrisanti (461 in chips)
+Seat 5: ngbruno (411 in chips)
+Seat 6: Kentaqk (1069 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+Ahrisanti: posts the ante 3
+ngbruno: posts the ante 3
+Kentaqk: posts the ante 3
+wildchiId: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 8s]
+Ahrisanti: folds
+ngbruno: folds
+Kentaqk: raises 30 to 60
+wildchiId: folds
+DiggErr555: raises 500 to 560 and is all-in
+Kentaqk: calls 500
+*** FLOP *** [5c Tc Ks]
+*** TURN *** [5c Tc Ks] [6h]
+*** RIVER *** [5c Tc Ks 6h] [4c]
+*** SHOW DOWN ***
+DiggErr555: shows [8d 8s] (a pair of Eights)
+Kentaqk: shows [Jd Ac] (high card Ace)
+DiggErr555 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | Rake 0
+Board [5c Tc Ks 6h 4c]
+Seat 1: wildchiId (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) showed [8d 8s] and won (1150) with a pair of Eights
+Seat 3: Ahrisanti folded before Flop (didn't bet)
+Seat 5: ngbruno folded before Flop (didn't bet)
+Seat 6: Kentaqk (button) showed [Jd Ac] and lost with high card Ace
+
+PokerStars Hand #189830484480: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:09:20 MSK [2018/08/13 0:09:20 ET]
+Table '2381082747 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (478 in chips)
+Seat 2: DiggErr555 (1150 in chips)
+Seat 3: Ahrisanti (458 in chips)
+Seat 5: ngbruno (408 in chips)
+Seat 6: Kentaqk (506 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+Ahrisanti: posts the ante 3
+ngbruno: posts the ante 3
+Kentaqk: posts the ante 3
+DiggErr555: posts small blind 15
+Ahrisanti: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad Jc]
+ngbruno: folds
+Kentaqk: folds
+wildchiId: folds
+DiggErr555: raises 1117 to 1147 and is all-in
+Ahrisanti: folds
+Uncalled bet (1117) returned to DiggErr555
+DiggErr555 collected 75 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: wildchiId (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) collected (75)
+Seat 3: Ahrisanti (big blind) folded before Flop
+Seat 5: ngbruno folded before Flop (didn't bet)
+Seat 6: Kentaqk folded before Flop (didn't bet)
+
+PokerStars Hand #189830486633: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:09:29 MSK [2018/08/13 0:09:29 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 1: wildchiId (475 in chips)
+Seat 2: DiggErr555 (1192 in chips)
+Seat 3: Ahrisanti (425 in chips)
+Seat 5: ngbruno (405 in chips)
+Seat 6: Kentaqk (503 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+Ahrisanti: posts the ante 3
+ngbruno: posts the ante 3
+Kentaqk: posts the ante 3
+Ahrisanti: posts small blind 15
+ngbruno: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h Jh]
+Kentaqk: folds
+wildchiId: folds
+DiggErr555: raises 1159 to 1189 and is all-in
+Ahrisanti: folds
+ngbruno: folds
+Uncalled bet (1159) returned to DiggErr555
+DiggErr555 collected 90 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) collected (90)
+Seat 3: Ahrisanti (small blind) folded before Flop
+Seat 5: ngbruno (big blind) folded before Flop
+Seat 6: Kentaqk folded before Flop (didn't bet)
+
+PokerStars Hand #189830489613: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:09:43 MSK [2018/08/13 0:09:43 ET]
+Table '2381082747 1' 6-max Seat #3 is the button
+Seat 1: wildchiId (472 in chips)
+Seat 2: DiggErr555 (1249 in chips)
+Seat 3: Ahrisanti (407 in chips)
+Seat 5: ngbruno (372 in chips)
+Seat 6: Kentaqk (500 in chips)
+wildchiId: posts the ante 4
+DiggErr555: posts the ante 4
+Ahrisanti: posts the ante 4
+ngbruno: posts the ante 4
+Kentaqk: posts the ante 4
+ngbruno: posts small blind 20
+Kentaqk: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh Th]
+wildchiId: folds
+DiggErr555: raises 1205 to 1245 and is all-in
+Ahrisanti: calls 403 and is all-in
+ngbruno: folds
+Kentaqk: folds
+Uncalled bet (842) returned to DiggErr555
+*** FLOP *** [Qd As 2d]
+*** TURN *** [Qd As 2d] [4s]
+*** RIVER *** [Qd As 2d 4s] [3d]
+*** SHOW DOWN ***
+DiggErr555: shows [Kh Th] (high card Ace)
+Ahrisanti: shows [Kd Ks] (a pair of Kings)
+Ahrisanti collected 886 from pot
+*** SUMMARY ***
+Total pot 886 | Rake 0
+Board [Qd As 2d 4s 3d]
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 showed [Kh Th] and lost with high card Ace
+Seat 3: Ahrisanti (button) showed [Kd Ks] and won (886) with a pair of Kings
+Seat 5: ngbruno (small blind) folded before Flop
+Seat 6: Kentaqk (big blind) folded before Flop
+
+PokerStars Hand #189830493027: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:09:59 MSK [2018/08/13 0:09:59 ET]
+Table '2381082747 1' 6-max Seat #5 is the button
+Seat 1: wildchiId (468 in chips)
+Seat 2: DiggErr555 (842 in chips)
+Seat 3: Ahrisanti (886 in chips)
+Seat 5: ngbruno (348 in chips)
+Seat 6: Kentaqk (456 in chips)
+wildchiId: posts the ante 4
+DiggErr555: posts the ante 4
+Ahrisanti: posts the ante 4
+ngbruno: posts the ante 4
+Kentaqk: posts the ante 4
+Kentaqk: posts small blind 20
+wildchiId: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 4d]
+DiggErr555: folds
+Ahrisanti: folds
+ngbruno: folds
+Kentaqk: raises 40 to 80
+wildchiId: folds [8h 3s]
+Uncalled bet (40) returned to Kentaqk
+Kentaqk collected 100 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: wildchiId (big blind) folded before Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Ahrisanti folded before Flop (didn't bet)
+Seat 5: ngbruno (button) folded before Flop (didn't bet)
+Seat 6: Kentaqk (small blind) collected (100)
+
+PokerStars Hand #189830496922: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:10:17 MSK [2018/08/13 0:10:17 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 1: wildchiId (424 in chips)
+Seat 2: DiggErr555 (838 in chips)
+Seat 3: Ahrisanti (882 in chips)
+Seat 5: ngbruno (344 in chips)
+Seat 6: Kentaqk (512 in chips)
+wildchiId: posts the ante 4
+DiggErr555: posts the ante 4
+Ahrisanti: posts the ante 4
+ngbruno: posts the ante 4
+Kentaqk: posts the ante 4
+wildchiId: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 3h]
+Ahrisanti: folds
+ngbruno: folds
+Kentaqk: calls 40
+wildchiId: raises 380 to 420 and is all-in
+DiggErr555: folds
+Kentaqk: folds
+Uncalled bet (380) returned to wildchiId
+wildchiId collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0
+Seat 1: wildchiId (small blind) collected (140)
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: Ahrisanti folded before Flop (didn't bet)
+Seat 5: ngbruno folded before Flop (didn't bet)
+Seat 6: Kentaqk (button) folded before Flop
+
+PokerStars Hand #189830500989: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:10:35 MSK [2018/08/13 0:10:35 ET]
+Table '2381082747 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (520 in chips)
+Seat 2: DiggErr555 (794 in chips)
+Seat 3: Ahrisanti (878 in chips)
+Seat 5: ngbruno (340 in chips)
+Seat 6: Kentaqk (468 in chips)
+wildchiId: posts the ante 4
+DiggErr555: posts the ante 4
+Ahrisanti: posts the ante 4
+ngbruno: posts the ante 4
+Kentaqk: posts the ante 4
+DiggErr555: posts small blind 20
+Ahrisanti: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Kc]
+ngbruno: folds
+Kentaqk: folds
+wildchiId: raises 476 to 516 and is all-in
+DiggErr555: folds
+Ahrisanti: folds
+Uncalled bet (476) returned to wildchiId
+wildchiId collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: wildchiId (button) collected (120)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Ahrisanti (big blind) folded before Flop
+Seat 5: ngbruno folded before Flop (didn't bet)
+Seat 6: Kentaqk folded before Flop (didn't bet)
+
+PokerStars Hand #189830505711: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:10:57 MSK [2018/08/13 0:10:57 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 1: wildchiId (596 in chips)
+Seat 2: DiggErr555 (770 in chips)
+Seat 3: Ahrisanti (834 in chips)
+Seat 5: ngbruno (336 in chips)
+Seat 6: Kentaqk (464 in chips)
+wildchiId: posts the ante 6
+DiggErr555: posts the ante 6
+Ahrisanti: posts the ante 6
+ngbruno: posts the ante 6
+Kentaqk: posts the ante 6
+Ahrisanti: posts small blind 30
+ngbruno: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Qc]
+Kentaqk: raises 398 to 458 and is all-in
+wildchiId: raises 132 to 590 and is all-in
+DiggErr555: folds
+Ahrisanti: folds
+ngbruno: calls 270 and is all-in
+Uncalled bet (132) returned to wildchiId
+*** FLOP *** [8d Td Kh]
+*** TURN *** [8d Td Kh] [6c]
+*** RIVER *** [8d Td Kh 6c] [5d]
+*** SHOW DOWN ***
+Kentaqk: shows [Qs Kc] (a pair of Kings)
+wildchiId: shows [2d 2s] (a pair of Deuces)
+Kentaqk collected 256 from side pot
+ngbruno: shows [As 5c] (a pair of Fives)
+Kentaqk collected 1050 from main pot
+Kentaqk wins the $12.01 bounty for eliminating ngbruno
+ngbruno finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1306 Main pot 1050. Side pot 256. | Rake 0
+Board [8d Td Kh 6c 5d]
+Seat 1: wildchiId showed [2d 2s] and lost with a pair of Deuces
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Ahrisanti (small blind) folded before Flop
+Seat 5: ngbruno (big blind) showed [As 5c] and lost with a pair of Fives
+Seat 6: Kentaqk showed [Qs Kc] and won (1306) with a pair of Kings
+
+PokerStars Hand #189830511514: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:11:24 MSK [2018/08/13 0:11:24 ET]
+Table '2381082747 1' 6-max Seat #3 is the button
+Seat 1: wildchiId (132 in chips)
+Seat 2: DiggErr555 (764 in chips)
+Seat 3: Ahrisanti (798 in chips)
+Seat 6: Kentaqk (1306 in chips)
+wildchiId: posts the ante 6
+DiggErr555: posts the ante 6
+Ahrisanti: posts the ante 6
+Kentaqk: posts the ante 6
+Kentaqk: posts small blind 30
+wildchiId: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 7h]
+DiggErr555: folds
+Ahrisanti: calls 60
+Kentaqk: calls 30
+wildchiId: checks
+*** FLOP *** [3s 8d Ah]
+Kentaqk: bets 1240 and is all-in
+wildchiId: folds
+Ahrisanti: folds
+Uncalled bet (1240) returned to Kentaqk
+Kentaqk collected 204 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 204 | Rake 0
+Board [3s 8d Ah]
+Seat 1: wildchiId (big blind) folded on the Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Ahrisanti (button) folded on the Flop
+Seat 6: Kentaqk (small blind) collected (204)
+
+PokerStars Hand #189830520080: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:12:03 MSK [2018/08/13 0:12:03 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 1: wildchiId (66 in chips)
+Seat 2: DiggErr555 (758 in chips)
+Seat 3: Ahrisanti (732 in chips)
+Seat 6: Kentaqk (1444 in chips)
+wildchiId: posts the ante 6
+DiggErr555: posts the ante 6
+Ahrisanti: posts the ante 6
+Kentaqk: posts the ante 6
+wildchiId: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 4d]
+Ahrisanti: folds
+Kentaqk: raises 1378 to 1438 and is all-in
+wildchiId: calls 30 and is all-in
+DiggErr555: folds
+Uncalled bet (1378) returned to Kentaqk
+*** FLOP *** [Ts 3h 6s]
+*** TURN *** [Ts 3h 6s] [4s]
+*** RIVER *** [Ts 3h 6s 4s] [Ac]
+*** SHOW DOWN ***
+wildchiId: shows [4h 3s] (two pair, Fours and Threes)
+Kentaqk: shows [9s 2d] (high card Ace)
+wildchiId collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | Rake 0
+Board [Ts 3h 6s 4s Ac]
+Seat 1: wildchiId (small blind) showed [4h 3s] and won (204) with two pair, Fours and Threes
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: Ahrisanti folded before Flop (didn't bet)
+Seat 6: Kentaqk (button) showed [9s 2d] and lost with high card Ace
+
+PokerStars Hand #189830527772: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:12:38 MSK [2018/08/13 0:12:38 ET]
+Table '2381082747 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (204 in chips)
+Seat 2: DiggErr555 (692 in chips)
+Seat 3: Ahrisanti (726 in chips)
+Seat 6: Kentaqk (1378 in chips)
+wildchiId: posts the ante 6
+DiggErr555: posts the ante 6
+Ahrisanti: posts the ante 6
+Kentaqk: posts the ante 6
+DiggErr555: posts small blind 30
+Ahrisanti: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Ah]
+Kentaqk: raises 1312 to 1372 and is all-in
+wildchiId: folds
+DiggErr555: folds
+Ahrisanti: folds
+Uncalled bet (1312) returned to Kentaqk
+Kentaqk collected 174 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: wildchiId (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Ahrisanti (big blind) folded before Flop
+Seat 6: Kentaqk collected (174)
+
+PokerStars Hand #189830530550: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:12:51 MSK [2018/08/13 0:12:51 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 1: wildchiId (198 in chips)
+Seat 2: DiggErr555 (656 in chips)
+Seat 3: Ahrisanti (660 in chips)
+Seat 6: Kentaqk (1486 in chips)
+wildchiId: posts the ante 6
+DiggErr555: posts the ante 6
+Ahrisanti: posts the ante 6
+Kentaqk: posts the ante 6
+Ahrisanti: posts small blind 30
+Kentaqk: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h Jc]
+wildchiId: folds
+DiggErr555: folds
+Ahrisanti: folds
+Uncalled bet (30) returned to Kentaqk
+Kentaqk collected 84 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Ahrisanti (small blind) folded before Flop
+Seat 6: Kentaqk (big blind) collected (84)
+
+PokerStars Hand #189830533738: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:13:05 MSK [2018/08/13 0:13:05 ET]
+Table '2381082747 1' 6-max Seat #3 is the button
+Seat 1: wildchiId (192 in chips)
+Seat 2: DiggErr555 (650 in chips)
+Seat 3: Ahrisanti (624 in chips)
+Seat 6: Kentaqk (1534 in chips)
+wildchiId: posts the ante 8
+DiggErr555: posts the ante 8
+Ahrisanti: posts the ante 8
+Kentaqk: posts the ante 8
+Kentaqk: posts small blind 40
+wildchiId: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 6c]
+DiggErr555: folds
+Ahrisanti: folds
+Kentaqk: raises 1446 to 1526 and is all-in
+wildchiId: calls 104 and is all-in
+Uncalled bet (1342) returned to Kentaqk
+*** FLOP *** [Qs 4d Qh]
+*** TURN *** [Qs 4d Qh] [4s]
+*** RIVER *** [Qs 4d Qh 4s] [4c]
+*** SHOW DOWN ***
+Kentaqk: shows [6s 9h] (a full house, Fours full of Queens)
+wildchiId: shows [9s Js] (a full house, Fours full of Queens)
+Kentaqk collected 200 from pot
+wildchiId collected 200 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [Qs 4d Qh 4s 4c]
+Seat 1: wildchiId (big blind) showed [9s Js] and won (200) with a full house, Fours full of Queens
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Ahrisanti (button) folded before Flop (didn't bet)
+Seat 6: Kentaqk (small blind) showed [6s 9h] and won (200) with a full house, Fours full of Queens
+
+PokerStars Hand #189830538797: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:13:28 MSK [2018/08/13 0:13:28 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 1: wildchiId (200 in chips)
+Seat 2: DiggErr555 (642 in chips)
+Seat 3: Ahrisanti (616 in chips)
+Seat 6: Kentaqk (1542 in chips)
+wildchiId: posts the ante 8
+DiggErr555: posts the ante 8
+Ahrisanti: posts the ante 8
+Kentaqk: posts the ante 8
+wildchiId: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 2h]
+Ahrisanti: folds
+Kentaqk: folds
+wildchiId: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 112 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: wildchiId (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) collected (112)
+Seat 3: Ahrisanti folded before Flop (didn't bet)
+Seat 6: Kentaqk (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830540822: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:13:37 MSK [2018/08/13 0:13:37 ET]
+Table '2381082747 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (152 in chips)
+Seat 2: DiggErr555 (706 in chips)
+Seat 3: Ahrisanti (608 in chips)
+Seat 6: Kentaqk (1534 in chips)
+wildchiId: posts the ante 8
+DiggErr555: posts the ante 8
+Ahrisanti: posts the ante 8
+Kentaqk: posts the ante 8
+DiggErr555: posts small blind 40
+Ahrisanti: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 3d]
+Kentaqk: raises 80 to 160
+wildchiId: folds
+DiggErr555: folds
+Ahrisanti: calls 80
+*** FLOP *** [Jd 6h As]
+Ahrisanti: bets 196
+Kentaqk: raises 1170 to 1366 and is all-in
+Ahrisanti: folds
+Uncalled bet (1170) returned to Kentaqk
+Kentaqk collected 784 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 784 | Rake 0
+Board [Jd 6h As]
+Seat 1: wildchiId (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Ahrisanti (big blind) folded on the Flop
+Seat 6: Kentaqk collected (784)
+
+PokerStars Hand #189830544986: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:13:56 MSK [2018/08/13 0:13:56 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 1: wildchiId (144 in chips)
+Seat 2: DiggErr555 (658 in chips)
+Seat 3: Ahrisanti (244 in chips)
+Seat 6: Kentaqk (1954 in chips)
+wildchiId: posts the ante 8
+DiggErr555: posts the ante 8
+Ahrisanti: posts the ante 8
+Kentaqk: posts the ante 8
+Ahrisanti: posts small blind 40
+Kentaqk: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Td]
+wildchiId: folds
+DiggErr555: folds
+Ahrisanti: raises 156 to 236 and is all-in
+Kentaqk: calls 156
+*** FLOP *** [Ts Ad 9h]
+*** TURN *** [Ts Ad 9h] [Th]
+*** RIVER *** [Ts Ad 9h Th] [7d]
+*** SHOW DOWN ***
+Ahrisanti: shows [6h Qc] (a pair of Tens)
+Kentaqk: shows [9s 3s] (two pair, Tens and Nines)
+Kentaqk collected 504 from pot
+Kentaqk wins the $12.01 bounty for eliminating Ahrisanti
+Ahrisanti finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 504 | Rake 0
+Board [Ts Ad 9h Th 7d]
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Ahrisanti (small blind) showed [6h Qc] and lost with a pair of Tens
+Seat 6: Kentaqk (big blind) showed [9s 3s] and won (504) with two pair, Tens and Nines
+
+PokerStars Hand #189830548111: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:14:10 MSK [2018/08/13 0:14:10 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 1: wildchiId (136 in chips)
+Seat 2: DiggErr555 (650 in chips)
+Seat 6: Kentaqk (2214 in chips)
+wildchiId: posts the ante 8
+DiggErr555: posts the ante 8
+Kentaqk: posts the ante 8
+wildchiId: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 9c]
+Kentaqk: raises 2126 to 2206 and is all-in
+wildchiId: calls 88 and is all-in
+DiggErr555: calls 562 and is all-in
+Uncalled bet (1564) returned to Kentaqk
+*** FLOP *** [Jh Qh 4c]
+*** TURN *** [Jh Qh 4c] [6h]
+*** RIVER *** [Jh Qh 4c 6h] [Qd]
+*** SHOW DOWN ***
+DiggErr555: shows [Kd 9c] (a pair of Queens)
+Kentaqk: shows [8s Td] (a pair of Queens - lower kicker)
+DiggErr555 collected 1028 from side pot
+wildchiId: shows [Kc 8h] (a pair of Queens - lower kicker)
+DiggErr555 collected 408 from main pot
+DiggErr555 wins the $12.01 bounty for eliminating wildchiId
+wildchiId finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1436 Main pot 408. Side pot 1028. | Rake 0
+Board [Jh Qh 4c 6h Qd]
+Seat 1: wildchiId (small blind) showed [Kc 8h] and lost with a pair of Queens
+Seat 2: DiggErr555 (big blind) showed [Kd 9c] and won (1436) with a pair of Queens
+Seat 6: Kentaqk (button) showed [8s Td] and lost with a pair of Queens
+
+PokerStars Hand #189830552746: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:14:31 MSK [2018/08/13 0:14:31 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1436 in chips)
+Seat 6: Kentaqk (1564 in chips)
+DiggErr555: posts the ante 10
+Kentaqk: posts the ante 10
+DiggErr555: posts small blind 50
+Kentaqk: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 3s]
+DiggErr555: calls 50
+Kentaqk: raises 1454 to 1554 and is all-in
+DiggErr555: folds
+Uncalled bet (1454) returned to Kentaqk
+Kentaqk collected 220 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: DiggErr555 (button) (small blind) folded before Flop
+Seat 6: Kentaqk (big blind) collected (220)
+
+PokerStars Hand #189830555492: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:14:44 MSK [2018/08/13 0:14:44 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 2: DiggErr555 (1326 in chips)
+Seat 6: Kentaqk (1674 in chips)
+DiggErr555: posts the ante 10
+Kentaqk: posts the ante 10
+Kentaqk: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 6c]
+Kentaqk: raises 1564 to 1664 and is all-in
+DiggErr555: folds
+Uncalled bet (1564) returned to Kentaqk
+Kentaqk collected 220 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 6: Kentaqk (button) (small blind) collected (220)
+
+PokerStars Hand #189830557340: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:14:52 MSK [2018/08/13 0:14:52 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1216 in chips)
+Seat 6: Kentaqk (1784 in chips)
+DiggErr555: posts the ante 10
+Kentaqk: posts the ante 10
+DiggErr555: posts small blind 50
+Kentaqk: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Td]
+DiggErr555: calls 50
+Kentaqk: checks
+*** FLOP *** [9h Qs Jh]
+Kentaqk: bets 1000
+DiggErr555: raises 106 to 1106 and is all-in
+Kentaqk: calls 106
+*** TURN *** [9h Qs Jh] [As]
+*** RIVER *** [9h Qs Jh As] [3d]
+*** SHOW DOWN ***
+Kentaqk: shows [Ts 6c] (high card Ace)
+DiggErr555: shows [Jd Td] (a pair of Jacks)
+DiggErr555 collected 2432 from pot
+*** SUMMARY ***
+Total pot 2432 | Rake 0
+Board [9h Qs Jh As 3d]
+Seat 2: DiggErr555 (button) (small blind) showed [Jd Td] and won (2432) with a pair of Jacks
+Seat 6: Kentaqk (big blind) showed [Ts 6c] and lost with high card Ace
+
+PokerStars Hand #189830564281: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:15:24 MSK [2018/08/13 0:15:24 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 2: DiggErr555 (2432 in chips)
+Seat 6: Kentaqk (568 in chips)
+DiggErr555: posts the ante 10
+Kentaqk: posts the ante 10
+Kentaqk: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 7s]
+Kentaqk: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: DiggErr555 (big blind) collected (120)
+Seat 6: Kentaqk (button) (small blind) folded before Flop
+
+PokerStars Hand #189830565170: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:15:28 MSK [2018/08/13 0:15:28 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (2492 in chips)
+Seat 6: Kentaqk (508 in chips)
+DiggErr555: posts the ante 10
+Kentaqk: posts the ante 10
+DiggErr555: posts small blind 50
+Kentaqk: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 5d]
+DiggErr555: folds
+Uncalled bet (50) returned to Kentaqk
+Kentaqk collected 120 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: DiggErr555 (button) (small blind) folded before Flop
+Seat 6: Kentaqk (big blind) collected (120)
+
+PokerStars Hand #189830566895: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:15:36 MSK [2018/08/13 0:15:36 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 2: DiggErr555 (2432 in chips)
+Seat 6: Kentaqk (568 in chips)
+DiggErr555: posts the ante 10
+Kentaqk: posts the ante 10
+Kentaqk: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh Ks]
+Kentaqk: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: DiggErr555 (big blind) collected (120)
+Seat 6: Kentaqk (button) (small blind) folded before Flop
+
+PokerStars Hand #189830568765: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:15:45 MSK [2018/08/13 0:15:45 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (2492 in chips)
+Seat 6: Kentaqk (508 in chips)
+DiggErr555: posts the ante 12
+Kentaqk: posts the ante 12
+DiggErr555: posts small blind 60
+Kentaqk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8s]
+DiggErr555: folds
+Uncalled bet (60) returned to Kentaqk
+Kentaqk collected 144 from pot
+Kentaqk: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 2: DiggErr555 (button) (small blind) folded before Flop
+Seat 6: Kentaqk (big blind) collected (144)
+
+PokerStars Hand #189830570845: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:15:54 MSK [2018/08/13 0:15:54 ET]
+Table '2381082747 1' 6-max Seat #6 is the button
+Seat 2: DiggErr555 (2420 in chips)
+Seat 6: Kentaqk (580 in chips)
+DiggErr555: posts the ante 12
+Kentaqk: posts the ante 12
+Kentaqk: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 9h]
+Kentaqk: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 144 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 2: DiggErr555 (big blind) collected (144)
+Seat 6: Kentaqk (button) (small blind) folded before Flop
+
+PokerStars Hand #189830571783: Tournament #2381082747, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:15:58 MSK [2018/08/13 0:15:58 ET]
+Table '2381082747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (2492 in chips)
+Seat 6: Kentaqk (508 in chips)
+DiggErr555: posts the ante 12
+Kentaqk: posts the ante 12
+DiggErr555: posts small blind 60
+Kentaqk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 5h]
+DiggErr555: raises 2360 to 2480 and is all-in
+Kentaqk: calls 376 and is all-in
+Uncalled bet (1984) returned to DiggErr555
+*** FLOP *** [Jh Ts 7c]
+*** TURN *** [Jh Ts 7c] [3h]
+*** RIVER *** [Jh Ts 7c 3h] [4s]
+*** SHOW DOWN ***
+Kentaqk: shows [3s 5s] (a pair of Threes)
+DiggErr555: shows [Js 5h] (a pair of Jacks)
+DiggErr555 collected 1016 from pot
+DiggErr555 wins the $12.01 bounty for eliminating Kentaqk
+Kentaqk finished the tournament in 2nd place and received $36.03.
+DiggErr555 wins the tournament and receives $36.03 - congratulations!
+*** SUMMARY ***
+Total pot 1016 | Rake 0
+Board [Jh Ts 7c 3h 4s]
+Seat 2: DiggErr555 (button) (small blind) showed [Js 5h] and won (1016) with a pair of Jacks
+Seat 6: Kentaqk (big blind) showed [3s 5s] and lost with a pair of Threes

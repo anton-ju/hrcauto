@@ -1,0 +1,673 @@
+
+
+PokerStars Hand #189829482048: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:00:14 MSK [2018/08/12 23:00:14 ET]
+Table '2381062028 1' 6-max Seat #1 is the button
+Seat 1: grandma__136 (500 in chips)
+Seat 2: HuGuinZ (500 in chips)
+Seat 3: hustlerama (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: luiz290688 (500 in chips)
+Seat 6: Kyleddd (500 in chips)
+grandma__136: posts the ante 2
+HuGuinZ: posts the ante 2
+hustlerama: posts the ante 2
+DiggErr555: posts the ante 2
+luiz290688: posts the ante 2
+Kyleddd: posts the ante 2
+HuGuinZ: posts small blind 10
+hustlerama: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 4h]
+DiggErr555: folds
+luiz290688: raises 40 to 60
+Kyleddd: folds
+grandma__136: calls 60
+HuGuinZ: folds
+hustlerama: folds
+*** FLOP *** [Tc Ah 3h]
+luiz290688: checks
+grandma__136: bets 81
+luiz290688: folds
+Uncalled bet (81) returned to grandma__136
+grandma__136 collected 162 from pot
+grandma__136: doesn't show hand
+*** SUMMARY ***
+Total pot 162 | Rake 0
+Board [Tc Ah 3h]
+Seat 1: grandma__136 (button) collected (162)
+Seat 2: HuGuinZ (small blind) folded before Flop
+Seat 3: hustlerama (big blind) folded before Flop
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: luiz290688 folded on the Flop
+Seat 6: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #189829495690: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:01:08 MSK [2018/08/12 23:01:08 ET]
+Table '2381062028 1' 6-max Seat #2 is the button
+Seat 1: grandma__136 (600 in chips)
+Seat 2: HuGuinZ (488 in chips)
+Seat 3: hustlerama (478 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: luiz290688 (438 in chips)
+Seat 6: Kyleddd (498 in chips)
+grandma__136: posts the ante 2
+HuGuinZ: posts the ante 2
+hustlerama: posts the ante 2
+DiggErr555: posts the ante 2
+luiz290688: posts the ante 2
+Kyleddd: posts the ante 2
+hustlerama: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9d]
+luiz290688: folds
+Kyleddd: folds
+grandma__136: calls 20
+HuGuinZ: folds
+hustlerama: folds
+DiggErr555: checks
+*** FLOP *** [8d 6s Qh]
+DiggErr555: checks
+grandma__136: checks
+*** TURN *** [8d 6s Qh] [3d]
+DiggErr555: checks
+grandma__136: bets 31
+DiggErr555: folds
+Uncalled bet (31) returned to grandma__136
+grandma__136 collected 62 from pot
+grandma__136: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Board [8d 6s Qh 3d]
+Seat 1: grandma__136 collected (62)
+Seat 2: HuGuinZ (button) folded before Flop (didn't bet)
+Seat 3: hustlerama (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded on the Turn
+Seat 5: luiz290688 folded before Flop (didn't bet)
+Seat 6: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #189829510167: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:02:03 MSK [2018/08/12 23:02:03 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 1: grandma__136 (640 in chips)
+Seat 2: HuGuinZ (486 in chips)
+Seat 3: hustlerama (466 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 5: luiz290688 (436 in chips)
+Seat 6: Kyleddd (496 in chips)
+grandma__136: posts the ante 2
+HuGuinZ: posts the ante 2
+hustlerama: posts the ante 2
+DiggErr555: posts the ante 2
+luiz290688: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts small blind 10
+luiz290688: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 5d]
+Kyleddd: folds
+grandma__136: folds
+HuGuinZ: folds
+hustlerama: raises 444 to 464 and is all-in
+DiggErr555: folds
+luiz290688: folds
+Uncalled bet (444) returned to hustlerama
+hustlerama collected 62 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: grandma__136 folded before Flop (didn't bet)
+Seat 2: HuGuinZ folded before Flop (didn't bet)
+Seat 3: hustlerama (button) collected (62)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: luiz290688 (big blind) folded before Flop
+Seat 6: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #189829518505: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:02:36 MSK [2018/08/12 23:02:36 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 1: grandma__136 (638 in chips)
+Seat 2: HuGuinZ (484 in chips)
+Seat 3: hustlerama (506 in chips)
+Seat 4: DiggErr555 (464 in chips)
+Seat 5: luiz290688 (414 in chips)
+Seat 6: Kyleddd (494 in chips)
+grandma__136: posts the ante 3
+HuGuinZ: posts the ante 3
+hustlerama: posts the ante 3
+DiggErr555: posts the ante 3
+luiz290688: posts the ante 3
+Kyleddd: posts the ante 3
+luiz290688: posts small blind 15
+Kyleddd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d Qd]
+grandma__136: folds
+HuGuinZ: raises 451 to 481 and is all-in
+hustlerama: folds
+DiggErr555: folds
+luiz290688: calls 396 and is all-in
+Kyleddd: folds
+Uncalled bet (70) returned to HuGuinZ
+*** FLOP *** [9d 8c Tc]
+*** TURN *** [9d 8c Tc] [2d]
+*** RIVER *** [9d 8c Tc 2d] [5d]
+*** SHOW DOWN ***
+luiz290688: shows [Jh Ac] (high card Ace)
+HuGuinZ: shows [As Js] (high card Ace)
+luiz290688 collected 435 from pot
+HuGuinZ collected 435 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0
+Board [9d 8c Tc 2d 5d]
+Seat 1: grandma__136 folded before Flop (didn't bet)
+Seat 2: HuGuinZ showed [As Js] and won (435) with high card Ace
+Seat 3: hustlerama folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: luiz290688 (small blind) showed [Jh Ac] and won (435) with high card Ace
+Seat 6: Kyleddd (big blind) folded before Flop
+
+PokerStars Hand #189829526826: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:03:08 MSK [2018/08/12 23:03:08 ET]
+Table '2381062028 1' 6-max Seat #5 is the button
+Seat 1: grandma__136 (635 in chips)
+Seat 2: HuGuinZ (505 in chips)
+Seat 3: hustlerama (503 in chips)
+Seat 4: DiggErr555 (461 in chips)
+Seat 5: luiz290688 (435 in chips)
+Seat 6: Kyleddd (461 in chips)
+grandma__136: posts the ante 3
+HuGuinZ: posts the ante 3
+hustlerama: posts the ante 3
+DiggErr555: posts the ante 3
+luiz290688: posts the ante 3
+Kyleddd: posts the ante 3
+Kyleddd: posts small blind 15
+grandma__136: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 8d]
+HuGuinZ: folds
+hustlerama: calls 30
+DiggErr555: raises 428 to 458 and is all-in
+luiz290688: folds
+Kyleddd: folds
+grandma__136: folds
+hustlerama: folds
+Uncalled bet (428) returned to DiggErr555
+DiggErr555 collected 123 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 123 | Rake 0
+Seat 1: grandma__136 (big blind) folded before Flop
+Seat 2: HuGuinZ folded before Flop (didn't bet)
+Seat 3: hustlerama folded before Flop
+Seat 4: DiggErr555 collected (123)
+Seat 5: luiz290688 (button) folded before Flop (didn't bet)
+Seat 6: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #189829534985: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:03:39 MSK [2018/08/12 23:03:39 ET]
+Table '2381062028 1' 6-max Seat #6 is the button
+Seat 1: grandma__136 (602 in chips)
+Seat 2: HuGuinZ (502 in chips)
+Seat 3: hustlerama (470 in chips)
+Seat 4: DiggErr555 (551 in chips)
+Seat 5: luiz290688 (432 in chips)
+Seat 6: Kyleddd (443 in chips)
+grandma__136: posts the ante 3
+HuGuinZ: posts the ante 3
+hustlerama: posts the ante 3
+DiggErr555: posts the ante 3
+luiz290688: posts the ante 3
+Kyleddd: posts the ante 3
+grandma__136: posts small blind 15
+HuGuinZ: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 6c]
+hustlerama: folds
+DiggErr555: folds
+luiz290688: folds
+Kyleddd: folds
+grandma__136: folds
+Uncalled bet (15) returned to HuGuinZ
+HuGuinZ collected 48 from pot
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: grandma__136 (small blind) folded before Flop
+Seat 2: HuGuinZ (big blind) collected (48)
+Seat 3: hustlerama folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: luiz290688 folded before Flop (didn't bet)
+Seat 6: Kyleddd (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829540553: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:04:01 MSK [2018/08/12 23:04:01 ET]
+Table '2381062028 1' 6-max Seat #1 is the button
+Seat 1: grandma__136 (584 in chips)
+Seat 2: HuGuinZ (532 in chips)
+Seat 3: hustlerama (467 in chips)
+Seat 4: DiggErr555 (548 in chips)
+Seat 5: luiz290688 (429 in chips)
+Seat 6: Kyleddd (440 in chips)
+grandma__136: posts the ante 3
+HuGuinZ: posts the ante 3
+hustlerama: posts the ante 3
+DiggErr555: posts the ante 3
+luiz290688: posts the ante 3
+Kyleddd: posts the ante 3
+HuGuinZ: posts small blind 15
+hustlerama: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s Js]
+DiggErr555: folds
+luiz290688: folds
+Kyleddd: folds
+grandma__136: calls 30
+HuGuinZ: folds
+hustlerama: raises 90 to 120
+grandma__136: calls 90
+*** FLOP *** [9h 4s 5s]
+hustlerama: bets 150
+grandma__136: raises 287 to 437
+hustlerama: calls 194 and is all-in
+Uncalled bet (93) returned to grandma__136
+*** TURN *** [9h 4s 5s] [Kh]
+*** RIVER *** [9h 4s 5s Kh] [6c]
+*** SHOW DOWN ***
+hustlerama: shows [Qs Ks] (a pair of Kings)
+grandma__136: shows [5d Ad] (a pair of Fives)
+hustlerama collected 961 from pot
+*** SUMMARY ***
+Total pot 961 | Rake 0
+Board [9h 4s 5s Kh 6c]
+Seat 1: grandma__136 (button) showed [5d Ad] and lost with a pair of Fives
+Seat 2: HuGuinZ (small blind) folded before Flop
+Seat 3: hustlerama (big blind) showed [Qs Ks] and won (961) with a pair of Kings
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: luiz290688 folded before Flop (didn't bet)
+Seat 6: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #189829553200: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:04:49 MSK [2018/08/12 23:04:49 ET]
+Table '2381062028 1' 6-max Seat #2 is the button
+Seat 1: grandma__136 (117 in chips)
+Seat 2: HuGuinZ (514 in chips)
+Seat 3: hustlerama (961 in chips)
+Seat 4: DiggErr555 (545 in chips)
+Seat 5: luiz290688 (426 in chips)
+Seat 6: Kyleddd (437 in chips)
+grandma__136: posts the ante 4
+HuGuinZ: posts the ante 4
+hustlerama: posts the ante 4
+DiggErr555: posts the ante 4
+luiz290688: posts the ante 4
+Kyleddd: posts the ante 4
+hustlerama: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Qc]
+luiz290688: folds
+Kyleddd: folds
+grandma__136: calls 40
+HuGuinZ: raises 470 to 510 and is all-in
+hustlerama: raises 447 to 957 and is all-in
+DiggErr555: folds
+grandma__136: calls 73 and is all-in
+Uncalled bet (447) returned to hustlerama
+*** FLOP *** [4c 3s Jd]
+*** TURN *** [4c 3s Jd] [2c]
+*** RIVER *** [4c 3s Jd 2c] [7s]
+*** SHOW DOWN ***
+hustlerama: shows [Kc Ks] (a pair of Kings)
+HuGuinZ: shows [Th Qd] (high card Queen)
+hustlerama collected 794 from side pot
+grandma__136: shows [6d 9d] (high card Jack)
+hustlerama collected 403 from main pot
+hustlerama wins the $4.79 bounty for eliminating grandma__136
+hustlerama wins the $4.79 bounty for eliminating HuGuinZ
+HuGuinZ finished the tournament in 5th place
+grandma__136 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1197 Main pot 403. Side pot 794. | Rake 0
+Board [4c 3s Jd 2c 7s]
+Seat 1: grandma__136 showed [6d 9d] and lost with high card Jack
+Seat 2: HuGuinZ (button) showed [Th Qd] and lost with high card Queen
+Seat 3: hustlerama (small blind) showed [Kc Ks] and won (1197) with a pair of Kings
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: luiz290688 folded before Flop (didn't bet)
+Seat 6: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #189829559562: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:05:13 MSK [2018/08/12 23:05:13 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 3: hustlerama (1644 in chips)
+Seat 4: DiggErr555 (501 in chips)
+Seat 5: luiz290688 (422 in chips)
+Seat 6: Kyleddd (433 in chips)
+hustlerama: posts the ante 4
+DiggErr555: posts the ante 4
+luiz290688: posts the ante 4
+Kyleddd: posts the ante 4
+DiggErr555: posts small blind 20
+luiz290688: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Kc]
+Kyleddd: folds
+hustlerama: raises 40 to 80
+DiggErr555: folds
+luiz290688: raises 338 to 418 and is all-in
+hustlerama: calls 338
+*** FLOP *** [4d 6c 8d]
+*** TURN *** [4d 6c 8d] [7s]
+*** RIVER *** [4d 6c 8d 7s] [Ks]
+*** SHOW DOWN ***
+luiz290688: shows [Th Ac] (high card Ace)
+hustlerama: shows [Kd Td] (a pair of Kings)
+hustlerama collected 872 from pot
+hustlerama wins the $4.79 bounty for eliminating luiz290688
+luiz290688 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 872 | Rake 0
+Board [4d 6c 8d 7s Ks]
+Seat 3: hustlerama (button) showed [Kd Td] and won (872) with a pair of Kings
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: luiz290688 (big blind) showed [Th Ac] and lost with high card Ace
+Seat 6: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #189829566663: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:05:41 MSK [2018/08/12 23:05:41 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 3: hustlerama (2094 in chips)
+Seat 4: DiggErr555 (477 in chips)
+Seat 6: Kyleddd (429 in chips)
+hustlerama: posts the ante 4
+DiggErr555: posts the ante 4
+Kyleddd: posts the ante 4
+Kyleddd: posts small blind 20
+hustlerama: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 2h]
+DiggErr555: folds
+Kyleddd: folds
+Uncalled bet (20) returned to hustlerama
+hustlerama collected 52 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 3: hustlerama (big blind) collected (52)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #189829568642: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:05:48 MSK [2018/08/12 23:05:48 ET]
+Table '2381062028 1' 6-max Seat #6 is the button
+Seat 3: hustlerama (2122 in chips)
+Seat 4: DiggErr555 (473 in chips)
+Seat 6: Kyleddd (405 in chips)
+hustlerama: posts the ante 4
+DiggErr555: posts the ante 4
+Kyleddd: posts the ante 4
+hustlerama: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Th]
+Kyleddd: folds
+hustlerama: raises 40 to 80
+DiggErr555: folds
+Uncalled bet (40) returned to hustlerama
+hustlerama collected 92 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 3: hustlerama (small blind) collected (92)
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: Kyleddd (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829572340: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:06:02 MSK [2018/08/12 23:06:02 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 3: hustlerama (2170 in chips)
+Seat 4: DiggErr555 (429 in chips)
+Seat 6: Kyleddd (401 in chips)
+hustlerama: posts the ante 6
+DiggErr555: posts the ante 6
+Kyleddd: posts the ante 6
+DiggErr555: posts small blind 30
+Kyleddd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Qc]
+hustlerama: raises 60 to 120
+DiggErr555: folds
+Kyleddd: folds
+Uncalled bet (60) returned to hustlerama
+hustlerama collected 168 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 3: hustlerama (button) collected (168)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: Kyleddd (big blind) folded before Flop
+
+PokerStars Hand #189829575103: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:06:13 MSK [2018/08/12 23:06:13 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 3: hustlerama (2272 in chips)
+Seat 4: DiggErr555 (393 in chips)
+Seat 6: Kyleddd (335 in chips)
+hustlerama: posts the ante 6
+DiggErr555: posts the ante 6
+Kyleddd: posts the ante 6
+Kyleddd: posts small blind 30
+hustlerama: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Qs]
+DiggErr555: folds
+Kyleddd: folds
+Uncalled bet (30) returned to hustlerama
+hustlerama collected 78 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 3: hustlerama (big blind) collected (78)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #189829578126: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:06:25 MSK [2018/08/12 23:06:25 ET]
+Table '2381062028 1' 6-max Seat #6 is the button
+Seat 3: hustlerama (2314 in chips)
+Seat 4: DiggErr555 (387 in chips)
+Seat 6: Kyleddd (299 in chips)
+hustlerama: posts the ante 6
+DiggErr555: posts the ante 6
+Kyleddd: posts the ante 6
+hustlerama: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 7c]
+Kyleddd: folds
+hustlerama: raises 2248 to 2308 and is all-in
+DiggErr555: folds
+Uncalled bet (2248) returned to hustlerama
+hustlerama collected 138 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 3: hustlerama (small blind) collected (138)
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: Kyleddd (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829582075: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:06:40 MSK [2018/08/12 23:06:40 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 3: hustlerama (2386 in chips)
+Seat 4: DiggErr555 (321 in chips)
+Seat 6: Kyleddd (293 in chips)
+hustlerama: posts the ante 6
+DiggErr555: posts the ante 6
+Kyleddd: posts the ante 6
+DiggErr555: posts small blind 30
+Kyleddd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Kd]
+hustlerama: folds
+DiggErr555: raises 255 to 315 and is all-in
+Kyleddd: folds
+Uncalled bet (255) returned to DiggErr555
+DiggErr555 collected 138 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 3: hustlerama (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) collected (138)
+Seat 6: Kyleddd (big blind) folded before Flop
+
+PokerStars Hand #189829586056: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:06:56 MSK [2018/08/12 23:06:56 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 3: hustlerama (2380 in chips)
+Seat 4: DiggErr555 (393 in chips)
+Seat 6: Kyleddd (227 in chips)
+hustlerama: posts the ante 6
+DiggErr555: posts the ante 6
+Kyleddd: posts the ante 6
+Kyleddd: posts small blind 30
+hustlerama: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Qs]
+DiggErr555: folds
+Kyleddd: raises 161 to 221 and is all-in
+hustlerama: calls 161
+*** FLOP *** [5c 3d 8d]
+*** TURN *** [5c 3d 8d] [Tc]
+*** RIVER *** [5c 3d 8d Tc] [2d]
+*** SHOW DOWN ***
+Kyleddd: shows [Qh 7c] (high card Queen)
+hustlerama: shows [7h 7s] (a pair of Sevens)
+hustlerama collected 460 from pot
+hustlerama wins the $4.79 bounty for eliminating Kyleddd
+Kyleddd finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 460 | Rake 0
+Board [5c 3d 8d Tc 2d]
+Seat 3: hustlerama (big blind) showed [7h 7s] and won (460) with a pair of Sevens
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: Kyleddd (small blind) showed [Qh 7c] and lost with high card Queen
+
+PokerStars Hand #189829591548: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:07:17 MSK [2018/08/12 23:07:17 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 3: hustlerama (2613 in chips)
+Seat 4: DiggErr555 (387 in chips)
+hustlerama: posts the ante 8
+DiggErr555: posts the ante 8
+hustlerama: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 4h]
+hustlerama: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 3: hustlerama (button) (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) collected (96)
+
+PokerStars Hand #189829592958: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:07:23 MSK [2018/08/12 23:07:23 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 3: hustlerama (2565 in chips)
+Seat 4: DiggErr555 (435 in chips)
+hustlerama: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+hustlerama: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Tc]
+DiggErr555: raises 347 to 427 and is all-in
+hustlerama: folds
+Uncalled bet (347) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 3: hustlerama (big blind) folded before Flop
+Seat 4: DiggErr555 (button) (small blind) collected (176)
+
+PokerStars Hand #189829594921: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:07:30 MSK [2018/08/12 23:07:30 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 3: hustlerama (2477 in chips)
+Seat 4: DiggErr555 (523 in chips)
+hustlerama: posts the ante 8
+DiggErr555: posts the ante 8
+hustlerama: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 8h]
+hustlerama: raises 2389 to 2469 and is all-in
+DiggErr555: folds
+Uncalled bet (2389) returned to hustlerama
+hustlerama collected 176 from pot
+hustlerama: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 3: hustlerama (button) (small blind) collected (176)
+Seat 4: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829597328: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:07:40 MSK [2018/08/12 23:07:40 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 3: hustlerama (2565 in chips)
+Seat 4: DiggErr555 (435 in chips)
+hustlerama: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+hustlerama: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Jh]
+DiggErr555: raises 347 to 427 and is all-in
+hustlerama: folds
+Uncalled bet (347) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 3: hustlerama (big blind) folded before Flop
+Seat 4: DiggErr555 (button) (small blind) collected (176)
+
+PokerStars Hand #189829600579: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:07:52 MSK [2018/08/12 23:07:52 ET]
+Table '2381062028 1' 6-max Seat #3 is the button
+Seat 3: hustlerama (2477 in chips)
+Seat 4: DiggErr555 (523 in chips)
+hustlerama: posts the ante 8
+DiggErr555: posts the ante 8
+hustlerama: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d As]
+hustlerama: raises 2389 to 2469 and is all-in
+DiggErr555: calls 435 and is all-in
+Uncalled bet (1954) returned to hustlerama
+*** FLOP *** [8s Qh 9s]
+*** TURN *** [8s Qh 9s] [2s]
+*** RIVER *** [8s Qh 9s 2s] [Qd]
+*** SHOW DOWN ***
+DiggErr555: shows [9d As] (two pair, Queens and Nines)
+hustlerama: shows [2h Kh] (two pair, Queens and Deuces)
+DiggErr555 collected 1046 from pot
+*** SUMMARY ***
+Total pot 1046 | Rake 0
+Board [8s Qh 9s 2s Qd]
+Seat 3: hustlerama (button) (small blind) showed [2h Kh] and lost with two pair, Queens and Deuces
+Seat 4: DiggErr555 (big blind) showed [9d As] and won (1046) with two pair, Queens and Nines
+
+PokerStars Hand #189829604949: Tournament #2381062028, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:08:09 MSK [2018/08/12 23:08:09 ET]
+Table '2381062028 1' 6-max Seat #4 is the button
+Seat 3: hustlerama (1954 in chips)
+Seat 4: DiggErr555 (1046 in chips)
+hustlerama: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+hustlerama: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s As]
+DiggErr555: raises 936 to 1036 and is all-in
+hustlerama: calls 936
+*** FLOP *** [Jd 4h Qs]
+*** TURN *** [Jd 4h Qs] [Kd]
+*** RIVER *** [Jd 4h Qs Kd] [3c]
+*** SHOW DOWN ***
+hustlerama: shows [Qc 7s] (a pair of Queens)
+DiggErr555: shows [6s As] (high card Ace)
+hustlerama collected 2092 from pot
+hustlerama wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+hustlerama wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 2092 | Rake 0
+Board [Jd 4h Qs Kd 3c]
+Seat 3: hustlerama (big blind) showed [Qc 7s] and won (2092) with a pair of Queens
+Seat 4: DiggErr555 (button) (small blind) showed [6s As] and lost with high card Ace

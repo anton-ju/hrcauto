@@ -1,0 +1,749 @@
+
+
+PokerStars Hand #189828959689: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:29:14 MSK [2018/08/12 22:29:14 ET]
+Table '2381050247 1' 6-max Seat #1 is the button
+Seat 1: luiz290688 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: Mishator (500 in chips)
+Seat 4: galpal12 (500 in chips)
+Seat 5: tokyo09 (500 in chips)
+Seat 6: RiKi488 (500 in chips)
+luiz290688: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts the ante 2
+galpal12: posts the ante 2
+tokyo09: posts the ante 2
+RiKi488: posts the ante 2
+DiggErr555: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 5h]
+galpal12: raises 478 to 498 and is all-in
+tokyo09: folds
+RiKi488: folds
+luiz290688: folds
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (478) returned to galpal12
+galpal12 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: luiz290688 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Mishator (big blind) folded before Flop
+Seat 4: galpal12 collected (62)
+Seat 5: tokyo09 folded before Flop (didn't bet)
+Seat 6: RiKi488 folded before Flop (didn't bet)
+
+PokerStars Hand #189828966867: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:29:38 MSK [2018/08/12 22:29:38 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 1: luiz290688 (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: Mishator (478 in chips)
+Seat 4: galpal12 (540 in chips)
+Seat 5: tokyo09 (498 in chips)
+Seat 6: RiKi488 (498 in chips)
+luiz290688: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts the ante 2
+galpal12: posts the ante 2
+tokyo09: posts the ante 2
+RiKi488: posts the ante 2
+Mishator: posts small blind 10
+galpal12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 6s]
+tokyo09: folds
+RiKi488: calls 20
+luiz290688: folds
+DiggErr555: folds
+Mishator: raises 456 to 476 and is all-in
+galpal12: folds
+RiKi488: folds
+Uncalled bet (456) returned to Mishator
+Mishator collected 72 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 1: luiz290688 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) collected (72)
+Seat 4: galpal12 (big blind) folded before Flop
+Seat 5: tokyo09 folded before Flop (didn't bet)
+Seat 6: RiKi488 folded before Flop
+
+PokerStars Hand #189828972244: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:29:57 MSK [2018/08/12 22:29:57 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 1: luiz290688 (496 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: Mishator (528 in chips)
+Seat 4: galpal12 (518 in chips)
+Seat 5: tokyo09 (496 in chips)
+Seat 6: RiKi488 (476 in chips)
+luiz290688: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts the ante 2
+galpal12: posts the ante 2
+tokyo09: posts the ante 2
+RiKi488: posts the ante 2
+galpal12: posts small blind 10
+tokyo09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 4s]
+RiKi488: calls 20
+luiz290688: raises 20 to 40
+DiggErr555: folds
+Mishator: folds
+galpal12: raises 476 to 516 and is all-in
+tokyo09: folds
+RiKi488: folds
+luiz290688: calls 454 and is all-in
+Uncalled bet (22) returned to galpal12
+*** FLOP *** [4c 5s Kh]
+*** TURN *** [4c 5s Kh] [Qc]
+*** RIVER *** [4c 5s Kh Qc] [Jc]
+*** SHOW DOWN ***
+galpal12: shows [3h 3d] (a pair of Threes)
+luiz290688: shows [7c 7s] (a pair of Sevens)
+luiz290688 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0
+Board [4c 5s Kh Qc Jc]
+Seat 1: luiz290688 showed [7c 7s] and won (1040) with a pair of Sevens
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Mishator (button) folded before Flop (didn't bet)
+Seat 4: galpal12 (small blind) showed [3h 3d] and lost with a pair of Threes
+Seat 5: tokyo09 (big blind) folded before Flop
+Seat 6: RiKi488 folded before Flop
+
+PokerStars Hand #189828985782: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:30:43 MSK [2018/08/12 22:30:43 ET]
+Table '2381050247 1' 6-max Seat #4 is the button
+Seat 1: luiz290688 (1040 in chips)
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: Mishator (526 in chips)
+Seat 4: galpal12 (22 in chips)
+Seat 5: tokyo09 (474 in chips)
+Seat 6: RiKi488 (454 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+tokyo09: posts the ante 3
+RiKi488: posts the ante 3
+tokyo09: posts small blind 15
+RiKi488: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 8d]
+luiz290688: raises 30 to 60
+DiggErr555: folds
+Mishator: folds
+galpal12: calls 19 and is all-in
+tokyo09: raises 411 to 471 and is all-in
+RiKi488: folds
+luiz290688: calls 411
+*** FLOP *** [4d 7s Kh]
+*** TURN *** [4d 7s Kh] [Jd]
+*** RIVER *** [4d 7s Kh Jd] [9d]
+*** SHOW DOWN ***
+tokyo09: shows [Ac 3c] (high card Ace)
+luiz290688: shows [6h Qs] (high card King)
+tokyo09 collected 915 from side pot
+galpal12: shows [Ts Ah] (high card Ace - King+Jack+Ten kicker)
+galpal12 collected 94 from main pot
+*** SUMMARY ***
+Total pot 1009 Main pot 94. Side pot 915. | Rake 0
+Board [4d 7s Kh Jd 9d]
+Seat 1: luiz290688 showed [6h Qs] and lost with high card King
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Mishator folded before Flop (didn't bet)
+Seat 4: galpal12 (button) showed [Ts Ah] and won (94) with high card Ace
+Seat 5: tokyo09 (small blind) showed [Ac 3c] and won (915) with high card Ace
+Seat 6: RiKi488 (big blind) folded before Flop
+
+PokerStars Hand #189828993481: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:31:09 MSK [2018/08/12 22:31:09 ET]
+Table '2381050247 1' 6-max Seat #5 is the button
+Seat 1: luiz290688 (566 in chips)
+Seat 2: DiggErr555 (481 in chips)
+Seat 3: Mishator (523 in chips)
+Seat 4: galpal12 (94 in chips)
+Seat 5: tokyo09 (915 in chips)
+Seat 6: RiKi488 (421 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+tokyo09: posts the ante 3
+RiKi488: posts the ante 3
+RiKi488: posts small blind 15
+luiz290688: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Kc]
+DiggErr555: folds
+Mishator: folds
+galpal12: folds
+tokyo09: raises 30 to 60
+RiKi488: calls 45
+luiz290688: raises 503 to 563 and is all-in
+tokyo09: folds
+RiKi488: calls 358 and is all-in
+Uncalled bet (145) returned to luiz290688
+*** FLOP *** [Th 3d 5c]
+*** TURN *** [Th 3d 5c] [7h]
+*** RIVER *** [Th 3d 5c 7h] [3h]
+*** SHOW DOWN ***
+RiKi488: shows [9h As] (a pair of Threes)
+luiz290688: shows [Ah 7s] (two pair, Sevens and Threes)
+luiz290688 collected 914 from pot
+luiz290688 wins the $4.79 bounty for eliminating RiKi488
+RiKi488 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 914 | Rake 0
+Board [Th 3d 5c 7h 3h]
+Seat 1: luiz290688 (big blind) showed [Ah 7s] and won (914) with two pair, Sevens and Threes
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Mishator folded before Flop (didn't bet)
+Seat 4: galpal12 folded before Flop (didn't bet)
+Seat 5: tokyo09 (button) folded before Flop
+Seat 6: RiKi488 (small blind) showed [9h As] and lost with a pair of Threes
+
+PokerStars Hand #189829000800: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:31:34 MSK [2018/08/12 22:31:34 ET]
+Table '2381050247 1' 6-max Seat #1 is the button
+Seat 1: luiz290688 (1059 in chips)
+Seat 2: DiggErr555 (478 in chips)
+Seat 3: Mishator (520 in chips)
+Seat 4: galpal12 (91 in chips)
+Seat 5: tokyo09 (852 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+tokyo09: posts the ante 3
+DiggErr555: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Jh]
+galpal12: folds
+tokyo09: raises 30 to 60
+luiz290688: calls 60
+DiggErr555: folds
+Mishator: folds
+*** FLOP *** [Qh 9c Qc]
+tokyo09: checks
+luiz290688: checks
+*** TURN *** [Qh 9c Qc] [Th]
+tokyo09: checks
+luiz290688: checks
+*** RIVER *** [Qh 9c Qc Th] [3d]
+tokyo09: checks
+luiz290688: bets 120
+tokyo09: calls 120
+*** SHOW DOWN ***
+luiz290688: shows [Qd 7s] (three of a kind, Queens)
+tokyo09: mucks hand
+luiz290688 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Board [Qh 9c Qc Th 3d]
+Seat 1: luiz290688 (button) showed [Qd 7s] and won (420) with three of a kind, Queens
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Mishator (big blind) folded before Flop
+Seat 4: galpal12 folded before Flop (didn't bet)
+Seat 5: tokyo09 mucked [8d 8s]
+
+PokerStars Hand #189829011072: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:32:09 MSK [2018/08/12 22:32:09 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 1: luiz290688 (1296 in chips)
+Seat 2: DiggErr555 (460 in chips)
+Seat 3: Mishator (487 in chips)
+Seat 4: galpal12 (88 in chips)
+Seat 5: tokyo09 (669 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+tokyo09: posts the ante 3
+Mishator: posts small blind 15
+galpal12: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 9s]
+tokyo09: folds
+luiz290688: calls 30
+DiggErr555: folds
+Mishator: raises 454 to 484 and is all-in
+galpal12: calls 55 and is all-in
+luiz290688: calls 454
+*** FLOP *** [3h 4h 2s]
+*** TURN *** [3h 4h 2s] [Tc]
+*** RIVER *** [3h 4h 2s Tc] [Js]
+*** SHOW DOWN ***
+Mishator: shows [8d 8c] (a pair of Eights)
+luiz290688: shows [6d 4s] (a pair of Fours)
+Mishator collected 798 from side pot
+galpal12: shows [Ad 9c] (high card Ace)
+Mishator collected 270 from main pot
+Mishator wins the $4.79 bounty for eliminating galpal12
+galpal12 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1068 Main pot 270. Side pot 798. | Rake 0
+Board [3h 4h 2s Tc Js]
+Seat 1: luiz290688 showed [6d 4s] and lost with a pair of Fours
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) showed [8d 8c] and won (1068) with a pair of Eights
+Seat 4: galpal12 (big blind) showed [Ad 9c] and lost with high card Ace
+Seat 5: tokyo09 folded before Flop (didn't bet)
+
+PokerStars Hand #189829021146: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:32:43 MSK [2018/08/12 22:32:43 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 1: luiz290688 (809 in chips)
+Seat 2: DiggErr555 (457 in chips)
+Seat 3: Mishator (1068 in chips)
+Seat 5: tokyo09 (666 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+tokyo09: posts the ante 4
+tokyo09: posts small blind 20
+luiz290688: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 9s]
+DiggErr555: folds
+Mishator: folds
+tokyo09: raises 622 to 662 and is all-in
+luiz290688: folds
+Uncalled bet (622) returned to tokyo09
+tokyo09 collected 96 from pot
+tokyo09: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 1: luiz290688 (big blind) folded before Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Mishator (button) folded before Flop (didn't bet)
+Seat 5: tokyo09 (small blind) collected (96)
+
+PokerStars Hand #189829024733: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:32:56 MSK [2018/08/12 22:32:56 ET]
+Table '2381050247 1' 6-max Seat #5 is the button
+Seat 1: luiz290688 (765 in chips)
+Seat 2: DiggErr555 (453 in chips)
+Seat 3: Mishator (1064 in chips)
+Seat 5: tokyo09 (718 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+tokyo09: posts the ante 4
+luiz290688: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 3d]
+Mishator: folds
+tokyo09: folds
+luiz290688: raises 40 to 80
+DiggErr555: folds
+Uncalled bet (40) returned to luiz290688
+luiz290688 collected 96 from pot
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 1: luiz290688 (small blind) collected (96)
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: Mishator folded before Flop (didn't bet)
+Seat 5: tokyo09 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829029931: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:33:13 MSK [2018/08/12 22:33:13 ET]
+Table '2381050247 1' 6-max Seat #1 is the button
+Seat 1: luiz290688 (817 in chips)
+Seat 2: DiggErr555 (409 in chips)
+Seat 3: Mishator (1060 in chips)
+Seat 5: tokyo09 (714 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+tokyo09: posts the ante 4
+DiggErr555: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 9c]
+tokyo09: raises 40 to 80
+luiz290688: folds
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (40) returned to tokyo09
+tokyo09 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 1: luiz290688 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Mishator (big blind) folded before Flop
+Seat 5: tokyo09 collected (116)
+
+PokerStars Hand #189829036600: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:33:36 MSK [2018/08/12 22:33:36 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 1: luiz290688 (813 in chips)
+Seat 2: DiggErr555 (385 in chips)
+Seat 3: Mishator (1016 in chips)
+Seat 5: tokyo09 (786 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+tokyo09: posts the ante 4
+Mishator: posts small blind 20
+tokyo09: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 9c]
+luiz290688: calls 40
+DiggErr555: folds
+Mishator: folds
+tokyo09: checks
+*** FLOP *** [7d 6s 4c]
+tokyo09: checks
+luiz290688: bets 40
+tokyo09: raises 702 to 742 and is all-in
+luiz290688: folds
+Uncalled bet (702) returned to tokyo09
+tokyo09 collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0
+Board [7d 6s 4c]
+Seat 1: luiz290688 folded on the Flop
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) folded before Flop
+Seat 5: tokyo09 (big blind) collected (196)
+
+PokerStars Hand #189829047750: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:34:14 MSK [2018/08/12 22:34:14 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 1: luiz290688 (729 in chips)
+Seat 2: DiggErr555 (381 in chips)
+Seat 3: Mishator (992 in chips)
+Seat 5: tokyo09 (898 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+tokyo09: posts the ante 6
+tokyo09: posts small blind 30
+luiz290688: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 5h]
+DiggErr555: folds
+Mishator: folds
+tokyo09: raises 60 to 120
+luiz290688: folds
+Uncalled bet (60) returned to tokyo09
+tokyo09 collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: luiz290688 (big blind) folded before Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: Mishator (button) folded before Flop (didn't bet)
+Seat 5: tokyo09 (small blind) collected (144)
+
+PokerStars Hand #189829055434: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:34:41 MSK [2018/08/12 22:34:41 ET]
+Table '2381050247 1' 6-max Seat #5 is the button
+Seat 1: luiz290688 (663 in chips)
+Seat 2: DiggErr555 (375 in chips)
+Seat 3: Mishator (986 in chips)
+Seat 5: tokyo09 (976 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+tokyo09: posts the ante 6
+luiz290688: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Js]
+Mishator: folds
+tokyo09: raises 60 to 120
+luiz290688: raises 537 to 657 and is all-in
+DiggErr555: folds
+tokyo09: calls 537
+*** FLOP *** [3s 5c Jc]
+*** TURN *** [3s 5c Jc] [9s]
+*** RIVER *** [3s 5c Jc 9s] [6s]
+*** SHOW DOWN ***
+luiz290688: shows [8d Ad] (high card Ace)
+tokyo09: shows [Qs Ah] (high card Ace - Queen kicker)
+tokyo09 collected 1398 from pot
+tokyo09 wins the $4.79 bounty for eliminating luiz290688
+luiz290688 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1398 | Rake 0
+Board [3s 5c Jc 9s 6s]
+Seat 1: luiz290688 (small blind) showed [8d Ad] and lost with high card Ace
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: Mishator folded before Flop (didn't bet)
+Seat 5: tokyo09 (button) showed [Qs Ah] and won (1398) with high card Ace
+
+PokerStars Hand #189829064407: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:35:12 MSK [2018/08/12 22:35:12 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (309 in chips)
+Seat 3: Mishator (980 in chips)
+Seat 5: tokyo09 (1711 in chips)
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+tokyo09: posts the ante 6
+Mishator: posts small blind 30
+tokyo09: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9s]
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (30) returned to tokyo09
+tokyo09 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) folded before Flop
+Seat 5: tokyo09 (big blind) collected (78)
+
+PokerStars Hand #189829067579: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:35:23 MSK [2018/08/12 22:35:23 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (303 in chips)
+Seat 3: Mishator (944 in chips)
+Seat 5: tokyo09 (1753 in chips)
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+tokyo09: posts the ante 6
+tokyo09: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Kd]
+Mishator: folds
+tokyo09: raises 1687 to 1747 and is all-in
+DiggErr555: calls 237 and is all-in
+Uncalled bet (1450) returned to tokyo09
+*** FLOP *** [6h Jd 3c]
+*** TURN *** [6h Jd 3c] [As]
+*** RIVER *** [6h Jd 3c As] [Qc]
+*** SHOW DOWN ***
+tokyo09: shows [8h 5h] (high card Ace)
+DiggErr555: shows [8d Kd] (high card Ace - King kicker)
+DiggErr555 collected 612 from pot
+*** SUMMARY ***
+Total pot 612 | Rake 0
+Board [6h Jd 3c As Qc]
+Seat 2: DiggErr555 (big blind) showed [8d Kd] and won (612) with high card Ace
+Seat 3: Mishator (button) folded before Flop (didn't bet)
+Seat 5: tokyo09 (small blind) showed [8h 5h] and lost with high card Ace
+
+PokerStars Hand #189829077146: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:35:57 MSK [2018/08/12 22:35:57 ET]
+Table '2381050247 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (612 in chips)
+Seat 3: Mishator (938 in chips)
+Seat 5: tokyo09 (1450 in chips)
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+tokyo09: posts the ante 6
+DiggErr555: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 5d]
+tokyo09: folds
+DiggErr555: raises 546 to 606 and is all-in
+Mishator: folds
+Uncalled bet (546) returned to DiggErr555
+DiggErr555 collected 138 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: DiggErr555 (small blind) collected (138)
+Seat 3: Mishator (big blind) folded before Flop
+Seat 5: tokyo09 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829082313: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:36:15 MSK [2018/08/12 22:36:15 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (684 in chips)
+Seat 3: Mishator (872 in chips)
+Seat 5: tokyo09 (1444 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+tokyo09: posts the ante 8
+Mishator: posts small blind 40
+tokyo09: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 2c]
+DiggErr555: folds
+Mishator: raises 784 to 864 and is all-in
+tokyo09: folds
+Uncalled bet (784) returned to Mishator
+Mishator collected 184 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) collected (184)
+Seat 5: tokyo09 (big blind) folded before Flop
+
+PokerStars Hand #189829086077: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:36:28 MSK [2018/08/12 22:36:28 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (676 in chips)
+Seat 3: Mishator (968 in chips)
+Seat 5: tokyo09 (1356 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+tokyo09: posts the ante 8
+tokyo09: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 7h]
+Mishator: raises 880 to 960 and is all-in
+tokyo09: folds
+DiggErr555: folds
+Uncalled bet (880) returned to Mishator
+Mishator collected 224 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: Mishator (button) collected (224)
+Seat 5: tokyo09 (small blind) folded before Flop
+
+PokerStars Hand #189829091573: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:36:47 MSK [2018/08/12 22:36:47 ET]
+Table '2381050247 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (588 in chips)
+Seat 3: Mishator (1104 in chips)
+Seat 5: tokyo09 (1308 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+tokyo09: posts the ante 8
+DiggErr555: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 8h]
+tokyo09: raises 80 to 160
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (80) returned to tokyo09
+tokyo09 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Mishator (big blind) folded before Flop
+Seat 5: tokyo09 (button) collected (224)
+
+PokerStars Hand #189829094716: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:36:58 MSK [2018/08/12 22:36:58 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (540 in chips)
+Seat 3: Mishator (1016 in chips)
+Seat 5: tokyo09 (1444 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+tokyo09: posts the ante 8
+Mishator: posts small blind 40
+tokyo09: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 4h]
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (40) returned to tokyo09
+tokyo09 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) folded before Flop
+Seat 5: tokyo09 (big blind) collected (104)
+
+PokerStars Hand #189829097231: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:37:07 MSK [2018/08/12 22:37:07 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (532 in chips)
+Seat 3: Mishator (968 in chips)
+Seat 5: tokyo09 (1500 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+tokyo09: posts the ante 8
+tokyo09: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 3c]
+Mishator: folds
+tokyo09: raises 1412 to 1492 and is all-in
+DiggErr555: folds
+Uncalled bet (1412) returned to tokyo09
+tokyo09 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: Mishator (button) folded before Flop (didn't bet)
+Seat 5: tokyo09 (small blind) collected (184)
+
+PokerStars Hand #189829103624: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:37:29 MSK [2018/08/12 22:37:29 ET]
+Table '2381050247 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (444 in chips)
+Seat 3: Mishator (960 in chips)
+Seat 5: tokyo09 (1596 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+tokyo09: posts the ante 10
+DiggErr555: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 5c]
+tokyo09: raises 1486 to 1586 and is all-in
+DiggErr555: folds
+Mishator: calls 850 and is all-in
+Uncalled bet (636) returned to tokyo09
+*** FLOP *** [5d 4h Qc]
+*** TURN *** [5d 4h Qc] [8d]
+*** RIVER *** [5d 4h Qc 8d] [8c]
+*** SHOW DOWN ***
+Mishator: shows [9c 9h] (two pair, Nines and Eights)
+tokyo09: shows [Ad Tc] (a pair of Eights)
+Mishator collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | Rake 0
+Board [5d 4h Qc 8d 8c]
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: Mishator (big blind) showed [9c 9h] and won (1980) with two pair, Nines and Eights
+Seat 5: tokyo09 (button) showed [Ad Tc] and lost with a pair of Eights
+
+PokerStars Hand #189829108617: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:37:47 MSK [2018/08/12 22:37:47 ET]
+Table '2381050247 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (384 in chips)
+Seat 3: Mishator (1980 in chips)
+Seat 5: tokyo09 (636 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+tokyo09: posts the ante 10
+Mishator: posts small blind 50
+tokyo09: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 9c]
+DiggErr555: folds
+Mishator: raises 1870 to 1970 and is all-in
+tokyo09: folds
+Uncalled bet (1870) returned to Mishator
+Mishator collected 230 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: Mishator (small blind) collected (230)
+Seat 5: tokyo09 (big blind) folded before Flop
+
+PokerStars Hand #189829113229: Tournament #2381050247, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:38:03 MSK [2018/08/12 22:38:03 ET]
+Table '2381050247 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (374 in chips)
+Seat 3: Mishator (2100 in chips)
+Seat 5: tokyo09 (526 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+tokyo09: posts the ante 10
+tokyo09: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 9d]
+Mishator: raises 1990 to 2090 and is all-in
+tokyo09: folds
+DiggErr555: calls 264 and is all-in
+Uncalled bet (1726) returned to Mishator
+*** FLOP *** [Ad 3d 7h]
+*** TURN *** [Ad 3d 7h] [Ah]
+*** RIVER *** [Ad 3d 7h Ah] [5d]
+*** SHOW DOWN ***
+DiggErr555: shows [8c 9d] (a pair of Aces)
+Mishator: shows [Kh Jc] (a pair of Aces - King kicker)
+Mishator collected 808 from pot
+Mishator wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 808 | Rake 0
+Board [Ad 3d 7h Ah 5d]
+Seat 2: DiggErr555 (big blind) showed [8c 9d] and lost with a pair of Aces
+Seat 3: Mishator (button) showed [Kh Jc] and won (808) with a pair of Aces
+Seat 5: tokyo09 (small blind) folded before Flop

@@ -1,0 +1,184 @@
+
+
+PokerStars Hand #189829459387: Tournament #2381060692, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:58:38 MSK [2018/08/12 22:58:38 ET]
+Table '2381060692 1' 6-max Seat #1 is the button
+Seat 1: LilR2007 (500 in chips)
+Seat 2: marie3010 (500 in chips)
+Seat 3: JMcDermot (500 in chips)
+Seat 4: 2Ran128 (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: qwepo1 (500 in chips)
+LilR2007: posts the ante 2
+marie3010: posts the ante 2
+JMcDermot: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+qwepo1: posts the ante 2
+marie3010: posts small blind 10
+JMcDermot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th As]
+2Ran128: folds
+DiggErr555: raises 20 to 40
+qwepo1: calls 40
+LilR2007: folds
+marie3010: folds
+JMcDermot is disconnected
+JMcDermot has timed out while disconnected
+JMcDermot: folds
+JMcDermot is sitting out
+*** FLOP *** [Jh 4s 4d]
+JMcDermot is disconnected
+JMcDermot has returned
+DiggErr555: checks
+qwepo1: bets 20
+DiggErr555: calls 20
+*** TURN *** [Jh 4s 4d] [9h]
+DiggErr555: checks
+qwepo1: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to qwepo1
+qwepo1 collected 162 from pot
+qwepo1: doesn't show hand
+*** SUMMARY ***
+Total pot 162 | Rake 0
+Board [Jh 4s 4d 9h]
+Seat 1: LilR2007 (button) folded before Flop (didn't bet)
+Seat 2: marie3010 (small blind) folded before Flop
+Seat 3: JMcDermot (big blind) folded before Flop
+Seat 4: 2Ran128 folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded on the Turn
+Seat 6: qwepo1 collected (162)
+
+PokerStars Hand #189829478208: Tournament #2381060692, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:59:57 MSK [2018/08/12 22:59:57 ET]
+Table '2381060692 1' 6-max Seat #2 is the button
+Seat 1: LilR2007 (498 in chips)
+Seat 2: marie3010 (488 in chips)
+Seat 3: JMcDermot (478 in chips)
+Seat 4: 2Ran128 (498 in chips)
+Seat 5: DiggErr555 (438 in chips)
+Seat 6: qwepo1 (600 in chips)
+LilR2007: posts the ante 2
+marie3010: posts the ante 2
+JMcDermot: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+qwepo1: posts the ante 2
+JMcDermot: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 9s]
+DiggErr555: folds
+qwepo1: raises 62 to 82
+LilR2007: folds
+marie3010: folds
+JMcDermot: calls 72
+2Ran128: folds
+*** FLOP *** [2c Qh Ts]
+JMcDermot: bets 394 and is all-in
+qwepo1: folds
+Uncalled bet (394) returned to JMcDermot
+JMcDermot collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0
+Board [2c Qh Ts]
+Seat 1: LilR2007 folded before Flop (didn't bet)
+Seat 2: marie3010 (button) folded before Flop (didn't bet)
+Seat 3: JMcDermot (small blind) collected (196)
+Seat 4: 2Ran128 (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: qwepo1 folded on the Flop
+
+PokerStars Hand #189829483459: Tournament #2381060692, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:00:19 MSK [2018/08/12 23:00:19 ET]
+Table '2381060692 1' 6-max Seat #3 is the button
+Seat 1: LilR2007 (496 in chips)
+Seat 2: marie3010 (486 in chips)
+Seat 3: JMcDermot (590 in chips)
+Seat 4: 2Ran128 (476 in chips)
+Seat 5: DiggErr555 (436 in chips)
+Seat 6: qwepo1 (516 in chips)
+LilR2007: posts the ante 2
+marie3010: posts the ante 2
+JMcDermot: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+qwepo1: posts the ante 2
+2Ran128: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Ts]
+qwepo1: calls 20
+LilR2007: folds
+marie3010: folds
+JMcDermot: folds
+2Ran128: folds
+DiggErr555: checks
+*** FLOP *** [Ad Qh 4c]
+DiggErr555: checks
+qwepo1: bets 20
+DiggErr555: folds
+Uncalled bet (20) returned to qwepo1
+qwepo1 collected 62 from pot
+qwepo1: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Board [Ad Qh 4c]
+Seat 1: LilR2007 folded before Flop (didn't bet)
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 3: JMcDermot (button) folded before Flop (didn't bet)
+Seat 4: 2Ran128 (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded on the Flop
+Seat 6: qwepo1 collected (62)
+
+PokerStars Hand #189829491053: Tournament #2381060692, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:00:50 MSK [2018/08/12 23:00:50 ET]
+Table '2381060692 1' 6-max Seat #4 is the button
+Seat 1: LilR2007 (494 in chips)
+Seat 2: marie3010 (484 in chips)
+Seat 3: JMcDermot (588 in chips)
+Seat 4: 2Ran128 (464 in chips)
+Seat 5: DiggErr555 (414 in chips)
+Seat 6: qwepo1 (556 in chips)
+LilR2007: posts the ante 3
+marie3010: posts the ante 3
+JMcDermot: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+qwepo1: posts the ante 3
+DiggErr555: posts small blind 15
+qwepo1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Qc]
+LilR2007: folds
+marie3010: folds
+JMcDermot is disconnected
+JMcDermot is connected
+JMcDermot is disconnected
+JMcDermot is connected
+JMcDermot: calls 30
+2Ran128: folds
+DiggErr555: raises 381 to 411 and is all-in
+qwepo1: raises 142 to 553 and is all-in
+JMcDermot has timed out
+JMcDermot: folds
+JMcDermot is sitting out
+Uncalled bet (142) returned to qwepo1
+JMcDermot is disconnected
+*** FLOP *** [Tc 5s 2d]
+*** TURN *** [Tc 5s 2d] [3c]
+*** RIVER *** [Tc 5s 2d 3c] [Ks]
+*** SHOW DOWN ***
+DiggErr555: shows [Js Qc] (high card King)
+qwepo1: shows [Ad 9c] (high card Ace)
+qwepo1 collected 870 from pot
+qwepo1 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 6th place
+JMcDermot is disconnected
+*** SUMMARY ***
+Total pot 870 | Rake 0
+Board [Tc 5s 2d 3c Ks]
+Seat 1: LilR2007 folded before Flop (didn't bet)
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 3: JMcDermot folded before Flop
+Seat 4: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) showed [Js Qc] and lost with high card King
+Seat 6: qwepo1 (big blind) showed [Ad 9c] and won (870) with high card Ace

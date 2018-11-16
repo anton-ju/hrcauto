@@ -1,0 +1,1056 @@
+
+
+PokerStars Hand #189829417820: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:56:19 MSK [2018/08/12 22:56:19 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (500 in chips)
+Seat 2: TuberAAA (500 in chips)
+Seat 3: 2Ran128 (500 in chips)
+Seat 4: Mishator (500 in chips)
+Seat 5: chorls464 (500 in chips)
+Seat 6: nevets177 (500 in chips)
+DiggErr555: posts the ante 2
+TuberAAA: posts the ante 2
+2Ran128: posts the ante 2
+Mishator: posts the ante 2
+chorls464: posts the ante 2
+nevets177: posts the ante 2
+TuberAAA: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 2h]
+Mishator: raises 20 to 40
+chorls464: folds
+nevets177: folds
+DiggErr555: folds
+TuberAAA: calls 30
+2Ran128: folds
+*** FLOP *** [Qc 5s 7d]
+TuberAAA: checks
+Mishator: checks
+*** TURN *** [Qc 5s 7d] [6s]
+TuberAAA: bets 60
+Mishator: calls 60
+*** RIVER *** [Qc 5s 7d 6s] [7h]
+TuberAAA: bets 398 and is all-in
+Mishator: folds
+Uncalled bet (398) returned to TuberAAA
+TuberAAA collected 232 from pot
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Board [Qc 5s 7d 6s 7h]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: TuberAAA (small blind) collected (232)
+Seat 3: 2Ran128 (big blind) folded before Flop
+Seat 4: Mishator folded on the River
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: nevets177 folded before Flop (didn't bet)
+
+PokerStars Hand #189829426149: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:56:54 MSK [2018/08/12 22:56:54 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (498 in chips)
+Seat 2: TuberAAA (630 in chips)
+Seat 3: 2Ran128 (478 in chips)
+Seat 4: Mishator (398 in chips)
+Seat 5: chorls464 (498 in chips)
+Seat 6: nevets177 (498 in chips)
+DiggErr555: posts the ante 2
+TuberAAA: posts the ante 2
+2Ran128: posts the ante 2
+Mishator: posts the ante 2
+chorls464: posts the ante 2
+nevets177: posts the ante 2
+2Ran128: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 6h]
+chorls464: folds
+nevets177: raises 20 to 40
+DiggErr555: folds
+TuberAAA: folds
+2Ran128: folds
+Mishator: folds
+Uncalled bet (20) returned to nevets177
+nevets177 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: TuberAAA (button) folded before Flop (didn't bet)
+Seat 3: 2Ran128 (small blind) folded before Flop
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: nevets177 collected (62)
+
+PokerStars Hand #189829430129: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:57:11 MSK [2018/08/12 22:57:11 ET]
+Table '2381060544 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (496 in chips)
+Seat 2: TuberAAA (628 in chips)
+Seat 3: 2Ran128 (466 in chips)
+Seat 4: Mishator (376 in chips)
+Seat 5: chorls464 (496 in chips)
+Seat 6: nevets177 (538 in chips)
+DiggErr555: posts the ante 2
+TuberAAA: posts the ante 2
+2Ran128: posts the ante 2
+Mishator: posts the ante 2
+chorls464: posts the ante 2
+nevets177: posts the ante 2
+Mishator: posts small blind 10
+chorls464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 7s]
+nevets177: calls 20
+DiggErr555: folds
+TuberAAA: calls 20
+2Ran128: folds
+Mishator: folds
+chorls464: raises 474 to 494 and is all-in
+nevets177: folds
+TuberAAA: folds
+Uncalled bet (474) returned to chorls464
+chorls464 collected 82 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 82 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: TuberAAA folded before Flop
+Seat 3: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: chorls464 (big blind) collected (82)
+Seat 6: nevets177 folded before Flop
+
+PokerStars Hand #189829444953: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:57:38 MSK [2018/08/12 22:57:38 ET]
+Table '2381060544 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (494 in chips)
+Seat 2: TuberAAA (606 in chips)
+Seat 3: 2Ran128 (464 in chips)
+Seat 4: Mishator (364 in chips)
+Seat 5: chorls464 (556 in chips)
+Seat 6: nevets177 (516 in chips)
+DiggErr555: posts the ante 3
+TuberAAA: posts the ante 3
+2Ran128: posts the ante 3
+Mishator: posts the ante 3
+chorls464: posts the ante 3
+nevets177: posts the ante 3
+chorls464: posts small blind 15
+nevets177: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 3d]
+DiggErr555: folds
+TuberAAA: folds
+2Ran128: folds
+Mishator: folds
+chorls464: raises 523 to 553 and is all-in
+nevets177: calls 483 and is all-in
+Uncalled bet (40) returned to chorls464
+*** FLOP *** [8s 4d As]
+*** TURN *** [8s 4d As] [8d]
+*** RIVER *** [8s 4d As 8d] [5d]
+*** SHOW DOWN ***
+chorls464: shows [9s Ac] (two pair, Aces and Eights)
+nevets177: shows [Qc 8h] (three of a kind, Eights)
+nevets177 collected 1044 from pot
+*** SUMMARY ***
+Total pot 1044 | Rake 0
+Board [8s 4d As 8d 5d]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: TuberAAA folded before Flop (didn't bet)
+Seat 3: 2Ran128 folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: chorls464 (small blind) showed [9s Ac] and lost with two pair, Aces and Eights
+Seat 6: nevets177 (big blind) showed [Qc 8h] and won (1044) with three of a kind, Eights
+
+PokerStars Hand #189829451505: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:05 MSK [2018/08/12 22:58:05 ET]
+Table '2381060544 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (491 in chips)
+Seat 2: TuberAAA (603 in chips)
+Seat 3: 2Ran128 (461 in chips)
+Seat 4: Mishator (361 in chips)
+Seat 5: chorls464 (40 in chips)
+Seat 6: nevets177 (1044 in chips)
+DiggErr555: posts the ante 3
+TuberAAA: posts the ante 3
+2Ran128: posts the ante 3
+Mishator: posts the ante 3
+chorls464: posts the ante 3
+nevets177: posts the ante 3
+nevets177: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 4d]
+TuberAAA: folds
+2Ran128: folds
+Mishator: raises 328 to 358 and is all-in
+chorls464: calls 37 and is all-in
+nevets177: folds
+DiggErr555: folds
+Uncalled bet (321) returned to Mishator
+*** FLOP *** [Jh 2d Ts]
+*** TURN *** [Jh 2d Ts] [7s]
+*** RIVER *** [Jh 2d Ts 7s] [5h]
+*** SHOW DOWN ***
+Mishator: shows [Ac 4s] (high card Ace)
+chorls464: shows [Jc 9d] (a pair of Jacks)
+chorls464 collected 137 from pot
+*** SUMMARY ***
+Total pot 137 | Rake 0
+Board [Jh 2d Ts 7s 5h]
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: TuberAAA folded before Flop (didn't bet)
+Seat 3: 2Ran128 folded before Flop (didn't bet)
+Seat 4: Mishator showed [Ac 4s] and lost with high card Ace
+Seat 5: chorls464 (button) showed [Jc 9d] and won (137) with a pair of Jacks
+Seat 6: nevets177 (small blind) folded before Flop
+
+PokerStars Hand #189829457643: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:31 MSK [2018/08/12 22:58:31 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (458 in chips)
+Seat 2: TuberAAA (600 in chips)
+Seat 3: 2Ran128 (458 in chips)
+Seat 4: Mishator (321 in chips)
+Seat 5: chorls464 (137 in chips)
+Seat 6: nevets177 (1026 in chips)
+DiggErr555: posts the ante 3
+TuberAAA: posts the ante 3
+2Ran128: posts the ante 3
+Mishator: posts the ante 3
+chorls464: posts the ante 3
+nevets177: posts the ante 3
+DiggErr555: posts small blind 15
+TuberAAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 4d]
+2Ran128: folds
+Mishator: folds
+chorls464: folds
+nevets177: calls 30
+DiggErr555: folds
+TuberAAA: checks
+*** FLOP *** [7s Kc 9c]
+TuberAAA: bets 30
+nevets177: calls 30
+*** TURN *** [7s Kc 9c] [2c]
+TuberAAA: bets 60
+nevets177: calls 60
+*** RIVER *** [7s Kc 9c 2c] [9h]
+TuberAAA: bets 150
+nevets177: calls 150
+*** SHOW DOWN ***
+TuberAAA: shows [9s Qh] (three of a kind, Nines)
+nevets177: mucks hand
+TuberAAA collected 573 from pot
+*** SUMMARY ***
+Total pot 573 | Rake 0
+Board [7s Kc 9c 2c 9h]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: TuberAAA (big blind) showed [9s Qh] and won (573) with three of a kind, Nines
+Seat 3: 2Ran128 folded before Flop (didn't bet)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: nevets177 (button) mucked [Jc 7h]
+
+PokerStars Hand #189829467829: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:59:13 MSK [2018/08/12 22:59:13 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (440 in chips)
+Seat 2: TuberAAA (900 in chips)
+Seat 3: 2Ran128 (455 in chips)
+Seat 4: Mishator (318 in chips)
+Seat 5: chorls464 (134 in chips)
+Seat 6: nevets177 (753 in chips)
+DiggErr555: posts the ante 3
+TuberAAA: posts the ante 3
+2Ran128: posts the ante 3
+Mishator: posts the ante 3
+chorls464: posts the ante 3
+nevets177: posts the ante 3
+TuberAAA: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Ts]
+Mishator: folds
+chorls464: raises 101 to 131 and is all-in
+nevets177: calls 131
+DiggErr555: raises 306 to 437 and is all-in
+TuberAAA: folds
+2Ran128: raises 15 to 452 and is all-in
+nevets177: calls 321
+*** FLOP *** [Kh 8s 3d]
+*** TURN *** [Kh 8s 3d] [Ks]
+*** RIVER *** [Kh 8s 3d Ks] [6s]
+*** SHOW DOWN ***
+2Ran128: shows [4d 4h] (two pair, Kings and Fours)
+nevets177: shows [5c 6c] (two pair, Kings and Sixes)
+nevets177 collected 30 from side pot-2
+DiggErr555: shows [Tc Ts] (two pair, Kings and Tens)
+DiggErr555 collected 918 from side pot-1
+chorls464: shows [As 2c] (a pair of Kings)
+DiggErr555 collected 557 from main pot
+nevets177 wins the $4.79 bounty for eliminating 2Ran128
+DiggErr555 wins the $4.79 bounty for eliminating chorls464
+2Ran128 finished the tournament in 5th place
+chorls464 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1505 Main pot 557. Side pot-1 918. Side pot-2 30. | Rake 0
+Board [Kh 8s 3d Ks 6s]
+Seat 1: DiggErr555 (button) showed [Tc Ts] and won (1475) with two pair, Kings and Tens
+Seat 2: TuberAAA (small blind) folded before Flop
+Seat 3: 2Ran128 (big blind) showed [4d 4h] and lost with two pair, Kings and Fours
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: chorls464 showed [As 2c] and lost with a pair of Kings
+Seat 6: nevets177 showed [5c 6c] and won (30) with two pair, Kings and Sixes
+
+PokerStars Hand #189829478387: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:59:58 MSK [2018/08/12 22:59:58 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (1475 in chips)
+Seat 2: TuberAAA (882 in chips)
+Seat 4: Mishator (315 in chips)
+Seat 6: nevets177 (328 in chips)
+DiggErr555: posts the ante 4
+TuberAAA: posts the ante 4
+Mishator: posts the ante 4
+nevets177: posts the ante 4
+Mishator: posts small blind 20
+nevets177: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s Kc]
+DiggErr555: raises 40 to 80
+TuberAAA: calls 80
+Mishator: folds
+nevets177: calls 40
+*** FLOP *** [3d Tc Ac]
+nevets177: bets 244 and is all-in
+DiggErr555: folds
+TuberAAA: folds
+Uncalled bet (244) returned to nevets177
+nevets177 collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | Rake 0
+Board [3d Tc Ac]
+Seat 1: DiggErr555 folded on the Flop
+Seat 2: TuberAAA (button) folded on the Flop
+Seat 4: Mishator (small blind) folded before Flop
+Seat 6: nevets177 (big blind) collected (276)
+
+PokerStars Hand #189829486538: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:00:32 MSK [2018/08/12 23:00:32 ET]
+Table '2381060544 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (1391 in chips)
+Seat 2: TuberAAA (798 in chips)
+Seat 4: Mishator (291 in chips)
+Seat 6: nevets177 (520 in chips)
+DiggErr555: posts the ante 4
+TuberAAA: posts the ante 4
+Mishator: posts the ante 4
+nevets177: posts the ante 4
+nevets177: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 8d]
+TuberAAA: folds
+Mishator: raises 247 to 287 and is all-in
+nevets177: folds
+DiggErr555: folds
+Uncalled bet (247) returned to Mishator
+Mishator collected 116 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: TuberAAA folded before Flop (didn't bet)
+Seat 4: Mishator (button) collected (116)
+Seat 6: nevets177 (small blind) folded before Flop
+
+PokerStars Hand #189829490631: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:00:48 MSK [2018/08/12 23:00:48 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (1347 in chips)
+Seat 2: TuberAAA (794 in chips)
+Seat 4: Mishator (363 in chips)
+Seat 6: nevets177 (496 in chips)
+DiggErr555: posts the ante 4
+TuberAAA: posts the ante 4
+Mishator: posts the ante 4
+nevets177: posts the ante 4
+DiggErr555: posts small blind 20
+TuberAAA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 8h]
+Mishator: folds
+nevets177: folds
+DiggErr555: calls 20
+TuberAAA: checks
+*** FLOP *** [Ah Ks 9h]
+DiggErr555: bets 40
+TuberAAA: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Board [Ah Ks 9h]
+Seat 1: DiggErr555 (small blind) collected (96)
+Seat 2: TuberAAA (big blind) folded on the Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 6: nevets177 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829495294: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:01:07 MSK [2018/08/12 23:01:07 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (1399 in chips)
+Seat 2: TuberAAA (750 in chips)
+Seat 4: Mishator (359 in chips)
+Seat 6: nevets177 (492 in chips)
+DiggErr555: posts the ante 4
+TuberAAA: posts the ante 4
+Mishator: posts the ante 4
+nevets177: posts the ante 4
+TuberAAA: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Jc]
+nevets177: folds
+DiggErr555: raises 40 to 80
+TuberAAA: raises 120 to 200
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (120) returned to TuberAAA
+TuberAAA collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop
+Seat 2: TuberAAA (small blind) collected (216)
+Seat 4: Mishator (big blind) folded before Flop
+Seat 6: nevets177 folded before Flop (didn't bet)
+
+PokerStars Hand #189829505865: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:01:48 MSK [2018/08/12 23:01:48 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (1315 in chips)
+Seat 2: TuberAAA (882 in chips)
+Seat 4: Mishator (315 in chips)
+Seat 6: nevets177 (488 in chips)
+DiggErr555: posts the ante 6
+TuberAAA: posts the ante 6
+Mishator: posts the ante 6
+nevets177: posts the ante 6
+Mishator: posts small blind 30
+nevets177: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 8c]
+DiggErr555: folds
+TuberAAA: folds
+Mishator: raises 249 to 309 and is all-in
+nevets177: folds
+Uncalled bet (249) returned to Mishator
+Mishator collected 144 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: TuberAAA (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) collected (144)
+Seat 6: nevets177 (big blind) folded before Flop
+
+PokerStars Hand #189829507815: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:01:55 MSK [2018/08/12 23:01:55 ET]
+Table '2381060544 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (1309 in chips)
+Seat 2: TuberAAA (876 in chips)
+Seat 4: Mishator (393 in chips)
+Seat 6: nevets177 (422 in chips)
+DiggErr555: posts the ante 6
+TuberAAA: posts the ante 6
+Mishator: posts the ante 6
+nevets177: posts the ante 6
+nevets177: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Tc]
+TuberAAA: folds
+Mishator: folds
+nevets177: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 84 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (84)
+Seat 2: TuberAAA folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 6: nevets177 (small blind) folded before Flop
+
+PokerStars Hand #189829511134: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:02:07 MSK [2018/08/12 23:02:07 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (1357 in chips)
+Seat 2: TuberAAA (870 in chips)
+Seat 4: Mishator (387 in chips)
+Seat 6: nevets177 (386 in chips)
+DiggErr555: posts the ante 6
+TuberAAA: posts the ante 6
+Mishator: posts the ante 6
+nevets177: posts the ante 6
+DiggErr555: posts small blind 30
+TuberAAA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 5c]
+Mishator: folds
+nevets177: raises 320 to 380 and is all-in
+DiggErr555: folds
+TuberAAA: folds
+Uncalled bet (320) returned to nevets177
+nevets177 collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: TuberAAA (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 6: nevets177 (button) collected (174)
+
+PokerStars Hand #189829515237: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:02:23 MSK [2018/08/12 23:02:23 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (1321 in chips)
+Seat 2: TuberAAA (804 in chips)
+Seat 4: Mishator (381 in chips)
+Seat 6: nevets177 (494 in chips)
+DiggErr555: posts the ante 6
+TuberAAA: posts the ante 6
+Mishator: posts the ante 6
+nevets177: posts the ante 6
+TuberAAA: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 6c]
+nevets177: folds
+DiggErr555: folds
+TuberAAA: raises 120 to 180
+Mishator: folds
+Uncalled bet (120) returned to TuberAAA
+TuberAAA collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: TuberAAA (small blind) collected (144)
+Seat 4: Mishator (big blind) folded before Flop
+Seat 6: nevets177 folded before Flop (didn't bet)
+
+PokerStars Hand #189829520235: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:02:42 MSK [2018/08/12 23:02:42 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (1315 in chips)
+Seat 2: TuberAAA (882 in chips)
+Seat 4: Mishator (315 in chips)
+Seat 6: nevets177 (488 in chips)
+DiggErr555: posts the ante 6
+TuberAAA: posts the ante 6
+Mishator: posts the ante 6
+nevets177: posts the ante 6
+Mishator: posts small blind 30
+nevets177: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 3s]
+DiggErr555: folds
+TuberAAA: folds
+Mishator: raises 249 to 309 and is all-in
+nevets177: calls 249
+*** FLOP *** [2c 7d Qc]
+*** TURN *** [2c 7d Qc] [4s]
+*** RIVER *** [2c 7d Qc 4s] [Th]
+*** SHOW DOWN ***
+Mishator: shows [Kh Ts] (a pair of Tens)
+nevets177: shows [Qd Jd] (a pair of Queens)
+nevets177 collected 642 from pot
+nevets177 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 642 | Rake 0
+Board [2c 7d Qc 4s Th]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: TuberAAA (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) showed [Kh Ts] and lost with a pair of Tens
+Seat 6: nevets177 (big blind) showed [Qd Jd] and won (642) with a pair of Queens
+
+PokerStars Hand #189829525460: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:03:02 MSK [2018/08/12 23:03:02 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (1309 in chips)
+Seat 2: TuberAAA (876 in chips)
+Seat 6: nevets177 (815 in chips)
+DiggErr555: posts the ante 8
+TuberAAA: posts the ante 8
+nevets177: posts the ante 8
+DiggErr555: posts small blind 40
+TuberAAA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4c]
+nevets177: folds
+DiggErr555: raises 1221 to 1301 and is all-in
+TuberAAA: calls 788 and is all-in
+Uncalled bet (433) returned to DiggErr555
+*** FLOP *** [8c 6h Ts]
+*** TURN *** [8c 6h Ts] [Th]
+*** RIVER *** [8c 6h Ts Th] [3h]
+*** SHOW DOWN ***
+DiggErr555: shows [5c 4c] (a pair of Tens)
+TuberAAA: shows [As 6d] (two pair, Tens and Sixes)
+TuberAAA collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | Rake 0
+Board [8c 6h Ts Th 3h]
+Seat 1: DiggErr555 (small blind) showed [5c 4c] and lost with a pair of Tens
+Seat 2: TuberAAA (big blind) showed [As 6d] and won (1760) with two pair, Tens and Sixes
+Seat 6: nevets177 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829530515: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:03:22 MSK [2018/08/12 23:03:22 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (433 in chips)
+Seat 2: TuberAAA (1760 in chips)
+Seat 6: nevets177 (807 in chips)
+DiggErr555: posts the ante 8
+TuberAAA: posts the ante 8
+nevets177: posts the ante 8
+TuberAAA: posts small blind 40
+nevets177: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 9d]
+DiggErr555: raises 345 to 425 and is all-in
+TuberAAA: folds
+nevets177: folds
+Uncalled bet (345) returned to DiggErr555
+DiggErr555 collected 224 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 1: DiggErr555 (button) collected (224)
+Seat 2: TuberAAA (small blind) folded before Flop
+Seat 6: nevets177 (big blind) folded before Flop
+
+PokerStars Hand #189829535065: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:03:40 MSK [2018/08/12 23:03:40 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (569 in chips)
+Seat 2: TuberAAA (1712 in chips)
+Seat 6: nevets177 (719 in chips)
+DiggErr555: posts the ante 8
+TuberAAA: posts the ante 8
+nevets177: posts the ante 8
+nevets177: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 3s]
+TuberAAA: folds
+nevets177: raises 480 to 560
+DiggErr555: folds
+Uncalled bet (480) returned to nevets177
+nevets177 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: TuberAAA (button) folded before Flop (didn't bet)
+Seat 6: nevets177 (small blind) collected (184)
+
+PokerStars Hand #189829538188: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:03:51 MSK [2018/08/12 23:03:51 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (481 in chips)
+Seat 2: TuberAAA (1704 in chips)
+Seat 6: nevets177 (815 in chips)
+DiggErr555: posts the ante 8
+TuberAAA: posts the ante 8
+nevets177: posts the ante 8
+DiggErr555: posts small blind 40
+TuberAAA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8s]
+nevets177: raises 224 to 304
+DiggErr555: folds
+TuberAAA: folds
+Uncalled bet (224) returned to nevets177
+nevets177 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: TuberAAA (big blind) folded before Flop
+Seat 6: nevets177 (button) collected (224)
+
+PokerStars Hand #189829540591: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:04:01 MSK [2018/08/12 23:04:01 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (433 in chips)
+Seat 2: TuberAAA (1616 in chips)
+Seat 6: nevets177 (951 in chips)
+DiggErr555: posts the ante 8
+TuberAAA: posts the ante 8
+nevets177: posts the ante 8
+TuberAAA: posts small blind 40
+nevets177: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Kc]
+DiggErr555: raises 200 to 280
+TuberAAA: raises 200 to 480
+nevets177: folds
+DiggErr555: calls 145 and is all-in
+Uncalled bet (55) returned to TuberAAA
+*** FLOP *** [Kd 5c 9c]
+*** TURN *** [Kd 5c 9c] [7h]
+*** RIVER *** [Kd 5c 9c 7h] [Kh]
+*** SHOW DOWN ***
+TuberAAA: shows [Jc Qd] (a pair of Kings)
+DiggErr555: shows [Js Kc] (three of a kind, Kings)
+DiggErr555 collected 954 from pot
+*** SUMMARY ***
+Total pot 954 | Rake 0
+Board [Kd 5c 9c 7h Kh]
+Seat 1: DiggErr555 (button) showed [Js Kc] and won (954) with three of a kind, Kings
+Seat 2: TuberAAA (small blind) showed [Jc Qd] and lost with a pair of Kings
+Seat 6: nevets177 (big blind) folded before Flop
+
+PokerStars Hand #189829547917: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:04:28 MSK [2018/08/12 23:04:28 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (954 in chips)
+Seat 2: TuberAAA (1183 in chips)
+Seat 6: nevets177 (863 in chips)
+DiggErr555: posts the ante 10
+TuberAAA: posts the ante 10
+nevets177: posts the ante 10
+nevets177: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 5h]
+TuberAAA: calls 100
+nevets177: raises 330 to 430
+DiggErr555: folds
+TuberAAA: folds
+Uncalled bet (330) returned to nevets177
+nevets177 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: TuberAAA (button) folded before Flop
+Seat 6: nevets177 (small blind) collected (330)
+
+PokerStars Hand #189829551853: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:04:43 MSK [2018/08/12 23:04:43 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (844 in chips)
+Seat 2: TuberAAA (1073 in chips)
+Seat 6: nevets177 (1083 in chips)
+DiggErr555: posts the ante 10
+TuberAAA: posts the ante 10
+nevets177: posts the ante 10
+DiggErr555: posts small blind 50
+TuberAAA: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 7s]
+nevets177: raises 280 to 380
+DiggErr555: folds
+TuberAAA: folds
+Uncalled bet (280) returned to nevets177
+nevets177 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: TuberAAA (big blind) folded before Flop
+Seat 6: nevets177 (button) collected (280)
+
+PokerStars Hand #189829553937: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:04:52 MSK [2018/08/12 23:04:52 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (784 in chips)
+Seat 2: TuberAAA (963 in chips)
+Seat 6: nevets177 (1253 in chips)
+DiggErr555: posts the ante 10
+TuberAAA: posts the ante 10
+nevets177: posts the ante 10
+TuberAAA: posts small blind 50
+nevets177: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Ah]
+DiggErr555: raises 674 to 774 and is all-in
+TuberAAA: folds
+nevets177: folds
+Uncalled bet (674) returned to DiggErr555
+DiggErr555 collected 280 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 1: DiggErr555 (button) collected (280)
+Seat 2: TuberAAA (small blind) folded before Flop
+Seat 6: nevets177 (big blind) folded before Flop
+
+PokerStars Hand #189829557019: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:05:03 MSK [2018/08/12 23:05:03 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (954 in chips)
+Seat 2: TuberAAA (903 in chips)
+Seat 6: nevets177 (1143 in chips)
+DiggErr555: posts the ante 10
+TuberAAA: posts the ante 10
+nevets177: posts the ante 10
+nevets177: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 8d]
+TuberAAA: raises 793 to 893 and is all-in
+nevets177: folds
+DiggErr555: folds
+Uncalled bet (793) returned to TuberAAA
+TuberAAA collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: TuberAAA (button) collected (280)
+Seat 6: nevets177 (small blind) folded before Flop
+
+PokerStars Hand #189829560028: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:05:15 MSK [2018/08/12 23:05:15 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (844 in chips)
+Seat 2: TuberAAA (1073 in chips)
+Seat 6: nevets177 (1083 in chips)
+DiggErr555: posts the ante 10
+TuberAAA: posts the ante 10
+nevets177: posts the ante 10
+DiggErr555: posts small blind 50
+TuberAAA: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Qh]
+nevets177: folds
+DiggErr555: folds
+Uncalled bet (50) returned to TuberAAA
+TuberAAA collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: TuberAAA (big blind) collected (130)
+Seat 6: nevets177 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829563376: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:05:28 MSK [2018/08/12 23:05:28 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (784 in chips)
+Seat 2: TuberAAA (1143 in chips)
+Seat 6: nevets177 (1073 in chips)
+DiggErr555: posts the ante 10
+TuberAAA: posts the ante 10
+nevets177: posts the ante 10
+TuberAAA: posts small blind 50
+nevets177: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 6h]
+DiggErr555: folds
+TuberAAA: raises 200 to 300
+nevets177: calls 200
+*** FLOP *** [Ts Qh 4h]
+TuberAAA: checks
+nevets177: bets 300
+TuberAAA: folds
+Uncalled bet (300) returned to nevets177
+nevets177 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0
+Board [Ts Qh 4h]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: TuberAAA (small blind) folded on the Flop
+Seat 6: nevets177 (big blind) collected (630)
+
+PokerStars Hand #189829572376: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:06:02 MSK [2018/08/12 23:06:02 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (774 in chips)
+Seat 2: TuberAAA (833 in chips)
+Seat 6: nevets177 (1393 in chips)
+DiggErr555: posts the ante 12
+TuberAAA: posts the ante 12
+nevets177: posts the ante 12
+nevets177: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 6c]
+TuberAAA: folds
+nevets177: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 156 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 156 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (156)
+Seat 2: TuberAAA (button) folded before Flop (didn't bet)
+Seat 6: nevets177 (small blind) folded before Flop
+
+PokerStars Hand #189829573681: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:06:08 MSK [2018/08/12 23:06:08 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (858 in chips)
+Seat 2: TuberAAA (821 in chips)
+Seat 6: nevets177 (1321 in chips)
+DiggErr555: posts the ante 12
+TuberAAA: posts the ante 12
+nevets177: posts the ante 12
+DiggErr555: posts small blind 60
+TuberAAA: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 3s]
+nevets177: folds
+DiggErr555: raises 726 to 846 and is all-in
+TuberAAA: calls 689 and is all-in
+Uncalled bet (37) returned to DiggErr555
+*** FLOP *** [4d Tc 2h]
+*** TURN *** [4d Tc 2h] [4c]
+*** RIVER *** [4d Tc 2h 4c] [Td]
+*** SHOW DOWN ***
+DiggErr555: shows [8h 3s] (two pair, Tens and Fours)
+TuberAAA: shows [Ad 6s] (two pair, Tens and Fours - Ace kicker)
+TuberAAA collected 1654 from pot
+*** SUMMARY ***
+Total pot 1654 | Rake 0
+Board [4d Tc 2h 4c Td]
+Seat 1: DiggErr555 (small blind) showed [8h 3s] and lost with two pair, Tens and Fours
+Seat 2: TuberAAA (big blind) showed [Ad 6s] and won (1654) with two pair, Tens and Fours
+Seat 6: nevets177 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829577873: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:06:24 MSK [2018/08/12 23:06:24 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (37 in chips)
+Seat 2: TuberAAA (1654 in chips)
+Seat 6: nevets177 (1309 in chips)
+DiggErr555: posts the ante 12
+TuberAAA: posts the ante 12
+nevets177: posts the ante 12
+TuberAAA: posts small blind 60
+nevets177: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Js]
+DiggErr555: folds
+TuberAAA: calls 60
+nevets177: checks
+*** FLOP *** [7h 6c Ad]
+TuberAAA: bets 120
+nevets177: raises 480 to 600
+TuberAAA: folds
+Uncalled bet (480) returned to nevets177
+nevets177 collected 516 from pot
+*** SUMMARY ***
+Total pot 516 | Rake 0
+Board [7h 6c Ad]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: TuberAAA (small blind) folded on the Flop
+Seat 6: nevets177 (big blind) collected (516)
+
+PokerStars Hand #189829582224: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:06:41 MSK [2018/08/12 23:06:41 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (25 in chips)
+Seat 2: TuberAAA (1402 in chips)
+Seat 6: nevets177 (1573 in chips)
+DiggErr555: posts the ante 12
+TuberAAA: posts the ante 12
+nevets177: posts the ante 12
+nevets177: posts small blind 60
+DiggErr555: posts big blind 13 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 6c]
+TuberAAA: calls 120
+nevets177: calls 60
+*** FLOP *** [Kc Qh 5h]
+nevets177: checks
+TuberAAA: checks
+*** TURN *** [Kc Qh 5h] [4d]
+nevets177: checks
+TuberAAA: bets 120
+nevets177: folds
+Uncalled bet (120) returned to TuberAAA
+*** RIVER *** [Kc Qh 5h 4d] [3d]
+*** SHOW DOWN ***
+TuberAAA: shows [6h 5c] (a pair of Fives)
+TuberAAA collected 214 from side pot
+DiggErr555: shows [7h 6c] (a straight, Three to Seven)
+DiggErr555 collected 75 from main pot
+*** SUMMARY ***
+Total pot 289 Main pot 75. Side pot 214. | Rake 0
+Board [Kc Qh 5h 4d 3d]
+Seat 1: DiggErr555 (big blind) showed [7h 6c] and won (75) with a straight, Three to Seven
+Seat 2: TuberAAA (button) showed [6h 5c] and won (214) with a pair of Fives
+Seat 6: nevets177 (small blind) folded on the Turn
+
+PokerStars Hand #189829588256: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:07:04 MSK [2018/08/12 23:07:04 ET]
+Table '2381060544 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (75 in chips)
+Seat 2: TuberAAA (1484 in chips)
+Seat 6: nevets177 (1441 in chips)
+DiggErr555: posts the ante 12
+TuberAAA: posts the ante 12
+nevets177: posts the ante 12
+DiggErr555: posts small blind 60
+TuberAAA: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 8h]
+nevets177: raises 120 to 240
+DiggErr555: calls 3 and is all-in
+TuberAAA: calls 120
+*** FLOP *** [3h 8s Td]
+TuberAAA: checks
+nevets177: bets 240
+TuberAAA: folds
+Uncalled bet (240) returned to nevets177
+*** TURN *** [3h 8s Td] [Qc]
+*** RIVER *** [3h 8s Td Qc] [Ac]
+*** SHOW DOWN ***
+nevets177: shows [2d 8d] (a pair of Eights)
+nevets177 collected 354 from side pot
+DiggErr555: shows [Jc 8h] (a pair of Eights - Ace+Queen+Jack kicker)
+DiggErr555 collected 225 from main pot
+*** SUMMARY ***
+Total pot 579 Main pot 225. Side pot 354. | Rake 0
+Board [3h 8s Td Qc Ac]
+Seat 1: DiggErr555 (small blind) showed [Jc 8h] and won (225) with a pair of Eights
+Seat 2: TuberAAA (big blind) folded on the Flop
+Seat 6: nevets177 (button) showed [2d 8d] and won (354) with a pair of Eights
+
+PokerStars Hand #189829593582: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:07:25 MSK [2018/08/12 23:07:25 ET]
+Table '2381060544 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (225 in chips)
+Seat 2: TuberAAA (1232 in chips)
+Seat 6: nevets177 (1543 in chips)
+DiggErr555: posts the ante 12
+TuberAAA: posts the ante 12
+nevets177: posts the ante 12
+TuberAAA: posts small blind 60
+nevets177: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 4s]
+DiggErr555: folds
+TuberAAA: folds
+Uncalled bet (60) returned to nevets177
+nevets177 collected 156 from pot
+*** SUMMARY ***
+Total pot 156 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: TuberAAA (small blind) folded before Flop
+Seat 6: nevets177 (big blind) collected (156)
+
+PokerStars Hand #189829595599: Tournament #2381060544, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 6:07:33 MSK [2018/08/12 23:07:33 ET]
+Table '2381060544 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (213 in chips)
+Seat 2: TuberAAA (1160 in chips)
+Seat 6: nevets177 (1627 in chips)
+DiggErr555: posts the ante 15
+TuberAAA: posts the ante 15
+nevets177: posts the ante 15
+nevets177: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh Ks]
+TuberAAA: calls 150
+nevets177: calls 75
+DiggErr555: checks
+*** FLOP *** [Js 6d 6s]
+nevets177: checks
+DiggErr555: bets 48 and is all-in
+TuberAAA: raises 102 to 150
+nevets177: calls 150
+*** TURN *** [Js 6d 6s] [Ts]
+nevets177: checks
+TuberAAA: checks
+*** RIVER *** [Js 6d 6s Ts] [2c]
+nevets177: bets 300
+TuberAAA: raises 545 to 845 and is all-in
+nevets177: calls 545
+*** SHOW DOWN ***
+TuberAAA: shows [Qs 5s] (a flush, Queen high)
+nevets177: shows [6h Jd] (a full house, Sixes full of Jacks)
+nevets177 collected 1894 from side pot
+DiggErr555: shows [Jh Ks] (two pair, Jacks and Sixes)
+nevets177 collected 639 from main pot
+nevets177 wins the $4.79 bounty for eliminating DiggErr555
+nevets177 wins the $4.79 bounty for eliminating TuberAAA
+TuberAAA finished the tournament in 2nd place and received $14.37.
+DiggErr555 finished the tournament in 3rd place
+nevets177 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 2533 Main pot 639. Side pot 1894. | Rake 0
+Board [Js 6d 6s Ts 2c]
+Seat 1: DiggErr555 (big blind) showed [Jh Ks] and lost with two pair, Jacks and Sixes
+Seat 2: TuberAAA (button) showed [Qs 5s] and lost with a flush, Queen high
+Seat 6: nevets177 (small blind) showed [6h Jd] and won (2533) with a full house, Sixes full of Jacks

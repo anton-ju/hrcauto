@@ -1,0 +1,1177 @@
+
+
+PokerStars Hand #189830439954: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:06:00 MSK [2018/08/13 0:06:00 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (500 in chips)
+Seat 2: AA-HunterGER (500 in chips)
+Seat 3: oposs153 (500 in chips)
+Seat 4: bottles666 (500 in chips)
+Seat 5: JBlaze525 (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+700max: posts the ante 2
+AA-HunterGER: posts the ante 2
+oposs153: posts the ante 2
+bottles666: posts the ante 2
+JBlaze525: posts the ante 2
+DiggErr555: posts the ante 2
+AA-HunterGER: posts small blind 10
+oposs153: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 4h]
+bottles666: calls 20
+JBlaze525: folds
+DiggErr555: folds
+700max: folds
+AA-HunterGER: calls 10
+oposs153: checks
+*** FLOP *** [Ks Td 3s]
+AA-HunterGER: bets 40
+oposs153: folds
+bottles666: calls 40
+*** TURN *** [Ks Td 3s] [2c]
+AA-HunterGER: checks
+bottles666: checks
+*** RIVER *** [Ks Td 3s 2c] [Qs]
+AA-HunterGER: bets 76
+bottles666: calls 76
+*** SHOW DOWN ***
+AA-HunterGER: shows [Kc 6c] (a pair of Kings)
+bottles666: shows [Kd Qc] (two pair, Kings and Queens)
+bottles666 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | Rake 0
+Board [Ks Td 3s 2c Qs]
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (small blind) showed [Kc 6c] and lost with a pair of Kings
+Seat 3: oposs153 (big blind) folded on the Flop
+Seat 4: bottles666 showed [Kd Qc] and won (304) with two pair, Kings and Queens
+Seat 5: JBlaze525 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830445415: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:06:25 MSK [2018/08/13 0:06:25 ET]
+Table '2381083812 1' 6-max Seat #2 is the button
+Seat 1: 700max (498 in chips)
+Seat 2: AA-HunterGER (362 in chips)
+Seat 3: oposs153 (478 in chips)
+Seat 4: bottles666 (666 in chips)
+Seat 5: JBlaze525 (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+700max: posts the ante 2
+AA-HunterGER: posts the ante 2
+oposs153: posts the ante 2
+bottles666: posts the ante 2
+JBlaze525: posts the ante 2
+DiggErr555: posts the ante 2
+oposs153: posts small blind 10
+bottles666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Kh]
+JBlaze525: folds
+DiggErr555: raises 20 to 40
+700max: folds
+AA-HunterGER: folds
+oposs153: folds
+bottles666: calls 20
+*** FLOP *** [3c 3d Kc]
+bottles666: checks
+DiggErr555: checks
+*** TURN *** [3c 3d Kc] [4c]
+bottles666: checks
+DiggErr555: bets 60
+bottles666: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 102 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Board [3c 3d Kc 4c]
+Seat 1: 700max folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (button) folded before Flop (didn't bet)
+Seat 3: oposs153 (small blind) folded before Flop
+Seat 4: bottles666 (big blind) folded on the Turn
+Seat 5: JBlaze525 folded before Flop (didn't bet)
+Seat 6: DiggErr555 collected (102)
+
+PokerStars Hand #189830453198: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:06:59 MSK [2018/08/13 0:06:59 ET]
+Table '2381083812 1' 6-max Seat #3 is the button
+Seat 1: 700max (496 in chips)
+Seat 2: AA-HunterGER (360 in chips)
+Seat 3: oposs153 (466 in chips)
+Seat 4: bottles666 (624 in chips)
+Seat 5: JBlaze525 (496 in chips)
+Seat 6: DiggErr555 (558 in chips)
+700max: posts the ante 2
+AA-HunterGER: posts the ante 2
+oposs153: posts the ante 2
+bottles666: posts the ante 2
+JBlaze525: posts the ante 2
+DiggErr555: posts the ante 2
+bottles666: posts small blind 10
+JBlaze525: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c Qc]
+DiggErr555: folds
+700max: folds
+AA-HunterGER: folds
+oposs153: folds
+bottles666: folds
+Uncalled bet (10) returned to JBlaze525
+JBlaze525 collected 32 from pot
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: 700max folded before Flop (didn't bet)
+Seat 2: AA-HunterGER folded before Flop (didn't bet)
+Seat 3: oposs153 (button) folded before Flop (didn't bet)
+Seat 4: bottles666 (small blind) folded before Flop
+Seat 5: JBlaze525 (big blind) collected (32)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830457445: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:07:18 MSK [2018/08/13 0:07:18 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (494 in chips)
+Seat 2: AA-HunterGER (358 in chips)
+Seat 3: oposs153 (464 in chips)
+Seat 4: bottles666 (612 in chips)
+Seat 5: JBlaze525 (516 in chips)
+Seat 6: DiggErr555 (556 in chips)
+700max: posts the ante 3
+AA-HunterGER: posts the ante 3
+oposs153: posts the ante 3
+bottles666: posts the ante 3
+JBlaze525: posts the ante 3
+DiggErr555: posts the ante 3
+JBlaze525: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Ac]
+700max: folds
+AA-HunterGER: raises 325 to 355 and is all-in
+oposs153: folds
+bottles666: folds
+JBlaze525: folds
+DiggErr555: folds
+Uncalled bet (325) returned to AA-HunterGER
+AA-HunterGER collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: 700max folded before Flop (didn't bet)
+Seat 2: AA-HunterGER collected (93)
+Seat 3: oposs153 folded before Flop (didn't bet)
+Seat 4: bottles666 (button) folded before Flop (didn't bet)
+Seat 5: JBlaze525 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830461325: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:07:36 MSK [2018/08/13 0:07:36 ET]
+Table '2381083812 1' 6-max Seat #5 is the button
+Seat 1: 700max (491 in chips)
+Seat 2: AA-HunterGER (418 in chips)
+Seat 3: oposs153 (461 in chips)
+Seat 4: bottles666 (609 in chips)
+Seat 5: JBlaze525 (498 in chips)
+Seat 6: DiggErr555 (523 in chips)
+700max: posts the ante 3
+AA-HunterGER: posts the ante 3
+oposs153: posts the ante 3
+bottles666: posts the ante 3
+JBlaze525: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+700max: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Qc]
+AA-HunterGER: raises 385 to 415 and is all-in
+oposs153: folds
+bottles666: folds
+JBlaze525: folds
+DiggErr555: folds
+700max: folds
+Uncalled bet (385) returned to AA-HunterGER
+AA-HunterGER collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: 700max (big blind) folded before Flop
+Seat 2: AA-HunterGER collected (93)
+Seat 3: oposs153 folded before Flop (didn't bet)
+Seat 4: bottles666 folded before Flop (didn't bet)
+Seat 5: JBlaze525 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830463989: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:07:47 MSK [2018/08/13 0:07:47 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (458 in chips)
+Seat 2: AA-HunterGER (478 in chips)
+Seat 3: oposs153 (458 in chips)
+Seat 4: bottles666 (606 in chips)
+Seat 5: JBlaze525 (495 in chips)
+Seat 6: DiggErr555 (505 in chips)
+700max: posts the ante 3
+AA-HunterGER: posts the ante 3
+oposs153: posts the ante 3
+bottles666: posts the ante 3
+JBlaze525: posts the ante 3
+DiggErr555: posts the ante 3
+700max: posts small blind 15
+AA-HunterGER: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Js]
+oposs153: folds
+bottles666: folds
+JBlaze525: folds
+DiggErr555: raises 472 to 502 and is all-in
+700max: folds
+AA-HunterGER: folds
+Uncalled bet (472) returned to DiggErr555
+DiggErr555 collected 93 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: 700max (small blind) folded before Flop
+Seat 2: AA-HunterGER (big blind) folded before Flop
+Seat 3: oposs153 folded before Flop (didn't bet)
+Seat 4: bottles666 folded before Flop (didn't bet)
+Seat 5: JBlaze525 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) collected (93)
+
+PokerStars Hand #189830470521: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:08:17 MSK [2018/08/13 0:08:17 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (440 in chips)
+Seat 2: AA-HunterGER (445 in chips)
+Seat 3: oposs153 (455 in chips)
+Seat 4: bottles666 (603 in chips)
+Seat 5: JBlaze525 (492 in chips)
+Seat 6: DiggErr555 (565 in chips)
+700max: posts the ante 3
+AA-HunterGER: posts the ante 3
+oposs153: posts the ante 3
+bottles666: posts the ante 3
+JBlaze525: posts the ante 3
+DiggErr555: posts the ante 3
+AA-HunterGER: posts small blind 15
+oposs153: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 9s]
+bottles666: raises 30 to 60
+JBlaze525: calls 60
+DiggErr555: folds
+700max: folds
+AA-HunterGER: folds
+oposs153: calls 30
+*** FLOP *** [6d Ts 8d]
+oposs153: checks
+bottles666: checks
+JBlaze525: checks
+*** TURN *** [6d Ts 8d] [3c]
+oposs153: bets 180
+bottles666: calls 180
+JBlaze525: calls 180
+*** RIVER *** [6d Ts 8d 3c] [4s]
+oposs153: checks
+bottles666: bets 30
+JBlaze525: folds
+oposs153: calls 30
+*** SHOW DOWN ***
+bottles666: shows [7h 7c] (a pair of Sevens)
+oposs153: mucks hand
+bottles666 collected 813 from pot
+*** SUMMARY ***
+Total pot 813 | Rake 0
+Board [6d Ts 8d 3c 4s]
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (small blind) folded before Flop
+Seat 3: oposs153 (big blind) mucked [6c 9d]
+Seat 4: bottles666 showed [7h 7c] and won (813) with a pair of Sevens
+Seat 5: JBlaze525 folded on the River
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830481113: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:09:04 MSK [2018/08/13 0:09:04 ET]
+Table '2381083812 1' 6-max Seat #2 is the button
+Seat 1: 700max (437 in chips)
+Seat 2: AA-HunterGER (427 in chips)
+Seat 3: oposs153 (182 in chips)
+Seat 4: bottles666 (1143 in chips)
+Seat 5: JBlaze525 (249 in chips)
+Seat 6: DiggErr555 (562 in chips)
+700max: posts the ante 4
+AA-HunterGER: posts the ante 4
+oposs153: posts the ante 4
+bottles666: posts the ante 4
+JBlaze525: posts the ante 4
+DiggErr555: posts the ante 4
+oposs153: posts small blind 20
+bottles666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 6h]
+JBlaze525: folds
+DiggErr555: folds
+700max: folds
+AA-HunterGER: folds
+oposs153: raises 138 to 178 and is all-in
+bottles666: folds
+Uncalled bet (138) returned to oposs153
+oposs153 collected 104 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: 700max folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (button) folded before Flop (didn't bet)
+Seat 3: oposs153 (small blind) collected (104)
+Seat 4: bottles666 (big blind) folded before Flop
+Seat 5: JBlaze525 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830485198: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:09:23 MSK [2018/08/13 0:09:23 ET]
+Table '2381083812 1' 6-max Seat #3 is the button
+Seat 1: 700max (433 in chips)
+Seat 2: AA-HunterGER (423 in chips)
+Seat 3: oposs153 (242 in chips)
+Seat 4: bottles666 (1099 in chips)
+Seat 5: JBlaze525 (245 in chips)
+Seat 6: DiggErr555 (558 in chips)
+700max: posts the ante 4
+AA-HunterGER: posts the ante 4
+oposs153: posts the ante 4
+bottles666: posts the ante 4
+JBlaze525: posts the ante 4
+DiggErr555: posts the ante 4
+bottles666: posts small blind 20
+JBlaze525: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 5s]
+DiggErr555: folds
+700max: raises 120 to 160
+AA-HunterGER: folds
+oposs153: folds
+bottles666: calls 140
+JBlaze525: raises 81 to 241 and is all-in
+700max: calls 81
+bottles666: calls 81
+*** FLOP *** [3s Ac 7d]
+bottles666: checks
+700max: bets 80
+bottles666: calls 80
+*** TURN *** [3s Ac 7d] [Kh]
+bottles666: checks
+700max: bets 80
+bottles666: calls 80
+*** RIVER *** [3s Ac 7d Kh] [4c]
+bottles666: checks
+700max: bets 28 and is all-in
+bottles666: calls 28
+*** SHOW DOWN ***
+700max: shows [Kd As] (two pair, Aces and Kings)
+bottles666: shows [9s 9d] (a pair of Nines)
+700max collected 376 from side pot
+JBlaze525: shows [Tc Qd] (high card Ace)
+700max collected 747 from main pot
+700max wins the $2.38 bounty for eliminating JBlaze525
+JBlaze525 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1123 Main pot 747. Side pot 376. | Rake 0
+Board [3s Ac 7d Kh 4c]
+Seat 1: 700max showed [Kd As] and won (1123) with two pair, Aces and Kings
+Seat 2: AA-HunterGER folded before Flop (didn't bet)
+Seat 3: oposs153 (button) folded before Flop (didn't bet)
+Seat 4: bottles666 (small blind) showed [9s 9d] and lost with a pair of Nines
+Seat 5: JBlaze525 (big blind) showed [Tc Qd] and lost with high card Ace
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830496714: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:10:16 MSK [2018/08/13 0:10:16 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (1123 in chips)
+Seat 2: AA-HunterGER (419 in chips)
+Seat 3: oposs153 (238 in chips)
+Seat 4: bottles666 (666 in chips)
+Seat 6: DiggErr555 (554 in chips)
+700max: posts the ante 4
+AA-HunterGER: posts the ante 4
+oposs153: posts the ante 4
+bottles666: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+700max: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 8c]
+AA-HunterGER: raises 375 to 415 and is all-in
+oposs153: folds
+bottles666: folds
+DiggErr555: folds
+700max: folds
+Uncalled bet (375) returned to AA-HunterGER
+AA-HunterGER collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: 700max (big blind) folded before Flop
+Seat 2: AA-HunterGER collected (120)
+Seat 3: oposs153 folded before Flop (didn't bet)
+Seat 4: bottles666 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830498777: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:10:25 MSK [2018/08/13 0:10:25 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (1079 in chips)
+Seat 2: AA-HunterGER (495 in chips)
+Seat 3: oposs153 (234 in chips)
+Seat 4: bottles666 (662 in chips)
+Seat 6: DiggErr555 (530 in chips)
+700max: posts the ante 4
+AA-HunterGER: posts the ante 4
+oposs153: posts the ante 4
+bottles666: posts the ante 4
+DiggErr555: posts the ante 4
+700max: posts small blind 20
+AA-HunterGER: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd Js]
+oposs153: folds
+bottles666: folds
+DiggErr555: raises 486 to 526 and is all-in
+700max: folds
+AA-HunterGER: folds
+Uncalled bet (486) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: 700max (small blind) folded before Flop
+Seat 2: AA-HunterGER (big blind) folded before Flop
+Seat 3: oposs153 folded before Flop (didn't bet)
+Seat 4: bottles666 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) collected (120)
+
+PokerStars Hand #189830501682: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:10:38 MSK [2018/08/13 0:10:38 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (1055 in chips)
+Seat 2: AA-HunterGER (451 in chips)
+Seat 3: oposs153 (230 in chips)
+Seat 4: bottles666 (658 in chips)
+Seat 6: DiggErr555 (606 in chips)
+700max: posts the ante 6
+AA-HunterGER: posts the ante 6
+oposs153: posts the ante 6
+bottles666: posts the ante 6
+DiggErr555: posts the ante 6
+AA-HunterGER: posts small blind 30
+oposs153: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 9c]
+bottles666: folds
+DiggErr555: folds
+700max: folds
+AA-HunterGER: raises 385 to 445 and is all-in
+oposs153: calls 164 and is all-in
+Uncalled bet (221) returned to AA-HunterGER
+*** FLOP *** [Tc 7c Ad]
+*** TURN *** [Tc 7c Ad] [As]
+*** RIVER *** [Tc 7c Ad As] [Ks]
+*** SHOW DOWN ***
+AA-HunterGER: shows [4d 4c] (two pair, Aces and Fours)
+oposs153: shows [5d 6c] (a pair of Aces)
+AA-HunterGER collected 478 from pot
+AA-HunterGER wins the $2.38 bounty for eliminating oposs153
+oposs153 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 478 | Rake 0
+Board [Tc 7c Ad As Ks]
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (small blind) showed [4d 4c] and won (478) with two pair, Aces and Fours
+Seat 3: oposs153 (big blind) showed [5d 6c] and lost with a pair of Aces
+Seat 4: bottles666 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830506774: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:11:02 MSK [2018/08/13 0:11:02 ET]
+Table '2381083812 1' 6-max Seat #2 is the button
+Seat 1: 700max (1049 in chips)
+Seat 2: AA-HunterGER (699 in chips)
+Seat 4: bottles666 (652 in chips)
+Seat 6: DiggErr555 (600 in chips)
+700max: posts the ante 6
+AA-HunterGER: posts the ante 6
+bottles666: posts the ante 6
+DiggErr555: posts the ante 6
+bottles666: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 3c]
+700max: folds
+AA-HunterGER: calls 60
+bottles666: calls 30
+DiggErr555: checks
+*** FLOP *** [4h 5d 6d]
+bottles666: checks
+DiggErr555: checks
+AA-HunterGER: checks
+*** TURN *** [4h 5d 6d] [2c]
+bottles666: checks
+DiggErr555: bets 120
+AA-HunterGER: folds
+bottles666: folds
+Uncalled bet (120) returned to DiggErr555
+DiggErr555 collected 204 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 204 | Rake 0
+Board [4h 5d 6d 2c]
+Seat 1: 700max folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (button) folded on the Turn
+Seat 4: bottles666 (small blind) folded on the Turn
+Seat 6: DiggErr555 (big blind) collected (204)
+
+PokerStars Hand #189830514752: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:11:39 MSK [2018/08/13 0:11:39 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (1043 in chips)
+Seat 2: AA-HunterGER (633 in chips)
+Seat 4: bottles666 (586 in chips)
+Seat 6: DiggErr555 (738 in chips)
+700max: posts the ante 6
+AA-HunterGER: posts the ante 6
+bottles666: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+700max: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 7c]
+AA-HunterGER: calls 60
+bottles666: calls 60
+DiggErr555: folds
+700max: raises 977 to 1037 and is all-in
+AA-HunterGER: folds
+bottles666: calls 520 and is all-in
+Uncalled bet (457) returned to 700max
+*** FLOP *** [6d 2s Jh]
+*** TURN *** [6d 2s Jh] [2c]
+*** RIVER *** [6d 2s Jh 2c] [Qd]
+*** SHOW DOWN ***
+700max: shows [As 7s] (a pair of Deuces)
+bottles666: shows [Td Qc] (two pair, Queens and Deuces)
+bottles666 collected 1274 from pot
+*** SUMMARY ***
+Total pot 1274 | Rake 0
+Board [6d 2s Jh 2c Qd]
+Seat 1: 700max (big blind) showed [As 7s] and lost with a pair of Deuces
+Seat 2: AA-HunterGER folded before Flop
+Seat 4: bottles666 (button) showed [Td Qc] and won (1274) with two pair, Queens and Deuces
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830520956: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:12:07 MSK [2018/08/13 0:12:07 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (457 in chips)
+Seat 2: AA-HunterGER (567 in chips)
+Seat 4: bottles666 (1274 in chips)
+Seat 6: DiggErr555 (702 in chips)
+700max: posts the ante 6
+AA-HunterGER: posts the ante 6
+bottles666: posts the ante 6
+DiggErr555: posts the ante 6
+700max: posts small blind 30
+AA-HunterGER: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 5c]
+bottles666: calls 60
+DiggErr555: folds
+700max: raises 391 to 451 and is all-in
+AA-HunterGER: folds
+bottles666: calls 391
+*** FLOP *** [9c 7s 9d]
+*** TURN *** [9c 7s 9d] [Jh]
+*** RIVER *** [9c 7s 9d Jh] [Kh]
+*** SHOW DOWN ***
+700max: shows [Ah Ad] (two pair, Aces and Nines)
+bottles666: shows [Ac Qc] (a pair of Nines)
+700max collected 986 from pot
+*** SUMMARY ***
+Total pot 986 | Rake 0
+Board [9c 7s 9d Jh Kh]
+Seat 1: 700max (small blind) showed [Ah Ad] and won (986) with two pair, Aces and Nines
+Seat 2: AA-HunterGER (big blind) folded before Flop
+Seat 4: bottles666 showed [Ac Qc] and lost with a pair of Nines
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830525069: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:12:26 MSK [2018/08/13 0:12:26 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (986 in chips)
+Seat 2: AA-HunterGER (501 in chips)
+Seat 4: bottles666 (817 in chips)
+Seat 6: DiggErr555 (696 in chips)
+700max: posts the ante 6
+AA-HunterGER: posts the ante 6
+bottles666: posts the ante 6
+DiggErr555: posts the ante 6
+AA-HunterGER: posts small blind 30
+bottles666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 9c]
+DiggErr555: folds
+700max: folds
+AA-HunterGER: raises 435 to 495 and is all-in
+bottles666: folds
+Uncalled bet (435) returned to AA-HunterGER
+AA-HunterGER collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (small blind) collected (144)
+Seat 4: bottles666 (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830527987: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:12:39 MSK [2018/08/13 0:12:39 ET]
+Table '2381083812 1' 6-max Seat #2 is the button
+Seat 1: 700max (980 in chips)
+Seat 2: AA-HunterGER (579 in chips)
+Seat 4: bottles666 (751 in chips)
+Seat 6: DiggErr555 (690 in chips)
+700max: posts the ante 8
+AA-HunterGER: posts the ante 8
+bottles666: posts the ante 8
+DiggErr555: posts the ante 8
+bottles666: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Qs]
+700max: folds
+AA-HunterGER: folds
+bottles666: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 112 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: 700max folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (button) folded before Flop (didn't bet)
+Seat 4: bottles666 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (112)
+
+PokerStars Hand #189830529270: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:12:45 MSK [2018/08/13 0:12:45 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (972 in chips)
+Seat 2: AA-HunterGER (571 in chips)
+Seat 4: bottles666 (703 in chips)
+Seat 6: DiggErr555 (754 in chips)
+700max: posts the ante 8
+AA-HunterGER: posts the ante 8
+bottles666: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+700max: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 7h]
+AA-HunterGER: folds
+bottles666: raises 80 to 160
+DiggErr555: folds
+700max: folds
+Uncalled bet (80) returned to bottles666
+bottles666 collected 232 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Seat 1: 700max (big blind) folded before Flop
+Seat 2: AA-HunterGER folded before Flop (didn't bet)
+Seat 4: bottles666 (button) collected (232)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830532124: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:12:58 MSK [2018/08/13 0:12:58 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (884 in chips)
+Seat 2: AA-HunterGER (563 in chips)
+Seat 4: bottles666 (847 in chips)
+Seat 6: DiggErr555 (706 in chips)
+700max: posts the ante 8
+AA-HunterGER: posts the ante 8
+bottles666: posts the ante 8
+DiggErr555: posts the ante 8
+700max: posts small blind 40
+AA-HunterGER: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d Qs]
+bottles666: calls 80
+DiggErr555: folds
+700max: folds
+AA-HunterGER: checks
+*** FLOP *** [Jc 2d Kc]
+AA-HunterGER: bets 160
+bottles666: calls 160
+*** TURN *** [Jc 2d Kc] [Qh]
+AA-HunterGER: checks
+bottles666: bets 80
+AA-HunterGER: folds
+Uncalled bet (80) returned to bottles666
+bottles666 collected 552 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 552 | Rake 0
+Board [Jc 2d Kc Qh]
+Seat 1: 700max (small blind) folded before Flop
+Seat 2: AA-HunterGER (big blind) folded on the Turn
+Seat 4: bottles666 collected (552)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830537057: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:13:20 MSK [2018/08/13 0:13:20 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (836 in chips)
+Seat 2: AA-HunterGER (315 in chips)
+Seat 4: bottles666 (1151 in chips)
+Seat 6: DiggErr555 (698 in chips)
+700max: posts the ante 8
+AA-HunterGER: posts the ante 8
+bottles666: posts the ante 8
+DiggErr555: posts the ante 8
+AA-HunterGER: posts small blind 40
+bottles666: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 7h]
+DiggErr555: folds
+700max: folds
+AA-HunterGER: folds
+Uncalled bet (40) returned to bottles666
+bottles666 collected 112 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 2: AA-HunterGER (small blind) folded before Flop
+Seat 4: bottles666 (big blind) collected (112)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830540222: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:13:35 MSK [2018/08/13 0:13:35 ET]
+Table '2381083812 1' 6-max Seat #2 is the button
+Seat 1: 700max (828 in chips)
+Seat 2: AA-HunterGER (267 in chips)
+Seat 4: bottles666 (1215 in chips)
+Seat 6: DiggErr555 (690 in chips)
+700max: posts the ante 8
+AA-HunterGER: posts the ante 8
+bottles666: posts the ante 8
+DiggErr555: posts the ante 8
+bottles666: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d As]
+700max: raises 740 to 820 and is all-in
+AA-HunterGER: calls 259 and is all-in
+bottles666: folds
+DiggErr555: folds
+Uncalled bet (561) returned to 700max
+*** FLOP *** [7c 4c 4s]
+*** TURN *** [7c 4c 4s] [7d]
+*** RIVER *** [7c 4c 4s 7d] [Qc]
+*** SHOW DOWN ***
+700max: shows [Jh Qs] (two pair, Queens and Sevens)
+AA-HunterGER: shows [3s 6s] (two pair, Sevens and Fours)
+700max collected 670 from pot
+700max wins the $2.38 bounty for eliminating AA-HunterGER
+AA-HunterGER finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 670 | Rake 0
+Board [7c 4c 4s 7d Qc]
+Seat 1: 700max showed [Jh Qs] and won (670) with two pair, Queens and Sevens
+Seat 2: AA-HunterGER (button) showed [3s 6s] and lost with two pair, Sevens and Fours
+Seat 4: bottles666 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830545766: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:13:59 MSK [2018/08/13 0:13:59 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (1231 in chips)
+Seat 4: bottles666 (1167 in chips)
+Seat 6: DiggErr555 (602 in chips)
+700max: posts the ante 10
+bottles666: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+700max: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Kd]
+bottles666: folds
+DiggErr555: raises 492 to 592 and is all-in
+700max: folds
+Uncalled bet (492) returned to DiggErr555
+DiggErr555 collected 230 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: 700max (big blind) folded before Flop
+Seat 4: bottles666 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (230)
+
+PokerStars Hand #189830547125: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:14:06 MSK [2018/08/13 0:14:06 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (1121 in chips)
+Seat 4: bottles666 (1157 in chips)
+Seat 6: DiggErr555 (722 in chips)
+700max: posts the ante 10
+bottles666: posts the ante 10
+DiggErr555: posts the ante 10
+700max: posts small blind 50
+bottles666: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 5c]
+DiggErr555: folds
+700max: folds
+Uncalled bet (50) returned to bottles666
+bottles666 collected 130 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: 700max (small blind) folded before Flop
+Seat 4: bottles666 (big blind) collected (130)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830548788: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:14:13 MSK [2018/08/13 0:14:13 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (1061 in chips)
+Seat 4: bottles666 (1227 in chips)
+Seat 6: DiggErr555 (712 in chips)
+700max: posts the ante 10
+bottles666: posts the ante 10
+DiggErr555: posts the ante 10
+bottles666: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 8s]
+700max: folds
+bottles666: calls 50
+DiggErr555: checks
+*** FLOP *** [7h 6h 6s]
+bottles666: checks
+DiggErr555: checks
+*** TURN *** [7h 6h 6s] [8c]
+bottles666: checks
+DiggErr555: bets 100
+bottles666: folds
+Uncalled bet (100) returned to DiggErr555
+DiggErr555 collected 230 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Board [7h 6h 6s 8c]
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 4: bottles666 (small blind) folded on the Turn
+Seat 6: DiggErr555 (big blind) collected (230)
+
+PokerStars Hand #189830556636: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:14:49 MSK [2018/08/13 0:14:49 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (1051 in chips)
+Seat 4: bottles666 (1117 in chips)
+Seat 6: DiggErr555 (832 in chips)
+700max: posts the ante 10
+bottles666: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+700max: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 8s]
+bottles666: folds
+DiggErr555: raises 722 to 822 and is all-in
+700max: calls 722
+*** FLOP *** [9c Kh 8h]
+*** TURN *** [9c Kh 8h] [6s]
+*** RIVER *** [9c Kh 8h 6s] [Jc]
+*** SHOW DOWN ***
+DiggErr555: shows [Kc 8s] (two pair, Kings and Eights)
+700max: shows [6h Ad] (a pair of Sixes)
+DiggErr555 collected 1674 from pot
+*** SUMMARY ***
+Total pot 1674 | Rake 0
+Board [9c Kh 8h 6s Jc]
+Seat 1: 700max (big blind) showed [6h Ad] and lost with a pair of Sixes
+Seat 4: bottles666 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [Kc 8s] and won (1674) with two pair, Kings and Eights
+
+PokerStars Hand #189830562280: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:15:15 MSK [2018/08/13 0:15:15 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (219 in chips)
+Seat 4: bottles666 (1107 in chips)
+Seat 6: DiggErr555 (1674 in chips)
+700max: posts the ante 10
+bottles666: posts the ante 10
+DiggErr555: posts the ante 10
+700max: posts small blind 50
+bottles666: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 5s]
+DiggErr555: raises 1564 to 1664 and is all-in
+700max: calls 159 and is all-in
+bottles666: folds
+Uncalled bet (1455) returned to DiggErr555
+*** FLOP *** [9c 7c 7h]
+*** TURN *** [9c 7c 7h] [Qd]
+*** RIVER *** [9c 7c 7h Qd] [8s]
+*** SHOW DOWN ***
+700max: shows [Ah 2s] (a pair of Sevens)
+DiggErr555: shows [4s 5s] (a pair of Sevens - lower kicker)
+700max collected 548 from pot
+*** SUMMARY ***
+Total pot 548 | Rake 0
+Board [9c 7c 7h Qd 8s]
+Seat 1: 700max (small blind) showed [Ah 2s] and won (548) with a pair of Sevens
+Seat 4: bottles666 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) showed [4s 5s] and lost with a pair of Sevens
+
+PokerStars Hand #189830567358: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:15:38 MSK [2018/08/13 0:15:38 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (548 in chips)
+Seat 4: bottles666 (997 in chips)
+Seat 6: DiggErr555 (1455 in chips)
+700max: posts the ante 10
+bottles666: posts the ante 10
+DiggErr555: posts the ante 10
+bottles666: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 2c]
+700max: folds
+bottles666: calls 50
+DiggErr555: checks
+*** FLOP *** [2s 9c 3d]
+bottles666: bets 100
+DiggErr555: folds
+Uncalled bet (100) returned to bottles666
+bottles666 collected 230 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Board [2s 9c 3d]
+Seat 1: 700max (button) folded before Flop (didn't bet)
+Seat 4: bottles666 (small blind) collected (230)
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189830573933: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:16:08 MSK [2018/08/13 0:16:08 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 1: 700max (538 in chips)
+Seat 4: bottles666 (1117 in chips)
+Seat 6: DiggErr555 (1345 in chips)
+700max: posts the ante 12
+bottles666: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+700max: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 8s]
+bottles666: folds
+DiggErr555: raises 1213 to 1333 and is all-in
+700max: folds
+Uncalled bet (1213) returned to DiggErr555
+DiggErr555 collected 276 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 276 | Rake 0
+Seat 1: 700max (big blind) folded before Flop
+Seat 4: bottles666 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (276)
+
+PokerStars Hand #189830576074: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:16:18 MSK [2018/08/13 0:16:18 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 1: 700max (406 in chips)
+Seat 4: bottles666 (1105 in chips)
+Seat 6: DiggErr555 (1489 in chips)
+700max: posts the ante 12
+bottles666: posts the ante 12
+DiggErr555: posts the ante 12
+700max: posts small blind 60
+bottles666: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 9c]
+DiggErr555: folds
+700max: folds
+Uncalled bet (60) returned to bottles666
+bottles666 collected 156 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 156 | Rake 0
+Seat 1: 700max (small blind) folded before Flop
+Seat 4: bottles666 (big blind) collected (156)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830577638: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:16:26 MSK [2018/08/13 0:16:26 ET]
+Table '2381083812 1' 6-max Seat #1 is the button
+Seat 1: 700max (334 in chips)
+Seat 4: bottles666 (1189 in chips)
+Seat 6: DiggErr555 (1477 in chips)
+700max: posts the ante 12
+bottles666: posts the ante 12
+DiggErr555: posts the ante 12
+bottles666: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 5c]
+700max: raises 202 to 322 and is all-in
+bottles666: calls 262
+DiggErr555: raises 1143 to 1465 and is all-in
+bottles666: calls 855 and is all-in
+Uncalled bet (288) returned to DiggErr555
+*** FLOP *** [4c Kc 3d]
+*** TURN *** [4c Kc 3d] [3s]
+*** RIVER *** [4c Kc 3d 3s] [Ts]
+*** SHOW DOWN ***
+bottles666: shows [Tc Td] (a full house, Tens full of Threes)
+DiggErr555: shows [Ad 5c] (a pair of Threes)
+bottles666 collected 1710 from side pot
+700max: shows [8c Ks] (two pair, Kings and Threes)
+bottles666 collected 1002 from main pot
+bottles666 wins the $2.38 bounty for eliminating 700max
+700max finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2712 Main pot 1002. Side pot 1710. | Rake 0
+Board [4c Kc 3d 3s Ts]
+Seat 1: 700max (button) showed [8c Ks] and lost with two pair, Kings and Threes
+Seat 4: bottles666 (small blind) showed [Tc Td] and won (2712) with a full house, Tens full of Threes
+Seat 6: DiggErr555 (big blind) showed [Ad 5c] and lost with a pair of Threes
+
+PokerStars Hand #189830582952: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:16:50 MSK [2018/08/13 0:16:50 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 4: bottles666 (2712 in chips)
+Seat 6: DiggErr555 (288 in chips)
+bottles666: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+bottles666: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h Ks]
+DiggErr555: raises 156 to 276 and is all-in
+bottles666: folds
+Uncalled bet (156) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 4: bottles666 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (264)
+
+PokerStars Hand #189830584426: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:16:56 MSK [2018/08/13 0:16:56 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 4: bottles666 (2580 in chips)
+Seat 6: DiggErr555 (420 in chips)
+bottles666: posts the ante 12
+DiggErr555: posts the ante 12
+bottles666: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 8s]
+bottles666: calls 60
+DiggErr555: raises 288 to 408 and is all-in
+bottles666: folds
+Uncalled bet (288) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 4: bottles666 (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (264)
+
+PokerStars Hand #189830586460: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:17:06 MSK [2018/08/13 0:17:06 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 4: bottles666 (2448 in chips)
+Seat 6: DiggErr555 (552 in chips)
+bottles666: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+bottles666: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 5c]
+DiggErr555: raises 420 to 540 and is all-in
+bottles666: folds
+Uncalled bet (420) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 4: bottles666 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (264)
+
+PokerStars Hand #189830588409: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:17:15 MSK [2018/08/13 0:17:15 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 4: bottles666 (2316 in chips)
+Seat 6: DiggErr555 (684 in chips)
+bottles666: posts the ante 15
+DiggErr555: posts the ante 15
+bottles666: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 9s]
+bottles666: calls 75
+DiggErr555: checks
+*** FLOP *** [Jd Ks 8s]
+DiggErr555: checks
+bottles666: checks
+*** TURN *** [Jd Ks 8s] [Qc]
+DiggErr555: checks
+bottles666: checks
+*** RIVER *** [Jd Ks 8s Qc] [Ts]
+DiggErr555: checks
+bottles666: bets 150
+DiggErr555: calls 150
+*** SHOW DOWN ***
+bottles666: shows [6d 6c] (a pair of Sixes)
+DiggErr555: shows [3c 9s] (a straight, Nine to King)
+DiggErr555 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0
+Board [Jd Ks 8s Qc Ts]
+Seat 4: bottles666 (button) (small blind) showed [6d 6c] and lost with a pair of Sixes
+Seat 6: DiggErr555 (big blind) showed [3c 9s] and won (630) with a straight, Nine to King
+
+PokerStars Hand #189830595754: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:17:49 MSK [2018/08/13 0:17:49 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 4: bottles666 (2001 in chips)
+Seat 6: DiggErr555 (999 in chips)
+bottles666: posts the ante 15
+DiggErr555: posts the ante 15
+DiggErr555: posts small blind 75
+bottles666: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 5d]
+DiggErr555: raises 834 to 984 and is all-in
+bottles666: folds
+Uncalled bet (834) returned to DiggErr555
+DiggErr555 collected 330 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Seat 4: bottles666 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (330)
+
+PokerStars Hand #189830596916: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:17:54 MSK [2018/08/13 0:17:54 ET]
+Table '2381083812 1' 6-max Seat #4 is the button
+Seat 4: bottles666 (1836 in chips)
+Seat 6: DiggErr555 (1164 in chips)
+bottles666: posts the ante 15
+DiggErr555: posts the ante 15
+bottles666: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 3s]
+bottles666: raises 150 to 300
+DiggErr555: folds
+Uncalled bet (150) returned to bottles666
+bottles666 collected 330 from pot
+bottles666: doesn't show hand
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Seat 4: bottles666 (button) (small blind) collected (330)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830598235: Tournament #2381083812, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:18:00 MSK [2018/08/13 0:18:00 ET]
+Table '2381083812 1' 6-max Seat #6 is the button
+Seat 4: bottles666 (2001 in chips)
+Seat 6: DiggErr555 (999 in chips)
+bottles666: posts the ante 15
+DiggErr555: posts the ante 15
+DiggErr555: posts small blind 75
+bottles666: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 3s]
+DiggErr555: raises 834 to 984 and is all-in
+bottles666: calls 834
+*** FLOP *** [Kd 4s Tc]
+*** TURN *** [Kd 4s Tc] [Th]
+*** RIVER *** [Kd 4s Tc Th] [4d]
+*** SHOW DOWN ***
+bottles666: shows [Ah Qs] (two pair, Tens and Fours)
+DiggErr555: shows [Js 3s] (two pair, Tens and Fours - lower kicker)
+bottles666 collected 1998 from pot
+bottles666 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $7.14.
+bottles666 wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 1998 | Rake 0
+Board [Kd 4s Tc Th 4d]
+Seat 4: bottles666 (big blind) showed [Ah Qs] and won (1998) with two pair, Tens and Fours
+Seat 6: DiggErr555 (button) (small blind) showed [Js 3s] and lost with two pair, Tens and Fours

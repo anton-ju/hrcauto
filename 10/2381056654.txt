@@ -1,0 +1,749 @@
+
+
+PokerStars Hand #189829287210: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:48:12 MSK [2018/08/12 22:48:12 ET]
+Table '2381056654 1' 6-max Seat #1 is the button
+Seat 1: kabonz914 (500 in chips)
+Seat 2: Rambitu (500 in chips)
+Seat 3: LEandrobsn23 (500 in chips)
+Seat 4: Valyev812 (500 in chips)
+Seat 5: beefstu694 (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+kabonz914: posts the ante 2
+Rambitu: posts the ante 2
+LEandrobsn23: posts the ante 2
+Valyev812: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts the ante 2
+Rambitu: posts small blind 10
+LEandrobsn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 3d]
+Valyev812 has timed out
+Valyev812: folds
+Valyev812 is sitting out
+beefstu694: folds
+Valyev812 has returned
+DiggErr555: folds
+kabonz914: folds
+Rambitu: raises 478 to 498 and is all-in
+LEandrobsn23: folds
+Uncalled bet (478) returned to Rambitu
+Rambitu collected 52 from pot
+Rambitu: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: kabonz914 (button) folded before Flop (didn't bet)
+Seat 2: Rambitu (small blind) collected (52)
+Seat 3: LEandrobsn23 (big blind) folded before Flop
+Seat 4: Valyev812 folded before Flop (didn't bet)
+Seat 5: beefstu694 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829298726: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:48:54 MSK [2018/08/12 22:48:54 ET]
+Table '2381056654 1' 6-max Seat #2 is the button
+Seat 1: kabonz914 (498 in chips)
+Seat 2: Rambitu (530 in chips)
+Seat 3: LEandrobsn23 (478 in chips)
+Seat 4: Valyev812 (498 in chips)
+Seat 5: beefstu694 (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+kabonz914: posts the ante 2
+Rambitu: posts the ante 2
+LEandrobsn23: posts the ante 2
+Valyev812: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts small blind 10
+Valyev812: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c Ad]
+beefstu694: calls 20
+DiggErr555: folds
+kabonz914: folds
+Rambitu: folds
+LEandrobsn23: calls 10
+Valyev812: checks
+*** FLOP *** [9c Ks Js]
+LEandrobsn23: bets 20
+Valyev812: raises 20 to 40
+beefstu694: calls 40
+LEandrobsn23: calls 20
+*** TURN *** [9c Ks Js] [5h]
+LEandrobsn23: checks
+Valyev812: checks
+beefstu694: checks
+*** RIVER *** [9c Ks Js 5h] [4c]
+LEandrobsn23: checks
+Valyev812: bets 192
+beefstu694: folds
+LEandrobsn23: folds
+Uncalled bet (192) returned to Valyev812
+Valyev812 collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Board [9c Ks Js 5h 4c]
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 2: Rambitu (button) folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (small blind) folded on the River
+Seat 4: Valyev812 (big blind) collected (192)
+Seat 5: beefstu694 folded on the River
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829323705: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:50:26 MSK [2018/08/12 22:50:26 ET]
+Table '2381056654 1' 6-max Seat #3 is the button
+Seat 1: kabonz914 (496 in chips)
+Seat 2: Rambitu (528 in chips)
+Seat 3: LEandrobsn23 (416 in chips)
+Seat 4: Valyev812 (628 in chips)
+Seat 5: beefstu694 (436 in chips)
+Seat 6: DiggErr555 (496 in chips)
+kabonz914: posts the ante 2
+Rambitu: posts the ante 2
+LEandrobsn23: posts the ante 2
+Valyev812: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts the ante 2
+Valyev812: posts small blind 10
+beefstu694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 5d]
+DiggErr555: folds
+kabonz914: folds
+Rambitu: folds
+LEandrobsn23: folds
+Valyev812: calls 10
+beefstu694: checks
+*** FLOP *** [Ad Jh 6d]
+Valyev812: checks
+beefstu694: checks
+*** TURN *** [Ad Jh 6d] [8s]
+Valyev812: bets 20
+beefstu694: folds
+Uncalled bet (20) returned to Valyev812
+Valyev812 collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Board [Ad Jh 6d 8s]
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 2: Rambitu folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 4: Valyev812 (small blind) collected (52)
+Seat 5: beefstu694 (big blind) folded on the Turn
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829335011: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:51:07 MSK [2018/08/12 22:51:07 ET]
+Table '2381056654 1' 6-max Seat #4 is the button
+Seat 1: kabonz914 (494 in chips)
+Seat 2: Rambitu (526 in chips)
+Seat 3: LEandrobsn23 (414 in chips)
+Seat 4: Valyev812 (658 in chips)
+Seat 5: beefstu694 (414 in chips)
+Seat 6: DiggErr555 (494 in chips)
+kabonz914: posts the ante 3
+Rambitu: posts the ante 3
+LEandrobsn23: posts the ante 3
+Valyev812: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+beefstu694: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 3h]
+kabonz914: folds
+Rambitu: folds
+LEandrobsn23: folds
+Valyev812: folds
+beefstu694: folds
+Uncalled bet (15) returned to DiggErr555
+DiggErr555 collected 48 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 2: Rambitu folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 4: Valyev812 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (48)
+
+PokerStars Hand #189829340307: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:51:26 MSK [2018/08/12 22:51:26 ET]
+Table '2381056654 1' 6-max Seat #5 is the button
+Seat 1: kabonz914 (491 in chips)
+Seat 2: Rambitu (523 in chips)
+Seat 3: LEandrobsn23 (411 in chips)
+Seat 4: Valyev812 (655 in chips)
+Seat 5: beefstu694 (396 in chips)
+Seat 6: DiggErr555 (524 in chips)
+kabonz914: posts the ante 3
+Rambitu: posts the ante 3
+LEandrobsn23: posts the ante 3
+Valyev812: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+kabonz914: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 8d]
+Rambitu: folds
+LEandrobsn23: calls 30
+Valyev812: folds
+beefstu694: folds
+DiggErr555: folds
+kabonz914: checks
+*** FLOP *** [5d 4c Jh]
+kabonz914: checks
+LEandrobsn23: checks
+*** TURN *** [5d 4c Jh] [7c]
+kabonz914: checks
+LEandrobsn23: checks
+*** RIVER *** [5d 4c Jh 7c] [4d]
+kabonz914: checks
+LEandrobsn23: checks
+*** SHOW DOWN ***
+kabonz914: shows [8h Qd] (a pair of Fours)
+LEandrobsn23: shows [9d Qc] (a pair of Fours - Queen+Jack+Nine kicker)
+LEandrobsn23 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Board [5d 4c Jh 7c 4d]
+Seat 1: kabonz914 (big blind) showed [8h Qd] and lost with a pair of Fours
+Seat 2: Rambitu folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 showed [9d Qc] and won (93) with a pair of Fours
+Seat 4: Valyev812 folded before Flop (didn't bet)
+Seat 5: beefstu694 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829358475: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:52:33 MSK [2018/08/12 22:52:33 ET]
+Table '2381056654 1' 6-max Seat #6 is the button
+Seat 1: kabonz914 (458 in chips)
+Seat 2: Rambitu (520 in chips)
+Seat 3: LEandrobsn23 (471 in chips)
+Seat 4: Valyev812 (652 in chips)
+Seat 5: beefstu694 (393 in chips)
+Seat 6: DiggErr555 (506 in chips)
+kabonz914: posts the ante 3
+Rambitu: posts the ante 3
+LEandrobsn23: posts the ante 3
+Valyev812: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+kabonz914: posts small blind 15
+Rambitu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 9d]
+LEandrobsn23: calls 30
+Valyev812: folds
+beefstu694: calls 30
+DiggErr555: folds
+kabonz914: raises 425 to 455 and is all-in
+Rambitu: folds
+LEandrobsn23: folds
+beefstu694: folds
+Uncalled bet (425) returned to kabonz914
+kabonz914 collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 1: kabonz914 (small blind) collected (138)
+Seat 2: Rambitu (big blind) folded before Flop
+Seat 3: LEandrobsn23 folded before Flop
+Seat 4: Valyev812 folded before Flop (didn't bet)
+Seat 5: beefstu694 folded before Flop
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829368952: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:53:11 MSK [2018/08/12 22:53:11 ET]
+Table '2381056654 1' 6-max Seat #1 is the button
+Seat 1: kabonz914 (563 in chips)
+Seat 2: Rambitu (487 in chips)
+Seat 3: LEandrobsn23 (438 in chips)
+Seat 4: Valyev812 (649 in chips)
+Seat 5: beefstu694 (360 in chips)
+Seat 6: DiggErr555 (503 in chips)
+kabonz914: posts the ante 3
+Rambitu: posts the ante 3
+LEandrobsn23: posts the ante 3
+Valyev812: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+Rambitu: posts small blind 15
+LEandrobsn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 2d]
+Valyev812: calls 30
+beefstu694: raises 327 to 357 and is all-in
+DiggErr555: folds
+kabonz914: folds
+Rambitu: folds
+LEandrobsn23: folds
+Valyev812: calls 327
+*** FLOP *** [Js 7h 5h]
+*** TURN *** [Js 7h 5h] [Kc]
+*** RIVER *** [Js 7h 5h Kc] [6s]
+*** SHOW DOWN ***
+Valyev812: shows [Qd Ac] (high card Ace)
+beefstu694: shows [Ad Qh] (high card Ace)
+Valyev812 collected 389 from pot
+beefstu694 collected 388 from pot
+*** SUMMARY ***
+Total pot 777 | Rake 0
+Board [Js 7h 5h Kc 6s]
+Seat 1: kabonz914 (button) folded before Flop (didn't bet)
+Seat 2: Rambitu (small blind) folded before Flop
+Seat 3: LEandrobsn23 (big blind) folded before Flop
+Seat 4: Valyev812 showed [Qd Ac] and won (389) with high card Ace
+Seat 5: beefstu694 showed [Ad Qh] and won (388) with high card Ace
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829377566: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:53:43 MSK [2018/08/12 22:53:43 ET]
+Table '2381056654 1' 6-max Seat #2 is the button
+Seat 1: kabonz914 (560 in chips)
+Seat 2: Rambitu (469 in chips)
+Seat 3: LEandrobsn23 (405 in chips)
+Seat 4: Valyev812 (678 in chips)
+Seat 5: beefstu694 (388 in chips)
+Seat 6: DiggErr555 (500 in chips)
+kabonz914: posts the ante 4
+Rambitu: posts the ante 4
+LEandrobsn23: posts the ante 4
+Valyev812: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts small blind 20
+Valyev812: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Ah]
+beefstu694: calls 40
+DiggErr555: folds
+kabonz914: folds
+Rambitu: folds
+LEandrobsn23: calls 20
+Valyev812: checks
+*** FLOP *** [3c 7d Jc]
+LEandrobsn23: bets 120
+Valyev812: folds
+beefstu694: folds
+Uncalled bet (120) returned to LEandrobsn23
+LEandrobsn23 collected 144 from pot
+LEandrobsn23: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Board [3c 7d Jc]
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 2: Rambitu (button) folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (small blind) collected (144)
+Seat 4: Valyev812 (big blind) folded on the Flop
+Seat 5: beefstu694 folded on the Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829386305: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:54:15 MSK [2018/08/12 22:54:15 ET]
+Table '2381056654 1' 6-max Seat #3 is the button
+Seat 1: kabonz914 (556 in chips)
+Seat 2: Rambitu (465 in chips)
+Seat 3: LEandrobsn23 (505 in chips)
+Seat 4: Valyev812 (634 in chips)
+Seat 5: beefstu694 (344 in chips)
+Seat 6: DiggErr555 (496 in chips)
+kabonz914: posts the ante 4
+Rambitu: posts the ante 4
+LEandrobsn23: posts the ante 4
+Valyev812: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts the ante 4
+Valyev812: posts small blind 20
+beefstu694: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 2h]
+DiggErr555: folds
+kabonz914: folds
+Rambitu: folds
+LEandrobsn23: calls 40
+Valyev812: raises 80 to 120
+beefstu694: raises 220 to 340 and is all-in
+LEandrobsn23: folds
+Valyev812: calls 220
+*** FLOP *** [Ah 3c 7d]
+*** TURN *** [Ah 3c 7d] [5h]
+*** RIVER *** [Ah 3c 7d 5h] [Kh]
+*** SHOW DOWN ***
+Valyev812: shows [Qs Qh] (a pair of Queens)
+beefstu694: shows [Ad 8h] (a pair of Aces)
+beefstu694 collected 744 from pot
+*** SUMMARY ***
+Total pot 744 | Rake 0
+Board [Ah 3c 7d 5h Kh]
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 2: Rambitu folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (button) folded before Flop
+Seat 4: Valyev812 (small blind) showed [Qs Qh] and lost with a pair of Queens
+Seat 5: beefstu694 (big blind) showed [Ad 8h] and won (744) with a pair of Aces
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829396214: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:54:52 MSK [2018/08/12 22:54:52 ET]
+Table '2381056654 1' 6-max Seat #4 is the button
+Seat 1: kabonz914 (552 in chips)
+Seat 2: Rambitu (461 in chips)
+Seat 3: LEandrobsn23 (461 in chips)
+Seat 4: Valyev812 (290 in chips)
+Seat 5: beefstu694 (744 in chips)
+Seat 6: DiggErr555 (492 in chips)
+kabonz914: posts the ante 4
+Rambitu: posts the ante 4
+LEandrobsn23: posts the ante 4
+Valyev812: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts the ante 4
+beefstu694: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 6c]
+kabonz914: folds
+Rambitu: raises 417 to 457 and is all-in
+LEandrobsn23: calls 457 and is all-in
+Valyev812: folds
+beefstu694: folds
+DiggErr555: folds
+*** FLOP *** [2s 8c 8d]
+*** TURN *** [2s 8c 8d] [Js]
+*** RIVER *** [2s 8c 8d Js] [Ad]
+*** SHOW DOWN ***
+Rambitu: shows [Jd Kh] (two pair, Jacks and Eights)
+LEandrobsn23: shows [Jc Kd] (two pair, Jacks and Eights)
+Rambitu collected 499 from pot
+LEandrobsn23 collected 499 from pot
+*** SUMMARY ***
+Total pot 998 | Rake 0
+Board [2s 8c 8d Js Ad]
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 2: Rambitu showed [Jd Kh] and won (499) with two pair, Jacks and Eights
+Seat 3: LEandrobsn23 showed [Jc Kd] and won (499) with two pair, Jacks and Eights
+Seat 4: Valyev812 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829402658: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:55:16 MSK [2018/08/12 22:55:16 ET]
+Table '2381056654 1' 6-max Seat #5 is the button
+Seat 1: kabonz914 (548 in chips)
+Seat 2: Rambitu (499 in chips)
+Seat 3: LEandrobsn23 (499 in chips)
+Seat 4: Valyev812 (286 in chips)
+Seat 5: beefstu694 (720 in chips)
+Seat 6: DiggErr555 (448 in chips)
+kabonz914: posts the ante 4
+Rambitu: posts the ante 4
+LEandrobsn23: posts the ante 4
+Valyev812: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+kabonz914: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 5h]
+Rambitu: folds
+LEandrobsn23: folds
+Valyev812: folds
+beefstu694: folds
+DiggErr555: raises 404 to 444 and is all-in
+kabonz914: folds
+Uncalled bet (404) returned to DiggErr555
+DiggErr555 collected 104 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: kabonz914 (big blind) folded before Flop
+Seat 2: Rambitu folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 4: Valyev812 folded before Flop (didn't bet)
+Seat 5: beefstu694 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (104)
+
+PokerStars Hand #189829408219: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:55:39 MSK [2018/08/12 22:55:39 ET]
+Table '2381056654 1' 6-max Seat #6 is the button
+Seat 1: kabonz914 (504 in chips)
+Seat 2: Rambitu (495 in chips)
+Seat 3: LEandrobsn23 (495 in chips)
+Seat 4: Valyev812 (282 in chips)
+Seat 5: beefstu694 (716 in chips)
+Seat 6: DiggErr555 (508 in chips)
+kabonz914: posts the ante 6
+Rambitu: posts the ante 6
+LEandrobsn23: posts the ante 6
+Valyev812: posts the ante 6
+beefstu694: posts the ante 6
+DiggErr555: posts the ante 6
+kabonz914: posts small blind 30
+Rambitu: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4h]
+LEandrobsn23: calls 60
+Valyev812: folds
+beefstu694: calls 60
+DiggErr555: folds
+kabonz914: folds
+Rambitu: checks
+*** FLOP *** [2d 5h Ad]
+Rambitu: checks
+LEandrobsn23: bets 60
+beefstu694: folds
+Rambitu: raises 369 to 429 and is all-in
+LEandrobsn23: calls 369 and is all-in
+*** TURN *** [2d 5h Ad] [Qh]
+*** RIVER *** [2d 5h Ad Qh] [6s]
+*** SHOW DOWN ***
+Rambitu: shows [9d 5d] (a pair of Fives)
+LEandrobsn23: shows [7s 7d] (a pair of Sevens)
+LEandrobsn23 collected 1104 from pot
+LEandrobsn23 wins the $2.38 bounty for eliminating Rambitu
+Rambitu finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1104 | Rake 0
+Board [2d 5h Ad Qh 6s]
+Seat 1: kabonz914 (small blind) folded before Flop
+Seat 2: Rambitu (big blind) showed [9d 5d] and lost with a pair of Fives
+Seat 3: LEandrobsn23 showed [7s 7d] and won (1104) with a pair of Sevens
+Seat 4: Valyev812 folded before Flop (didn't bet)
+Seat 5: beefstu694 folded on the Flop
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829422588: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:56:39 MSK [2018/08/12 22:56:39 ET]
+Table '2381056654 1' 6-max Seat #1 is the button
+Seat 1: kabonz914 (468 in chips)
+Seat 3: LEandrobsn23 (1104 in chips)
+Seat 4: Valyev812 (276 in chips)
+Seat 5: beefstu694 (650 in chips)
+Seat 6: DiggErr555 (502 in chips)
+kabonz914: posts the ante 6
+LEandrobsn23: posts the ante 6
+Valyev812: posts the ante 6
+beefstu694: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts small blind 30
+Valyev812: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 5d]
+beefstu694: calls 60
+DiggErr555: folds
+kabonz914: calls 60
+LEandrobsn23: calls 30
+Valyev812: checks
+*** FLOP *** [3h 4h Ac]
+LEandrobsn23: bets 60
+Valyev812: folds
+beefstu694: calls 60
+kabonz914: folds
+*** TURN *** [3h 4h Ac] [Th]
+LEandrobsn23: bets 120
+beefstu694: calls 120
+*** RIVER *** [3h 4h Ac Th] [Qh]
+LEandrobsn23: checks
+beefstu694: checks
+*** SHOW DOWN ***
+LEandrobsn23: shows [As Jd] (a pair of Aces)
+beefstu694: mucks hand
+LEandrobsn23 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0
+Board [3h 4h Ac Th Qh]
+Seat 1: kabonz914 (button) folded on the Flop
+Seat 3: LEandrobsn23 (small blind) showed [As Jd] and won (630) with a pair of Aces
+Seat 4: Valyev812 (big blind) folded on the Flop
+Seat 5: beefstu694 mucked [5s Ad]
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829442129: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:57:26 MSK [2018/08/12 22:57:26 ET]
+Table '2381056654 1' 6-max Seat #3 is the button
+Seat 1: kabonz914 (402 in chips)
+Seat 3: LEandrobsn23 (1488 in chips)
+Seat 4: Valyev812 (210 in chips)
+Seat 5: beefstu694 (404 in chips)
+Seat 6: DiggErr555 (496 in chips)
+kabonz914: posts the ante 6
+LEandrobsn23: posts the ante 6
+Valyev812: posts the ante 6
+beefstu694: posts the ante 6
+DiggErr555: posts the ante 6
+Valyev812: posts small blind 30
+beefstu694: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 7s]
+DiggErr555: folds
+kabonz914: folds
+LEandrobsn23: calls 60
+Valyev812: folds
+beefstu694: checks
+*** FLOP *** [3d 4s 4h]
+beefstu694: checks
+LEandrobsn23: bets 60
+beefstu694: calls 60
+*** TURN *** [3d 4s 4h] [Jh]
+beefstu694: checks
+LEandrobsn23: bets 60
+beefstu694: calls 60
+*** RIVER *** [3d 4s 4h Jh] [Qd]
+beefstu694: checks
+LEandrobsn23: checks
+*** SHOW DOWN ***
+beefstu694: shows [4d 3s] (a full house, Fours full of Threes)
+LEandrobsn23: mucks hand
+beefstu694 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Board [3d 4s 4h Jh Qd]
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (button) mucked [Tc Th]
+Seat 4: Valyev812 (small blind) folded before Flop
+Seat 5: beefstu694 (big blind) showed [4d 3s] and won (420) with a full house, Fours full of Threes
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829452858: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:58:11 MSK [2018/08/12 22:58:11 ET]
+Table '2381056654 1' 6-max Seat #4 is the button
+Seat 1: kabonz914 (396 in chips)
+Seat 3: LEandrobsn23 (1302 in chips)
+Seat 4: Valyev812 (174 in chips)
+Seat 5: beefstu694 (638 in chips)
+Seat 6: DiggErr555 (490 in chips)
+kabonz914: posts the ante 6
+LEandrobsn23: posts the ante 6
+Valyev812: posts the ante 6
+beefstu694: posts the ante 6
+DiggErr555: posts the ante 6
+beefstu694: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Th]
+kabonz914: folds
+LEandrobsn23: calls 60
+Valyev812: folds
+beefstu694: calls 30
+DiggErr555: raises 424 to 484 and is all-in
+LEandrobsn23: folds
+beefstu694: folds
+Uncalled bet (424) returned to DiggErr555
+DiggErr555 collected 210 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 210 | Rake 0
+Seat 1: kabonz914 folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 folded before Flop
+Seat 4: Valyev812 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (210)
+
+PokerStars Hand #189829460693: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:58:44 MSK [2018/08/12 22:58:44 ET]
+Table '2381056654 1' 6-max Seat #5 is the button
+Seat 1: kabonz914 (390 in chips)
+Seat 3: LEandrobsn23 (1236 in chips)
+Seat 4: Valyev812 (168 in chips)
+Seat 5: beefstu694 (572 in chips)
+Seat 6: DiggErr555 (634 in chips)
+kabonz914: posts the ante 6
+LEandrobsn23: posts the ante 6
+Valyev812: posts the ante 6
+beefstu694: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+kabonz914: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 6h]
+LEandrobsn23: folds
+Valyev812: raises 102 to 162 and is all-in
+beefstu694: raises 404 to 566 and is all-in
+DiggErr555: folds
+kabonz914: calls 324 and is all-in
+Uncalled bet (182) returned to beefstu694
+*** FLOP *** [Js 9d 6d]
+*** TURN *** [Js 9d 6d] [8s]
+*** RIVER *** [Js 9d 6d 8s] [9s]
+*** SHOW DOWN ***
+kabonz914: shows [Ah Qd] (a pair of Nines)
+beefstu694: shows [Kd 9c] (three of a kind, Nines)
+beefstu694 collected 444 from side pot
+Valyev812: shows [2c Ac] (a pair of Nines)
+beefstu694 collected 546 from main pot
+beefstu694 wins the $2.38 bounty for eliminating kabonz914
+beefstu694 wins the $2.38 bounty for eliminating Valyev812
+kabonz914 finished the tournament in 4th place
+Valyev812 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 990 Main pot 546. Side pot 444. | Rake 0
+Board [Js 9d 6d 8s 9s]
+Seat 1: kabonz914 (big blind) showed [Ah Qd] and lost with a pair of Nines
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 4: Valyev812 showed [2c Ac] and lost with a pair of Nines
+Seat 5: beefstu694 (button) showed [Kd 9c] and won (990) with three of a kind, Nines
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829466720: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:59:09 MSK [2018/08/12 22:59:09 ET]
+Table '2381056654 1' 6-max Seat #6 is the button
+Seat 3: LEandrobsn23 (1230 in chips)
+Seat 5: beefstu694 (1172 in chips)
+Seat 6: DiggErr555 (598 in chips)
+LEandrobsn23: posts the ante 8
+beefstu694: posts the ante 8
+DiggErr555: posts the ante 8
+LEandrobsn23: posts small blind 40
+beefstu694: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 6h]
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (40) returned to beefstu694
+beefstu694 collected 104 from pot
+beefstu694: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 3: LEandrobsn23 (small blind) folded before Flop
+Seat 5: beefstu694 (big blind) collected (104)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829468169: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:59:15 MSK [2018/08/12 22:59:15 ET]
+Table '2381056654 1' 6-max Seat #3 is the button
+Seat 3: LEandrobsn23 (1182 in chips)
+Seat 5: beefstu694 (1228 in chips)
+Seat 6: DiggErr555 (590 in chips)
+LEandrobsn23: posts the ante 8
+beefstu694: posts the ante 8
+DiggErr555: posts the ante 8
+beefstu694: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 8c]
+LEandrobsn23: folds
+beefstu694: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 104 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 3: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (104)
+
+PokerStars Hand #189829471637: Tournament #2381056654, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:59:30 MSK [2018/08/12 22:59:30 ET]
+Table '2381056654 1' 6-max Seat #5 is the button
+Seat 3: LEandrobsn23 (1174 in chips)
+Seat 5: beefstu694 (1180 in chips)
+Seat 6: DiggErr555 (646 in chips)
+LEandrobsn23: posts the ante 8
+beefstu694: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+LEandrobsn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Qs]
+beefstu694: folds
+DiggErr555: raises 558 to 638 and is all-in
+LEandrobsn23: calls 558
+*** FLOP *** [9s 9h Ad]
+*** TURN *** [9s 9h Ad] [8h]
+*** RIVER *** [9s 9h Ad 8h] [Qd]
+*** SHOW DOWN ***
+DiggErr555: shows [Tc Qs] (two pair, Queens and Nines)
+LEandrobsn23: shows [Jd Td] (a straight, Eight to Queen)
+LEandrobsn23 collected 1300 from pot
+LEandrobsn23 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1300 | Rake 0
+Board [9s 9h Ad 8h Qd]
+Seat 3: LEandrobsn23 (big blind) showed [Jd Td] and won (1300) with a straight, Eight to Queen
+Seat 5: beefstu694 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [Tc Qs] and lost with two pair, Queens and Nines

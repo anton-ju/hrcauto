@@ -1,0 +1,723 @@
+
+
+PokerStars Hand #189828839688: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:22:32 MSK [2018/08/12 22:22:32 ET]
+Table '2381046401 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (500 in chips)
+Seat 2: Mishator (500 in chips)
+Seat 3: mrzm0118 (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: moimob (500 in chips)
+Seat 6: SpudsMack88 (500 in chips)
+galpal12: posts the ante 2
+Mishator: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts the ante 2
+SpudsMack88: posts the ante 2
+Mishator: posts small blind 10
+mrzm0118: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 8c]
+DiggErr555: folds
+moimob: folds
+SpudsMack88: raises 62 to 82
+galpal12: folds
+Mishator: folds
+mrzm0118: folds
+Uncalled bet (62) returned to SpudsMack88
+SpudsMack88 collected 62 from pot
+SpudsMack88: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: galpal12 (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: mrzm0118 (big blind) folded before Flop
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: SpudsMack88 collected (62)
+
+PokerStars Hand #189828848676: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:23:02 MSK [2018/08/12 22:23:02 ET]
+Table '2381046401 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (498 in chips)
+Seat 2: Mishator (488 in chips)
+Seat 3: mrzm0118 (478 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: moimob (498 in chips)
+Seat 6: SpudsMack88 (540 in chips)
+galpal12: posts the ante 2
+Mishator: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts the ante 2
+SpudsMack88: posts the ante 2
+mrzm0118: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 7d]
+moimob: folds
+SpudsMack88: calls 20
+galpal12: raises 476 to 496 and is all-in
+Mishator: folds
+mrzm0118: calls 466 and is all-in
+DiggErr555: folds
+SpudsMack88: folds
+Uncalled bet (20) returned to galpal12
+*** FLOP *** [5s 9s 9d]
+*** TURN *** [5s 9s 9d] [5c]
+*** RIVER *** [5s 9s 9d 5c] [3h]
+*** SHOW DOWN ***
+mrzm0118: shows [As Ah] (two pair, Aces and Nines)
+galpal12: shows [Ad Jc] (two pair, Nines and Fives)
+mrzm0118 collected 1004 from pot
+*** SUMMARY ***
+Total pot 1004 | Rake 0
+Board [5s 9s 9d 5c 3h]
+Seat 1: galpal12 showed [Ad Jc] and lost with two pair, Nines and Fives
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: mrzm0118 (small blind) showed [As Ah] and won (1004) with two pair, Aces and Nines
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: SpudsMack88 folded before Flop
+
+PokerStars Hand #189828857857: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:23:33 MSK [2018/08/12 22:23:33 ET]
+Table '2381046401 1' 6-max Seat #3 is the button
+Seat 1: galpal12 (20 in chips)
+Seat 2: Mishator (486 in chips)
+Seat 3: mrzm0118 (1004 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 5: moimob (496 in chips)
+Seat 6: SpudsMack88 (518 in chips)
+galpal12: posts the ante 2
+Mishator: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts the ante 2
+SpudsMack88: posts the ante 2
+DiggErr555: posts small blind 10
+moimob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 3h]
+SpudsMack88: calls 20
+galpal12: calls 18 and is all-in
+Mishator: folds
+mrzm0118: raises 80 to 100
+DiggErr555: folds
+moimob: folds
+SpudsMack88: calls 80
+*** FLOP *** [3d 5s 3c]
+SpudsMack88: checks
+mrzm0118: bets 902 and is all-in
+SpudsMack88: folds
+Uncalled bet (902) returned to mrzm0118
+*** TURN *** [3d 5s 3c] [5h]
+*** RIVER *** [3d 5s 3c 5h] [6s]
+*** SHOW DOWN ***
+mrzm0118: shows [Qc Ts] (two pair, Fives and Threes)
+mrzm0118 collected 166 from side pot
+galpal12: shows [9c 6h] (two pair, Sixes and Fives)
+galpal12 collected 94 from main pot
+*** SUMMARY ***
+Total pot 260 Main pot 94. Side pot 166. | Rake 0
+Board [3d 5s 3c 5h 6s]
+Seat 1: galpal12 showed [9c 6h] and won (94) with two pair, Sixes and Fives
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: mrzm0118 (button) showed [Qc Ts] and won (166) with two pair, Fives and Threes
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: moimob (big blind) folded before Flop
+Seat 6: SpudsMack88 folded on the Flop
+
+PokerStars Hand #189828875169: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:24:30 MSK [2018/08/12 22:24:30 ET]
+Table '2381046401 1' 6-max Seat #4 is the button
+Seat 1: galpal12 (94 in chips)
+Seat 2: Mishator (484 in chips)
+Seat 3: mrzm0118 (1068 in chips)
+Seat 4: DiggErr555 (464 in chips)
+Seat 5: moimob (474 in chips)
+Seat 6: SpudsMack88 (416 in chips)
+galpal12: posts the ante 3
+Mishator: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+SpudsMack88: posts the ante 3
+moimob: posts small blind 15
+SpudsMack88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 9h]
+galpal12: raises 61 to 91 and is all-in
+Mishator: folds
+mrzm0118: folds
+DiggErr555: folds
+moimob: raises 380 to 471 and is all-in
+SpudsMack88: folds
+Uncalled bet (380) returned to moimob
+*** FLOP *** [2d 3d 2s]
+*** TURN *** [2d 3d 2s] [Ah]
+*** RIVER *** [2d 3d 2s Ah] [Ks]
+*** SHOW DOWN ***
+moimob: shows [9d As] (two pair, Aces and Deuces)
+galpal12: shows [Ac Jd] (two pair, Aces and Deuces)
+moimob collected 115 from pot
+galpal12 collected 115 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Board [2d 3d 2s Ah Ks]
+Seat 1: galpal12 showed [Ac Jd] and won (115) with two pair, Aces and Deuces
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: mrzm0118 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) showed [9d As] and won (115) with two pair, Aces and Deuces
+Seat 6: SpudsMack88 (big blind) folded before Flop
+
+PokerStars Hand #189828883681: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:24:58 MSK [2018/08/12 22:24:58 ET]
+Table '2381046401 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (115 in chips)
+Seat 2: Mishator (481 in chips)
+Seat 3: mrzm0118 (1065 in chips)
+Seat 4: DiggErr555 (461 in chips)
+Seat 5: moimob (495 in chips)
+Seat 6: SpudsMack88 (383 in chips)
+galpal12: posts the ante 3
+Mishator: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+SpudsMack88: posts the ante 3
+SpudsMack88: posts small blind 15
+galpal12: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh Tc]
+Mishator: folds
+mrzm0118: calls 30
+DiggErr555: raises 428 to 458 and is all-in
+moimob: folds
+SpudsMack88: folds
+galpal12: calls 82 and is all-in
+mrzm0118: folds
+Uncalled bet (346) returned to DiggErr555
+*** FLOP *** [Ad Qd 3c]
+*** TURN *** [Ad Qd 3c] [4d]
+*** RIVER *** [Ad Qd 3c 4d] [Th]
+*** SHOW DOWN ***
+galpal12: shows [Kd Jc] (a straight, Ten to Ace)
+DiggErr555: shows [Kh Tc] (a pair of Tens)
+galpal12 collected 287 from pot
+*** SUMMARY ***
+Total pot 287 | Rake 0
+Board [Ad Qd 3c 4d Th]
+Seat 1: galpal12 (big blind) showed [Kd Jc] and won (287) with a straight, Ten to Ace
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: mrzm0118 folded before Flop
+Seat 4: DiggErr555 showed [Kh Tc] and lost with a pair of Tens
+Seat 5: moimob (button) folded before Flop (didn't bet)
+Seat 6: SpudsMack88 (small blind) folded before Flop
+
+PokerStars Hand #189828894360: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:25:34 MSK [2018/08/12 22:25:34 ET]
+Table '2381046401 1' 6-max Seat #6 is the button
+Seat 1: galpal12 (287 in chips)
+Seat 2: Mishator (478 in chips)
+Seat 3: mrzm0118 (1032 in chips)
+Seat 4: DiggErr555 (346 in chips)
+Seat 5: moimob (492 in chips)
+Seat 6: SpudsMack88 (365 in chips)
+galpal12: posts the ante 3
+Mishator: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+SpudsMack88: posts the ante 3
+galpal12: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 8h]
+mrzm0118: folds
+DiggErr555: folds
+moimob: folds
+SpudsMack88: folds
+galpal12: folds
+Uncalled bet (15) returned to Mishator
+Mishator collected 48 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: galpal12 (small blind) folded before Flop
+Seat 2: Mishator (big blind) collected (48)
+Seat 3: mrzm0118 folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: SpudsMack88 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828900649: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:25:55 MSK [2018/08/12 22:25:55 ET]
+Table '2381046401 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (269 in chips)
+Seat 2: Mishator (508 in chips)
+Seat 3: mrzm0118 (1029 in chips)
+Seat 4: DiggErr555 (343 in chips)
+Seat 5: moimob (489 in chips)
+Seat 6: SpudsMack88 (362 in chips)
+galpal12: posts the ante 3
+Mishator: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+SpudsMack88: posts the ante 3
+Mishator: posts small blind 15
+mrzm0118: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 3h]
+DiggErr555: folds
+moimob: folds
+SpudsMack88: calls 30
+galpal12: folds
+Mishator: raises 475 to 505 and is all-in
+mrzm0118: folds
+SpudsMack88: calls 329 and is all-in
+Uncalled bet (146) returned to Mishator
+*** FLOP *** [3s Qc 4h]
+*** TURN *** [3s Qc 4h] [5c]
+*** RIVER *** [3s Qc 4h 5c] [3d]
+*** SHOW DOWN ***
+Mishator: shows [Ah 7h] (a pair of Threes)
+SpudsMack88: shows [Th 8h] (a pair of Threes - lower kicker)
+Mishator collected 766 from pot
+Mishator wins the $4.79 bounty for eliminating SpudsMack88
+SpudsMack88 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 766 | Rake 0
+Board [3s Qc 4h 5c 3d]
+Seat 1: galpal12 (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) showed [Ah 7h] and won (766) with a pair of Threes
+Seat 3: mrzm0118 (big blind) folded before Flop
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: SpudsMack88 showed [Th 8h] and lost with a pair of Threes
+
+PokerStars Hand #189828913158: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:26:37 MSK [2018/08/12 22:26:37 ET]
+Table '2381046401 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (266 in chips)
+Seat 2: Mishator (912 in chips)
+Seat 3: mrzm0118 (996 in chips)
+Seat 4: DiggErr555 (340 in chips)
+Seat 5: moimob (486 in chips)
+galpal12: posts the ante 4
+Mishator: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+moimob: posts the ante 4
+mrzm0118: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Td]
+moimob: folds
+galpal12: folds
+Mishator: raises 40 to 80
+mrzm0118: folds
+DiggErr555: raises 256 to 336 and is all-in
+Mishator: calls 256
+*** FLOP *** [4s 2h 4c]
+*** TURN *** [4s 2h 4c] [Tc]
+*** RIVER *** [4s 2h 4c Tc] [3s]
+*** SHOW DOWN ***
+DiggErr555: shows [Jd Td] (two pair, Tens and Fours)
+Mishator: shows [As Qs] (a pair of Fours)
+DiggErr555 collected 712 from pot
+*** SUMMARY ***
+Total pot 712 | Rake 0
+Board [4s 2h 4c Tc 3s]
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: Mishator (button) showed [As Qs] and lost with a pair of Fours
+Seat 3: mrzm0118 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) showed [Jd Td] and won (712) with two pair, Tens and Fours
+Seat 5: moimob folded before Flop (didn't bet)
+
+PokerStars Hand #189828922172: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:27:08 MSK [2018/08/12 22:27:08 ET]
+Table '2381046401 1' 6-max Seat #3 is the button
+Seat 1: galpal12 (262 in chips)
+Seat 2: Mishator (572 in chips)
+Seat 3: mrzm0118 (972 in chips)
+Seat 4: DiggErr555 (712 in chips)
+Seat 5: moimob (482 in chips)
+galpal12: posts the ante 4
+Mishator: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+moimob: posts the ante 4
+DiggErr555: posts small blind 20
+moimob: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 5s]
+galpal12: folds
+Mishator: folds
+mrzm0118: folds
+DiggErr555: raises 668 to 708 and is all-in
+moimob: folds
+Uncalled bet (668) returned to DiggErr555
+DiggErr555 collected 100 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) collected (100)
+Seat 5: moimob (big blind) folded before Flop
+
+PokerStars Hand #189828930534: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:27:36 MSK [2018/08/12 22:27:36 ET]
+Table '2381046401 1' 6-max Seat #4 is the button
+Seat 1: galpal12 (258 in chips)
+Seat 2: Mishator (568 in chips)
+Seat 3: mrzm0118 (968 in chips)
+Seat 4: DiggErr555 (768 in chips)
+Seat 5: moimob (438 in chips)
+galpal12: posts the ante 4
+Mishator: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+moimob: posts the ante 4
+moimob: posts small blind 20
+galpal12: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 2c]
+Mishator: folds
+mrzm0118: raises 924 to 964 and is all-in
+DiggErr555: folds
+moimob: folds
+galpal12: folds
+Uncalled bet (924) returned to mrzm0118
+mrzm0118 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: galpal12 (big blind) folded before Flop
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: mrzm0118 collected (120)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) folded before Flop
+
+PokerStars Hand #189828933576: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:27:46 MSK [2018/08/12 22:27:46 ET]
+Table '2381046401 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (214 in chips)
+Seat 2: Mishator (564 in chips)
+Seat 3: mrzm0118 (1044 in chips)
+Seat 4: DiggErr555 (764 in chips)
+Seat 5: moimob (414 in chips)
+galpal12: posts the ante 4
+Mishator: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+moimob: posts the ante 4
+galpal12: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 6d]
+mrzm0118: raises 1000 to 1040 and is all-in
+DiggErr555: folds
+moimob: folds
+galpal12: calls 190 and is all-in
+Mishator: folds
+Uncalled bet (830) returned to mrzm0118
+*** FLOP *** [7h 6s Ah]
+*** TURN *** [7h 6s Ah] [5h]
+*** RIVER *** [7h 6s Ah 5h] [6h]
+*** SHOW DOWN ***
+galpal12: shows [Td Tc] (two pair, Tens and Sixes)
+mrzm0118: shows [5d Kd] (two pair, Sixes and Fives)
+galpal12 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0
+Board [7h 6s Ah 5h 6h]
+Seat 1: galpal12 (small blind) showed [Td Tc] and won (480) with two pair, Tens and Sixes
+Seat 2: Mishator (big blind) folded before Flop
+Seat 3: mrzm0118 showed [5d Kd] and lost with two pair, Sixes and Fives
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: moimob (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828941554: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:28:13 MSK [2018/08/12 22:28:13 ET]
+Table '2381046401 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (480 in chips)
+Seat 2: Mishator (520 in chips)
+Seat 3: mrzm0118 (830 in chips)
+Seat 4: DiggErr555 (760 in chips)
+Seat 5: moimob (410 in chips)
+galpal12: posts the ante 6
+Mishator: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+Mishator: posts small blind 30
+mrzm0118: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 7h]
+DiggErr555: raises 694 to 754 and is all-in
+moimob: folds
+galpal12: calls 474 and is all-in
+Mishator: folds
+mrzm0118: folds
+Uncalled bet (280) returned to DiggErr555
+*** FLOP *** [Jh 5h 7d]
+*** TURN *** [Jh 5h 7d] [Th]
+*** RIVER *** [Jh 5h 7d Th] [Js]
+*** SHOW DOWN ***
+DiggErr555: shows [7s 7h] (a full house, Sevens full of Jacks)
+galpal12: shows [9s 9d] (two pair, Jacks and Nines)
+DiggErr555 collected 1068 from pot
+DiggErr555 wins the $4.79 bounty for eliminating galpal12
+galpal12 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1068 | Rake 0
+Board [Jh 5h 7d Th Js]
+Seat 1: galpal12 (button) showed [9s 9d] and lost with two pair, Jacks and Nines
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: mrzm0118 (big blind) folded before Flop
+Seat 4: DiggErr555 showed [7s 7h] and won (1068) with a full house, Sevens full of Jacks
+Seat 5: moimob folded before Flop (didn't bet)
+
+PokerStars Hand #189828947291: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:28:32 MSK [2018/08/12 22:28:32 ET]
+Table '2381046401 1' 6-max Seat #2 is the button
+Seat 2: Mishator (484 in chips)
+Seat 3: mrzm0118 (764 in chips)
+Seat 4: DiggErr555 (1348 in chips)
+Seat 5: moimob (404 in chips)
+Mishator: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+mrzm0118: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 8s]
+moimob: folds
+Mishator: folds
+mrzm0118: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 84 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: mrzm0118 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) collected (84)
+Seat 5: moimob folded before Flop (didn't bet)
+
+PokerStars Hand #189828951649: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:28:47 MSK [2018/08/12 22:28:47 ET]
+Table '2381046401 1' 6-max Seat #3 is the button
+Seat 2: Mishator (478 in chips)
+Seat 3: mrzm0118 (728 in chips)
+Seat 4: DiggErr555 (1396 in chips)
+Seat 5: moimob (398 in chips)
+Mishator: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+DiggErr555: posts small blind 30
+moimob: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 6c]
+Mishator: raises 412 to 472 and is all-in
+mrzm0118: folds
+DiggErr555: folds
+moimob: folds
+Uncalled bet (412) returned to Mishator
+Mishator collected 174 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 2: Mishator collected (174)
+Seat 3: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: moimob (big blind) folded before Flop
+
+PokerStars Hand #189828955084: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:28:59 MSK [2018/08/12 22:28:59 ET]
+Table '2381046401 1' 6-max Seat #4 is the button
+Seat 2: Mishator (586 in chips)
+Seat 3: mrzm0118 (722 in chips)
+Seat 4: DiggErr555 (1360 in chips)
+Seat 5: moimob (332 in chips)
+Mishator: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+moimob: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 7h]
+mrzm0118: folds
+DiggErr555: raises 1294 to 1354 and is all-in
+moimob: calls 296 and is all-in
+Mishator: folds
+Uncalled bet (1028) returned to DiggErr555
+*** FLOP *** [4c 4s 6c]
+*** TURN *** [4c 4s 6c] [5s]
+*** RIVER *** [4c 4s 6c 5s] [4d]
+*** SHOW DOWN ***
+moimob: shows [2s Ad] (three of a kind, Fours)
+DiggErr555: shows [Qd 7h] (three of a kind, Fours - lower kicker)
+moimob collected 736 from pot
+*** SUMMARY ***
+Total pot 736 | Rake 0
+Board [4c 4s 6c 5s 4d]
+Seat 2: Mishator (big blind) folded before Flop
+Seat 3: mrzm0118 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) showed [Qd 7h] and lost with three of a kind, Fours
+Seat 5: moimob (small blind) showed [2s Ad] and won (736) with three of a kind, Fours
+
+PokerStars Hand #189828961182: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:29:19 MSK [2018/08/12 22:29:19 ET]
+Table '2381046401 1' 6-max Seat #5 is the button
+Seat 2: Mishator (520 in chips)
+Seat 3: mrzm0118 (716 in chips)
+Seat 4: DiggErr555 (1028 in chips)
+Seat 5: moimob (736 in chips)
+Mishator: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+Mishator: posts small blind 30
+mrzm0118: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Qh]
+DiggErr555: folds
+moimob: raises 670 to 730 and is all-in
+Mishator: calls 484 and is all-in
+mrzm0118: folds
+Uncalled bet (216) returned to moimob
+*** FLOP *** [3c Kc 6d]
+*** TURN *** [3c Kc 6d] [2c]
+*** RIVER *** [3c Kc 6d 2c] [4c]
+*** SHOW DOWN ***
+Mishator: shows [Ad Ah] (a pair of Aces)
+moimob: shows [Qc 9s] (a flush, King high)
+moimob collected 1112 from pot
+moimob wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1112 | Rake 0
+Board [3c Kc 6d 2c 4c]
+Seat 2: Mishator (small blind) showed [Ad Ah] and lost with a pair of Aces
+Seat 3: mrzm0118 (big blind) folded before Flop
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: moimob (button) showed [Qc 9s] and won (1112) with a flush, King high
+
+PokerStars Hand #189828966583: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:29:37 MSK [2018/08/12 22:29:37 ET]
+Table '2381046401 1' 6-max Seat #3 is the button
+Seat 3: mrzm0118 (650 in chips)
+Seat 4: DiggErr555 (1022 in chips)
+Seat 5: moimob (1328 in chips)
+mrzm0118: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+DiggErr555: posts small blind 40
+moimob: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h Qc]
+mrzm0118: folds
+DiggErr555: raises 934 to 1014 and is all-in
+moimob: folds
+Uncalled bet (934) returned to DiggErr555
+DiggErr555 collected 184 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 3: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) collected (184)
+Seat 5: moimob (big blind) folded before Flop
+
+PokerStars Hand #189828970836: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:29:52 MSK [2018/08/12 22:29:52 ET]
+Table '2381046401 1' 6-max Seat #4 is the button
+Seat 3: mrzm0118 (642 in chips)
+Seat 4: DiggErr555 (1118 in chips)
+Seat 5: moimob (1240 in chips)
+mrzm0118: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+moimob: posts small blind 40
+mrzm0118: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 7s]
+DiggErr555: folds
+moimob: raises 80 to 160
+mrzm0118: folds
+Uncalled bet (80) returned to moimob
+moimob collected 184 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 3: mrzm0118 (big blind) folded before Flop
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) collected (184)
+
+PokerStars Hand #189828972582: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:29:58 MSK [2018/08/12 22:29:58 ET]
+Table '2381046401 1' 6-max Seat #5 is the button
+Seat 3: mrzm0118 (554 in chips)
+Seat 4: DiggErr555 (1110 in chips)
+Seat 5: moimob (1336 in chips)
+mrzm0118: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+mrzm0118: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 4h]
+moimob: folds
+mrzm0118: raises 466 to 546 and is all-in
+DiggErr555: folds
+Uncalled bet (466) returned to mrzm0118
+mrzm0118 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 3: mrzm0118 (small blind) collected (184)
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: moimob (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828975656: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:30:08 MSK [2018/08/12 22:30:08 ET]
+Table '2381046401 1' 6-max Seat #3 is the button
+Seat 3: mrzm0118 (650 in chips)
+Seat 4: DiggErr555 (1022 in chips)
+Seat 5: moimob (1328 in chips)
+mrzm0118: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+DiggErr555: posts small blind 40
+moimob: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 3c]
+mrzm0118: raises 562 to 642 and is all-in
+DiggErr555: folds
+moimob: folds
+Uncalled bet (562) returned to mrzm0118
+mrzm0118 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 3: mrzm0118 (button) collected (224)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: moimob (big blind) folded before Flop
+
+PokerStars Hand #189828978589: Tournament #2381046401, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:30:18 MSK [2018/08/12 22:30:18 ET]
+Table '2381046401 1' 6-max Seat #4 is the button
+Seat 3: mrzm0118 (786 in chips)
+Seat 4: DiggErr555 (974 in chips)
+Seat 5: moimob (1240 in chips)
+mrzm0118: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+moimob: posts small blind 40
+mrzm0118: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd Jd]
+DiggErr555: raises 886 to 966 and is all-in
+moimob: raises 266 to 1232 and is all-in
+mrzm0118: folds
+Uncalled bet (266) returned to moimob
+*** FLOP *** [3d 6h Th]
+*** TURN *** [3d 6h Th] [8d]
+*** RIVER *** [3d 6h Th 8d] [6c]
+*** SHOW DOWN ***
+moimob: shows [Qh Kd] (a pair of Sixes)
+DiggErr555: shows [Qd Jd] (a pair of Sixes - lower kicker)
+moimob collected 2036 from pot
+moimob wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2036 | Rake 0
+Board [3d 6h Th 8d 6c]
+Seat 3: mrzm0118 (big blind) folded before Flop
+Seat 4: DiggErr555 (button) showed [Qd Jd] and lost with a pair of Sixes
+Seat 5: moimob (small blind) showed [Qh Kd] and won (2036) with a pair of Sixes

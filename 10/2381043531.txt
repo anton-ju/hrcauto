@@ -1,0 +1,331 @@
+
+
+PokerStars Hand #189828666087: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:13:07 MSK [2018/08/12 22:13:07 ET]
+Table '2381043531 1' 6-max Seat #1 is the button
+Seat 1: Sexy Beast85 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: yaniw777 (500 in chips)
+Seat 4: Mishator (500 in chips)
+Seat 5: galpal12 (500 in chips)
+Seat 6: mrzm0118 (500 in chips)
+Sexy Beast85: posts the ante 2
+DiggErr555: posts the ante 2
+yaniw777: posts the ante 2
+Mishator: posts the ante 2
+galpal12: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts small blind 10
+yaniw777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 7h]
+Mishator: folds
+galpal12: raises 478 to 498 and is all-in
+mrzm0118: folds
+Sexy Beast85: folds
+DiggErr555: folds
+yaniw777: folds
+Uncalled bet (478) returned to galpal12
+galpal12 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: Sexy Beast85 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: yaniw777 (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: galpal12 collected (62)
+Seat 6: mrzm0118 folded before Flop (didn't bet)
+
+PokerStars Hand #189828673802: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:13:32 MSK [2018/08/12 22:13:32 ET]
+Table '2381043531 1' 6-max Seat #2 is the button
+Seat 1: Sexy Beast85 (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: yaniw777 (478 in chips)
+Seat 4: Mishator (498 in chips)
+Seat 5: galpal12 (540 in chips)
+Seat 6: mrzm0118 (498 in chips)
+Sexy Beast85: posts the ante 2
+DiggErr555: posts the ante 2
+yaniw777: posts the ante 2
+Mishator: posts the ante 2
+galpal12: posts the ante 2
+mrzm0118: posts the ante 2
+yaniw777: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 7c]
+galpal12: folds
+mrzm0118: folds
+Sexy Beast85: raises 20 to 40
+DiggErr555: folds
+yaniw777: folds
+Mishator: folds
+Uncalled bet (20) returned to Sexy Beast85
+Sexy Beast85 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: Sexy Beast85 collected (62)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: yaniw777 (small blind) folded before Flop
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: galpal12 folded before Flop (didn't bet)
+Seat 6: mrzm0118 folded before Flop (didn't bet)
+
+PokerStars Hand #189828682653: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:14:00 MSK [2018/08/12 22:14:00 ET]
+Table '2381043531 1' 6-max Seat #3 is the button
+Seat 1: Sexy Beast85 (538 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: yaniw777 (466 in chips)
+Seat 4: Mishator (476 in chips)
+Seat 5: galpal12 (538 in chips)
+Seat 6: mrzm0118 (496 in chips)
+Sexy Beast85: posts the ante 2
+DiggErr555: posts the ante 2
+yaniw777: posts the ante 2
+Mishator: posts the ante 2
+galpal12: posts the ante 2
+mrzm0118: posts the ante 2
+Mishator: posts small blind 10
+galpal12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d Tc]
+mrzm0118: raises 20 to 40
+Sexy Beast85: folds
+DiggErr555: folds
+yaniw777: raises 424 to 464 and is all-in
+Mishator: folds
+galpal12: folds
+mrzm0118: folds
+Uncalled bet (424) returned to yaniw777
+yaniw777 collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Seat 1: Sexy Beast85 folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: yaniw777 (button) collected (122)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: galpal12 (big blind) folded before Flop
+Seat 6: mrzm0118 folded before Flop
+
+PokerStars Hand #189828691271: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:14:28 MSK [2018/08/12 22:14:28 ET]
+Table '2381043531 1' 6-max Seat #4 is the button
+Seat 1: Sexy Beast85 (536 in chips)
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: yaniw777 (546 in chips)
+Seat 4: Mishator (464 in chips)
+Seat 5: galpal12 (516 in chips)
+Seat 6: mrzm0118 (454 in chips)
+Sexy Beast85: posts the ante 3
+DiggErr555: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+mrzm0118: posts the ante 3
+galpal12: posts small blind 15
+mrzm0118: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Js]
+Sexy Beast85: raises 60 to 90
+DiggErr555: folds
+yaniw777: folds
+Mishator: folds
+galpal12: raises 423 to 513 and is all-in
+mrzm0118: folds
+Sexy Beast85: calls 423
+*** FLOP *** [Td Tc 6h]
+*** TURN *** [Td Tc 6h] [4s]
+*** RIVER *** [Td Tc 6h 4s] [Qd]
+*** SHOW DOWN ***
+galpal12: shows [5s 5c] (two pair, Tens and Fives)
+Sexy Beast85: shows [8d As] (a pair of Tens)
+galpal12 collected 1074 from pot
+*** SUMMARY ***
+Total pot 1074 | Rake 0
+Board [Td Tc 6h 4s Qd]
+Seat 1: Sexy Beast85 showed [8d As] and lost with a pair of Tens
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: yaniw777 folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: galpal12 (small blind) showed [5s 5c] and won (1074) with two pair, Tens and Fives
+Seat 6: mrzm0118 (big blind) folded before Flop
+
+PokerStars Hand #189828702304: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:15:03 MSK [2018/08/12 22:15:03 ET]
+Table '2381043531 1' 6-max Seat #5 is the button
+Seat 1: Sexy Beast85 (20 in chips)
+Seat 2: DiggErr555 (481 in chips)
+Seat 3: yaniw777 (543 in chips)
+Seat 4: Mishator (461 in chips)
+Seat 5: galpal12 (1074 in chips)
+Seat 6: mrzm0118 (421 in chips)
+Sexy Beast85: posts the ante 3
+DiggErr555: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+mrzm0118: posts the ante 3
+mrzm0118: posts small blind 15
+Sexy Beast85: posts big blind 17 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Jd]
+DiggErr555: folds
+yaniw777: folds
+Mishator: folds
+galpal12: raises 1054 to 1071 and is all-in
+mrzm0118: calls 403 and is all-in
+Uncalled bet (653) returned to galpal12
+*** FLOP *** [3c Kc 7c]
+*** TURN *** [3c Kc 7c] [3h]
+*** RIVER *** [3c Kc 7c 3h] [7s]
+*** SHOW DOWN ***
+mrzm0118: shows [Jc Kd] (two pair, Kings and Sevens)
+galpal12: shows [9s Js] (two pair, Sevens and Threes)
+mrzm0118 collected 802 from side pot
+Sexy Beast85: shows [8c 3s] (a full house, Threes full of Sevens)
+Sexy Beast85 collected 69 from main pot
+*** SUMMARY ***
+Total pot 871 Main pot 69. Side pot 802. | Rake 0
+Board [3c Kc 7c 3h 7s]
+Seat 1: Sexy Beast85 (big blind) showed [8c 3s] and won (69) with a full house, Threes full of Sevens
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: yaniw777 folded before Flop (didn't bet)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: galpal12 (button) showed [9s Js] and lost with two pair, Sevens and Threes
+Seat 6: mrzm0118 (small blind) showed [Jc Kd] and won (802) with two pair, Kings and Sevens
+
+PokerStars Hand #189828713704: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:15:41 MSK [2018/08/12 22:15:41 ET]
+Table '2381043531 1' 6-max Seat #6 is the button
+Seat 1: Sexy Beast85 (69 in chips)
+Seat 2: DiggErr555 (478 in chips)
+Seat 3: yaniw777 (540 in chips)
+Seat 4: Mishator (458 in chips)
+Seat 5: galpal12 (653 in chips)
+Seat 6: mrzm0118 (802 in chips)
+Sexy Beast85: posts the ante 3
+DiggErr555: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+mrzm0118: posts the ante 3
+Sexy Beast85: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 9c]
+yaniw777: raises 507 to 537 and is all-in
+Mishator: folds
+galpal12: folds
+mrzm0118: raises 262 to 799 and is all-in
+Sexy Beast85: calls 51 and is all-in
+DiggErr555: folds
+Uncalled bet (262) returned to mrzm0118
+*** FLOP *** [5c 3d Ks]
+*** TURN *** [5c 3d Ks] [4d]
+*** RIVER *** [5c 3d Ks 4d] [8s]
+*** SHOW DOWN ***
+yaniw777: shows [7c Ac] (high card Ace)
+mrzm0118: shows [Kh Qh] (a pair of Kings)
+mrzm0118 collected 942 from side pot
+Sexy Beast85: shows [6d Qs] (high card King)
+mrzm0118 collected 246 from main pot
+mrzm0118 wins the $4.79 bounty for eliminating Sexy Beast85
+mrzm0118 wins the $4.79 bounty for eliminating yaniw777
+yaniw777 finished the tournament in 5th place
+Sexy Beast85 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1188 Main pot 246. Side pot 942. | Rake 0
+Board [5c 3d Ks 4d 8s]
+Seat 1: Sexy Beast85 (small blind) showed [6d Qs] and lost with high card King
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: yaniw777 showed [7c Ac] and lost with high card Ace
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: galpal12 folded before Flop (didn't bet)
+Seat 6: mrzm0118 (button) showed [Kh Qh] and won (1188) with a pair of Kings
+
+PokerStars Hand #189828721666: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:06 MSK [2018/08/12 22:16:06 ET]
+Table '2381043531 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (445 in chips)
+Seat 4: Mishator (455 in chips)
+Seat 5: galpal12 (650 in chips)
+Seat 6: mrzm0118 (1450 in chips)
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+galpal12: posts the ante 3
+mrzm0118: posts the ante 3
+Mishator: posts small blind 15
+galpal12: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 8s]
+mrzm0118: raises 30 to 60
+DiggErr555: folds
+Mishator: folds
+galpal12: folds
+Uncalled bet (30) returned to mrzm0118
+mrzm0118 collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: galpal12 (big blind) folded before Flop
+Seat 6: mrzm0118 collected (87)
+
+PokerStars Hand #189828729273: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:16:31 MSK [2018/08/12 22:16:31 ET]
+Table '2381043531 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (442 in chips)
+Seat 4: Mishator (437 in chips)
+Seat 5: galpal12 (617 in chips)
+Seat 6: mrzm0118 (1504 in chips)
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+galpal12: posts the ante 4
+mrzm0118: posts the ante 4
+galpal12: posts small blind 20
+mrzm0118: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 5c]
+DiggErr555: folds
+Mishator: raises 393 to 433 and is all-in
+galpal12: folds
+mrzm0118: folds
+Uncalled bet (393) returned to Mishator
+Mishator collected 116 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 4: Mishator (button) collected (116)
+Seat 5: galpal12 (small blind) folded before Flop
+Seat 6: mrzm0118 (big blind) folded before Flop
+
+PokerStars Hand #189828732758: Tournament #2381043531, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:16:42 MSK [2018/08/12 22:16:42 ET]
+Table '2381043531 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (438 in chips)
+Seat 4: Mishator (509 in chips)
+Seat 5: galpal12 (593 in chips)
+Seat 6: mrzm0118 (1460 in chips)
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+galpal12: posts the ante 4
+mrzm0118: posts the ante 4
+mrzm0118: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Kh]
+Mishator: folds
+galpal12: folds
+mrzm0118: raises 1416 to 1456 and is all-in
+DiggErr555: calls 394 and is all-in
+Uncalled bet (1022) returned to mrzm0118
+*** FLOP *** [8c 4h 2c]
+*** TURN *** [8c 4h 2c] [7d]
+*** RIVER *** [8c 4h 2c 7d] [2s]
+*** SHOW DOWN ***
+mrzm0118: shows [Jd 2d] (three of a kind, Deuces)
+DiggErr555: shows [Ks Kh] (two pair, Kings and Deuces)
+mrzm0118 collected 884 from pot
+mrzm0118 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 884 | Rake 0
+Board [8c 4h 2c 7d 2s]
+Seat 2: DiggErr555 (big blind) showed [Ks Kh] and lost with two pair, Kings and Deuces
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: galpal12 (button) folded before Flop (didn't bet)
+Seat 6: mrzm0118 (small blind) showed [Jd 2d] and won (884) with three of a kind, Deuces

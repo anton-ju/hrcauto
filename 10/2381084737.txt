@@ -1,0 +1,982 @@
+
+
+PokerStars Hand #189830495129: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:10:08 MSK [2018/08/13 0:10:08 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (500 in chips)
+Seat 2: faxe93 (500 in chips)
+Seat 3: oposs153 (500 in chips)
+Seat 4: time part 90 (500 in chips)
+Seat 5: LimpAndJam (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+Chili195809: posts the ante 2
+faxe93: posts the ante 2
+oposs153: posts the ante 2
+time part 90: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+faxe93: posts small blind 10
+oposs153: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Kh]
+time part 90: folds
+LimpAndJam: folds
+DiggErr555: folds
+Chili195809: raises 62 to 82
+faxe93: folds
+oposs153: raises 416 to 498 and is all-in
+Chili195809: calls 416 and is all-in
+*** FLOP *** [2s 2h 4d]
+*** TURN *** [2s 2h 4d] [Jh]
+*** RIVER *** [2s 2h 4d Jh] [Qh]
+*** SHOW DOWN ***
+oposs153: shows [5d 5c] (two pair, Fives and Deuces)
+Chili195809: shows [Ah 2d] (three of a kind, Deuces)
+Chili195809 collected 1018 from pot
+Chili195809 wins the $2.38 bounty for eliminating oposs153
+oposs153 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1018 | Rake 0
+Board [2s 2h 4d Jh Qh]
+Seat 1: Chili195809 (button) showed [Ah 2d] and won (1018) with three of a kind, Deuces
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 3: oposs153 (big blind) showed [5d 5c] and lost with two pair, Fives and Deuces
+Seat 4: time part 90 folded before Flop (didn't bet)
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830503164: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:10:45 MSK [2018/08/13 0:10:45 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (1018 in chips)
+Seat 2: faxe93 (488 in chips)
+Seat 4: time part 90 (498 in chips)
+Seat 5: LimpAndJam (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+Chili195809: posts the ante 2
+faxe93: posts the ante 2
+time part 90: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+time part 90: posts small blind 10
+LimpAndJam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Js]
+DiggErr555: folds
+Chili195809: raises 60 to 80
+faxe93: folds
+time part 90: folds
+LimpAndJam: folds
+Uncalled bet (60) returned to Chili195809
+Chili195809 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: Chili195809 collected (60)
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 4: time part 90 (small blind) folded before Flop
+Seat 5: LimpAndJam (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830508009: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:11:08 MSK [2018/08/13 0:11:08 ET]
+Table '2381084737 1' 6-max Seat #4 is the button
+Seat 1: Chili195809 (1056 in chips)
+Seat 2: faxe93 (486 in chips)
+Seat 4: time part 90 (486 in chips)
+Seat 5: LimpAndJam (476 in chips)
+Seat 6: DiggErr555 (496 in chips)
+Chili195809: posts the ante 2
+faxe93: posts the ante 2
+time part 90: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+LimpAndJam: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 7d]
+Chili195809: calls 20
+faxe93: folds
+time part 90: folds
+LimpAndJam: folds
+DiggErr555: raises 474 to 494 and is all-in
+Chili195809: folds
+Uncalled bet (474) returned to DiggErr555
+DiggErr555 collected 60 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: Chili195809 folded before Flop
+Seat 2: faxe93 folded before Flop (didn't bet)
+Seat 4: time part 90 (button) folded before Flop (didn't bet)
+Seat 5: LimpAndJam (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (60)
+
+PokerStars Hand #189830512713: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:11:29 MSK [2018/08/13 0:11:29 ET]
+Table '2381084737 1' 6-max Seat #5 is the button
+Seat 1: Chili195809 (1034 in chips)
+Seat 2: faxe93 (484 in chips)
+Seat 4: time part 90 (484 in chips)
+Seat 5: LimpAndJam (464 in chips)
+Seat 6: DiggErr555 (534 in chips)
+Chili195809: posts the ante 3
+faxe93: posts the ante 3
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+Chili195809: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Ah]
+faxe93: folds
+time part 90: folds
+LimpAndJam: raises 431 to 461 and is all-in
+DiggErr555: folds
+Chili195809: folds
+Uncalled bet (431) returned to LimpAndJam
+LimpAndJam collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: Chili195809 (big blind) folded before Flop
+Seat 2: faxe93 folded before Flop (didn't bet)
+Seat 4: time part 90 folded before Flop (didn't bet)
+Seat 5: LimpAndJam (button) collected (90)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830517559: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:11:52 MSK [2018/08/13 0:11:52 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (1001 in chips)
+Seat 2: faxe93 (481 in chips)
+Seat 4: time part 90 (481 in chips)
+Seat 5: LimpAndJam (521 in chips)
+Seat 6: DiggErr555 (516 in chips)
+Chili195809: posts the ante 3
+faxe93: posts the ante 3
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+Chili195809: posts small blind 15
+faxe93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 6d]
+time part 90: folds
+LimpAndJam: folds
+DiggErr555: folds
+Chili195809: folds
+Uncalled bet (15) returned to faxe93
+faxe93 collected 45 from pot
+faxe93: doesn't show hand
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: Chili195809 (small blind) folded before Flop
+Seat 2: faxe93 (big blind) collected (45)
+Seat 4: time part 90 folded before Flop (didn't bet)
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830521988: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:12:12 MSK [2018/08/13 0:12:12 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (983 in chips)
+Seat 2: faxe93 (508 in chips)
+Seat 4: time part 90 (478 in chips)
+Seat 5: LimpAndJam (518 in chips)
+Seat 6: DiggErr555 (513 in chips)
+Chili195809: posts the ante 3
+faxe93: posts the ante 3
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+faxe93: posts small blind 15
+time part 90: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4d]
+LimpAndJam: folds
+DiggErr555: folds
+Chili195809: raises 90 to 120
+faxe93: folds
+time part 90: folds
+Uncalled bet (90) returned to Chili195809
+Chili195809 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: Chili195809 (button) collected (90)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 4: time part 90 (big blind) folded before Flop
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830525496: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:12:28 MSK [2018/08/13 0:12:28 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (1040 in chips)
+Seat 2: faxe93 (490 in chips)
+Seat 4: time part 90 (445 in chips)
+Seat 5: LimpAndJam (515 in chips)
+Seat 6: DiggErr555 (510 in chips)
+Chili195809: posts the ante 3
+faxe93: posts the ante 3
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+time part 90: posts small blind 15
+LimpAndJam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 8s]
+DiggErr555: folds
+Chili195809: folds
+faxe93: folds
+time part 90: folds
+Uncalled bet (15) returned to LimpAndJam
+LimpAndJam collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: Chili195809 folded before Flop (didn't bet)
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 4: time part 90 (small blind) folded before Flop
+Seat 5: LimpAndJam (big blind) collected (45)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830528208: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:12:40 MSK [2018/08/13 0:12:40 ET]
+Table '2381084737 1' 6-max Seat #4 is the button
+Seat 1: Chili195809 (1037 in chips)
+Seat 2: faxe93 (487 in chips)
+Seat 4: time part 90 (427 in chips)
+Seat 5: LimpAndJam (542 in chips)
+Seat 6: DiggErr555 (507 in chips)
+Chili195809: posts the ante 4
+faxe93: posts the ante 4
+time part 90: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+LimpAndJam: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 3d]
+Chili195809: raises 120 to 160
+faxe93: folds
+time part 90: folds
+LimpAndJam: folds
+DiggErr555: folds
+Uncalled bet (120) returned to Chili195809
+Chili195809 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: Chili195809 collected (120)
+Seat 2: faxe93 folded before Flop (didn't bet)
+Seat 4: time part 90 (button) folded before Flop (didn't bet)
+Seat 5: LimpAndJam (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830532663: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:13:01 MSK [2018/08/13 0:13:01 ET]
+Table '2381084737 1' 6-max Seat #5 is the button
+Seat 1: Chili195809 (1113 in chips)
+Seat 2: faxe93 (483 in chips)
+Seat 4: time part 90 (423 in chips)
+Seat 5: LimpAndJam (518 in chips)
+Seat 6: DiggErr555 (463 in chips)
+Chili195809: posts the ante 4
+faxe93: posts the ante 4
+time part 90: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+Chili195809: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 8s]
+faxe93: folds
+time part 90: raises 379 to 419 and is all-in
+LimpAndJam: folds
+DiggErr555: folds
+Chili195809: folds
+Uncalled bet (379) returned to time part 90
+time part 90 collected 120 from pot
+time part 90: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: Chili195809 (big blind) folded before Flop
+Seat 2: faxe93 folded before Flop (didn't bet)
+Seat 4: time part 90 collected (120)
+Seat 5: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830535470: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:13:13 MSK [2018/08/13 0:13:13 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (1069 in chips)
+Seat 2: faxe93 (479 in chips)
+Seat 4: time part 90 (499 in chips)
+Seat 5: LimpAndJam (514 in chips)
+Seat 6: DiggErr555 (439 in chips)
+Chili195809: posts the ante 4
+faxe93: posts the ante 4
+time part 90: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+Chili195809: posts small blind 20
+faxe93: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 3h]
+time part 90: folds
+LimpAndJam: folds
+DiggErr555: folds
+Chili195809: calls 20
+faxe93: checks
+*** FLOP *** [Qd Td 3s]
+Chili195809: bets 40
+faxe93: folds
+Uncalled bet (40) returned to Chili195809
+Chili195809 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Board [Qd Td 3s]
+Seat 1: Chili195809 (small blind) collected (100)
+Seat 2: faxe93 (big blind) folded on the Flop
+Seat 4: time part 90 folded before Flop (didn't bet)
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830539419: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:13:31 MSK [2018/08/13 0:13:31 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (1125 in chips)
+Seat 2: faxe93 (435 in chips)
+Seat 4: time part 90 (495 in chips)
+Seat 5: LimpAndJam (510 in chips)
+Seat 6: DiggErr555 (435 in chips)
+Chili195809: posts the ante 4
+faxe93: posts the ante 4
+time part 90: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+faxe93: posts small blind 20
+time part 90: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Js]
+LimpAndJam: calls 40
+DiggErr555: folds
+Chili195809: raises 160 to 200
+faxe93: folds
+time part 90: folds
+LimpAndJam: raises 306 to 506 and is all-in
+Chili195809: calls 306
+*** FLOP *** [Ah 7h 3c]
+*** TURN *** [Ah 7h 3c] [9h]
+*** RIVER *** [Ah 7h 3c 9h] [Th]
+*** SHOW DOWN ***
+LimpAndJam: shows [Kd Ks] (a pair of Kings)
+Chili195809: shows [Kc Ad] (a pair of Aces)
+Chili195809 collected 1092 from pot
+Chili195809 wins the $2.38 bounty for eliminating LimpAndJam
+LimpAndJam finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1092 | Rake 0
+Board [Ah 7h 3c 9h Th]
+Seat 1: Chili195809 (button) showed [Kc Ad] and won (1092) with a pair of Aces
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 4: time part 90 (big blind) folded before Flop
+Seat 5: LimpAndJam showed [Kd Ks] and lost with a pair of Kings
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830547447: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:14:07 MSK [2018/08/13 0:14:07 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (1707 in chips)
+Seat 2: faxe93 (411 in chips)
+Seat 4: time part 90 (451 in chips)
+Seat 6: DiggErr555 (431 in chips)
+Chili195809: posts the ante 6
+faxe93: posts the ante 6
+time part 90: posts the ante 6
+DiggErr555: posts the ante 6
+time part 90: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Qd]
+Chili195809: calls 60
+faxe93: folds
+time part 90: calls 30
+DiggErr555: checks
+*** FLOP *** [Th 8h 3h]
+time part 90: checks
+DiggErr555: checks
+Chili195809: bets 204
+time part 90: folds
+DiggErr555: folds
+Uncalled bet (204) returned to Chili195809
+Chili195809 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | Rake 0
+Board [Th 8h 3h]
+Seat 1: Chili195809 collected (204)
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 4: time part 90 (small blind) folded on the Flop
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189830553854: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:14:37 MSK [2018/08/13 0:14:37 ET]
+Table '2381084737 1' 6-max Seat #4 is the button
+Seat 1: Chili195809 (1845 in chips)
+Seat 2: faxe93 (405 in chips)
+Seat 4: time part 90 (385 in chips)
+Seat 6: DiggErr555 (365 in chips)
+Chili195809: posts the ante 6
+faxe93: posts the ante 6
+time part 90: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+Chili195809: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 5s]
+faxe93: folds
+time part 90: folds
+DiggErr555: folds
+Uncalled bet (30) returned to Chili195809
+Chili195809 collected 84 from pot
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 1: Chili195809 (big blind) collected (84)
+Seat 2: faxe93 folded before Flop (didn't bet)
+Seat 4: time part 90 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830555847: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:14:45 MSK [2018/08/13 0:14:45 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (1893 in chips)
+Seat 2: faxe93 (399 in chips)
+Seat 4: time part 90 (379 in chips)
+Seat 6: DiggErr555 (329 in chips)
+Chili195809: posts the ante 6
+faxe93: posts the ante 6
+time part 90: posts the ante 6
+DiggErr555: posts the ante 6
+Chili195809: posts small blind 30
+faxe93: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 4d]
+time part 90: raises 313 to 373 and is all-in
+DiggErr555: folds
+Chili195809: calls 343
+faxe93: folds
+*** FLOP *** [4s 9h Kd]
+*** TURN *** [4s 9h Kd] [Tc]
+*** RIVER *** [4s 9h Kd Tc] [7s]
+*** SHOW DOWN ***
+Chili195809: shows [Kc Kh] (three of a kind, Kings)
+time part 90: shows [Ac Jc] (high card Ace)
+Chili195809 collected 830 from pot
+Chili195809 wins the $2.38 bounty for eliminating time part 90
+time part 90 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 830 | Rake 0
+Board [4s 9h Kd Tc 7s]
+Seat 1: Chili195809 (small blind) showed [Kc Kh] and won (830) with three of a kind, Kings
+Seat 2: faxe93 (big blind) folded before Flop
+Seat 4: time part 90 showed [Ac Jc] and lost with high card Ace
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830560267: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:15:05 MSK [2018/08/13 0:15:05 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (2344 in chips)
+Seat 2: faxe93 (333 in chips)
+Seat 6: DiggErr555 (323 in chips)
+Chili195809: posts the ante 6
+faxe93: posts the ante 6
+DiggErr555: posts the ante 6
+faxe93: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 8h]
+Chili195809: calls 60
+faxe93: folds
+DiggErr555: checks
+*** FLOP *** [8c Kd 3c]
+DiggErr555: checks
+Chili195809: bets 168
+DiggErr555: folds
+Uncalled bet (168) returned to Chili195809
+Chili195809 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Board [8c Kd 3c]
+Seat 1: Chili195809 (button) collected (168)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189830563931: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:15:22 MSK [2018/08/13 0:15:22 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (2446 in chips)
+Seat 2: faxe93 (297 in chips)
+Seat 6: DiggErr555 (257 in chips)
+Chili195809: posts the ante 6
+faxe93: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+Chili195809: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 5s]
+faxe93: raises 231 to 291 and is all-in
+DiggErr555: folds
+Chili195809: calls 231
+*** FLOP *** [4c Kd 4s]
+*** TURN *** [4c Kd 4s] [8s]
+*** RIVER *** [4c Kd 4s 8s] [8c]
+*** SHOW DOWN ***
+Chili195809: shows [2d 2c] (two pair, Eights and Fours)
+faxe93: shows [Qh Ac] (two pair, Eights and Fours - Ace kicker)
+faxe93 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0
+Board [4c Kd 4s 8s 8c]
+Seat 1: Chili195809 (big blind) showed [2d 2c] and lost with two pair, Eights and Fours
+Seat 2: faxe93 (button) showed [Qh Ac] and won (630) with two pair, Eights and Fours
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830568230: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:15:42 MSK [2018/08/13 0:15:42 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (2149 in chips)
+Seat 2: faxe93 (630 in chips)
+Seat 6: DiggErr555 (221 in chips)
+Chili195809: posts the ante 8
+faxe93: posts the ante 8
+DiggErr555: posts the ante 8
+Chili195809: posts small blind 40
+faxe93: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Ks]
+DiggErr555: folds
+Chili195809: raises 80 to 160
+faxe93: folds
+Uncalled bet (80) returned to Chili195809
+Chili195809 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 1: Chili195809 (small blind) collected (184)
+Seat 2: faxe93 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830570326: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:15:52 MSK [2018/08/13 0:15:52 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (2245 in chips)
+Seat 2: faxe93 (542 in chips)
+Seat 6: DiggErr555 (213 in chips)
+Chili195809: posts the ante 8
+faxe93: posts the ante 8
+DiggErr555: posts the ante 8
+faxe93: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 8d]
+Chili195809: folds
+faxe93: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 104 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: Chili195809 (button) folded before Flop (didn't bet)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (104)
+
+PokerStars Hand #189830571956: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:15:59 MSK [2018/08/13 0:15:59 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (2237 in chips)
+Seat 2: faxe93 (494 in chips)
+Seat 6: DiggErr555 (269 in chips)
+Chili195809: posts the ante 8
+faxe93: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+Chili195809: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Tc]
+faxe93: folds
+DiggErr555: raises 181 to 261 and is all-in
+Chili195809: calls 181
+*** FLOP *** [Qc 9c Jd]
+*** TURN *** [Qc 9c Jd] [8h]
+*** RIVER *** [Qc 9c Jd 8h] [4s]
+*** SHOW DOWN ***
+DiggErr555: shows [Jc Tc] (a straight, Eight to Queen)
+Chili195809: shows [Ad 6d] (high card Ace)
+DiggErr555 collected 546 from pot
+*** SUMMARY ***
+Total pot 546 | Rake 0
+Board [Qc 9c Jd 8h 4s]
+Seat 1: Chili195809 (big blind) showed [Ad 6d] and lost with high card Ace
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [Jc Tc] and won (546) with a straight, Eight to Queen
+
+PokerStars Hand #189830575316: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:16:15 MSK [2018/08/13 0:16:15 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (1968 in chips)
+Seat 2: faxe93 (486 in chips)
+Seat 6: DiggErr555 (546 in chips)
+Chili195809: posts the ante 8
+faxe93: posts the ante 8
+DiggErr555: posts the ante 8
+Chili195809: posts small blind 40
+faxe93: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td Qs]
+DiggErr555: folds
+Chili195809: calls 40
+faxe93: checks
+*** FLOP *** [Jd Kd 7c]
+Chili195809: checks
+faxe93: checks
+*** TURN *** [Jd Kd 7c] [2h]
+Chili195809: checks
+faxe93: checks
+*** RIVER *** [Jd Kd 7c 2h] [3d]
+Chili195809: bets 184
+faxe93: folds
+Uncalled bet (184) returned to Chili195809
+Chili195809 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Board [Jd Kd 7c 2h 3d]
+Seat 1: Chili195809 (small blind) collected (184)
+Seat 2: faxe93 (big blind) folded on the River
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830581027: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:16:41 MSK [2018/08/13 0:16:41 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (2064 in chips)
+Seat 2: faxe93 (398 in chips)
+Seat 6: DiggErr555 (538 in chips)
+Chili195809: posts the ante 8
+faxe93: posts the ante 8
+DiggErr555: posts the ante 8
+faxe93: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 7s]
+Chili195809: raises 1976 to 2056 and is all-in
+faxe93: folds
+DiggErr555: folds
+Uncalled bet (1976) returned to Chili195809
+Chili195809 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 1: Chili195809 (button) collected (224)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830583518: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:16:52 MSK [2018/08/13 0:16:52 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (2200 in chips)
+Seat 2: faxe93 (350 in chips)
+Seat 6: DiggErr555 (450 in chips)
+Chili195809: posts the ante 10
+faxe93: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+Chili195809: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 5s]
+faxe93: folds
+DiggErr555: folds
+Uncalled bet (50) returned to Chili195809
+Chili195809 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: Chili195809 (big blind) collected (130)
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830585357: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:17:01 MSK [2018/08/13 0:17:01 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (2270 in chips)
+Seat 2: faxe93 (340 in chips)
+Seat 6: DiggErr555 (390 in chips)
+Chili195809: posts the ante 10
+faxe93: posts the ante 10
+DiggErr555: posts the ante 10
+Chili195809: posts small blind 50
+faxe93: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 6c]
+DiggErr555: folds
+Chili195809: folds
+Uncalled bet (50) returned to faxe93
+faxe93 collected 130 from pot
+faxe93: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: Chili195809 (small blind) folded before Flop
+Seat 2: faxe93 (big blind) collected (130)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830586800: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:17:07 MSK [2018/08/13 0:17:07 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (2210 in chips)
+Seat 2: faxe93 (410 in chips)
+Seat 6: DiggErr555 (380 in chips)
+Chili195809: posts the ante 10
+faxe93: posts the ante 10
+DiggErr555: posts the ante 10
+faxe93: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 8h]
+Chili195809: folds
+faxe93: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 130 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: Chili195809 (button) folded before Flop (didn't bet)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (130)
+
+PokerStars Hand #189830587808: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:17:12 MSK [2018/08/13 0:17:12 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (2200 in chips)
+Seat 2: faxe93 (350 in chips)
+Seat 6: DiggErr555 (450 in chips)
+Chili195809: posts the ante 10
+faxe93: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+Chili195809: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Qs]
+faxe93: folds
+DiggErr555: raises 340 to 440 and is all-in
+Chili195809: folds
+Uncalled bet (340) returned to DiggErr555
+DiggErr555 collected 230 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: Chili195809 (big blind) folded before Flop
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (230)
+
+PokerStars Hand #189830589815: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:17:21 MSK [2018/08/13 0:17:21 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (2090 in chips)
+Seat 2: faxe93 (340 in chips)
+Seat 6: DiggErr555 (570 in chips)
+Chili195809: posts the ante 10
+faxe93: posts the ante 10
+DiggErr555: posts the ante 10
+Chili195809: posts small blind 50
+faxe93: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d Td]
+DiggErr555: folds
+Chili195809: raises 100 to 200
+faxe93: folds
+Uncalled bet (100) returned to Chili195809
+Chili195809 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: Chili195809 (small blind) collected (230)
+Seat 2: faxe93 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830592358: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:17:33 MSK [2018/08/13 0:17:33 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (2210 in chips)
+Seat 2: faxe93 (230 in chips)
+Seat 6: DiggErr555 (560 in chips)
+Chili195809: posts the ante 10
+faxe93: posts the ante 10
+DiggErr555: posts the ante 10
+faxe93: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 8h]
+Chili195809: folds
+faxe93: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 130 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: Chili195809 (button) folded before Flop (didn't bet)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (130)
+
+PokerStars Hand #189830594304: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:17:42 MSK [2018/08/13 0:17:42 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (2200 in chips)
+Seat 2: faxe93 (170 in chips)
+Seat 6: DiggErr555 (630 in chips)
+Chili195809: posts the ante 12
+faxe93: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+Chili195809: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 4h]
+faxe93: raises 38 to 158 and is all-in
+DiggErr555: raises 460 to 618 and is all-in
+Chili195809: folds
+Uncalled bet (460) returned to DiggErr555
+*** FLOP *** [6d Jd 3d]
+*** TURN *** [6d Jd 3d] [9d]
+*** RIVER *** [6d Jd 3d 9d] [Tc]
+*** SHOW DOWN ***
+DiggErr555: shows [Jh 4h] (a pair of Jacks)
+faxe93: shows [Qd Qh] (a flush, Queen high)
+faxe93 collected 472 from pot
+*** SUMMARY ***
+Total pot 472 | Rake 0
+Board [6d Jd 3d 9d Tc]
+Seat 1: Chili195809 (big blind) folded before Flop
+Seat 2: faxe93 (button) showed [Qd Qh] and won (472) with a flush, Queen high
+Seat 6: DiggErr555 (small blind) showed [Jh 4h] and lost with a pair of Jacks
+
+PokerStars Hand #189830598251: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:18:00 MSK [2018/08/13 0:18:00 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (2068 in chips)
+Seat 2: faxe93 (472 in chips)
+Seat 6: DiggErr555 (460 in chips)
+Chili195809: posts the ante 12
+faxe93: posts the ante 12
+DiggErr555: posts the ante 12
+Chili195809: posts small blind 60
+faxe93: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 8s]
+DiggErr555: folds
+Chili195809: folds
+Uncalled bet (60) returned to faxe93
+faxe93 collected 156 from pot
+faxe93: doesn't show hand
+*** SUMMARY ***
+Total pot 156 | Rake 0
+Seat 1: Chili195809 (small blind) folded before Flop
+Seat 2: faxe93 (big blind) collected (156)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830599914: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:18:08 MSK [2018/08/13 0:18:08 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (1996 in chips)
+Seat 2: faxe93 (556 in chips)
+Seat 6: DiggErr555 (448 in chips)
+Chili195809: posts the ante 12
+faxe93: posts the ante 12
+DiggErr555: posts the ante 12
+faxe93: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9c]
+Chili195809: folds
+faxe93: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 156 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 156 | Rake 0
+Seat 1: Chili195809 (button) folded before Flop (didn't bet)
+Seat 2: faxe93 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (156)
+
+PokerStars Hand #189830601208: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:18:13 MSK [2018/08/13 0:18:13 ET]
+Table '2381084737 1' 6-max Seat #2 is the button
+Seat 1: Chili195809 (1984 in chips)
+Seat 2: faxe93 (484 in chips)
+Seat 6: DiggErr555 (532 in chips)
+Chili195809: posts the ante 12
+faxe93: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+Chili195809: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Ts]
+faxe93: folds
+DiggErr555: raises 400 to 520 and is all-in
+Chili195809: calls 400
+*** FLOP *** [Kd 6d Jh]
+*** TURN *** [Kd 6d Jh] [8d]
+*** RIVER *** [Kd 6d Jh 8d] [6h]
+*** SHOW DOWN ***
+DiggErr555: shows [Ks Ts] (two pair, Kings and Sixes)
+Chili195809: shows [8s Ad] (two pair, Eights and Sixes)
+DiggErr555 collected 1076 from pot
+*** SUMMARY ***
+Total pot 1076 | Rake 0
+Board [Kd 6d Jh 8d 6h]
+Seat 1: Chili195809 (big blind) showed [8s Ad] and lost with two pair, Eights and Sixes
+Seat 2: faxe93 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [Ks Ts] and won (1076) with two pair, Kings and Sixes
+
+PokerStars Hand #189830605733: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:18:34 MSK [2018/08/13 0:18:34 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (1452 in chips)
+Seat 2: faxe93 (472 in chips)
+Seat 6: DiggErr555 (1076 in chips)
+Chili195809: posts the ante 12
+faxe93: posts the ante 12
+DiggErr555: posts the ante 12
+Chili195809: posts small blind 60
+faxe93: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Ks]
+DiggErr555: raises 944 to 1064 and is all-in
+Chili195809: folds
+faxe93: calls 340 and is all-in
+Uncalled bet (604) returned to DiggErr555
+*** FLOP *** [9c Kd Qd]
+*** TURN *** [9c Kd Qd] [8s]
+*** RIVER *** [9c Kd Qd 8s] [7s]
+*** SHOW DOWN ***
+faxe93: shows [Tc Th] (a pair of Tens)
+DiggErr555: shows [4c Ks] (a pair of Kings)
+DiggErr555 collected 1016 from pot
+DiggErr555 wins the $2.38 bounty for eliminating faxe93
+faxe93 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1016 | Rake 0
+Board [9c Kd Qd 8s 7s]
+Seat 1: Chili195809 (small blind) folded before Flop
+Seat 2: faxe93 (big blind) showed [Tc Th] and lost with a pair of Tens
+Seat 6: DiggErr555 (button) showed [4c Ks] and won (1016) with a pair of Kings
+
+PokerStars Hand #189830613513: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:19:10 MSK [2018/08/13 0:19:10 ET]
+Table '2381084737 1' 6-max Seat #1 is the button
+Seat 1: Chili195809 (1380 in chips)
+Seat 6: DiggErr555 (1620 in chips)
+Chili195809: posts the ante 12
+DiggErr555: posts the ante 12
+Chili195809: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd Kh]
+Chili195809: calls 60
+DiggErr555: raises 1488 to 1608 and is all-in
+Chili195809: folds
+Uncalled bet (1488) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 1: Chili195809 (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (264)
+
+PokerStars Hand #189830616448: Tournament #2381084737, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:19:23 MSK [2018/08/13 0:19:23 ET]
+Table '2381084737 1' 6-max Seat #6 is the button
+Seat 1: Chili195809 (1248 in chips)
+Seat 6: DiggErr555 (1752 in chips)
+Chili195809: posts the ante 15
+DiggErr555: posts the ante 15
+DiggErr555: posts small blind 75
+Chili195809: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 4c]
+DiggErr555: calls 75
+Chili195809: checks
+*** FLOP *** [9c 7c 8h]
+Chili195809: bets 150
+DiggErr555: raises 1437 to 1587 and is all-in
+Chili195809: calls 933 and is all-in
+Uncalled bet (504) returned to DiggErr555
+*** TURN *** [9c 7c 8h] [2h]
+*** RIVER *** [9c 7c 8h 2h] [Qd]
+*** SHOW DOWN ***
+Chili195809: shows [7h Js] (a pair of Sevens)
+DiggErr555: shows [9d 4c] (a pair of Nines)
+DiggErr555 collected 2496 from pot
+DiggErr555 wins the $2.38 bounty for eliminating Chili195809
+Chili195809 finished the tournament in 2nd place and received $7.14.
+DiggErr555 wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 2496 | Rake 0
+Board [9c 7c 8h 2h Qd]
+Seat 1: Chili195809 (big blind) showed [7h Js] and lost with a pair of Sevens
+Seat 6: DiggErr555 (button) (small blind) showed [9d 4c] and won (2496) with a pair of Nines

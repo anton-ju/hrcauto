@@ -1,0 +1,93 @@
+
+
+PokerStars Hand #189830736634: Tournament #2381090148, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:28:40 MSK [2018/08/13 0:28:40 ET]
+Table '2381090148 1' 6-max Seat #1 is the button
+Seat 1: time part 90 (500 in chips)
+Seat 2: Chili195809 (500 in chips)
+Seat 3: LimpAndJam (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: RellasRent (500 in chips)
+Seat 6: oposs153 (500 in chips)
+time part 90: posts the ante 2
+Chili195809: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+RellasRent: posts the ante 2
+oposs153: posts the ante 2
+Chili195809: posts small blind 10
+LimpAndJam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d Ts]
+DiggErr555: folds
+RellasRent: folds
+oposs153: folds
+time part 90: raises 22 to 42
+Chili195809: calls 32
+LimpAndJam: calls 22
+*** FLOP *** [2c Ad Jc]
+Chili195809: checks
+LimpAndJam: checks
+time part 90: checks
+*** TURN *** [2c Ad Jc] [Ah]
+Chili195809: checks
+LimpAndJam: checks
+time part 90: bets 100
+Chili195809: folds
+LimpAndJam: folds
+Uncalled bet (100) returned to time part 90
+time part 90 collected 138 from pot
+time part 90: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Board [2c Ad Jc Ah]
+Seat 1: time part 90 (button) collected (138)
+Seat 2: Chili195809 (small blind) folded on the Turn
+Seat 3: LimpAndJam (big blind) folded on the Turn
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: RellasRent folded before Flop (didn't bet)
+Seat 6: oposs153 folded before Flop (didn't bet)
+
+PokerStars Hand #189830752569: Tournament #2381090148, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:29:54 MSK [2018/08/13 0:29:54 ET]
+Table '2381090148 1' 6-max Seat #2 is the button
+Seat 1: time part 90 (594 in chips)
+Seat 2: Chili195809 (456 in chips)
+Seat 3: LimpAndJam (456 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: RellasRent (498 in chips)
+Seat 6: oposs153 (498 in chips)
+time part 90: posts the ante 2
+Chili195809: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+RellasRent: posts the ante 2
+oposs153: posts the ante 2
+LimpAndJam: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Qc]
+RellasRent: raises 20 to 40
+oposs153: folds
+time part 90: folds
+Chili195809: folds
+LimpAndJam: folds
+DiggErr555: raises 456 to 496 and is all-in
+RellasRent: calls 456 and is all-in
+*** FLOP *** [Td 2s Qs]
+RellasRent said, "sosi"
+*** TURN *** [Td 2s Qs] [8h]
+*** RIVER *** [Td 2s Qs 8h] [Th]
+*** SHOW DOWN ***
+DiggErr555: shows [9c Qc] (two pair, Queens and Tens)
+RellasRent: shows [Qh Kd] (two pair, Queens and Tens - King kicker)
+RellasRent collected 1014 from pot
+RellasRent wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1014 | Rake 0
+Board [Td 2s Qs 8h Th]
+Seat 1: time part 90 folded before Flop (didn't bet)
+Seat 2: Chili195809 (button) folded before Flop (didn't bet)
+Seat 3: LimpAndJam (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) showed [9c Qc] and lost with two pair, Queens and Tens
+Seat 5: RellasRent showed [Qh Kd] and won (1014) with two pair, Queens and Tens
+Seat 6: oposs153 folded before Flop (didn't bet)

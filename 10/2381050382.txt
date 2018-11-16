@@ -1,0 +1,997 @@
+
+
+PokerStars Hand #189828976262: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:30:10 MSK [2018/08/12 22:30:10 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (500 in chips)
+Seat 2: Mishator (500 in chips)
+Seat 3: v.amorim (500 in chips)
+Seat 4: grandma__136 (500 in chips)
+Seat 5: beefstu694 (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+lottsn: posts the ante 2
+Mishator: posts the ante 2
+v.amorim: posts the ante 2
+grandma__136: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts small blind 10
+v.amorim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Kc]
+grandma__136: calls 20
+beefstu694: folds
+DiggErr555: folds
+lottsn: folds
+Mishator: folds
+v.amorim: raises 40 to 60
+grandma__136: calls 40
+*** FLOP *** [7h 2s Ac]
+v.amorim: checks
+grandma__136: checks
+*** TURN *** [7h 2s Ac] [5c]
+v.amorim: bets 80
+grandma__136: calls 80
+*** RIVER *** [7h 2s Ac 5c] [3c]
+v.amorim: bets 358 and is all-in
+grandma__136: calls 358 and is all-in
+*** SHOW DOWN ***
+v.amorim: shows [Tc Kd] (high card Ace)
+grandma__136: shows [6c 4c] (a flush, Ace high)
+grandma__136 collected 1018 from pot
+grandma__136 wins the $2.38 bounty for eliminating v.amorim
+v.amorim finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1018 | Rake 0
+Board [7h 2s Ac 5c 3c]
+Seat 1: lottsn (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: v.amorim (big blind) showed [Tc Kd] and lost with high card Ace
+Seat 4: grandma__136 showed [6c 4c] and won (1018) with a flush, Ace high
+Seat 5: beefstu694 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828992014: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:31:04 MSK [2018/08/12 22:31:04 ET]
+Table '2381050382 1' 6-max Seat #2 is the button
+Seat 1: lottsn (498 in chips)
+Seat 2: Mishator (488 in chips)
+Seat 4: grandma__136 (1018 in chips)
+Seat 5: beefstu694 (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+lottsn: posts the ante 2
+Mishator: posts the ante 2
+grandma__136: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts the ante 2
+grandma__136: posts small blind 10
+beefstu694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 3s]
+DiggErr555: folds
+lottsn: folds
+Mishator: folds
+grandma__136: calls 10
+beefstu694: checks
+*** FLOP *** [Jh 2d 6c]
+grandma__136: checks
+beefstu694: checks
+*** TURN *** [Jh 2d 6c] [4d]
+grandma__136: checks
+beefstu694: checks
+*** RIVER *** [Jh 2d 6c 4d] [Kc]
+grandma__136: checks
+beefstu694: bets 40
+grandma__136: folds
+Uncalled bet (40) returned to beefstu694
+beefstu694 collected 50 from pot
+beefstu694: doesn't show hand
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Board [Jh 2d 6c 4d Kc]
+Seat 1: lottsn folded before Flop (didn't bet)
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 4: grandma__136 (small blind) folded on the River
+Seat 5: beefstu694 (big blind) collected (50)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829009206: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:32:02 MSK [2018/08/12 22:32:02 ET]
+Table '2381050382 1' 6-max Seat #4 is the button
+Seat 1: lottsn (496 in chips)
+Seat 2: Mishator (486 in chips)
+Seat 4: grandma__136 (996 in chips)
+Seat 5: beefstu694 (526 in chips)
+Seat 6: DiggErr555 (496 in chips)
+lottsn: posts the ante 2
+Mishator: posts the ante 2
+grandma__136: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts the ante 2
+beefstu694: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Jc]
+lottsn: folds
+Mishator: folds
+grandma__136: folds
+beefstu694: folds
+Uncalled bet (10) returned to DiggErr555
+DiggErr555 collected 30 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 1: lottsn folded before Flop (didn't bet)
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 4: grandma__136 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (30)
+
+PokerStars Hand #189829018720: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:32:35 MSK [2018/08/12 22:32:35 ET]
+Table '2381050382 1' 6-max Seat #5 is the button
+Seat 1: lottsn (494 in chips)
+Seat 2: Mishator (484 in chips)
+Seat 4: grandma__136 (994 in chips)
+Seat 5: beefstu694 (514 in chips)
+Seat 6: DiggErr555 (514 in chips)
+lottsn: posts the ante 3
+Mishator: posts the ante 3
+grandma__136: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+lottsn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 5c]
+Mishator: folds
+grandma__136: folds
+beefstu694: folds
+DiggErr555: raises 37 to 67
+lottsn: calls 37
+*** FLOP *** [Qc Ts 6h]
+DiggErr555: bets 52
+lottsn: raises 52 to 104
+DiggErr555: folds
+Uncalled bet (52) returned to lottsn
+lottsn collected 253 from pot
+*** SUMMARY ***
+Total pot 253 | Rake 0
+Board [Qc Ts 6h]
+Seat 1: lottsn (big blind) collected (253)
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 4: grandma__136 folded before Flop (didn't bet)
+Seat 5: beefstu694 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded on the Flop
+
+PokerStars Hand #189829030298: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:33:15 MSK [2018/08/12 22:33:15 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (625 in chips)
+Seat 2: Mishator (481 in chips)
+Seat 4: grandma__136 (991 in chips)
+Seat 5: beefstu694 (511 in chips)
+Seat 6: DiggErr555 (392 in chips)
+lottsn: posts the ante 3
+Mishator: posts the ante 3
+grandma__136: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+lottsn: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 5h]
+grandma__136: folds
+beefstu694: calls 30
+DiggErr555: raises 359 to 389 and is all-in
+lottsn: folds
+Mishator: folds
+beefstu694: folds
+Uncalled bet (359) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: lottsn (small blind) folded before Flop
+Seat 2: Mishator (big blind) folded before Flop
+Seat 4: grandma__136 folded before Flop (didn't bet)
+Seat 5: beefstu694 folded before Flop
+Seat 6: DiggErr555 (button) collected (120)
+
+PokerStars Hand #189829041989: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:33:55 MSK [2018/08/12 22:33:55 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (607 in chips)
+Seat 2: Mishator (448 in chips)
+Seat 4: grandma__136 (988 in chips)
+Seat 5: beefstu694 (478 in chips)
+Seat 6: DiggErr555 (479 in chips)
+lottsn: posts the ante 3
+Mishator: posts the ante 3
+grandma__136: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts small blind 15
+grandma__136: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 2c]
+beefstu694: folds
+DiggErr555: folds
+lottsn: folds
+Mishator: folds
+Uncalled bet (15) returned to grandma__136
+grandma__136 collected 45 from pot
+grandma__136: doesn't show hand
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: lottsn (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) folded before Flop
+Seat 4: grandma__136 (big blind) collected (45)
+Seat 5: beefstu694 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829047875: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:34:15 MSK [2018/08/12 22:34:15 ET]
+Table '2381050382 1' 6-max Seat #2 is the button
+Seat 1: lottsn (604 in chips)
+Seat 2: Mishator (430 in chips)
+Seat 4: grandma__136 (1015 in chips)
+Seat 5: beefstu694 (475 in chips)
+Seat 6: DiggErr555 (476 in chips)
+lottsn: posts the ante 3
+Mishator: posts the ante 3
+grandma__136: posts the ante 3
+beefstu694: posts the ante 3
+DiggErr555: posts the ante 3
+grandma__136: posts small blind 15
+beefstu694: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Qc]
+DiggErr555: folds
+lottsn: folds
+Mishator: folds
+grandma__136: calls 15
+beefstu694: checks
+*** FLOP *** [8h As Ad]
+grandma__136: checks
+beefstu694: checks
+*** TURN *** [8h As Ad] [5h]
+grandma__136: checks
+beefstu694: checks
+*** RIVER *** [8h As Ad 5h] [3s]
+grandma__136: checks
+beefstu694: checks
+*** SHOW DOWN ***
+grandma__136: shows [Ks 7h] (a pair of Aces)
+beefstu694: mucks hand
+grandma__136 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Board [8h As Ad 5h 3s]
+Seat 1: lottsn folded before Flop (didn't bet)
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 4: grandma__136 (small blind) showed [Ks 7h] and won (75) with a pair of Aces
+Seat 5: beefstu694 (big blind) mucked [Qh 2d]
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829071020: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:35:35 MSK [2018/08/12 22:35:35 ET]
+Table '2381050382 1' 6-max Seat #4 is the button
+Seat 1: lottsn (601 in chips)
+Seat 2: Mishator (427 in chips)
+Seat 4: grandma__136 (1057 in chips)
+Seat 5: beefstu694 (442 in chips)
+Seat 6: DiggErr555 (473 in chips)
+lottsn: posts the ante 4
+Mishator: posts the ante 4
+grandma__136: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts the ante 4
+beefstu694: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Th]
+lottsn: folds
+Mishator: raises 383 to 423 and is all-in
+grandma__136 has timed out
+grandma__136: folds
+grandma__136 is sitting out
+beefstu694: folds
+DiggErr555: folds
+Uncalled bet (383) returned to Mishator
+Mishator collected 120 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: lottsn folded before Flop (didn't bet)
+Seat 2: Mishator collected (120)
+Seat 4: grandma__136 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829081082: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:36:10 MSK [2018/08/12 22:36:10 ET]
+Table '2381050382 1' 6-max Seat #5 is the button
+Seat 1: lottsn (597 in chips)
+Seat 2: Mishator (503 in chips)
+Seat 4: grandma__136 (1053 in chips) is sitting out
+Seat 5: beefstu694 (418 in chips)
+Seat 6: DiggErr555 (429 in chips)
+lottsn: posts the ante 4
+Mishator: posts the ante 4
+grandma__136: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+lottsn: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c As]
+grandma__136 has returned
+Mishator: folds
+grandma__136: calls 40
+beefstu694: raises 40 to 80
+DiggErr555: folds
+lottsn: raises 240 to 320
+grandma__136: folds
+beefstu694: raises 94 to 414 and is all-in
+lottsn: calls 94
+*** FLOP *** [8h 3d Qc]
+*** TURN *** [8h 3d Qc] [5c]
+*** RIVER *** [8h 3d Qc 5c] [7c]
+*** SHOW DOWN ***
+lottsn: shows [Kc Kh] (a pair of Kings)
+beefstu694: shows [Ah Kd] (high card Ace)
+lottsn collected 908 from pot
+lottsn wins the $2.38 bounty for eliminating beefstu694
+beefstu694 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 908 | Rake 0
+Board [8h 3d Qc 5c 7c]
+Seat 1: lottsn (big blind) showed [Kc Kh] and won (908) with a pair of Kings
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 4: grandma__136 folded before Flop
+Seat 5: beefstu694 (button) showed [Ah Kd] and lost with high card Ace
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829095283: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:37:00 MSK [2018/08/12 22:37:00 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (1087 in chips)
+Seat 2: Mishator (499 in chips)
+Seat 4: grandma__136 (1009 in chips)
+Seat 6: DiggErr555 (405 in chips)
+lottsn: posts the ante 4
+Mishator: posts the ante 4
+grandma__136: posts the ante 4
+DiggErr555: posts the ante 4
+lottsn: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 7c]
+grandma__136: folds
+DiggErr555: raises 361 to 401 and is all-in
+lottsn: folds
+Mishator: calls 361
+*** FLOP *** [9c 4s 7h]
+*** TURN *** [9c 4s 7h] [Jd]
+*** RIVER *** [9c 4s 7h Jd] [7d]
+*** SHOW DOWN ***
+Mishator: shows [5s 6s] (a pair of Sevens)
+DiggErr555: shows [Ah 7c] (three of a kind, Sevens)
+DiggErr555 collected 838 from pot
+*** SUMMARY ***
+Total pot 838 | Rake 0
+Board [9c 4s 7h Jd 7d]
+Seat 1: lottsn (small blind) folded before Flop
+Seat 2: Mishator (big blind) showed [5s 6s] and lost with a pair of Sevens
+Seat 4: grandma__136 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) showed [Ah 7c] and won (838) with three of a kind, Sevens
+
+PokerStars Hand #189829105823: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:37:37 MSK [2018/08/12 22:37:37 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1063 in chips)
+Seat 2: Mishator (94 in chips)
+Seat 4: grandma__136 (1005 in chips)
+Seat 6: DiggErr555 (838 in chips)
+lottsn: posts the ante 4
+Mishator: posts the ante 4
+grandma__136: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts small blind 20
+grandma__136: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad Td]
+DiggErr555: raises 40 to 80
+lottsn: folds
+Mishator: raises 10 to 90 and is all-in
+grandma__136: calls 50
+DiggErr555: calls 10
+*** FLOP *** [8c 7s 3c]
+grandma__136: checks
+DiggErr555: checks
+*** TURN *** [8c 7s 3c] [6d]
+grandma__136: checks
+DiggErr555: checks
+*** RIVER *** [8c 7s 3c 6d] [Ac]
+grandma__136: checks
+DiggErr555: bets 149
+grandma__136: calls 149
+*** SHOW DOWN ***
+DiggErr555: shows [Ad Td] (a pair of Aces)
+grandma__136: mucks hand
+DiggErr555 collected 298 from side pot
+Mishator: mucks hand
+DiggErr555 collected 286 from main pot
+DiggErr555 wins the $2.38 bounty for eliminating Mishator
+Mishator finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 584 Main pot 286. Side pot 298. | Rake 0
+Board [8c 7s 3c 6d Ac]
+Seat 1: lottsn (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) mucked [Kh 5d]
+Seat 4: grandma__136 (big blind) mucked [9s 7c]
+Seat 6: DiggErr555 showed [Ad Td] and won (584) with a pair of Aces
+
+PokerStars Hand #189829122434: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:38:36 MSK [2018/08/12 22:38:36 ET]
+Table '2381050382 1' 6-max Seat #4 is the button
+Seat 1: lottsn (1059 in chips)
+Seat 4: grandma__136 (762 in chips)
+Seat 6: DiggErr555 (1179 in chips)
+lottsn: posts the ante 6
+grandma__136: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+lottsn: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 6s]
+grandma__136: calls 60
+DiggErr555: folds
+lottsn: checks
+*** FLOP *** [7c Kc As]
+lottsn: bets 180
+grandma__136: folds
+Uncalled bet (180) returned to lottsn
+lottsn collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Board [7c Kc As]
+Seat 1: lottsn (big blind) collected (168)
+Seat 4: grandma__136 (button) folded on the Flop
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829137025: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:39:13 MSK [2018/08/12 22:39:13 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (1161 in chips)
+Seat 4: grandma__136 (696 in chips)
+Seat 6: DiggErr555 (1143 in chips)
+lottsn: posts the ante 6
+grandma__136: posts the ante 6
+DiggErr555: posts the ante 6
+lottsn: posts small blind 30
+grandma__136: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 6s]
+DiggErr555: folds
+lottsn: folds
+Uncalled bet (30) returned to grandma__136
+grandma__136 collected 78 from pot
+grandma__136: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: lottsn (small blind) folded before Flop
+Seat 4: grandma__136 (big blind) collected (78)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829138412: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:39:18 MSK [2018/08/12 22:39:18 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1125 in chips)
+Seat 4: grandma__136 (738 in chips)
+Seat 6: DiggErr555 (1137 in chips)
+lottsn: posts the ante 6
+grandma__136: posts the ante 6
+DiggErr555: posts the ante 6
+grandma__136: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Jh]
+lottsn: folds
+grandma__136: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: lottsn (button) folded before Flop (didn't bet)
+Seat 4: grandma__136 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (78)
+
+PokerStars Hand #189829141766: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:39:30 MSK [2018/08/12 22:39:30 ET]
+Table '2381050382 1' 6-max Seat #4 is the button
+Seat 1: lottsn (1119 in chips)
+Seat 4: grandma__136 (702 in chips)
+Seat 6: DiggErr555 (1179 in chips)
+lottsn: posts the ante 6
+grandma__136: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+lottsn: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Jd]
+grandma__136: calls 60
+DiggErr555: raises 1113 to 1173 and is all-in
+lottsn: folds
+grandma__136: folds
+Uncalled bet (1113) returned to DiggErr555
+DiggErr555 collected 198 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 198 | Rake 0
+Seat 1: lottsn (big blind) folded before Flop
+Seat 4: grandma__136 (button) folded before Flop
+Seat 6: DiggErr555 (small blind) collected (198)
+
+PokerStars Hand #189829148282: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:39:53 MSK [2018/08/12 22:39:53 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (1053 in chips)
+Seat 4: grandma__136 (636 in chips)
+Seat 6: DiggErr555 (1311 in chips)
+lottsn: posts the ante 6
+grandma__136: posts the ante 6
+DiggErr555: posts the ante 6
+lottsn: posts small blind 30
+grandma__136: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Td]
+DiggErr555: folds
+lottsn: folds
+Uncalled bet (30) returned to grandma__136
+grandma__136 collected 78 from pot
+grandma__136: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: lottsn (small blind) folded before Flop
+Seat 4: grandma__136 (big blind) collected (78)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829155803: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:40:19 MSK [2018/08/12 22:40:19 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1017 in chips)
+Seat 4: grandma__136 (678 in chips)
+Seat 6: DiggErr555 (1305 in chips)
+lottsn: posts the ante 8
+grandma__136: posts the ante 8
+DiggErr555: posts the ante 8
+grandma__136: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Kh]
+lottsn: folds
+grandma__136: raises 80 to 160
+DiggErr555: raises 1137 to 1297 and is all-in
+grandma__136: calls 510 and is all-in
+Uncalled bet (627) returned to DiggErr555
+*** FLOP *** [2s Ks 6s]
+*** TURN *** [2s Ks 6s] [2c]
+*** RIVER *** [2s Ks 6s 2c] [9d]
+*** SHOW DOWN ***
+grandma__136: shows [Ac Qh] (a pair of Deuces)
+DiggErr555: shows [Kc Kh] (a full house, Kings full of Deuces)
+DiggErr555 collected 1364 from pot
+DiggErr555 wins the $2.38 bounty for eliminating grandma__136
+grandma__136 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1364 | Rake 0
+Board [2s Ks 6s 2c 9d]
+Seat 1: lottsn (button) folded before Flop (didn't bet)
+Seat 4: grandma__136 (small blind) showed [Ac Qh] and lost with a pair of Deuces
+Seat 6: DiggErr555 (big blind) showed [Kc Kh] and won (1364) with a full house, Kings full of Deuces
+
+PokerStars Hand #189829162558: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:40:43 MSK [2018/08/12 22:40:43 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (1009 in chips)
+Seat 6: DiggErr555 (1991 in chips)
+lottsn: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+lottsn: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 9d]
+DiggErr555: calls 40
+lottsn: checks
+*** FLOP *** [2d 5c 7d]
+lottsn: bets 240
+DiggErr555: folds
+Uncalled bet (240) returned to lottsn
+lottsn collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [2d 5c 7d]
+Seat 1: lottsn (big blind) collected (176)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189829166338: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:40:57 MSK [2018/08/12 22:40:57 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1097 in chips)
+Seat 6: DiggErr555 (1903 in chips)
+lottsn: posts the ante 8
+DiggErr555: posts the ante 8
+lottsn: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Kh]
+lottsn: raises 80 to 160
+DiggErr555: calls 80
+*** FLOP *** [Kd 2d 8d]
+DiggErr555: checks
+lottsn: checks
+*** TURN *** [Kd 2d 8d] [Qh]
+DiggErr555: bets 175
+lottsn: calls 175
+*** RIVER *** [Kd 2d 8d Qh] [5h]
+DiggErr555: bets 240
+lottsn: raises 480 to 720
+DiggErr555: folds
+Uncalled bet (480) returned to lottsn
+lottsn collected 1166 from pot
+*** SUMMARY ***
+Total pot 1166 | Rake 0
+Board [Kd 2d 8d Qh 5h]
+Seat 1: lottsn (button) (small blind) collected (1166)
+Seat 6: DiggErr555 (big blind) folded on the River
+
+PokerStars Hand #189829175562: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:41:30 MSK [2018/08/12 22:41:30 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (1680 in chips)
+Seat 6: DiggErr555 (1320 in chips)
+lottsn: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+lottsn: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As Js]
+DiggErr555: calls 40
+lottsn: checks
+*** FLOP *** [2c 7h 2s]
+lottsn: checks
+DiggErr555: bets 80
+lottsn: raises 80 to 160
+DiggErr555: calls 80
+*** TURN *** [2c 7h 2s] [2d]
+lottsn: checks
+DiggErr555: checks
+*** RIVER *** [2c 7h 2s 2d] [6s]
+lottsn: bets 240
+DiggErr555: calls 240
+*** SHOW DOWN ***
+lottsn: shows [Jh 2h] (four of a kind, Deuces)
+DiggErr555: mucks hand
+lottsn collected 976 from pot
+*** SUMMARY ***
+Total pot 976 | Rake 0
+Board [2c 7h 2s 2d 6s]
+Seat 1: lottsn (big blind) showed [Jh 2h] and won (976) with four of a kind, Deuces
+Seat 6: DiggErr555 (button) (small blind) mucked [As Js]
+
+PokerStars Hand #189829184339: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:42:02 MSK [2018/08/12 22:42:02 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (2168 in chips)
+Seat 6: DiggErr555 (832 in chips)
+lottsn: posts the ante 8
+DiggErr555: posts the ante 8
+lottsn: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 8s]
+lottsn: calls 40
+DiggErr555: checks
+*** FLOP *** [3s Jd Ks]
+DiggErr555: checks
+lottsn: bets 160
+DiggErr555: folds
+Uncalled bet (160) returned to lottsn
+lottsn collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [3s Jd Ks]
+Seat 1: lottsn (button) (small blind) collected (176)
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189829192044: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:42:29 MSK [2018/08/12 22:42:29 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (2256 in chips)
+Seat 6: DiggErr555 (744 in chips)
+lottsn: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+lottsn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 7s]
+DiggErr555: raises 634 to 734 and is all-in
+lottsn: folds
+Uncalled bet (634) returned to DiggErr555
+DiggErr555 collected 220 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 1: lottsn (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (220)
+
+PokerStars Hand #189829194947: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:42:40 MSK [2018/08/12 22:42:40 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (2146 in chips)
+Seat 6: DiggErr555 (854 in chips)
+lottsn: posts the ante 10
+DiggErr555: posts the ante 10
+lottsn: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 5h]
+lottsn: raises 100 to 200
+DiggErr555: folds
+Uncalled bet (100) returned to lottsn
+lottsn collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 1: lottsn (button) (small blind) collected (220)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829197143: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:42:47 MSK [2018/08/12 22:42:47 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (2256 in chips)
+Seat 6: DiggErr555 (744 in chips)
+lottsn: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+lottsn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s Kc]
+DiggErr555: raises 634 to 734 and is all-in
+lottsn: folds
+Uncalled bet (634) returned to DiggErr555
+DiggErr555 collected 220 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 1: lottsn (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (220)
+
+PokerStars Hand #189829199666: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:42:56 MSK [2018/08/12 22:42:56 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (2146 in chips)
+Seat 6: DiggErr555 (854 in chips)
+lottsn: posts the ante 10
+DiggErr555: posts the ante 10
+lottsn: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 5c]
+lottsn: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: lottsn (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (120)
+
+PokerStars Hand #189829201437: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:43:03 MSK [2018/08/12 22:43:03 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (2086 in chips)
+Seat 6: DiggErr555 (914 in chips)
+lottsn: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+lottsn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Kc]
+DiggErr555: raises 804 to 904 and is all-in
+lottsn: calls 804
+*** FLOP *** [Kd Jh 3h]
+*** TURN *** [Kd Jh 3h] [6h]
+*** RIVER *** [Kd Jh 3h 6h] [3c]
+*** SHOW DOWN ***
+lottsn: shows [Qh Tc] (a pair of Threes)
+DiggErr555: shows [2s Kc] (two pair, Kings and Threes)
+DiggErr555 collected 1828 from pot
+*** SUMMARY ***
+Total pot 1828 | Rake 0
+Board [Kd Jh 3h 6h 3c]
+Seat 1: lottsn (big blind) showed [Qh Tc] and lost with a pair of Threes
+Seat 6: DiggErr555 (button) (small blind) showed [2s Kc] and won (1828) with two pair, Kings and Threes
+
+PokerStars Hand #189829206466: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:43:21 MSK [2018/08/12 22:43:21 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1172 in chips)
+Seat 6: DiggErr555 (1828 in chips)
+lottsn: posts the ante 10
+DiggErr555: posts the ante 10
+lottsn: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Jc]
+lottsn: calls 50
+DiggErr555: raises 150 to 250
+lottsn: calls 150
+*** FLOP *** [9s 9h Ad]
+DiggErr555: checks
+lottsn: checks
+*** TURN *** [9s 9h Ad] [5s]
+DiggErr555: checks
+lottsn: bets 200
+DiggErr555: calls 200
+*** RIVER *** [9s 9h Ad 5s] [5c]
+DiggErr555: checks
+lottsn: bets 400
+DiggErr555: calls 400
+*** SHOW DOWN ***
+lottsn: shows [9d 6h] (a full house, Nines full of Fives)
+DiggErr555: mucks hand
+lottsn collected 1720 from pot
+*** SUMMARY ***
+Total pot 1720 | Rake 0
+Board [9s 9h Ad 5s 5c]
+Seat 1: lottsn (button) (small blind) showed [9d 6h] and won (1720) with a full house, Nines full of Fives
+Seat 6: DiggErr555 (big blind) mucked [Js Jc]
+
+PokerStars Hand #189829218360: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:44:03 MSK [2018/08/12 22:44:03 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (2032 in chips)
+Seat 6: DiggErr555 (968 in chips)
+lottsn: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+lottsn: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 5h]
+DiggErr555: calls 60
+lottsn: checks
+*** FLOP *** [Kd Qd 3s]
+lottsn: checks
+DiggErr555: bets 120
+lottsn: folds
+Uncalled bet (120) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Board [Kd Qd 3s]
+Seat 1: lottsn (big blind) folded on the Flop
+Seat 6: DiggErr555 (button) (small blind) collected (264)
+
+PokerStars Hand #189829223627: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:44:22 MSK [2018/08/12 22:44:22 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1900 in chips)
+Seat 6: DiggErr555 (1100 in chips)
+lottsn: posts the ante 12
+DiggErr555: posts the ante 12
+lottsn: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 6c]
+lottsn: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 144 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: lottsn (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (144)
+
+PokerStars Hand #189829225388: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:44:29 MSK [2018/08/12 22:44:29 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (1828 in chips)
+Seat 6: DiggErr555 (1172 in chips)
+lottsn: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+lottsn: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 5h]
+DiggErr555: folds
+Uncalled bet (60) returned to lottsn
+lottsn collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: lottsn (big blind) collected (144)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829227513: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:44:36 MSK [2018/08/12 22:44:36 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1900 in chips)
+Seat 6: DiggErr555 (1100 in chips)
+lottsn: posts the ante 12
+DiggErr555: posts the ante 12
+lottsn: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 2d]
+lottsn: raises 120 to 240
+DiggErr555: folds
+Uncalled bet (120) returned to lottsn
+lottsn collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 1: lottsn (button) (small blind) collected (264)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829230608: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:44:47 MSK [2018/08/12 22:44:47 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (2032 in chips)
+Seat 6: DiggErr555 (968 in chips)
+lottsn: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+lottsn: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 3s]
+DiggErr555: folds
+Uncalled bet (60) returned to lottsn
+lottsn collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: lottsn (big blind) collected (144)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829232273: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:44:53 MSK [2018/08/12 22:44:53 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (2104 in chips)
+Seat 6: DiggErr555 (896 in chips)
+lottsn: posts the ante 12
+DiggErr555: posts the ante 12
+lottsn: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 9c]
+lottsn: raises 360 to 480
+DiggErr555: folds
+Uncalled bet (360) returned to lottsn
+lottsn collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 1: lottsn (button) (small blind) collected (264)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829236939: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 5:45:10 MSK [2018/08/12 22:45:10 ET]
+Table '2381050382 1' 6-max Seat #6 is the button
+Seat 1: lottsn (2236 in chips)
+Seat 6: DiggErr555 (764 in chips)
+lottsn: posts the ante 15
+DiggErr555: posts the ante 15
+DiggErr555: posts small blind 75
+lottsn: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Td]
+DiggErr555: raises 599 to 749 and is all-in
+lottsn: calls 599
+*** FLOP *** [Jh 7s Qc]
+*** TURN *** [Jh 7s Qc] [Qd]
+*** RIVER *** [Jh 7s Qc Qd] [Kh]
+*** SHOW DOWN ***
+lottsn: shows [4d 3h] (a pair of Queens)
+DiggErr555: shows [Ac Td] (a straight, Ten to Ace)
+DiggErr555 collected 1528 from pot
+*** SUMMARY ***
+Total pot 1528 | Rake 0
+Board [Jh 7s Qc Qd Kh]
+Seat 1: lottsn (big blind) showed [4d 3h] and lost with a pair of Queens
+Seat 6: DiggErr555 (button) (small blind) showed [Ac Td] and won (1528) with a straight, Ten to Ace
+
+PokerStars Hand #189829240946: Tournament #2381050382, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 5:45:25 MSK [2018/08/12 22:45:25 ET]
+Table '2381050382 1' 6-max Seat #1 is the button
+Seat 1: lottsn (1472 in chips)
+Seat 6: DiggErr555 (1528 in chips)
+lottsn: posts the ante 15
+DiggErr555: posts the ante 15
+lottsn: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh Ac]
+lottsn: raises 150 to 300
+DiggErr555: raises 1213 to 1513 and is all-in
+lottsn: calls 1157 and is all-in
+Uncalled bet (56) returned to DiggErr555
+*** FLOP *** [Ad 6d 5d]
+*** TURN *** [Ad 6d 5d] [Ah]
+*** RIVER *** [Ad 6d 5d Ah] [Jc]
+*** SHOW DOWN ***
+DiggErr555: shows [Qh Ac] (three of a kind, Aces)
+lottsn: shows [Kh 9s] (a pair of Aces)
+DiggErr555 collected 2944 from pot
+DiggErr555 wins the $2.38 bounty for eliminating lottsn
+lottsn finished the tournament in 2nd place and received $7.14.
+DiggErr555 wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 2944 | Rake 0
+Board [Ad 6d 5d Ah Jc]
+Seat 1: lottsn (button) (small blind) showed [Kh 9s] and lost with a pair of Aces
+Seat 6: DiggErr555 (big blind) showed [Qh Ac] and won (2944) with three of a kind, Aces

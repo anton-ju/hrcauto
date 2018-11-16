@@ -1,0 +1,571 @@
+
+
+PokerStars Hand #189828940990: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:28:11 MSK [2018/08/12 22:28:11 ET]
+Table '2381048957 1' 6-max Seat #1 is the button
+Seat 1: hustlerama (500 in chips)
+Seat 2: Mishator (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: cowhead72 (500 in chips)
+Seat 5: floplucky88 (500 in chips)
+Seat 6: SpudsMack88 (500 in chips)
+hustlerama: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cowhead72: posts the ante 2
+floplucky88: posts the ante 2
+SpudsMack88: posts the ante 2
+Mishator: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 3c]
+cowhead72: folds
+floplucky88: raises 40 to 60
+SpudsMack88: folds
+hustlerama: folds
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (40) returned to floplucky88
+floplucky88 collected 62 from pot
+floplucky88: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: hustlerama (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: cowhead72 folded before Flop (didn't bet)
+Seat 5: floplucky88 collected (62)
+Seat 6: SpudsMack88 folded before Flop (didn't bet)
+
+PokerStars Hand #189828951124: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:28:45 MSK [2018/08/12 22:28:45 ET]
+Table '2381048957 1' 6-max Seat #2 is the button
+Seat 1: hustlerama (498 in chips)
+Seat 2: Mishator (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: cowhead72 (498 in chips)
+Seat 5: floplucky88 (540 in chips)
+Seat 6: SpudsMack88 (498 in chips)
+hustlerama: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cowhead72: posts the ante 2
+floplucky88: posts the ante 2
+SpudsMack88: posts the ante 2
+DiggErr555: posts small blind 10
+cowhead72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Ts]
+floplucky88: folds
+SpudsMack88: folds
+hustlerama: folds
+Mishator: folds
+DiggErr555: raises 456 to 476 and is all-in
+cowhead72: folds
+Uncalled bet (456) returned to DiggErr555
+DiggErr555 collected 52 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: hustlerama folded before Flop (didn't bet)
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) collected (52)
+Seat 4: cowhead72 (big blind) folded before Flop
+Seat 5: floplucky88 folded before Flop (didn't bet)
+Seat 6: SpudsMack88 folded before Flop (didn't bet)
+
+PokerStars Hand #189828960853: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:29:18 MSK [2018/08/12 22:29:18 ET]
+Table '2381048957 1' 6-max Seat #3 is the button
+Seat 1: hustlerama (496 in chips)
+Seat 2: Mishator (486 in chips)
+Seat 3: DiggErr555 (508 in chips)
+Seat 4: cowhead72 (476 in chips)
+Seat 5: floplucky88 (538 in chips)
+Seat 6: SpudsMack88 (496 in chips)
+hustlerama: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cowhead72: posts the ante 2
+floplucky88: posts the ante 2
+SpudsMack88: posts the ante 2
+cowhead72: posts small blind 10
+floplucky88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 2s]
+SpudsMack88: calls 20
+hustlerama: folds
+Mishator: folds
+DiggErr555: folds
+cowhead72: folds
+floplucky88: checks
+*** FLOP *** [Th 6h 8c]
+floplucky88: bets 60
+SpudsMack88: calls 60
+*** TURN *** [Th 6h 8c] [6d]
+floplucky88: bets 120
+SpudsMack88: calls 120
+*** RIVER *** [Th 6h 8c 6d] [Js]
+floplucky88: bets 336 and is all-in
+SpudsMack88: calls 294 and is all-in
+Uncalled bet (42) returned to floplucky88
+*** SHOW DOWN ***
+floplucky88: shows [4s 3s] (a pair of Sixes)
+SpudsMack88: shows [8d 9h] (two pair, Eights and Sixes)
+SpudsMack88 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0
+Board [Th 6h 8c 6d Js]
+Seat 1: hustlerama folded before Flop (didn't bet)
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cowhead72 (small blind) folded before Flop
+Seat 5: floplucky88 (big blind) showed [4s 3s] and lost with a pair of Sixes
+Seat 6: SpudsMack88 showed [8d 9h] and won (1010) with two pair, Eights and Sixes
+
+PokerStars Hand #189828985675: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:30:42 MSK [2018/08/12 22:30:42 ET]
+Table '2381048957 1' 6-max Seat #4 is the button
+Seat 1: hustlerama (494 in chips)
+Seat 2: Mishator (484 in chips)
+Seat 3: DiggErr555 (506 in chips)
+Seat 4: cowhead72 (464 in chips)
+Seat 5: floplucky88 (42 in chips)
+Seat 6: SpudsMack88 (1010 in chips)
+hustlerama: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+floplucky88: posts the ante 3
+SpudsMack88: posts the ante 3
+floplucky88: posts small blind 15
+SpudsMack88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 2c]
+hustlerama: raises 30 to 60
+Mishator: folds
+DiggErr555: folds
+cowhead72 has timed out
+cowhead72: folds
+cowhead72 is sitting out
+floplucky88: calls 24 and is all-in
+cowhead72 has returned
+SpudsMack88: calls 30
+*** FLOP *** [Kd Js 5d]
+SpudsMack88: checks
+hustlerama: checks
+*** TURN *** [Kd Js 5d] [8c]
+SpudsMack88: bets 177
+hustlerama: folds
+Uncalled bet (177) returned to SpudsMack88
+*** RIVER *** [Kd Js 5d 8c] [4s]
+*** SHOW DOWN ***
+SpudsMack88: shows [Jd 5h] (two pair, Jacks and Fives)
+SpudsMack88 collected 42 from side pot
+floplucky88: shows [4c Ac] (a pair of Fours)
+SpudsMack88 collected 135 from main pot
+SpudsMack88 wins the $4.79 bounty for eliminating floplucky88
+floplucky88 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 177 Main pot 135. Side pot 42. | Rake 0
+Board [Kd Js 5d 8c 4s]
+Seat 1: hustlerama folded on the Turn
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cowhead72 (button) folded before Flop (didn't bet)
+Seat 5: floplucky88 (small blind) showed [4c Ac] and lost with a pair of Fours
+Seat 6: SpudsMack88 (big blind) showed [Jd 5h] and won (177) with two pair, Jacks and Fives
+
+PokerStars Hand #189829006263: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:31:53 MSK [2018/08/12 22:31:53 ET]
+Table '2381048957 1' 6-max Seat #6 is the button
+Seat 1: hustlerama (431 in chips)
+Seat 2: Mishator (481 in chips)
+Seat 3: DiggErr555 (503 in chips)
+Seat 4: cowhead72 (461 in chips)
+Seat 6: SpudsMack88 (1124 in chips)
+hustlerama: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+SpudsMack88: posts the ante 3
+hustlerama: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 2s]
+DiggErr555: folds
+cowhead72: folds
+SpudsMack88: calls 30
+hustlerama: raises 398 to 428 and is all-in
+Mishator: raises 50 to 478 and is all-in
+SpudsMack88: calls 448
+*** FLOP *** [Qh 4h 9c]
+*** TURN *** [Qh 4h 9c] [Jc]
+*** RIVER *** [Qh 4h 9c Jc] [9h]
+*** SHOW DOWN ***
+Mishator: shows [8h Ah] (a flush, Ace high)
+SpudsMack88: shows [Ad 3h] (a pair of Nines)
+Mishator collected 100 from side pot
+hustlerama: shows [Ac 8d] (a pair of Nines)
+Mishator collected 1299 from main pot
+Mishator wins the $4.79 bounty for eliminating hustlerama
+hustlerama finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1399 Main pot 1299. Side pot 100. | Rake 0
+Board [Qh 4h 9c Jc 9h]
+Seat 1: hustlerama (small blind) showed [Ac 8d] and lost with a pair of Nines
+Seat 2: Mishator (big blind) showed [8h Ah] and won (1399) with a flush, Ace high
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cowhead72 folded before Flop (didn't bet)
+Seat 6: SpudsMack88 (button) showed [Ad 3h] and lost with a pair of Nines
+
+PokerStars Hand #189829015511: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:32:24 MSK [2018/08/12 22:32:24 ET]
+Table '2381048957 1' 6-max Seat #2 is the button
+Seat 2: Mishator (1399 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: cowhead72 (458 in chips)
+Seat 6: SpudsMack88 (643 in chips)
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+SpudsMack88: posts the ante 3
+DiggErr555: posts small blind 15
+cowhead72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 4c]
+SpudsMack88: raises 610 to 640 and is all-in
+Mishator: folds
+DiggErr555: folds
+cowhead72: folds
+Uncalled bet (610) returned to SpudsMack88
+SpudsMack88 collected 87 from pot
+SpudsMack88: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: cowhead72 (big blind) folded before Flop
+Seat 6: SpudsMack88 collected (87)
+
+PokerStars Hand #189829021358: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:32:44 MSK [2018/08/12 22:32:44 ET]
+Table '2381048957 1' 6-max Seat #3 is the button
+Seat 2: Mishator (1396 in chips)
+Seat 3: DiggErr555 (482 in chips)
+Seat 4: cowhead72 (425 in chips)
+Seat 6: SpudsMack88 (697 in chips)
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+SpudsMack88: posts the ante 3
+cowhead72: posts small blind 15
+SpudsMack88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 7c]
+Mishator: folds
+DiggErr555: folds
+cowhead72: folds
+Uncalled bet (15) returned to SpudsMack88
+SpudsMack88 collected 42 from pot
+SpudsMack88: doesn't show hand
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cowhead72 (small blind) folded before Flop
+Seat 6: SpudsMack88 (big blind) collected (42)
+
+PokerStars Hand #189829026306: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:33:01 MSK [2018/08/12 22:33:01 ET]
+Table '2381048957 1' 6-max Seat #4 is the button
+Seat 2: Mishator (1393 in chips)
+Seat 3: DiggErr555 (479 in chips)
+Seat 4: cowhead72 (407 in chips)
+Seat 6: SpudsMack88 (721 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+SpudsMack88: posts the ante 4
+SpudsMack88: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 3d]
+DiggErr555: folds
+cowhead72: raises 363 to 403 and is all-in
+SpudsMack88: raises 314 to 717 and is all-in
+Mishator: folds
+Uncalled bet (314) returned to SpudsMack88
+*** FLOP *** [Th 5d Qd]
+*** TURN *** [Th 5d Qd] [Kh]
+*** RIVER *** [Th 5d Qd Kh] [3h]
+*** SHOW DOWN ***
+SpudsMack88: shows [6h 6c] (a pair of Sixes)
+cowhead72: shows [Ac Js] (a straight, Ten to Ace)
+cowhead72 collected 862 from pot
+*** SUMMARY ***
+Total pot 862 | Rake 0
+Board [Th 5d Qd Kh 3h]
+Seat 2: Mishator (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: cowhead72 (button) showed [Ac Js] and won (862) with a straight, Ten to Ace
+Seat 6: SpudsMack88 (small blind) showed [6h 6c] and lost with a pair of Sixes
+
+PokerStars Hand #189829035395: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:33:32 MSK [2018/08/12 22:33:32 ET]
+Table '2381048957 1' 6-max Seat #6 is the button
+Seat 2: Mishator (1349 in chips)
+Seat 3: DiggErr555 (475 in chips)
+Seat 4: cowhead72 (862 in chips)
+Seat 6: SpudsMack88 (314 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+SpudsMack88: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 3d]
+cowhead72: raises 40 to 80
+SpudsMack88: raises 230 to 310 and is all-in
+Mishator: folds
+DiggErr555: folds
+cowhead72: calls 230
+*** FLOP *** [Ts 2s Td]
+*** TURN *** [Ts 2s Td] [3h]
+*** RIVER *** [Ts 2s Td 3h] [3c]
+*** SHOW DOWN ***
+cowhead72: shows [Th Ks] (a full house, Tens full of Threes)
+SpudsMack88: shows [Qc Jc] (two pair, Tens and Threes)
+cowhead72 collected 696 from pot
+cowhead72 wins the $4.79 bounty for eliminating SpudsMack88
+SpudsMack88 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 696 | Rake 0
+Board [Ts 2s Td 3h 3c]
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: cowhead72 showed [Th Ks] and won (696) with a full house, Tens full of Threes
+Seat 6: SpudsMack88 (button) showed [Qc Jc] and lost with two pair, Tens and Threes
+
+PokerStars Hand #189829042598: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:33:57 MSK [2018/08/12 22:33:57 ET]
+Table '2381048957 1' 6-max Seat #2 is the button
+Seat 2: Mishator (1325 in chips)
+Seat 3: DiggErr555 (431 in chips)
+Seat 4: cowhead72 (1244 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+DiggErr555: posts small blind 20
+cowhead72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 9c]
+Mishator: folds
+DiggErr555: raises 387 to 427 and is all-in
+cowhead72: calls 387
+*** FLOP *** [8c 3c Jh]
+*** TURN *** [8c 3c Jh] [4h]
+*** RIVER *** [8c 3c Jh 4h] [6c]
+*** SHOW DOWN ***
+DiggErr555: shows [Jc 9c] (a flush, Jack high)
+cowhead72: shows [Tc 9d] (high card Jack)
+DiggErr555 collected 866 from pot
+*** SUMMARY ***
+Total pot 866 | Rake 0
+Board [8c 3c Jh 4h 6c]
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [Jc 9c] and won (866) with a flush, Jack high
+Seat 4: cowhead72 (big blind) showed [Tc 9d] and lost with high card Jack
+
+PokerStars Hand #189829049056: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:34:19 MSK [2018/08/12 22:34:19 ET]
+Table '2381048957 1' 6-max Seat #3 is the button
+Seat 2: Mishator (1321 in chips)
+Seat 3: DiggErr555 (866 in chips)
+Seat 4: cowhead72 (813 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+cowhead72: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 3h]
+DiggErr555: folds
+cowhead72: calls 20
+Mishator: checks
+*** FLOP *** [Qc 3s 2c]
+cowhead72: bets 40
+Mishator: raises 69 to 109
+cowhead72: calls 69
+*** TURN *** [Qc 3s 2c] [Qd]
+cowhead72: checks
+Mishator: checks
+*** RIVER *** [Qc 3s 2c Qd] [2s]
+cowhead72: checks
+Mishator: bets 1168 and is all-in
+cowhead72: folds
+Uncalled bet (1168) returned to Mishator
+Mishator collected 310 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 310 | Rake 0
+Board [Qc 3s 2c Qd 2s]
+Seat 2: Mishator (big blind) collected (310)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cowhead72 (small blind) folded on the River
+
+PokerStars Hand #189829064884: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:35:13 MSK [2018/08/12 22:35:13 ET]
+Table '2381048957 1' 6-max Seat #4 is the button
+Seat 2: Mishator (1478 in chips)
+Seat 3: DiggErr555 (862 in chips)
+Seat 4: cowhead72 (660 in chips)
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+cowhead72: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 5s]
+cowhead72: calls 60
+Mishator: raises 1412 to 1472 and is all-in
+DiggErr555: folds
+cowhead72: folds
+Uncalled bet (1412) returned to Mishator
+Mishator collected 198 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 198 | Rake 0
+Seat 2: Mishator (small blind) collected (198)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: cowhead72 (button) folded before Flop
+
+PokerStars Hand #189829075326: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:35:50 MSK [2018/08/12 22:35:50 ET]
+Table '2381048957 1' 6-max Seat #2 is the button
+Seat 2: Mishator (1610 in chips)
+Seat 3: DiggErr555 (796 in chips)
+Seat 4: cowhead72 (594 in chips)
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+cowhead72: posts the ante 6
+DiggErr555: posts small blind 30
+cowhead72: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 4h]
+Mishator: raises 1544 to 1604 and is all-in
+DiggErr555: folds
+cowhead72: folds
+Uncalled bet (1544) returned to Mishator
+Mishator collected 168 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: Mishator (button) collected (168)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: cowhead72 (big blind) folded before Flop
+
+PokerStars Hand #189829077667: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:35:59 MSK [2018/08/12 22:35:59 ET]
+Table '2381048957 1' 6-max Seat #3 is the button
+Seat 2: Mishator (1712 in chips)
+Seat 3: DiggErr555 (760 in chips)
+Seat 4: cowhead72 (528 in chips)
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+cowhead72: posts the ante 6
+cowhead72: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 7d]
+DiggErr555: folds
+cowhead72: calls 30
+Mishator: checks
+*** FLOP *** [4d Jd Ts]
+cowhead72: bets 60
+Mishator: calls 60
+*** TURN *** [4d Jd Ts] [Tc]
+cowhead72: checks
+Mishator: checks
+*** RIVER *** [4d Jd Ts Tc] [6s]
+cowhead72: bets 120
+Mishator: folds
+Uncalled bet (120) returned to cowhead72
+cowhead72 collected 258 from pot
+*** SUMMARY ***
+Total pot 258 | Rake 0
+Board [4d Jd Ts Tc 6s]
+Seat 2: Mishator (big blind) folded on the River
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: cowhead72 (small blind) collected (258)
+
+PokerStars Hand #189829088628: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:36:37 MSK [2018/08/12 22:36:37 ET]
+Table '2381048957 1' 6-max Seat #4 is the button
+Seat 2: Mishator (1586 in chips)
+Seat 3: DiggErr555 (754 in chips)
+Seat 4: cowhead72 (660 in chips)
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+cowhead72: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 9h]
+cowhead72: folds
+Mishator: raises 1520 to 1580 and is all-in
+DiggErr555: folds
+Uncalled bet (1520) returned to Mishator
+Mishator collected 138 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: Mishator (small blind) collected (138)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: cowhead72 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829092528: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:36:50 MSK [2018/08/12 22:36:50 ET]
+Table '2381048957 1' 6-max Seat #2 is the button
+Seat 2: Mishator (1658 in chips)
+Seat 3: DiggErr555 (688 in chips)
+Seat 4: cowhead72 (654 in chips)
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+cowhead72: posts the ante 6
+DiggErr555: posts small blind 30
+cowhead72: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 8d]
+Mishator: raises 1592 to 1652 and is all-in
+DiggErr555: folds
+cowhead72: calls 588 and is all-in
+Uncalled bet (1004) returned to Mishator
+*** FLOP *** [Ah 2c 8c]
+*** TURN *** [Ah 2c 8c] [As]
+*** RIVER *** [Ah 2c 8c As] [6c]
+*** SHOW DOWN ***
+cowhead72: shows [Qd Ac] (three of a kind, Aces)
+Mishator: shows [Kc 3c] (a flush, King high)
+Mishator collected 1344 from pot
+Mishator wins the $4.79 bounty for eliminating cowhead72
+cowhead72 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1344 | Rake 0
+Board [Ah 2c 8c As 6c]
+Seat 2: Mishator (button) showed [Kc 3c] and won (1344) with a flush, King high
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: cowhead72 (big blind) showed [Qd Ac] and lost with three of a kind, Aces
+
+PokerStars Hand #189829098683: Tournament #2381048957, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:37:12 MSK [2018/08/12 22:37:12 ET]
+Table '2381048957 1' 6-max Seat #3 is the button
+Seat 2: Mishator (2348 in chips)
+Seat 3: DiggErr555 (652 in chips)
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 5s]
+DiggErr555: raises 564 to 644 and is all-in
+Mishator: calls 564
+*** FLOP *** [Ac 3s 7c]
+*** TURN *** [Ac 3s 7c] [4h]
+*** RIVER *** [Ac 3s 7c 4h] [9h]
+*** SHOW DOWN ***
+Mishator: shows [5c 5d] (a pair of Fives)
+DiggErr555: shows [Kh 5s] (high card Ace)
+Mishator collected 1304 from pot
+Mishator wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+Mishator wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1304 | Rake 0
+Board [Ac 3s 7c 4h 9h]
+Seat 2: Mishator (big blind) showed [5c 5d] and won (1304) with a pair of Fives
+Seat 3: DiggErr555 (button) (small blind) showed [Kh 5s] and lost with high card Ace

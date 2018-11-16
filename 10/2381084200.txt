@@ -1,0 +1,273 @@
+
+
+PokerStars Hand #189830523294: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:12:18 MSK [2018/08/13 0:12:18 ET]
+Table '2381084200 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: ngbruno (500 in chips)
+Seat 4: T-BE-rad (500 in chips)
+Seat 5: joebrauser (500 in chips)
+Seat 6: oLi069 (500 in chips)
+wildchiId: posts the ante 2
+DiggErr555: posts the ante 2
+ngbruno: posts the ante 2
+T-BE-rad: posts the ante 2
+joebrauser: posts the ante 2
+oLi069: posts the ante 2
+DiggErr555: posts small blind 10
+ngbruno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 8h]
+T-BE-rad: folds
+joebrauser: folds
+oLi069: folds
+wildchiId: raises 20 to 40
+DiggErr555: folds
+ngbruno: folds
+Uncalled bet (20) returned to wildchiId
+wildchiId collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: wildchiId (button) collected (62)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: ngbruno (big blind) folded before Flop
+Seat 4: T-BE-rad folded before Flop (didn't bet)
+Seat 5: joebrauser folded before Flop (didn't bet)
+Seat 6: oLi069 folded before Flop (didn't bet)
+
+PokerStars Hand #189830527928: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:12:39 MSK [2018/08/13 0:12:39 ET]
+Table '2381084200 1' 6-max Seat #2 is the button
+Seat 1: wildchiId (540 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: ngbruno (478 in chips)
+Seat 4: T-BE-rad (498 in chips)
+Seat 5: joebrauser (498 in chips)
+Seat 6: oLi069 (498 in chips)
+wildchiId: posts the ante 2
+DiggErr555: posts the ante 2
+ngbruno: posts the ante 2
+T-BE-rad: posts the ante 2
+joebrauser: posts the ante 2
+oLi069: posts the ante 2
+ngbruno: posts small blind 10
+T-BE-rad: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 5s]
+joebrauser: folds
+oLi069: folds
+wildchiId: folds
+DiggErr555: folds
+ngbruno: calls 10
+T-BE-rad: raises 52 to 72
+ngbruno: calls 52
+*** FLOP *** [As 6d Js]
+ngbruno: checks
+T-BE-rad: bets 80
+ngbruno: calls 80
+*** TURN *** [As 6d Js] [6h]
+ngbruno: checks
+T-BE-rad: bets 344 and is all-in
+ngbruno: folds
+Uncalled bet (344) returned to T-BE-rad
+T-BE-rad collected 316 from pot
+*** SUMMARY ***
+Total pot 316 | Rake 0
+Board [As 6d Js 6h]
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: ngbruno (small blind) folded on the Turn
+Seat 4: T-BE-rad (big blind) collected (316)
+Seat 5: joebrauser folded before Flop (didn't bet)
+Seat 6: oLi069 folded before Flop (didn't bet)
+
+PokerStars Hand #189830535095: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:13:11 MSK [2018/08/13 0:13:11 ET]
+Table '2381084200 1' 6-max Seat #3 is the button
+Seat 1: wildchiId (538 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: ngbruno (324 in chips)
+Seat 4: T-BE-rad (660 in chips)
+Seat 5: joebrauser (496 in chips)
+Seat 6: oLi069 (496 in chips)
+wildchiId: posts the ante 2
+DiggErr555: posts the ante 2
+ngbruno: posts the ante 2
+T-BE-rad: posts the ante 2
+joebrauser: posts the ante 2
+oLi069: posts the ante 2
+T-BE-rad: posts small blind 10
+joebrauser: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 9h]
+oLi069: folds
+wildchiId: folds
+DiggErr555: folds
+ngbruno: folds
+T-BE-rad: raises 20 to 40
+joebrauser: raises 454 to 494 and is all-in
+T-BE-rad: folds
+Uncalled bet (454) returned to joebrauser
+joebrauser collected 92 from pot
+joebrauser: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: ngbruno (button) folded before Flop (didn't bet)
+Seat 4: T-BE-rad (small blind) folded before Flop
+Seat 5: joebrauser (big blind) collected (92)
+Seat 6: oLi069 folded before Flop (didn't bet)
+
+PokerStars Hand #189830541772: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:13:42 MSK [2018/08/13 0:13:42 ET]
+Table '2381084200 1' 6-max Seat #4 is the button
+Seat 1: wildchiId (536 in chips)
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: ngbruno (322 in chips)
+Seat 4: T-BE-rad (618 in chips)
+Seat 5: joebrauser (546 in chips)
+Seat 6: oLi069 (494 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+ngbruno: posts the ante 3
+T-BE-rad: posts the ante 3
+joebrauser: posts the ante 3
+oLi069: posts the ante 3
+joebrauser: posts small blind 15
+oLi069: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 9h]
+wildchiId: folds
+DiggErr555: folds
+ngbruno: folds
+T-BE-rad: folds
+joebrauser: raises 513 to 543 and is all-in
+oLi069: folds
+Uncalled bet (513) returned to joebrauser
+joebrauser collected 78 from pot
+joebrauser: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: wildchiId folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 4: T-BE-rad (button) folded before Flop (didn't bet)
+Seat 5: joebrauser (small blind) collected (78)
+Seat 6: oLi069 (big blind) folded before Flop
+
+PokerStars Hand #189830545440: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:13:58 MSK [2018/08/13 0:13:58 ET]
+Table '2381084200 1' 6-max Seat #5 is the button
+Seat 1: wildchiId (533 in chips)
+Seat 2: DiggErr555 (481 in chips)
+Seat 3: ngbruno (319 in chips)
+Seat 4: T-BE-rad (615 in chips)
+Seat 5: joebrauser (591 in chips)
+Seat 6: oLi069 (461 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+ngbruno: posts the ante 3
+T-BE-rad: posts the ante 3
+joebrauser: posts the ante 3
+oLi069: posts the ante 3
+oLi069: posts small blind 15
+wildchiId: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h Ad]
+DiggErr555: folds
+ngbruno: folds
+T-BE-rad: folds
+joebrauser: folds
+oLi069: raises 428 to 458 and is all-in
+wildchiId: folds
+Uncalled bet (428) returned to oLi069
+oLi069 collected 78 from pot
+oLi069: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: wildchiId (big blind) folded before Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 4: T-BE-rad folded before Flop (didn't bet)
+Seat 5: joebrauser (button) folded before Flop (didn't bet)
+Seat 6: oLi069 (small blind) collected (78)
+
+PokerStars Hand #189830551351: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:14:25 MSK [2018/08/13 0:14:25 ET]
+Table '2381084200 1' 6-max Seat #6 is the button
+Seat 1: wildchiId (500 in chips)
+Seat 2: DiggErr555 (478 in chips)
+Seat 3: ngbruno (316 in chips)
+Seat 4: T-BE-rad (612 in chips)
+Seat 5: joebrauser (588 in chips)
+Seat 6: oLi069 (506 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+ngbruno: posts the ante 3
+T-BE-rad: posts the ante 3
+joebrauser: posts the ante 3
+oLi069: posts the ante 3
+wildchiId: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Qc]
+ngbruno: raises 283 to 313 and is all-in
+T-BE-rad: folds
+joebrauser: folds
+oLi069: raises 190 to 503 and is all-in
+wildchiId: folds
+DiggErr555: folds
+Uncalled bet (190) returned to oLi069
+*** FLOP *** [Kh 9h 4d]
+*** TURN *** [Kh 9h 4d] [4h]
+*** RIVER *** [Kh 9h 4d 4h] [Ad]
+*** SHOW DOWN ***
+ngbruno: shows [Jh Jd] (two pair, Jacks and Fours)
+oLi069: shows [Ac As] (a full house, Aces full of Fours)
+oLi069 collected 689 from pot
+oLi069 wins the $12.01 bounty for eliminating ngbruno
+ngbruno finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 689 | Rake 0
+Board [Kh 9h 4d 4h Ad]
+Seat 1: wildchiId (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: ngbruno showed [Jh Jd] and lost with two pair, Jacks and Fours
+Seat 4: T-BE-rad folded before Flop (didn't bet)
+Seat 5: joebrauser folded before Flop (didn't bet)
+Seat 6: oLi069 (button) showed [Ac As] and won (689) with a full house, Aces full of Fours
+
+PokerStars Hand #189830558263: Tournament #2381084200, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:14:56 MSK [2018/08/13 0:14:56 ET]
+Table '2381084200 1' 6-max Seat #1 is the button
+Seat 1: wildchiId (482 in chips)
+Seat 2: DiggErr555 (445 in chips)
+Seat 4: T-BE-rad (609 in chips)
+Seat 5: joebrauser (585 in chips)
+Seat 6: oLi069 (879 in chips)
+wildchiId: posts the ante 3
+DiggErr555: posts the ante 3
+T-BE-rad: posts the ante 3
+joebrauser: posts the ante 3
+oLi069: posts the ante 3
+DiggErr555: posts small blind 15
+T-BE-rad: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Qc]
+joebrauser: folds
+oLi069: folds
+wildchiId: folds
+DiggErr555: raises 412 to 442 and is all-in
+T-BE-rad: calls 412
+*** FLOP *** [2s 8s Ah]
+*** TURN *** [2s 8s Ah] [8d]
+*** RIVER *** [2s 8s Ah 8d] [Th]
+*** SHOW DOWN ***
+DiggErr555: shows [Tc Qc] (two pair, Tens and Eights)
+T-BE-rad: shows [Qs Ad] (two pair, Aces and Eights)
+T-BE-rad collected 899 from pot
+T-BE-rad wins the $12.01 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 899 | Rake 0
+Board [2s 8s Ah 8d Th]
+Seat 1: wildchiId (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) showed [Tc Qc] and lost with two pair, Tens and Eights
+Seat 4: T-BE-rad (big blind) showed [Qs Ad] and won (899) with two pair, Aces and Eights
+Seat 5: joebrauser folded before Flop (didn't bet)
+Seat 6: oLi069 folded before Flop (didn't bet)

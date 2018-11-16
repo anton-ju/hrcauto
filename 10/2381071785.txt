@@ -1,0 +1,1157 @@
+
+
+PokerStars Hand #189830167986: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:45:28 MSK [2018/08/12 23:45:28 ET]
+Table '2381071785 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (500 in chips)
+Seat 2: LuckyLeopard (500 in chips)
+Seat 3: ngbruno (500 in chips)
+Seat 4: RellasRent (500 in chips)
+Seat 5: pierrotip (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+joebrauser: posts the ante 2
+LuckyLeopard: posts the ante 2
+ngbruno: posts the ante 2
+RellasRent: posts the ante 2
+pierrotip: posts the ante 2
+DiggErr555: posts the ante 2
+LuckyLeopard: posts small blind 10
+ngbruno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Ks]
+RellasRent: folds
+pierrotip: calls 20
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: folds
+ngbruno: checks
+*** FLOP *** [Ah Jc Kh]
+ngbruno: checks
+pierrotip: checks
+*** TURN *** [Ah Jc Kh] [5h]
+ngbruno: checks
+pierrotip: checks
+*** RIVER *** [Ah Jc Kh 5h] [7c]
+ngbruno: checks
+pierrotip: checks
+*** SHOW DOWN ***
+ngbruno: shows [Ts 6d] (high card Ace)
+pierrotip: shows [Js Qs] (a pair of Jacks)
+pierrotip collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Board [Ah Jc Kh 5h 7c]
+Seat 1: joebrauser (button) folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (small blind) folded before Flop
+Seat 3: ngbruno (big blind) showed [Ts 6d] and lost with high card Ace
+Seat 4: RellasRent folded before Flop (didn't bet)
+Seat 5: pierrotip showed [Js Qs] and won (62) with a pair of Jacks
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830176778: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:46:05 MSK [2018/08/12 23:46:05 ET]
+Table '2381071785 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (498 in chips)
+Seat 2: LuckyLeopard (488 in chips)
+Seat 3: ngbruno (478 in chips)
+Seat 4: RellasRent (498 in chips)
+Seat 5: pierrotip (540 in chips)
+Seat 6: DiggErr555 (498 in chips)
+joebrauser: posts the ante 2
+LuckyLeopard: posts the ante 2
+ngbruno: posts the ante 2
+RellasRent: posts the ante 2
+pierrotip: posts the ante 2
+DiggErr555: posts the ante 2
+ngbruno: posts small blind 10
+RellasRent: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 2s]
+pierrotip: folds
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: raises 20 to 40
+ngbruno: raises 436 to 476 and is all-in
+RellasRent: folds
+LuckyLeopard: folds
+Uncalled bet (436) returned to ngbruno
+ngbruno collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (button) folded before Flop
+Seat 3: ngbruno (small blind) collected (112)
+Seat 4: RellasRent (big blind) folded before Flop
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830183419: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:46:33 MSK [2018/08/12 23:46:33 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (496 in chips)
+Seat 2: LuckyLeopard (446 in chips)
+Seat 3: ngbruno (548 in chips)
+Seat 4: RellasRent (476 in chips)
+Seat 5: pierrotip (538 in chips)
+Seat 6: DiggErr555 (496 in chips)
+joebrauser: posts the ante 2
+LuckyLeopard: posts the ante 2
+ngbruno: posts the ante 2
+RellasRent: posts the ante 2
+pierrotip: posts the ante 2
+DiggErr555: posts the ante 2
+RellasRent: posts small blind 10
+pierrotip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Kc]
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: folds
+ngbruno: folds
+RellasRent: folds
+Uncalled bet (10) returned to pierrotip
+pierrotip collected 32 from pot
+pierrotip: doesn't show hand
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: ngbruno (button) folded before Flop (didn't bet)
+Seat 4: RellasRent (small blind) folded before Flop
+Seat 5: pierrotip (big blind) collected (32)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830187745: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:46:52 MSK [2018/08/12 23:46:52 ET]
+Table '2381071785 1' 6-max Seat #4 is the button
+Seat 1: joebrauser (494 in chips)
+Seat 2: LuckyLeopard (444 in chips)
+Seat 3: ngbruno (546 in chips)
+Seat 4: RellasRent (464 in chips)
+Seat 5: pierrotip (558 in chips)
+Seat 6: DiggErr555 (494 in chips)
+joebrauser: posts the ante 3
+LuckyLeopard: posts the ante 3
+ngbruno: posts the ante 3
+RellasRent: posts the ante 3
+pierrotip: posts the ante 3
+DiggErr555: posts the ante 3
+pierrotip: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Qc]
+joebrauser: raises 30 to 60
+LuckyLeopard: folds
+ngbruno: folds
+RellasRent: folds
+pierrotip: folds
+DiggErr555: folds
+Uncalled bet (30) returned to joebrauser
+joebrauser collected 93 from pot
+joebrauser: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: joebrauser collected (93)
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 4: RellasRent (button) folded before Flop (didn't bet)
+Seat 5: pierrotip (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830191572: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:47:08 MSK [2018/08/12 23:47:08 ET]
+Table '2381071785 1' 6-max Seat #5 is the button
+Seat 1: joebrauser (554 in chips)
+Seat 2: LuckyLeopard (441 in chips)
+Seat 3: ngbruno (543 in chips)
+Seat 4: RellasRent (461 in chips)
+Seat 5: pierrotip (540 in chips)
+Seat 6: DiggErr555 (461 in chips)
+joebrauser: posts the ante 3
+LuckyLeopard: posts the ante 3
+ngbruno: posts the ante 3
+RellasRent: posts the ante 3
+pierrotip: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+joebrauser: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 7s]
+LuckyLeopard: folds
+ngbruno: folds
+RellasRent: folds
+pierrotip: raises 30 to 60
+DiggErr555: folds
+joebrauser: raises 491 to 551 and is all-in
+pierrotip: calls 477 and is all-in
+Uncalled bet (14) returned to joebrauser
+*** FLOP *** [9s Th 7d]
+*** TURN *** [9s Th 7d] [6c]
+*** RIVER *** [9s Th 7d 6c] [2h]
+*** SHOW DOWN ***
+joebrauser: shows [Jh Ad] (high card Ace)
+pierrotip: shows [Jc Ac] (high card Ace)
+joebrauser collected 554 from pot
+pierrotip collected 553 from pot
+*** SUMMARY ***
+Total pot 1107 | Rake 0
+Board [9s Th 7d 6c 2h]
+Seat 1: joebrauser (big blind) showed [Jh Ad] and won (554) with high card Ace
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 4: RellasRent folded before Flop (didn't bet)
+Seat 5: pierrotip (button) showed [Jc Ac] and won (553) with high card Ace
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830199642: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:47:43 MSK [2018/08/12 23:47:43 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (568 in chips)
+Seat 2: LuckyLeopard (438 in chips)
+Seat 3: ngbruno (540 in chips)
+Seat 4: RellasRent (458 in chips)
+Seat 5: pierrotip (553 in chips)
+Seat 6: DiggErr555 (443 in chips)
+joebrauser: posts the ante 3
+LuckyLeopard: posts the ante 3
+ngbruno: posts the ante 3
+RellasRent: posts the ante 3
+pierrotip: posts the ante 3
+DiggErr555: posts the ante 3
+joebrauser: posts small blind 15
+LuckyLeopard: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Qh]
+ngbruno: folds
+RellasRent: folds
+pierrotip: folds
+DiggErr555: folds
+joebrauser: raises 535 to 565 and is all-in
+LuckyLeopard: folds
+Uncalled bet (535) returned to joebrauser
+joebrauser collected 78 from pot
+joebrauser: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: joebrauser (small blind) collected (78)
+Seat 2: LuckyLeopard (big blind) folded before Flop
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 4: RellasRent folded before Flop (didn't bet)
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830204565: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:04 MSK [2018/08/12 23:48:04 ET]
+Table '2381071785 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (613 in chips)
+Seat 2: LuckyLeopard (405 in chips)
+Seat 3: ngbruno (537 in chips)
+Seat 4: RellasRent (455 in chips)
+Seat 5: pierrotip (550 in chips)
+Seat 6: DiggErr555 (440 in chips)
+joebrauser: posts the ante 3
+LuckyLeopard: posts the ante 3
+ngbruno: posts the ante 3
+RellasRent: posts the ante 3
+pierrotip: posts the ante 3
+DiggErr555: posts the ante 3
+LuckyLeopard: posts small blind 15
+ngbruno: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 6s]
+RellasRent: calls 30
+pierrotip: raises 30 to 60
+DiggErr555: folds
+joebrauser: calls 60
+LuckyLeopard: folds
+ngbruno: calls 30
+RellasRent: calls 30
+*** FLOP *** [2s 6d 3d]
+ngbruno: checks
+RellasRent: checks
+pierrotip: checks
+joebrauser: checks
+*** TURN *** [2s 6d 3d] [8s]
+ngbruno: bets 139
+RellasRent: folds
+pierrotip: folds
+joebrauser: folds
+Uncalled bet (139) returned to ngbruno
+ngbruno collected 273 from pot
+*** SUMMARY ***
+Total pot 273 | Rake 0
+Board [2s 6d 3d 8s]
+Seat 1: joebrauser (button) folded on the Turn
+Seat 2: LuckyLeopard (small blind) folded before Flop
+Seat 3: ngbruno (big blind) collected (273)
+Seat 4: RellasRent folded on the Turn
+Seat 5: pierrotip folded on the Turn
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830214711: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:48:48 MSK [2018/08/12 23:48:48 ET]
+Table '2381071785 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (550 in chips)
+Seat 2: LuckyLeopard (387 in chips)
+Seat 3: ngbruno (747 in chips)
+Seat 4: RellasRent (392 in chips)
+Seat 5: pierrotip (487 in chips)
+Seat 6: DiggErr555 (437 in chips)
+joebrauser: posts the ante 4
+LuckyLeopard: posts the ante 4
+ngbruno: posts the ante 4
+RellasRent: posts the ante 4
+pierrotip: posts the ante 4
+DiggErr555: posts the ante 4
+ngbruno: posts small blind 20
+RellasRent: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d As]
+pierrotip: folds
+DiggErr555: raises 393 to 433 and is all-in
+joebrauser: folds
+LuckyLeopard: folds
+ngbruno: folds
+RellasRent: calls 348 and is all-in
+Uncalled bet (45) returned to DiggErr555
+*** FLOP *** [6h 6s Kc]
+*** TURN *** [6h 6s Kc] [8s]
+*** RIVER *** [6h 6s Kc 8s] [5c]
+*** SHOW DOWN ***
+RellasRent: shows [Ac 9c] (a pair of Sixes)
+DiggErr555: shows [8d As] (two pair, Eights and Sixes)
+DiggErr555 collected 820 from pot
+DiggErr555 wins the $12.01 bounty for eliminating RellasRent
+RellasRent finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 820 | Rake 0
+Board [6h 6s Kc 8s 5c]
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 3: ngbruno (small blind) folded before Flop
+Seat 4: RellasRent (big blind) showed [Ac 9c] and lost with a pair of Sixes
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 showed [8d As] and won (820) with two pair, Eights and Sixes
+
+PokerStars Hand #189830221539: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:18 MSK [2018/08/12 23:49:18 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (546 in chips)
+Seat 2: LuckyLeopard (383 in chips)
+Seat 3: ngbruno (723 in chips)
+Seat 5: pierrotip (483 in chips)
+Seat 6: DiggErr555 (865 in chips)
+joebrauser: posts the ante 4
+LuckyLeopard: posts the ante 4
+ngbruno: posts the ante 4
+pierrotip: posts the ante 4
+DiggErr555: posts the ante 4
+pierrotip: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 9d]
+joebrauser: folds
+LuckyLeopard: raises 339 to 379 and is all-in
+ngbruno: folds
+pierrotip: folds
+DiggErr555: folds
+Uncalled bet (339) returned to LuckyLeopard
+LuckyLeopard collected 120 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard collected (120)
+Seat 3: ngbruno (button) folded before Flop (didn't bet)
+Seat 5: pierrotip (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830226611: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:40 MSK [2018/08/12 23:49:40 ET]
+Table '2381071785 1' 6-max Seat #5 is the button
+Seat 1: joebrauser (542 in chips)
+Seat 2: LuckyLeopard (459 in chips)
+Seat 3: ngbruno (719 in chips)
+Seat 5: pierrotip (459 in chips)
+Seat 6: DiggErr555 (821 in chips)
+joebrauser: posts the ante 4
+LuckyLeopard: posts the ante 4
+ngbruno: posts the ante 4
+pierrotip: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+joebrauser: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Kc]
+LuckyLeopard: folds
+ngbruno: folds
+pierrotip: folds
+DiggErr555: raises 777 to 817 and is all-in
+joebrauser: folds
+Uncalled bet (777) returned to DiggErr555
+DiggErr555 collected 100 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: joebrauser (big blind) folded before Flop
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 5: pierrotip (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (100)
+
+PokerStars Hand #189830230253: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:55 MSK [2018/08/12 23:49:55 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (498 in chips)
+Seat 2: LuckyLeopard (455 in chips)
+Seat 3: ngbruno (715 in chips)
+Seat 5: pierrotip (455 in chips)
+Seat 6: DiggErr555 (877 in chips)
+joebrauser: posts the ante 4
+LuckyLeopard: posts the ante 4
+ngbruno: posts the ante 4
+pierrotip: posts the ante 4
+DiggErr555: posts the ante 4
+joebrauser: posts small blind 20
+LuckyLeopard: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Kh]
+ngbruno: folds
+pierrotip: folds
+DiggErr555: folds
+joebrauser: raises 454 to 494 and is all-in
+LuckyLeopard: folds
+Uncalled bet (454) returned to joebrauser
+joebrauser collected 100 from pot
+joebrauser: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: joebrauser (small blind) collected (100)
+Seat 2: LuckyLeopard (big blind) folded before Flop
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830236488: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:50:23 MSK [2018/08/12 23:50:23 ET]
+Table '2381071785 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (554 in chips)
+Seat 2: LuckyLeopard (411 in chips)
+Seat 3: ngbruno (711 in chips)
+Seat 5: pierrotip (451 in chips)
+Seat 6: DiggErr555 (873 in chips)
+joebrauser: posts the ante 6
+LuckyLeopard: posts the ante 6
+ngbruno: posts the ante 6
+pierrotip: posts the ante 6
+DiggErr555: posts the ante 6
+LuckyLeopard: posts small blind 30
+ngbruno: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 5d]
+pierrotip: folds
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: raises 345 to 405 and is all-in
+ngbruno: calls 345
+*** FLOP *** [8s 8h 3d]
+*** TURN *** [8s 8h 3d] [7d]
+*** RIVER *** [8s 8h 3d 7d] [8d]
+*** SHOW DOWN ***
+LuckyLeopard: shows [Ac Ad] (a full house, Eights full of Aces)
+ngbruno: shows [9c Ts] (three of a kind, Eights)
+LuckyLeopard collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [8s 8h 3d 7d 8d]
+Seat 1: joebrauser (button) folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (small blind) showed [Ac Ad] and won (840) with a full house, Eights full of Aces
+Seat 3: ngbruno (big blind) showed [9c Ts] and lost with three of a kind, Eights
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830243130: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:50:52 MSK [2018/08/12 23:50:52 ET]
+Table '2381071785 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (548 in chips)
+Seat 2: LuckyLeopard (840 in chips)
+Seat 3: ngbruno (300 in chips)
+Seat 5: pierrotip (445 in chips)
+Seat 6: DiggErr555 (867 in chips)
+joebrauser: posts the ante 6
+LuckyLeopard: posts the ante 6
+ngbruno: posts the ante 6
+pierrotip: posts the ante 6
+DiggErr555: posts the ante 6
+ngbruno: posts small blind 30
+pierrotip: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh Js]
+DiggErr555: raises 801 to 861 and is all-in
+joebrauser: folds
+LuckyLeopard: folds
+ngbruno: calls 264 and is all-in
+pierrotip: folds
+Uncalled bet (567) returned to DiggErr555
+*** FLOP *** [5d 5s 4s]
+*** TURN *** [5d 5s 4s] [5c]
+*** RIVER *** [5d 5s 4s 5c] [9d]
+*** SHOW DOWN ***
+ngbruno: shows [Tc Ts] (a full house, Fives full of Tens)
+DiggErr555: shows [Qh Js] (three of a kind, Fives)
+ngbruno collected 678 from pot
+*** SUMMARY ***
+Total pot 678 | Rake 0
+Board [5d 5s 4s 5c 9d]
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 3: ngbruno (small blind) showed [Tc Ts] and won (678) with a full house, Fives full of Tens
+Seat 5: pierrotip (big blind) folded before Flop
+Seat 6: DiggErr555 showed [Qh Js] and lost with three of a kind, Fives
+
+PokerStars Hand #189830248005: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:13 MSK [2018/08/12 23:51:13 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (542 in chips)
+Seat 2: LuckyLeopard (834 in chips)
+Seat 3: ngbruno (678 in chips)
+Seat 5: pierrotip (379 in chips)
+Seat 6: DiggErr555 (567 in chips)
+joebrauser: posts the ante 6
+LuckyLeopard: posts the ante 6
+ngbruno: posts the ante 6
+pierrotip: posts the ante 6
+DiggErr555: posts the ante 6
+pierrotip: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Qh]
+joebrauser: folds
+LuckyLeopard: raises 768 to 828 and is all-in
+ngbruno: folds
+pierrotip: folds
+DiggErr555: folds
+Uncalled bet (768) returned to LuckyLeopard
+LuckyLeopard collected 180 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard collected (180)
+Seat 3: ngbruno (button) folded before Flop (didn't bet)
+Seat 5: pierrotip (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830252613: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:32 MSK [2018/08/12 23:51:32 ET]
+Table '2381071785 1' 6-max Seat #5 is the button
+Seat 1: joebrauser (536 in chips)
+Seat 2: LuckyLeopard (948 in chips)
+Seat 3: ngbruno (672 in chips)
+Seat 5: pierrotip (343 in chips)
+Seat 6: DiggErr555 (501 in chips)
+joebrauser: posts the ante 6
+LuckyLeopard: posts the ante 6
+ngbruno: posts the ante 6
+pierrotip: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+joebrauser: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 9d]
+LuckyLeopard: raises 882 to 942 and is all-in
+ngbruno: folds
+pierrotip: folds
+DiggErr555: folds
+joebrauser: folds
+Uncalled bet (882) returned to LuckyLeopard
+LuckyLeopard collected 180 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: joebrauser (big blind) folded before Flop
+Seat 2: LuckyLeopard collected (180)
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 5: pierrotip (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830256538: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:49 MSK [2018/08/12 23:51:49 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (470 in chips)
+Seat 2: LuckyLeopard (1062 in chips)
+Seat 3: ngbruno (666 in chips)
+Seat 5: pierrotip (337 in chips)
+Seat 6: DiggErr555 (465 in chips)
+joebrauser: posts the ante 6
+LuckyLeopard: posts the ante 6
+ngbruno: posts the ante 6
+pierrotip: posts the ante 6
+DiggErr555: posts the ante 6
+joebrauser: posts small blind 30
+LuckyLeopard: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 9c]
+ngbruno: folds
+pierrotip: raises 271 to 331 and is all-in
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: calls 271
+*** FLOP *** [9s 7s 7c]
+*** TURN *** [9s 7s 7c] [As]
+*** RIVER *** [9s 7s 7c As] [Kc]
+*** SHOW DOWN ***
+LuckyLeopard: shows [5s 5d] (two pair, Sevens and Fives)
+pierrotip: shows [Ah 7d] (a full house, Sevens full of Aces)
+pierrotip collected 722 from pot
+*** SUMMARY ***
+Total pot 722 | Rake 0
+Board [9s 7s 7c As Kc]
+Seat 1: joebrauser (small blind) folded before Flop
+Seat 2: LuckyLeopard (big blind) showed [5s 5d] and lost with two pair, Sevens and Fives
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 5: pierrotip showed [Ah 7d] and won (722) with a full house, Sevens full of Aces
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830262920: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:52:16 MSK [2018/08/12 23:52:16 ET]
+Table '2381071785 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (434 in chips)
+Seat 2: LuckyLeopard (725 in chips)
+Seat 3: ngbruno (660 in chips)
+Seat 5: pierrotip (722 in chips)
+Seat 6: DiggErr555 (459 in chips)
+joebrauser: posts the ante 8
+LuckyLeopard: posts the ante 8
+ngbruno: posts the ante 8
+pierrotip: posts the ante 8
+DiggErr555: posts the ante 8
+LuckyLeopard: posts small blind 40
+ngbruno: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 2s]
+pierrotip: folds
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: raises 637 to 717 and is all-in
+ngbruno: folds
+Uncalled bet (637) returned to LuckyLeopard
+LuckyLeopard collected 200 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Seat 1: joebrauser (button) folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (small blind) collected (200)
+Seat 3: ngbruno (big blind) folded before Flop
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830269792: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:52:46 MSK [2018/08/12 23:52:46 ET]
+Table '2381071785 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (426 in chips)
+Seat 2: LuckyLeopard (837 in chips)
+Seat 3: ngbruno (572 in chips)
+Seat 5: pierrotip (714 in chips)
+Seat 6: DiggErr555 (451 in chips)
+joebrauser: posts the ante 8
+LuckyLeopard: posts the ante 8
+ngbruno: posts the ante 8
+pierrotip: posts the ante 8
+DiggErr555: posts the ante 8
+ngbruno: posts small blind 40
+pierrotip: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 8c]
+DiggErr555: raises 363 to 443 and is all-in
+joebrauser: folds
+LuckyLeopard: folds
+ngbruno: folds
+pierrotip: folds
+Uncalled bet (363) returned to DiggErr555
+DiggErr555 collected 240 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 3: ngbruno (small blind) folded before Flop
+Seat 5: pierrotip (big blind) folded before Flop
+Seat 6: DiggErr555 collected (240)
+
+PokerStars Hand #189830275713: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:53:11 MSK [2018/08/12 23:53:11 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (418 in chips)
+Seat 2: LuckyLeopard (829 in chips)
+Seat 3: ngbruno (524 in chips)
+Seat 5: pierrotip (626 in chips)
+Seat 6: DiggErr555 (603 in chips)
+joebrauser: posts the ante 8
+LuckyLeopard: posts the ante 8
+ngbruno: posts the ante 8
+pierrotip: posts the ante 8
+DiggErr555: posts the ante 8
+pierrotip: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 8h]
+joebrauser: folds
+LuckyLeopard: raises 741 to 821 and is all-in
+ngbruno: folds
+pierrotip: folds
+DiggErr555: folds
+Uncalled bet (741) returned to LuckyLeopard
+LuckyLeopard collected 240 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: LuckyLeopard collected (240)
+Seat 3: ngbruno (button) folded before Flop (didn't bet)
+Seat 5: pierrotip (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830278743: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:53:24 MSK [2018/08/12 23:53:24 ET]
+Table '2381071785 1' 6-max Seat #5 is the button
+Seat 1: joebrauser (410 in chips)
+Seat 2: LuckyLeopard (981 in chips)
+Seat 3: ngbruno (516 in chips)
+Seat 5: pierrotip (578 in chips)
+Seat 6: DiggErr555 (515 in chips)
+joebrauser: posts the ante 8
+LuckyLeopard: posts the ante 8
+ngbruno: posts the ante 8
+pierrotip: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+joebrauser: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 6c]
+LuckyLeopard: folds
+ngbruno: raises 428 to 508 and is all-in
+pierrotip: folds
+DiggErr555: folds
+joebrauser: folds
+Uncalled bet (428) returned to ngbruno
+ngbruno collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Seat 1: joebrauser (big blind) folded before Flop
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: ngbruno collected (240)
+Seat 5: pierrotip (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830285305: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:53:53 MSK [2018/08/12 23:53:53 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (322 in chips)
+Seat 2: LuckyLeopard (973 in chips)
+Seat 3: ngbruno (668 in chips)
+Seat 5: pierrotip (570 in chips)
+Seat 6: DiggErr555 (467 in chips)
+joebrauser: posts the ante 8
+LuckyLeopard: posts the ante 8
+ngbruno: posts the ante 8
+pierrotip: posts the ante 8
+DiggErr555: posts the ante 8
+joebrauser: posts small blind 40
+LuckyLeopard: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Ad]
+ngbruno: raises 580 to 660 and is all-in
+pierrotip: folds
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: folds
+Uncalled bet (580) returned to ngbruno
+ngbruno collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Seat 1: joebrauser (small blind) folded before Flop
+Seat 2: LuckyLeopard (big blind) folded before Flop
+Seat 3: ngbruno collected (240)
+Seat 5: pierrotip folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830288073: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:54:05 MSK [2018/08/12 23:54:05 ET]
+Table '2381071785 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (274 in chips)
+Seat 2: LuckyLeopard (885 in chips)
+Seat 3: ngbruno (820 in chips)
+Seat 5: pierrotip (562 in chips)
+Seat 6: DiggErr555 (459 in chips)
+joebrauser: posts the ante 10
+LuckyLeopard: posts the ante 10
+ngbruno: posts the ante 10
+pierrotip: posts the ante 10
+DiggErr555: posts the ante 10
+LuckyLeopard: posts small blind 50
+ngbruno: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 2c]
+pierrotip: raises 452 to 552 and is all-in
+DiggErr555: folds
+joebrauser: folds
+LuckyLeopard: folds
+ngbruno: folds
+Uncalled bet (452) returned to pierrotip
+pierrotip collected 300 from pot
+pierrotip: doesn't show hand
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 1: joebrauser (button) folded before Flop (didn't bet)
+Seat 2: LuckyLeopard (small blind) folded before Flop
+Seat 3: ngbruno (big blind) folded before Flop
+Seat 5: pierrotip collected (300)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830293915: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:54:31 MSK [2018/08/12 23:54:31 ET]
+Table '2381071785 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (264 in chips)
+Seat 2: LuckyLeopard (825 in chips)
+Seat 3: ngbruno (710 in chips)
+Seat 5: pierrotip (752 in chips)
+Seat 6: DiggErr555 (449 in chips)
+joebrauser: posts the ante 10
+LuckyLeopard: posts the ante 10
+ngbruno: posts the ante 10
+pierrotip: posts the ante 10
+DiggErr555: posts the ante 10
+ngbruno: posts small blind 50
+pierrotip: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 9h]
+DiggErr555: folds
+joebrauser: raises 154 to 254 and is all-in
+LuckyLeopard: folds
+ngbruno: raises 446 to 700 and is all-in
+pierrotip: calls 600
+*** FLOP *** [5h As Qd]
+*** TURN *** [5h As Qd] [3h]
+*** RIVER *** [5h As Qd 3h] [7d]
+*** SHOW DOWN ***
+ngbruno: shows [Qs Kd] (a pair of Queens)
+pierrotip: shows [Th Kh] (high card Ace)
+ngbruno collected 892 from side pot
+joebrauser: shows [Ac 9s] (a pair of Aces)
+joebrauser collected 812 from main pot
+*** SUMMARY ***
+Total pot 1704 Main pot 812. Side pot 892. | Rake 0
+Board [5h As Qd 3h 7d]
+Seat 1: joebrauser showed [Ac 9s] and won (812) with a pair of Aces
+Seat 2: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 3: ngbruno (small blind) showed [Qs Kd] and won (892) with a pair of Queens
+Seat 5: pierrotip (big blind) showed [Th Kh] and lost with high card Ace
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830298284: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:54:49 MSK [2018/08/12 23:54:49 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (812 in chips)
+Seat 2: LuckyLeopard (815 in chips)
+Seat 3: ngbruno (892 in chips)
+Seat 5: pierrotip (42 in chips)
+Seat 6: DiggErr555 (439 in chips)
+joebrauser: posts the ante 10
+LuckyLeopard: posts the ante 10
+ngbruno: posts the ante 10
+pierrotip: posts the ante 10
+DiggErr555: posts the ante 10
+pierrotip: posts small blind 32 and is all-in
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Ad]
+joebrauser: raises 702 to 802 and is all-in
+LuckyLeopard: folds
+ngbruno: folds
+DiggErr555: calls 329 and is all-in
+Uncalled bet (373) returned to joebrauser
+*** FLOP *** [9d 5d 7s]
+*** TURN *** [9d 5d 7s] [Jd]
+*** RIVER *** [9d 5d 7s Jd] [5h]
+*** SHOW DOWN ***
+DiggErr555: shows [9c Ad] (two pair, Nines and Fives)
+joebrauser: shows [Kh 7c] (two pair, Sevens and Fives)
+DiggErr555 collected 794 from side pot
+pierrotip: shows [6s Ts] (a pair of Fives)
+DiggErr555 collected 146 from main pot
+DiggErr555 wins the $12.01 bounty for eliminating pierrotip
+pierrotip finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 940 Main pot 146. Side pot 794. | Rake 0
+Board [9d 5d 7s Jd 5h]
+Seat 1: joebrauser showed [Kh 7c] and lost with two pair, Sevens and Fives
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: ngbruno (button) folded before Flop (didn't bet)
+Seat 5: pierrotip (small blind) showed [6s Ts] and lost with a pair of Fives
+Seat 6: DiggErr555 (big blind) showed [9c Ad] and won (940) with two pair, Nines and Fives
+
+PokerStars Hand #189830302965: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:55:09 MSK [2018/08/12 23:55:09 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (373 in chips)
+Seat 2: LuckyLeopard (805 in chips)
+Seat 3: ngbruno (882 in chips)
+Seat 6: DiggErr555 (940 in chips)
+joebrauser: posts the ante 10
+LuckyLeopard: posts the ante 10
+ngbruno: posts the ante 10
+DiggErr555: posts the ante 10
+joebrauser: posts small blind 50
+LuckyLeopard: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 9h]
+ngbruno: folds
+DiggErr555: raises 830 to 930 and is all-in
+joebrauser: folds
+LuckyLeopard: calls 695 and is all-in
+Uncalled bet (135) returned to DiggErr555
+*** FLOP *** [Kh 2h 3d]
+*** TURN *** [Kh 2h 3d] [8d]
+*** RIVER *** [Kh 2h 3d 8d] [2s]
+*** SHOW DOWN ***
+LuckyLeopard: shows [Ad 5d] (a pair of Deuces)
+DiggErr555: shows [9c 9h] (two pair, Nines and Deuces)
+DiggErr555 collected 1680 from pot
+DiggErr555 wins the $12.01 bounty for eliminating LuckyLeopard
+LuckyLeopard finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1680 | Rake 0
+Board [Kh 2h 3d 8d 2s]
+Seat 1: joebrauser (small blind) folded before Flop
+Seat 2: LuckyLeopard (big blind) showed [Ad 5d] and lost with a pair of Deuces
+Seat 3: ngbruno folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) showed [9c 9h] and won (1680) with two pair, Nines and Deuces
+
+PokerStars Hand #189830309408: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:55:40 MSK [2018/08/12 23:55:40 ET]
+Table '2381071785 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (313 in chips)
+Seat 3: ngbruno (872 in chips)
+Seat 6: DiggErr555 (1815 in chips)
+joebrauser: posts the ante 10
+ngbruno: posts the ante 10
+DiggErr555: posts the ante 10
+ngbruno: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 7c]
+joebrauser: raises 200 to 300
+ngbruno: folds
+DiggErr555: raises 1505 to 1805 and is all-in
+joebrauser: calls 3 and is all-in
+Uncalled bet (1502) returned to DiggErr555
+*** FLOP *** [Kc 8s Ts]
+*** TURN *** [Kc 8s Ts] [2c]
+*** RIVER *** [Kc 8s Ts 2c] [Qc]
+*** SHOW DOWN ***
+DiggErr555: shows [5c 7c] (a flush, King high)
+joebrauser: shows [4d Ac] (high card Ace)
+DiggErr555 collected 686 from pot
+DiggErr555 wins the $12.01 bounty for eliminating joebrauser
+joebrauser finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 686 | Rake 0
+Board [Kc 8s Ts 2c Qc]
+Seat 1: joebrauser (button) showed [4d Ac] and lost with high card Ace
+Seat 3: ngbruno (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) showed [5c 7c] and won (686) with a flush, King high
+
+PokerStars Hand #189830315515: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:56:10 MSK [2018/08/12 23:56:10 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 3: ngbruno (812 in chips)
+Seat 6: DiggErr555 (2188 in chips)
+ngbruno: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+ngbruno: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 3h]
+DiggErr555: raises 2078 to 2178 and is all-in
+ngbruno: calls 702 and is all-in
+Uncalled bet (1376) returned to DiggErr555
+*** FLOP *** [4d 6d Tc]
+*** TURN *** [4d 6d Tc] [9c]
+*** RIVER *** [4d 6d Tc 9c] [4h]
+*** SHOW DOWN ***
+ngbruno: shows [4c Ah] (three of a kind, Fours)
+DiggErr555: shows [Kc 3h] (a pair of Fours)
+ngbruno collected 1624 from pot
+*** SUMMARY ***
+Total pot 1624 | Rake 0
+Board [4d 6d Tc 9c 4h]
+Seat 3: ngbruno (big blind) showed [4c Ah] and won (1624) with three of a kind, Fours
+Seat 6: DiggErr555 (button) (small blind) showed [Kc 3h] and lost with a pair of Fours
+
+PokerStars Hand #189830318426: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:56:25 MSK [2018/08/12 23:56:25 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 3: ngbruno (1624 in chips)
+Seat 6: DiggErr555 (1376 in chips)
+ngbruno: posts the ante 12
+DiggErr555: posts the ante 12
+ngbruno: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 9h]
+ngbruno: calls 60
+DiggErr555: raises 180 to 300
+ngbruno: raises 1312 to 1612 and is all-in
+DiggErr555: folds
+Uncalled bet (1312) returned to ngbruno
+ngbruno collected 624 from pot
+*** SUMMARY ***
+Total pot 624 | Rake 0
+Seat 3: ngbruno (button) (small blind) collected (624)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830321116: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:56:38 MSK [2018/08/12 23:56:38 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 3: ngbruno (1936 in chips)
+Seat 6: DiggErr555 (1064 in chips)
+ngbruno: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+ngbruno: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 3c]
+DiggErr555: folds
+Uncalled bet (60) returned to ngbruno
+ngbruno collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 3: ngbruno (big blind) collected (144)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189830322550: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:56:45 MSK [2018/08/12 23:56:45 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 3: ngbruno (2008 in chips)
+Seat 6: DiggErr555 (992 in chips)
+ngbruno: posts the ante 12
+DiggErr555: posts the ante 12
+ngbruno: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Ts]
+ngbruno: raises 1876 to 1996 and is all-in
+DiggErr555: folds
+Uncalled bet (1876) returned to ngbruno
+ngbruno collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 3: ngbruno (button) (small blind) collected (264)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830324123: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:56:53 MSK [2018/08/12 23:56:53 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 3: ngbruno (2140 in chips)
+Seat 6: DiggErr555 (860 in chips)
+ngbruno: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+ngbruno: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Qh]
+DiggErr555: raises 728 to 848 and is all-in
+ngbruno: folds
+Uncalled bet (728) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 3: ngbruno (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (264)
+
+PokerStars Hand #189830326182: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:57:03 MSK [2018/08/12 23:57:03 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 3: ngbruno (2008 in chips)
+Seat 6: DiggErr555 (992 in chips)
+ngbruno: posts the ante 12
+DiggErr555: posts the ante 12
+ngbruno: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 9s]
+ngbruno: calls 60
+DiggErr555: checks
+*** FLOP *** [Ts 3s Jd]
+DiggErr555: checks
+ngbruno: bets 120
+DiggErr555: calls 120
+*** TURN *** [Ts 3s Jd] [Ac]
+DiggErr555: checks
+ngbruno: bets 199
+DiggErr555: folds
+Uncalled bet (199) returned to ngbruno
+ngbruno collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | Rake 0
+Board [Ts 3s Jd Ac]
+Seat 3: ngbruno (button) (small blind) collected (504)
+Seat 6: DiggErr555 (big blind) folded on the Turn
+
+PokerStars Hand #189830332446: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:57:34 MSK [2018/08/12 23:57:34 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 3: ngbruno (2260 in chips)
+Seat 6: DiggErr555 (740 in chips)
+ngbruno: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+ngbruno: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Qh]
+DiggErr555: raises 608 to 728 and is all-in
+ngbruno: folds
+Uncalled bet (608) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 3: ngbruno (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (264)
+
+PokerStars Hand #189830334521: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 6:57:44 MSK [2018/08/12 23:57:44 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 3: ngbruno (2128 in chips)
+Seat 6: DiggErr555 (872 in chips)
+ngbruno: posts the ante 15
+DiggErr555: posts the ante 15
+ngbruno: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 4c]
+ngbruno: calls 75
+DiggErr555: checks
+*** FLOP *** [Tc 3d Jh]
+DiggErr555: checks
+ngbruno: bets 150
+DiggErr555: folds
+Uncalled bet (150) returned to ngbruno
+ngbruno collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Board [Tc 3d Jh]
+Seat 3: ngbruno (button) (small blind) collected (330)
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189830338487: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 6:58:04 MSK [2018/08/12 23:58:04 ET]
+Table '2381071785 1' 6-max Seat #6 is the button
+Seat 3: ngbruno (2293 in chips)
+Seat 6: DiggErr555 (707 in chips)
+ngbruno: posts the ante 15
+DiggErr555: posts the ante 15
+DiggErr555: posts small blind 75
+ngbruno: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 6c]
+DiggErr555: folds
+Uncalled bet (75) returned to ngbruno
+ngbruno collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 3: ngbruno (big blind) collected (180)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189830340201: Tournament #2381071785, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 6:58:12 MSK [2018/08/12 23:58:12 ET]
+Table '2381071785 1' 6-max Seat #3 is the button
+Seat 3: ngbruno (2383 in chips)
+Seat 6: DiggErr555 (617 in chips)
+ngbruno: posts the ante 15
+DiggErr555: posts the ante 15
+ngbruno: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 9s]
+ngbruno: raises 2218 to 2368 and is all-in
+DiggErr555: calls 452 and is all-in
+Uncalled bet (1766) returned to ngbruno
+*** FLOP *** [2h 6s 3d]
+*** TURN *** [2h 6s 3d] [7d]
+*** RIVER *** [2h 6s 3d 7d] [3h]
+*** SHOW DOWN ***
+DiggErr555: shows [8s 9s] (a pair of Threes)
+ngbruno: shows [Jc 7c] (two pair, Sevens and Threes)
+ngbruno collected 1234 from pot
+*** SUMMARY ***
+Total pot 1234 | Rake 0
+Board [2h 6s 3d 7d 3h]
+Seat 3: ngbruno (button) (small blind) showed [Jc 7c] and won (1234) with two pair, Sevens and Threes
+Seat 6: DiggErr555 (big blind) showed [8s 9s] and lost with a pair of Threes

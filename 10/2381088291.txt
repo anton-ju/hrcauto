@@ -1,0 +1,1363 @@
+
+
+PokerStars Hand #189830658763: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:22:37 MSK [2018/08/13 0:22:37 ET]
+Table '2381088291 1' 6-max Seat #1 is the button
+Seat 1: joel 1206 (500 in chips)
+Seat 2: shorta222 (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: LEandrobsn23 (500 in chips)
+Seat 5: LimpAndJam (500 in chips)
+Seat 6: 700max (500 in chips)
+joel 1206: posts the ante 2
+shorta222: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts the ante 2
+LimpAndJam: posts the ante 2
+700max: posts the ante 2
+shorta222: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd Kh]
+LEandrobsn23: folds
+LimpAndJam: folds
+700max: calls 20
+joel 1206: calls 20
+shorta222: raises 140 to 160
+DiggErr555: folds
+700max: folds
+joel 1206: folds
+Uncalled bet (140) returned to shorta222
+shorta222 collected 92 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: joel 1206 (button) folded before Flop
+Seat 2: shorta222 (small blind) collected (92)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: 700max folded before Flop
+
+PokerStars Hand #189830666306: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:23:12 MSK [2018/08/13 0:23:12 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 1: joel 1206 (478 in chips)
+Seat 2: shorta222 (570 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: LEandrobsn23 (498 in chips)
+Seat 5: LimpAndJam (498 in chips)
+Seat 6: 700max (478 in chips)
+joel 1206: posts the ante 2
+shorta222: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts the ante 2
+LimpAndJam: posts the ante 2
+700max: posts the ante 2
+DiggErr555: posts small blind 10
+LEandrobsn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 7h]
+LimpAndJam: folds
+700max: folds
+joel 1206: calls 20
+shorta222: calls 20
+DiggErr555: folds
+LEandrobsn23: checks
+*** FLOP *** [Ks Tc 3c]
+LEandrobsn23: checks
+joel 1206: checks
+shorta222: checks
+*** TURN *** [Ks Tc 3c] [9s]
+LEandrobsn23: checks
+joel 1206: checks
+shorta222: checks
+*** RIVER *** [Ks Tc 3c 9s] [As]
+LEandrobsn23: bets 60
+joel 1206: folds
+shorta222: calls 60
+*** SHOW DOWN ***
+LEandrobsn23: shows [7d Ah] (a pair of Aces)
+shorta222: shows [Ac 2h] (a pair of Aces)
+LEandrobsn23 collected 101 from pot
+shorta222 collected 101 from pot
+*** SUMMARY ***
+Total pot 202 | Rake 0
+Board [Ks Tc 3c 9s As]
+Seat 1: joel 1206 folded on the River
+Seat 2: shorta222 (button) showed [Ac 2h] and won (101) with a pair of Aces
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: LEandrobsn23 (big blind) showed [7d Ah] and won (101) with a pair of Aces
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830673388: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:23:46 MSK [2018/08/13 0:23:46 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 1: joel 1206 (456 in chips)
+Seat 2: shorta222 (589 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: LEandrobsn23 (517 in chips)
+Seat 5: LimpAndJam (496 in chips)
+Seat 6: 700max (476 in chips)
+joel 1206: posts the ante 2
+shorta222: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts the ante 2
+LimpAndJam: posts the ante 2
+700max: posts the ante 2
+LEandrobsn23: posts small blind 10
+LimpAndJam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Jc]
+700max: folds
+joel 1206: calls 20
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: folds
+LimpAndJam: checks
+*** FLOP *** [8h Th As]
+LimpAndJam: checks
+joel 1206: bets 434 and is all-in
+LimpAndJam: folds
+Uncalled bet (434) returned to joel 1206
+joel 1206 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Board [8h Th As]
+Seat 1: joel 1206 collected (62)
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 5: LimpAndJam (big blind) folded on the Flop
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830681961: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:24:25 MSK [2018/08/13 0:24:25 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 1: joel 1206 (496 in chips)
+Seat 2: shorta222 (587 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: LEandrobsn23 (505 in chips)
+Seat 5: LimpAndJam (474 in chips)
+Seat 6: 700max (474 in chips)
+joel 1206: posts the ante 3
+shorta222: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+LimpAndJam: posts the ante 3
+700max: posts the ante 3
+LimpAndJam: posts small blind 15
+700max: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 7s]
+joel 1206: calls 30
+shorta222: raises 554 to 584 and is all-in
+DiggErr555: folds
+LEandrobsn23: calls 502 and is all-in
+LimpAndJam: folds
+700max: folds
+joel 1206: folds
+Uncalled bet (82) returned to shorta222
+*** FLOP *** [Kc Jd Qs]
+*** TURN *** [Kc Jd Qs] [Ts]
+*** RIVER *** [Kc Jd Qs Ts] [As]
+*** SHOW DOWN ***
+shorta222: shows [Ad Th] (a straight, Ten to Ace)
+LEandrobsn23: shows [Ah Ac] (a straight, Ten to Ace)
+shorta222 collected 549 from pot
+LEandrobsn23 collected 548 from pot
+*** SUMMARY ***
+Total pot 1097 | Rake 0
+Board [Kc Jd Qs Ts As]
+Seat 1: joel 1206 folded before Flop
+Seat 2: shorta222 showed [Ad Th] and won (549) with a straight, Ten to Ace
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (button) showed [Ah Ac] and won (548) with a straight, Ten to Ace
+Seat 5: LimpAndJam (small blind) folded before Flop
+Seat 6: 700max (big blind) folded before Flop
+
+PokerStars Hand #189830687490: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:24:51 MSK [2018/08/13 0:24:51 ET]
+Table '2381088291 1' 6-max Seat #5 is the button
+Seat 1: joel 1206 (463 in chips)
+Seat 2: shorta222 (631 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: LEandrobsn23 (548 in chips)
+Seat 5: LimpAndJam (456 in chips)
+Seat 6: 700max (441 in chips)
+joel 1206: posts the ante 3
+shorta222: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+LimpAndJam: posts the ante 3
+700max: posts the ante 3
+700max: posts small blind 15
+joel 1206: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 3d]
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: folds
+LimpAndJam: folds
+700max: folds
+Uncalled bet (15) returned to joel 1206
+joel 1206 collected 48 from pot
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: joel 1206 (big blind) collected (48)
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 5: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) folded before Flop
+
+PokerStars Hand #189830689717: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:25:01 MSK [2018/08/13 0:25:01 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 1: joel 1206 (493 in chips)
+Seat 2: shorta222 (628 in chips)
+Seat 3: DiggErr555 (458 in chips)
+Seat 4: LEandrobsn23 (545 in chips)
+Seat 5: LimpAndJam (453 in chips)
+Seat 6: 700max (423 in chips)
+joel 1206: posts the ante 3
+shorta222: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+LimpAndJam: posts the ante 3
+700max: posts the ante 3
+joel 1206: posts small blind 15
+shorta222: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h Ts]
+DiggErr555: folds
+LEandrobsn23: folds
+LimpAndJam: folds
+700max: folds
+joel 1206: calls 15
+shorta222: raises 595 to 625 and is all-in
+joel 1206: folds
+Uncalled bet (595) returned to shorta222
+shorta222 collected 78 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: joel 1206 (small blind) folded before Flop
+Seat 2: shorta222 (big blind) collected (78)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830697185: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:25:37 MSK [2018/08/13 0:25:37 ET]
+Table '2381088291 1' 6-max Seat #1 is the button
+Seat 1: joel 1206 (460 in chips)
+Seat 2: shorta222 (673 in chips)
+Seat 3: DiggErr555 (455 in chips)
+Seat 4: LEandrobsn23 (542 in chips)
+Seat 5: LimpAndJam (450 in chips)
+Seat 6: 700max (420 in chips)
+joel 1206: posts the ante 3
+shorta222: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+LimpAndJam: posts the ante 3
+700max: posts the ante 3
+shorta222: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 7h]
+LEandrobsn23: calls 30
+LimpAndJam: folds
+700max: raises 387 to 417 and is all-in
+joel 1206: folds
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (387) returned to 700max
+700max collected 123 from pot
+*** SUMMARY ***
+Total pot 123 | Rake 0
+Seat 1: joel 1206 (button) folded before Flop (didn't bet)
+Seat 2: shorta222 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: LEandrobsn23 folded before Flop
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: 700max collected (123)
+
+PokerStars Hand #189830703606: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:26:06 MSK [2018/08/13 0:26:06 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 1: joel 1206 (457 in chips)
+Seat 2: shorta222 (655 in chips)
+Seat 3: DiggErr555 (422 in chips)
+Seat 4: LEandrobsn23 (509 in chips)
+Seat 5: LimpAndJam (447 in chips)
+Seat 6: 700max (510 in chips)
+joel 1206: posts the ante 4
+shorta222: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+LimpAndJam: posts the ante 4
+700max: posts the ante 4
+DiggErr555: posts small blind 20
+LEandrobsn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 5d]
+LimpAndJam: folds
+700max: folds
+joel 1206: calls 40
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: checks
+*** FLOP *** [3d Qs 5c]
+LEandrobsn23: bets 40
+joel 1206: folds
+Uncalled bet (40) returned to LEandrobsn23
+LEandrobsn23 collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | Rake 0
+Board [3d Qs 5c]
+Seat 1: joel 1206 folded on the Flop
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: LEandrobsn23 (big blind) collected (124)
+Seat 5: LimpAndJam folded before Flop (didn't bet)
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830710231: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:26:37 MSK [2018/08/13 0:26:37 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 1: joel 1206 (413 in chips)
+Seat 2: shorta222 (651 in chips)
+Seat 3: DiggErr555 (398 in chips)
+Seat 4: LEandrobsn23 (589 in chips)
+Seat 5: LimpAndJam (443 in chips)
+Seat 6: 700max (506 in chips)
+joel 1206: posts the ante 4
+shorta222: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+LimpAndJam: posts the ante 4
+700max: posts the ante 4
+LEandrobsn23: posts small blind 20
+LimpAndJam: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Qd]
+700max: folds
+joel 1206: calls 40
+shorta222: raises 607 to 647 and is all-in
+DiggErr555: folds
+LEandrobsn23: folds
+LimpAndJam: calls 399 and is all-in
+joel 1206: folds
+Uncalled bet (208) returned to shorta222
+*** FLOP *** [Ah 5h 6c]
+*** TURN *** [Ah 5h 6c] [8h]
+*** RIVER *** [Ah 5h 6c 8h] [3d]
+*** SHOW DOWN ***
+LimpAndJam: shows [Qh Kc] (high card Ace)
+shorta222: shows [6s Ac] (two pair, Aces and Sixes)
+shorta222 collected 962 from pot
+shorta222 wins the $2.38 bounty for eliminating LimpAndJam
+LimpAndJam finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 962 | Rake 0
+Board [Ah 5h 6c 8h 3d]
+Seat 1: joel 1206 folded before Flop
+Seat 2: shorta222 showed [6s Ac] and won (962) with two pair, Aces and Sixes
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 5: LimpAndJam (big blind) showed [Qh Kc] and lost with high card Ace
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830717852: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:27:12 MSK [2018/08/13 0:27:12 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 1: joel 1206 (369 in chips)
+Seat 2: shorta222 (1170 in chips)
+Seat 3: DiggErr555 (394 in chips)
+Seat 4: LEandrobsn23 (565 in chips)
+Seat 6: 700max (502 in chips)
+joel 1206: posts the ante 4
+shorta222: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+700max: posts the ante 4
+700max: posts small blind 20
+joel 1206: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Kh]
+shorta222: folds
+DiggErr555: raises 350 to 390 and is all-in
+LEandrobsn23: folds
+700max: folds
+joel 1206: folds
+Uncalled bet (350) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: joel 1206 (big blind) folded before Flop
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 collected (120)
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) folded before Flop
+
+PokerStars Hand #189830722176: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:27:33 MSK [2018/08/13 0:27:33 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 1: joel 1206 (325 in chips)
+Seat 2: shorta222 (1166 in chips)
+Seat 3: DiggErr555 (470 in chips)
+Seat 4: LEandrobsn23 (561 in chips)
+Seat 6: 700max (478 in chips)
+joel 1206: posts the ante 4
+shorta222: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+700max: posts the ante 4
+joel 1206: posts small blind 20
+shorta222: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 2s]
+DiggErr555: folds
+LEandrobsn23: calls 40
+700max: folds
+joel 1206: calls 20
+shorta222 is connected
+shorta222 is disconnected
+shorta222 is connected
+shorta222: checks
+*** FLOP *** [2c 3s Kh]
+joel 1206: checks
+shorta222: checks
+LEandrobsn23: checks
+*** TURN *** [2c 3s Kh] [4c]
+joel 1206: checks
+shorta222: bets 80
+LEandrobsn23: folds
+joel 1206: folds
+Uncalled bet (80) returned to shorta222
+shorta222 collected 140 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 140 | Rake 0
+Board [2c 3s Kh 4c]
+Seat 1: joel 1206 (small blind) folded on the Turn
+Seat 2: shorta222 (big blind) collected (140)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 folded on the Turn
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830736249: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:28:38 MSK [2018/08/13 0:28:38 ET]
+Table '2381088291 1' 6-max Seat #1 is the button
+Seat 1: joel 1206 (281 in chips)
+Seat 2: shorta222 (1262 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: LEandrobsn23 (517 in chips)
+Seat 6: 700max (474 in chips)
+joel 1206: posts the ante 6
+shorta222: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts the ante 6
+700max: posts the ante 6
+shorta222: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 4s]
+LEandrobsn23: folds
+700max: folds
+joel 1206: folds
+shorta222: raises 1196 to 1256 and is all-in
+DiggErr555: folds
+Uncalled bet (1196) returned to shorta222
+shorta222 collected 150 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Seat 1: joel 1206 (button) folded before Flop (didn't bet)
+Seat 2: shorta222 (small blind) collected (150)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830741164: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:29:01 MSK [2018/08/13 0:29:01 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 1: joel 1206 (275 in chips)
+Seat 2: shorta222 (1346 in chips)
+Seat 3: DiggErr555 (400 in chips)
+Seat 4: LEandrobsn23 (511 in chips)
+Seat 6: 700max (468 in chips)
+joel 1206: posts the ante 6
+shorta222: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts the ante 6
+700max: posts the ante 6
+DiggErr555: posts small blind 30
+LEandrobsn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Qh]
+700max: raises 402 to 462 and is all-in
+joel 1206: folds
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (402) returned to 700max
+700max collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: joel 1206 folded before Flop (didn't bet)
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: LEandrobsn23 (big blind) folded before Flop
+Seat 6: 700max collected (180)
+
+PokerStars Hand #189830746093: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:29:24 MSK [2018/08/13 0:29:24 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 1: joel 1206 (269 in chips)
+Seat 2: shorta222 (1340 in chips)
+Seat 3: DiggErr555 (364 in chips)
+Seat 4: LEandrobsn23 (445 in chips)
+Seat 6: 700max (582 in chips)
+joel 1206: posts the ante 6
+shorta222: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts the ante 6
+700max: posts the ante 6
+LEandrobsn23: posts small blind 30
+700max: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 6s]
+joel 1206: folds
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: calls 30
+700max: checks
+*** FLOP *** [Js Jc Th]
+LEandrobsn23: checks
+700max: checks
+*** TURN *** [Js Jc Th] [Jd]
+LEandrobsn23: checks
+700max: checks
+*** RIVER *** [Js Jc Th Jd] [3s]
+LEandrobsn23: bets 120
+700max: folds
+Uncalled bet (120) returned to LEandrobsn23
+LEandrobsn23 collected 150 from pot
+LEandrobsn23: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Board [Js Jc Th Jd 3s]
+Seat 1: joel 1206 folded before Flop (didn't bet)
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (small blind) collected (150)
+Seat 6: 700max (big blind) folded on the River
+
+PokerStars Hand #189830753978: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:30:01 MSK [2018/08/13 0:30:01 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 1: joel 1206 (263 in chips)
+Seat 2: shorta222 (1334 in chips)
+Seat 3: DiggErr555 (358 in chips)
+Seat 4: LEandrobsn23 (529 in chips)
+Seat 6: 700max (516 in chips)
+joel 1206: posts the ante 6
+shorta222: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts the ante 6
+700max: posts the ante 6
+700max: posts small blind 30
+joel 1206: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 6h]
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: folds
+700max: folds
+Uncalled bet (30) returned to joel 1206
+joel 1206 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: joel 1206 (big blind) collected (90)
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) folded before Flop
+
+PokerStars Hand #189830757507: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:30:18 MSK [2018/08/13 0:30:18 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 1: joel 1206 (317 in chips)
+Seat 2: shorta222 (1328 in chips)
+Seat 3: DiggErr555 (352 in chips)
+Seat 4: LEandrobsn23 (523 in chips)
+Seat 6: 700max (480 in chips)
+joel 1206: posts the ante 6
+shorta222: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts the ante 6
+700max: posts the ante 6
+joel 1206: posts small blind 30
+shorta222: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 3h]
+DiggErr555: folds
+LEandrobsn23: folds
+700max: folds
+joel 1206: raises 251 to 311 and is all-in
+shorta222: calls 251
+*** FLOP *** [9h Tc 7c]
+*** TURN *** [9h Tc 7c] [Qc]
+*** RIVER *** [9h Tc 7c Qc] [6s]
+*** SHOW DOWN ***
+joel 1206: shows [Ac Jc] (a flush, Ace high)
+shorta222: shows [7s Ad] (a pair of Sevens)
+joel 1206 collected 652 from pot
+*** SUMMARY ***
+Total pot 652 | Rake 0
+Board [9h Tc 7c Qc 6s]
+Seat 1: joel 1206 (small blind) showed [Ac Jc] and won (652) with a flush, Ace high
+Seat 2: shorta222 (big blind) showed [7s Ad] and lost with a pair of Sevens
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830762579: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:30:41 MSK [2018/08/13 0:30:41 ET]
+Table '2381088291 1' 6-max Seat #1 is the button
+Seat 1: joel 1206 (652 in chips)
+Seat 2: shorta222 (1011 in chips)
+Seat 3: DiggErr555 (346 in chips)
+Seat 4: LEandrobsn23 (517 in chips)
+Seat 6: 700max (474 in chips)
+joel 1206: posts the ante 8
+shorta222: posts the ante 8
+DiggErr555: posts the ante 8
+LEandrobsn23: posts the ante 8
+700max: posts the ante 8
+shorta222: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Qc]
+LEandrobsn23: calls 80
+700max: folds
+joel 1206: folds
+shorta222: raises 923 to 1003 and is all-in
+DiggErr555: calls 258 and is all-in
+LEandrobsn23: folds
+Uncalled bet (665) returned to shorta222
+*** FLOP *** [Td 7d 5h]
+*** TURN *** [Td 7d 5h] [Ac]
+*** RIVER *** [Td 7d 5h Ac] [7h]
+*** SHOW DOWN ***
+shorta222: shows [Th 5d] (two pair, Tens and Sevens)
+DiggErr555: shows [7c Qc] (three of a kind, Sevens)
+DiggErr555 collected 796 from pot
+*** SUMMARY ***
+Total pot 796 | Rake 0
+Board [Td 7d 5h Ac 7h]
+Seat 1: joel 1206 (button) folded before Flop (didn't bet)
+Seat 2: shorta222 (small blind) showed [Th 5d] and lost with two pair, Tens and Sevens
+Seat 3: DiggErr555 (big blind) showed [7c Qc] and won (796) with three of a kind, Sevens
+Seat 4: LEandrobsn23 folded before Flop
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830769164: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:31:12 MSK [2018/08/13 0:31:12 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 1: joel 1206 (644 in chips)
+Seat 2: shorta222 (665 in chips)
+Seat 3: DiggErr555 (796 in chips)
+Seat 4: LEandrobsn23 (429 in chips)
+Seat 6: 700max (466 in chips)
+joel 1206: posts the ante 8
+shorta222: posts the ante 8
+DiggErr555: posts the ante 8
+LEandrobsn23: posts the ante 8
+700max: posts the ante 8
+DiggErr555: posts small blind 40
+LEandrobsn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 5c]
+700max: folds
+joel 1206: folds
+shorta222: folds
+DiggErr555: raises 708 to 788 and is all-in
+LEandrobsn23: calls 341 and is all-in
+Uncalled bet (367) returned to DiggErr555
+*** FLOP *** [8d Ah Jh]
+*** TURN *** [8d Ah Jh] [6s]
+*** RIVER *** [8d Ah Jh 6s] [2c]
+*** SHOW DOWN ***
+DiggErr555: shows [2d 5c] (a pair of Deuces)
+LEandrobsn23: shows [9s As] (a pair of Aces)
+LEandrobsn23 collected 882 from pot
+*** SUMMARY ***
+Total pot 882 | Rake 0
+Board [8d Ah Jh 6s 2c]
+Seat 1: joel 1206 folded before Flop (didn't bet)
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [2d 5c] and lost with a pair of Deuces
+Seat 4: LEandrobsn23 (big blind) showed [9s As] and won (882) with a pair of Aces
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830775430: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:31:41 MSK [2018/08/13 0:31:41 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 1: joel 1206 (636 in chips)
+Seat 2: shorta222 (657 in chips)
+Seat 3: DiggErr555 (367 in chips)
+Seat 4: LEandrobsn23 (882 in chips)
+Seat 6: 700max (458 in chips)
+joel 1206: posts the ante 8
+shorta222: posts the ante 8
+DiggErr555: posts the ante 8
+LEandrobsn23: posts the ante 8
+700max: posts the ante 8
+LEandrobsn23: posts small blind 40
+700max: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh Ad]
+joel 1206: raises 548 to 628 and is all-in
+shorta222: folds
+DiggErr555: calls 359 and is all-in
+LEandrobsn23: folds
+700max: folds
+Uncalled bet (269) returned to joel 1206
+*** FLOP *** [6h 7h Jh]
+*** TURN *** [6h 7h Jh] [4h]
+*** RIVER *** [6h 7h Jh 4h] [Jd]
+*** SHOW DOWN ***
+joel 1206: shows [As Ks] (a pair of Jacks)
+DiggErr555: shows [Kh Ad] (a flush, King high)
+DiggErr555 collected 878 from pot
+*** SUMMARY ***
+Total pot 878 | Rake 0
+Board [6h 7h Jh 4h Jd]
+Seat 1: joel 1206 showed [As Ks] and lost with a pair of Jacks
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) showed [Kh Ad] and won (878) with a flush, King high
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 6: 700max (big blind) folded before Flop
+
+PokerStars Hand #189830779909: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:32:03 MSK [2018/08/13 0:32:03 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 1: joel 1206 (269 in chips)
+Seat 2: shorta222 (649 in chips)
+Seat 3: DiggErr555 (878 in chips)
+Seat 4: LEandrobsn23 (834 in chips)
+Seat 6: 700max (370 in chips)
+joel 1206: posts the ante 8
+shorta222: posts the ante 8
+DiggErr555: posts the ante 8
+LEandrobsn23: posts the ante 8
+700max: posts the ante 8
+700max: posts small blind 40
+joel 1206: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 3d]
+shorta222: raises 561 to 641 and is all-in
+DiggErr555: folds
+LEandrobsn23: folds
+700max: folds
+joel 1206: calls 181 and is all-in
+Uncalled bet (380) returned to shorta222
+*** FLOP *** [4h 6s 6c]
+*** TURN *** [4h 6s 6c] [Tc]
+*** RIVER *** [4h 6s 6c Tc] [Ts]
+*** SHOW DOWN ***
+joel 1206: shows [9c 9h] (two pair, Tens and Nines)
+shorta222: shows [9s Td] (a full house, Tens full of Sixes)
+shorta222 collected 602 from pot
+shorta222 wins the $2.38 bounty for eliminating joel 1206
+joel 1206 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 602 | Rake 0
+Board [4h 6s 6c Tc Ts]
+Seat 1: joel 1206 (big blind) showed [9c 9h] and lost with two pair, Tens and Nines
+Seat 2: shorta222 showed [9s Td] and won (602) with a full house, Tens full of Sixes
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) folded before Flop
+
+PokerStars Hand #189830784398: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:32:24 MSK [2018/08/13 0:32:24 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 2: shorta222 (982 in chips)
+Seat 3: DiggErr555 (870 in chips)
+Seat 4: LEandrobsn23 (826 in chips)
+Seat 6: 700max (322 in chips)
+shorta222: posts the ante 8
+DiggErr555: posts the ante 8
+LEandrobsn23: posts the ante 8
+700max: posts the ante 8
+shorta222: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Ac]
+LEandrobsn23: folds
+700max: folds
+shorta222: calls 40
+DiggErr555: raises 782 to 862 and is all-in
+shorta222: folds
+Uncalled bet (782) returned to DiggErr555
+DiggErr555 collected 192 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Seat 2: shorta222 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (192)
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830788961: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:32:46 MSK [2018/08/13 0:32:46 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 2: shorta222 (894 in chips)
+Seat 3: DiggErr555 (974 in chips)
+Seat 4: LEandrobsn23 (818 in chips)
+Seat 6: 700max (314 in chips)
+shorta222: posts the ante 10
+DiggErr555: posts the ante 10
+LEandrobsn23: posts the ante 10
+700max: posts the ante 10
+DiggErr555: posts small blind 50
+LEandrobsn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 2d]
+700max: raises 204 to 304 and is all-in
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (204) returned to 700max
+700max collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: LEandrobsn23 (big blind) folded before Flop
+Seat 6: 700max collected (290)
+
+PokerStars Hand #189830794072: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:33:10 MSK [2018/08/13 0:33:10 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 2: shorta222 (884 in chips)
+Seat 3: DiggErr555 (914 in chips)
+Seat 4: LEandrobsn23 (708 in chips)
+Seat 6: 700max (494 in chips)
+shorta222: posts the ante 10
+DiggErr555: posts the ante 10
+LEandrobsn23: posts the ante 10
+700max: posts the ante 10
+LEandrobsn23: posts small blind 50
+700max: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d Td]
+shorta222: folds
+DiggErr555: raises 804 to 904 and is all-in
+LEandrobsn23: folds
+700max: folds
+Uncalled bet (804) returned to DiggErr555
+DiggErr555 collected 290 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) collected (290)
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 6: 700max (big blind) folded before Flop
+
+PokerStars Hand #189830797615: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:33:27 MSK [2018/08/13 0:33:27 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 2: shorta222 (874 in chips)
+Seat 3: DiggErr555 (1094 in chips)
+Seat 4: LEandrobsn23 (648 in chips)
+Seat 6: 700max (384 in chips)
+shorta222: posts the ante 10
+DiggErr555: posts the ante 10
+LEandrobsn23: posts the ante 10
+700max: posts the ante 10
+700max: posts small blind 50
+shorta222: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Kh]
+DiggErr555: raises 984 to 1084 and is all-in
+LEandrobsn23: folds
+700max: folds
+shorta222: folds
+Uncalled bet (984) returned to DiggErr555
+DiggErr555 collected 290 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 2: shorta222 (big blind) folded before Flop
+Seat 3: DiggErr555 collected (290)
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) folded before Flop
+
+PokerStars Hand #189830800489: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:33:40 MSK [2018/08/13 0:33:40 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 2: shorta222 (764 in chips)
+Seat 3: DiggErr555 (1274 in chips)
+Seat 4: LEandrobsn23 (638 in chips)
+Seat 6: 700max (324 in chips)
+shorta222: posts the ante 10
+DiggErr555: posts the ante 10
+LEandrobsn23: posts the ante 10
+700max: posts the ante 10
+shorta222: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 3d]
+LEandrobsn23: calls 100
+700max: folds
+shorta222: calls 50
+DiggErr555: checks
+*** FLOP *** [Ah 7h Ac]
+shorta222: bets 200
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (200) returned to shorta222
+shorta222 collected 340 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 340 | Rake 0
+Board [Ah 7h Ac]
+Seat 2: shorta222 (small blind) collected (340)
+Seat 3: DiggErr555 (big blind) folded on the Flop
+Seat 4: LEandrobsn23 folded on the Flop
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830805215: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:34:03 MSK [2018/08/13 0:34:03 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 2: shorta222 (994 in chips)
+Seat 3: DiggErr555 (1164 in chips)
+Seat 4: LEandrobsn23 (528 in chips)
+Seat 6: 700max (314 in chips)
+shorta222: posts the ante 10
+DiggErr555: posts the ante 10
+LEandrobsn23: posts the ante 10
+700max: posts the ante 10
+DiggErr555: posts small blind 50
+LEandrobsn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 2h]
+700max: folds
+shorta222: folds
+DiggErr555: folds
+Uncalled bet (50) returned to LEandrobsn23
+LEandrobsn23 collected 140 from pot
+LEandrobsn23: doesn't show hand
+*** SUMMARY ***
+Total pot 140 | Rake 0
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: LEandrobsn23 (big blind) collected (140)
+Seat 6: 700max folded before Flop (didn't bet)
+
+PokerStars Hand #189830807114: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:34:12 MSK [2018/08/13 0:34:12 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 2: shorta222 (984 in chips)
+Seat 3: DiggErr555 (1104 in chips)
+Seat 4: LEandrobsn23 (608 in chips)
+Seat 6: 700max (304 in chips)
+shorta222: posts the ante 10
+DiggErr555: posts the ante 10
+LEandrobsn23: posts the ante 10
+700max: posts the ante 10
+LEandrobsn23: posts small blind 50
+700max: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 4h]
+shorta222: folds
+DiggErr555: raises 994 to 1094 and is all-in
+LEandrobsn23: folds
+700max: folds
+Uncalled bet (994) returned to DiggErr555
+DiggErr555 collected 290 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 2: shorta222 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) collected (290)
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 6: 700max (big blind) folded before Flop
+
+PokerStars Hand #189830811380: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:34:33 MSK [2018/08/13 0:34:33 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 2: shorta222 (974 in chips)
+Seat 3: DiggErr555 (1284 in chips)
+Seat 4: LEandrobsn23 (548 in chips)
+Seat 6: 700max (194 in chips)
+shorta222: posts the ante 12
+DiggErr555: posts the ante 12
+LEandrobsn23: posts the ante 12
+700max: posts the ante 12
+700max: posts small blind 60
+shorta222: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 3s]
+DiggErr555: raises 1152 to 1272 and is all-in
+LEandrobsn23: folds
+700max: calls 122 and is all-in
+shorta222: folds
+Uncalled bet (1090) returned to DiggErr555
+*** FLOP *** [Qc Ad 6s]
+*** TURN *** [Qc Ad 6s] [9c]
+*** RIVER *** [Qc Ad 6s 9c] [7c]
+*** SHOW DOWN ***
+700max: shows [2h Ac] (a pair of Aces)
+DiggErr555: shows [Qs 3s] (a pair of Queens)
+700max collected 532 from pot
+*** SUMMARY ***
+Total pot 532 | Rake 0
+Board [Qc Ad 6s 9c 7c]
+Seat 2: shorta222 (big blind) folded before Flop
+Seat 3: DiggErr555 showed [Qs 3s] and lost with a pair of Queens
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) showed [2h Ac] and won (532) with a pair of Aces
+
+PokerStars Hand #189830816392: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:34:57 MSK [2018/08/13 0:34:57 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 2: shorta222 (842 in chips)
+Seat 3: DiggErr555 (1090 in chips)
+Seat 4: LEandrobsn23 (536 in chips)
+Seat 6: 700max (532 in chips)
+shorta222: posts the ante 12
+DiggErr555: posts the ante 12
+LEandrobsn23: posts the ante 12
+700max: posts the ante 12
+shorta222: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 6c]
+LEandrobsn23: folds
+700max: raises 400 to 520 and is all-in
+shorta222: folds
+DiggErr555: calls 400
+*** FLOP *** [Kh 4c 8h]
+*** TURN *** [Kh 4c 8h] [5d]
+*** RIVER *** [Kh 4c 8h 5d] [2d]
+*** SHOW DOWN ***
+DiggErr555: shows [9c 6c] (high card King)
+700max: shows [Qc Jd] (high card King - Queen kicker)
+700max collected 1148 from pot
+*** SUMMARY ***
+Total pot 1148 | Rake 0
+Board [Kh 4c 8h 5d 2d]
+Seat 2: shorta222 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) showed [9c 6c] and lost with high card King
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 6: 700max (button) showed [Qc Jd] and won (1148) with high card King
+
+PokerStars Hand #189830821181: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:35:20 MSK [2018/08/13 0:35:20 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 2: shorta222 (770 in chips)
+Seat 3: DiggErr555 (558 in chips)
+Seat 4: LEandrobsn23 (524 in chips)
+Seat 6: 700max (1148 in chips)
+shorta222: posts the ante 12
+DiggErr555: posts the ante 12
+LEandrobsn23: posts the ante 12
+700max: posts the ante 12
+DiggErr555: posts small blind 60
+LEandrobsn23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9d]
+700max: raises 1016 to 1136 and is all-in
+shorta222: folds
+DiggErr555: folds
+LEandrobsn23: calls 392 and is all-in
+Uncalled bet (624) returned to 700max
+*** FLOP *** [2c 6c 9s]
+*** TURN *** [2c 6c 9s] [6d]
+*** RIVER *** [2c 6c 9s 6d] [Td]
+*** SHOW DOWN ***
+LEandrobsn23: shows [Kd Th] (two pair, Tens and Sixes)
+700max: shows [Qc Js] (a pair of Sixes)
+LEandrobsn23 collected 1132 from pot
+*** SUMMARY ***
+Total pot 1132 | Rake 0
+Board [2c 6c 9s 6d Td]
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: LEandrobsn23 (big blind) showed [Kd Th] and won (1132) with two pair, Tens and Sixes
+Seat 6: 700max showed [Qc Js] and lost with a pair of Sixes
+
+PokerStars Hand #189830826602: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:35:46 MSK [2018/08/13 0:35:46 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 2: shorta222 (758 in chips)
+Seat 3: DiggErr555 (486 in chips)
+Seat 4: LEandrobsn23 (1132 in chips)
+Seat 6: 700max (624 in chips)
+shorta222: posts the ante 12
+DiggErr555: posts the ante 12
+LEandrobsn23: posts the ante 12
+700max: posts the ante 12
+LEandrobsn23: posts small blind 60
+700max: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 7h]
+shorta222: raises 626 to 746 and is all-in
+DiggErr555: folds
+LEandrobsn23: folds
+700max: folds
+Uncalled bet (626) returned to shorta222
+shorta222 collected 348 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 348 | Rake 0
+Seat 2: shorta222 collected (348)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 6: 700max (big blind) folded before Flop
+
+PokerStars Hand #189830828529: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:35:55 MSK [2018/08/13 0:35:55 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 2: shorta222 (974 in chips)
+Seat 3: DiggErr555 (474 in chips)
+Seat 4: LEandrobsn23 (1060 in chips)
+Seat 6: 700max (492 in chips)
+shorta222: posts the ante 12
+DiggErr555: posts the ante 12
+LEandrobsn23: posts the ante 12
+700max: posts the ante 12
+700max: posts small blind 60
+shorta222: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 8d]
+DiggErr555: folds
+LEandrobsn23: folds
+700max: folds
+Uncalled bet (60) returned to shorta222
+shorta222 collected 168 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: shorta222 (big blind) collected (168)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) folded before Flop
+
+PokerStars Hand #189830830688: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:36:05 MSK [2018/08/13 0:36:05 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 2: shorta222 (1070 in chips)
+Seat 3: DiggErr555 (462 in chips)
+Seat 4: LEandrobsn23 (1048 in chips)
+Seat 6: 700max (420 in chips)
+shorta222: posts the ante 12
+DiggErr555: posts the ante 12
+LEandrobsn23: posts the ante 12
+700max: posts the ante 12
+shorta222: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 5s]
+LEandrobsn23: folds
+700max: folds
+shorta222: raises 938 to 1058 and is all-in
+DiggErr555: folds
+Uncalled bet (938) returned to shorta222
+shorta222 collected 288 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 288 | Rake 0
+Seat 2: shorta222 (small blind) collected (288)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830834258: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:36:22 MSK [2018/08/13 0:36:22 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 2: shorta222 (1226 in chips)
+Seat 3: DiggErr555 (330 in chips)
+Seat 4: LEandrobsn23 (1036 in chips)
+Seat 6: 700max (408 in chips)
+shorta222: posts the ante 15
+DiggErr555: posts the ante 15
+LEandrobsn23: posts the ante 15
+700max: posts the ante 15
+DiggErr555: posts small blind 75
+LEandrobsn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 5h]
+700max: raises 243 to 393 and is all-in
+shorta222: folds
+DiggErr555: calls 240 and is all-in
+LEandrobsn23: folds
+Uncalled bet (78) returned to 700max
+*** FLOP *** [Qh Kh 9d]
+*** TURN *** [Qh Kh 9d] [Qs]
+*** RIVER *** [Qh Kh 9d Qs] [3s]
+*** SHOW DOWN ***
+DiggErr555: shows [5s 5h] (two pair, Queens and Fives)
+700max: shows [6s 7h] (a pair of Queens)
+DiggErr555 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [Qh Kh 9d Qs 3s]
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [5s 5h] and won (840) with two pair, Queens and Fives
+Seat 4: LEandrobsn23 (big blind) folded before Flop
+Seat 6: 700max showed [6s 7h] and lost with a pair of Queens
+
+PokerStars Hand #189830840990: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:36:55 MSK [2018/08/13 0:36:55 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 2: shorta222 (1211 in chips)
+Seat 3: DiggErr555 (840 in chips)
+Seat 4: LEandrobsn23 (871 in chips)
+Seat 6: 700max (78 in chips)
+shorta222: posts the ante 15
+DiggErr555: posts the ante 15
+LEandrobsn23: posts the ante 15
+700max: posts the ante 15
+LEandrobsn23: posts small blind 75
+700max: posts big blind 63 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 7s]
+shorta222: raises 1121 to 1196 and is all-in
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (1121) returned to shorta222
+*** FLOP *** [6h Ks 8s]
+*** TURN *** [6h Ks 8s] [Ah]
+*** RIVER *** [6h Ks 8s Ah] [Qc]
+*** SHOW DOWN ***
+shorta222: shows [6s Td] (a pair of Sixes)
+shorta222 collected 24 from side pot
+700max: shows [Kc 6c] (two pair, Kings and Sixes)
+700max collected 249 from main pot
+*** SUMMARY ***
+Total pot 273 Main pot 249. Side pot 24. | Rake 0
+Board [6h Ks 8s Ah Qc]
+Seat 2: shorta222 showed [6s Td] and won (24) with a pair of Sixes
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 6: 700max (big blind) showed [Kc 6c] and won (249) with two pair, Kings and Sixes
+
+PokerStars Hand #189830844667: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:37:12 MSK [2018/08/13 0:37:12 ET]
+Table '2381088291 1' 6-max Seat #4 is the button
+Seat 2: shorta222 (1145 in chips)
+Seat 3: DiggErr555 (825 in chips)
+Seat 4: LEandrobsn23 (781 in chips)
+Seat 6: 700max (249 in chips)
+shorta222: posts the ante 15
+DiggErr555: posts the ante 15
+LEandrobsn23: posts the ante 15
+700max: posts the ante 15
+700max: posts small blind 75
+shorta222: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 3d]
+DiggErr555: folds
+LEandrobsn23: folds
+700max: raises 84 to 234 and is all-in
+shorta222: calls 84
+*** FLOP *** [Th Jd 2s]
+*** TURN *** [Th Jd 2s] [4h]
+*** RIVER *** [Th Jd 2s 4h] [2c]
+*** SHOW DOWN ***
+700max: shows [4s 9s] (two pair, Fours and Deuces)
+shorta222: shows [6c Ks] (a pair of Deuces)
+700max collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | Rake 0
+Board [Th Jd 2s 4h 2c]
+Seat 2: shorta222 (big blind) showed [6c Ks] and lost with a pair of Deuces
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 6: 700max (small blind) showed [4s 9s] and won (528) with two pair, Fours and Deuces
+
+PokerStars Hand #189830848162: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:37:29 MSK [2018/08/13 0:37:29 ET]
+Table '2381088291 1' 6-max Seat #6 is the button
+Seat 2: shorta222 (896 in chips)
+Seat 3: DiggErr555 (810 in chips)
+Seat 4: LEandrobsn23 (766 in chips)
+Seat 6: 700max (528 in chips)
+shorta222: posts the ante 15
+DiggErr555: posts the ante 15
+LEandrobsn23: posts the ante 15
+700max: posts the ante 15
+shorta222: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 5c]
+LEandrobsn23: calls 150
+700max: folds
+shorta222: calls 75
+DiggErr555: checks
+*** FLOP *** [6h 4h Kd]
+shorta222: checks
+DiggErr555: checks
+LEandrobsn23: checks
+*** TURN *** [6h 4h Kd] [6c]
+shorta222: bets 300
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (300) returned to shorta222
+shorta222 collected 510 from pot
+shorta222: doesn't show hand
+*** SUMMARY ***
+Total pot 510 | Rake 0
+Board [6h 4h Kd 6c]
+Seat 2: shorta222 (small blind) collected (510)
+Seat 3: DiggErr555 (big blind) folded on the Turn
+Seat 4: LEandrobsn23 folded on the Turn
+Seat 6: 700max (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830853443: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:37:54 MSK [2018/08/13 0:37:54 ET]
+Table '2381088291 1' 6-max Seat #2 is the button
+Seat 2: shorta222 (1241 in chips)
+Seat 3: DiggErr555 (645 in chips)
+Seat 4: LEandrobsn23 (601 in chips)
+Seat 6: 700max (513 in chips)
+shorta222: posts the ante 15
+DiggErr555: posts the ante 15
+LEandrobsn23: posts the ante 15
+700max: posts the ante 15
+DiggErr555: posts small blind 75
+LEandrobsn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Jh]
+700max: raises 348 to 498 and is all-in
+shorta222: folds
+DiggErr555: raises 132 to 630 and is all-in
+LEandrobsn23: folds
+Uncalled bet (132) returned to DiggErr555
+*** FLOP *** [6d 8c 5h]
+*** TURN *** [6d 8c 5h] [4h]
+*** RIVER *** [6d 8c 5h 4h] [Th]
+*** SHOW DOWN ***
+DiggErr555: shows [Jc Jh] (a pair of Jacks)
+700max: shows [Kh 9h] (a flush, King high)
+700max collected 1206 from pot
+*** SUMMARY ***
+Total pot 1206 | Rake 0
+Board [6d 8c 5h 4h Th]
+Seat 2: shorta222 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [Jc Jh] and lost with a pair of Jacks
+Seat 4: LEandrobsn23 (big blind) folded before Flop
+Seat 6: 700max showed [Kh 9h] and won (1206) with a flush, King high
+
+PokerStars Hand #189830859146: Tournament #2381088291, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 7:38:21 MSK [2018/08/13 0:38:21 ET]
+Table '2381088291 1' 6-max Seat #3 is the button
+Seat 2: shorta222 (1226 in chips)
+Seat 3: DiggErr555 (132 in chips)
+Seat 4: LEandrobsn23 (436 in chips)
+Seat 6: 700max (1206 in chips)
+shorta222: posts the ante 15
+DiggErr555: posts the ante 15
+LEandrobsn23: posts the ante 15
+700max: posts the ante 15
+LEandrobsn23: posts small blind 75
+700max: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 9d]
+shorta222: raises 1061 to 1211 and is all-in
+DiggErr555: calls 117 and is all-in
+LEandrobsn23: folds
+700max: calls 1041 and is all-in
+Uncalled bet (20) returned to shorta222
+*** FLOP *** [9s 2c 7s]
+*** TURN *** [9s 2c 7s] [7c]
+*** RIVER *** [9s 2c 7s 7c] [5h]
+*** SHOW DOWN ***
+700max: shows [Qs Qc] (two pair, Queens and Sevens)
+shorta222: shows [5c As] (two pair, Sevens and Fives)
+700max collected 2148 from side pot
+DiggErr555: shows [3h 9d] (two pair, Nines and Sevens)
+700max collected 486 from main pot
+700max wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 2634 Main pot 486. Side pot 2148. | Rake 0
+Board [9s 2c 7s 7c 5h]
+Seat 2: shorta222 showed [5c As] and lost with two pair, Sevens and Fives
+Seat 3: DiggErr555 (button) showed [3h 9d] and lost with two pair, Nines and Sevens
+Seat 4: LEandrobsn23 (small blind) folded before Flop
+Seat 6: 700max (big blind) showed [Qs Qc] and won (2634) with two pair, Queens and Sevens

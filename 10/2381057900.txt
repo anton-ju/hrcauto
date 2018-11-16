@@ -1,0 +1,223 @@
+
+
+PokerStars Hand #189829341391: Tournament #2381057900, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:51:30 MSK [2018/08/12 22:51:30 ET]
+Table '2381057900 1' 6-max Seat #1 is the button
+Seat 1: Dkquality (500 in chips)
+Seat 2: bigatello1967 (500 in chips)
+Seat 3: marie3010 (500 in chips)
+Seat 4: galpal12 (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: moimob (500 in chips)
+Dkquality: posts the ante 2
+bigatello1967: posts the ante 2
+marie3010: posts the ante 2
+galpal12: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts the ante 2
+bigatello1967: posts small blind 10
+marie3010: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Th]
+galpal12: calls 20
+DiggErr555: folds
+moimob: raises 76 to 96
+Dkquality: folds
+bigatello1967: folds
+marie3010: folds
+galpal12: calls 76
+*** FLOP *** [5c 8d 9c]
+galpal12: bets 402 and is all-in
+moimob: calls 402 and is all-in
+*** TURN *** [5c 8d 9c] [2s]
+*** RIVER *** [5c 8d 9c 2s] [Ah]
+*** SHOW DOWN ***
+galpal12: shows [Ts Jc] (high card Ace)
+moimob: shows [Kh Js] (high card Ace - King kicker)
+moimob collected 1038 from pot
+moimob wins the $2.38 bounty for eliminating galpal12
+galpal12 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1038 | Rake 0
+Board [5c 8d 9c 2s Ah]
+Seat 1: Dkquality (button) folded before Flop (didn't bet)
+Seat 2: bigatello1967 (small blind) folded before Flop
+Seat 3: marie3010 (big blind) folded before Flop
+Seat 4: galpal12 showed [Ts Jc] and lost with high card Ace
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: moimob showed [Kh Js] and won (1038) with high card Ace
+
+PokerStars Hand #189829356054: Tournament #2381057900, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:52:24 MSK [2018/08/12 22:52:24 ET]
+Table '2381057900 1' 6-max Seat #2 is the button
+Seat 1: Dkquality (498 in chips)
+Seat 2: bigatello1967 (488 in chips)
+Seat 3: marie3010 (478 in chips)
+Seat 5: DiggErr555 (498 in chips)
+Seat 6: moimob (1038 in chips)
+Dkquality: posts the ante 2
+bigatello1967: posts the ante 2
+marie3010: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts the ante 2
+marie3010: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 5s]
+moimob: folds
+Dkquality: folds
+bigatello1967: folds
+marie3010: raises 456 to 476 and is all-in
+DiggErr555: folds
+Uncalled bet (456) returned to marie3010
+marie3010 collected 50 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 1: Dkquality folded before Flop (didn't bet)
+Seat 2: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 3: marie3010 (small blind) collected (50)
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: moimob folded before Flop (didn't bet)
+
+PokerStars Hand #189829359967: Tournament #2381057900, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:52:38 MSK [2018/08/12 22:52:38 ET]
+Table '2381057900 1' 6-max Seat #3 is the button
+Seat 1: Dkquality (496 in chips)
+Seat 2: bigatello1967 (486 in chips)
+Seat 3: marie3010 (506 in chips)
+Seat 5: DiggErr555 (476 in chips)
+Seat 6: moimob (1036 in chips)
+Dkquality: posts the ante 2
+bigatello1967: posts the ante 2
+marie3010: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts the ante 2
+DiggErr555: posts small blind 10
+moimob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d Td]
+Dkquality: folds
+bigatello1967: folds
+marie3010: folds
+DiggErr555: folds
+Uncalled bet (10) returned to moimob
+moimob collected 30 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 1: Dkquality folded before Flop (didn't bet)
+Seat 2: bigatello1967 folded before Flop (didn't bet)
+Seat 3: marie3010 (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: moimob (big blind) collected (30)
+
+PokerStars Hand #189829365705: Tournament #2381057900, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:52:59 MSK [2018/08/12 22:52:59 ET]
+Table '2381057900 1' 6-max Seat #5 is the button
+Seat 1: Dkquality (494 in chips)
+Seat 2: bigatello1967 (484 in chips)
+Seat 3: marie3010 (504 in chips)
+Seat 5: DiggErr555 (464 in chips)
+Seat 6: moimob (1054 in chips)
+Dkquality: posts the ante 3
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+moimob: posts small blind 15
+Dkquality: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 7h]
+bigatello1967: calls 30
+marie3010: calls 30
+DiggErr555: folds
+moimob: folds
+Dkquality: checks
+*** FLOP *** [8c Js 9s]
+Dkquality: checks
+bigatello1967: checks
+marie3010: bets 471 and is all-in
+Dkquality: calls 461 and is all-in
+bigatello1967: folds
+Uncalled bet (10) returned to marie3010
+*** TURN *** [8c Js 9s] [Ac]
+*** RIVER *** [8c Js 9s Ac] [3s]
+*** SHOW DOWN ***
+Dkquality: shows [Qc 9h] (a pair of Nines)
+marie3010: shows [8s 9d] (two pair, Nines and Eights)
+marie3010 collected 1042 from pot
+marie3010 wins the $2.38 bounty for eliminating Dkquality
+Dkquality finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1042 | Rake 0
+Board [8c Js 9s Ac 3s]
+Seat 1: Dkquality (big blind) showed [Qc 9h] and lost with a pair of Nines
+Seat 2: bigatello1967 folded on the Flop
+Seat 3: marie3010 showed [8s 9d] and won (1042) with two pair, Nines and Eights
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: moimob (small blind) folded before Flop
+
+PokerStars Hand #189829378574: Tournament #2381057900, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:53:47 MSK [2018/08/12 22:53:47 ET]
+Table '2381057900 1' 6-max Seat #6 is the button
+Seat 2: bigatello1967 (451 in chips)
+Seat 3: marie3010 (1052 in chips)
+Seat 5: DiggErr555 (461 in chips)
+Seat 6: moimob (1036 in chips)
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+bigatello1967: posts small blind 15
+marie3010: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 5c]
+DiggErr555: folds
+moimob: raises 30 to 60
+bigatello1967: folds
+marie3010: calls 30
+*** FLOP *** [Jc Tc Kc]
+marie3010: bets 989 and is all-in
+moimob: folds
+Uncalled bet (989) returned to marie3010
+marie3010 collected 147 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [Jc Tc Kc]
+Seat 2: bigatello1967 (small blind) folded before Flop
+Seat 3: marie3010 (big blind) collected (147)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: moimob (button) folded on the Flop
+
+PokerStars Hand #189829385547: Tournament #2381057900, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:54:12 MSK [2018/08/12 22:54:12 ET]
+Table '2381057900 1' 6-max Seat #2 is the button
+Seat 2: bigatello1967 (433 in chips)
+Seat 3: marie3010 (1136 in chips)
+Seat 5: DiggErr555 (458 in chips)
+Seat 6: moimob (973 in chips)
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts the ante 3
+marie3010: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Kd]
+moimob: raises 940 to 970 and is all-in
+bigatello1967: folds
+marie3010: folds
+DiggErr555: calls 425 and is all-in
+Uncalled bet (515) returned to moimob
+*** FLOP *** [9c Ts 3h]
+*** TURN *** [9c Ts 3h] [5h]
+*** RIVER *** [9c Ts 3h 5h] [8h]
+*** SHOW DOWN ***
+DiggErr555: shows [Ks Kd] (a pair of Kings)
+moimob: shows [3c 3d] (three of a kind, Threes)
+moimob collected 937 from pot
+moimob wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 937 | Rake 0
+Board [9c Ts 3h 5h 8h]
+Seat 2: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 3: marie3010 (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 6: moimob showed [3c 3d] and won (937) with three of a kind, Threes

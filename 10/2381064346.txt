@@ -1,0 +1,650 @@
+
+
+PokerStars Hand #189829659263: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:11:41 MSK [2018/08/12 23:11:41 ET]
+Table '2381064346 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (500 in chips)
+Seat 2: oposs153 (500 in chips)
+Seat 3: 10080092 (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: Kyleddd (500 in chips)
+Seat 6: 2Ran128 (500 in chips)
+joebrauser: posts the ante 2
+oposs153: posts the ante 2
+10080092: posts the ante 2
+DiggErr555: posts the ante 2
+Kyleddd: posts the ante 2
+2Ran128: posts the ante 2
+oposs153: posts small blind 10
+10080092: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 3c]
+DiggErr555: folds
+Kyleddd: raises 20 to 40
+2Ran128: folds
+joebrauser: folds
+oposs153: folds
+10080092: calls 20
+*** FLOP *** [7d 5s Kh]
+10080092: checks
+Kyleddd: bets 32
+10080092: raises 426 to 458 and is all-in
+Kyleddd: calls 426 and is all-in
+*** TURN *** [7d 5s Kh] [6h]
+*** RIVER *** [7d 5s Kh 6h] [Qh]
+*** SHOW DOWN ***
+10080092: shows [5h 8h] (a flush, King high)
+Kyleddd: shows [Jc Js] (a pair of Jacks)
+10080092 collected 1018 from pot
+10080092 wins the $12.01 bounty for eliminating Kyleddd
+Kyleddd finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1018 | Rake 0
+Board [7d 5s Kh 6h Qh]
+Seat 1: joebrauser (button) folded before Flop (didn't bet)
+Seat 2: oposs153 (small blind) folded before Flop
+Seat 3: 10080092 (big blind) showed [5h 8h] and won (1018) with a flush, King high
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Kyleddd showed [Jc Js] and lost with a pair of Jacks
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829669892: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:12:22 MSK [2018/08/12 23:12:22 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (498 in chips)
+Seat 2: oposs153 (488 in chips)
+Seat 3: 10080092 (1018 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 6: 2Ran128 (498 in chips)
+joebrauser: posts the ante 2
+oposs153: posts the ante 2
+10080092: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+10080092: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h Qd]
+2Ran128: folds
+joebrauser: folds
+oposs153: raises 466 to 486 and is all-in
+10080092: folds
+DiggErr555: folds
+Uncalled bet (466) returned to oposs153
+oposs153 collected 60 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: oposs153 (button) collected (60)
+Seat 3: 10080092 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829673358: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:12:36 MSK [2018/08/12 23:12:36 ET]
+Table '2381064346 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (496 in chips)
+Seat 2: oposs153 (526 in chips)
+Seat 3: 10080092 (1006 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 6: 2Ran128 (496 in chips)
+joebrauser: posts the ante 2
+oposs153: posts the ante 2
+10080092: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 2h]
+joebrauser: folds
+oposs153: folds
+10080092: folds
+DiggErr555: folds
+Uncalled bet (10) returned to 2Ran128
+2Ran128 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: oposs153 folded before Flop (didn't bet)
+Seat 3: 10080092 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: 2Ran128 (big blind) collected (30)
+
+PokerStars Hand #189829676151: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:47 MSK [2018/08/12 23:12:47 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 1: joebrauser (494 in chips)
+Seat 2: oposs153 (524 in chips)
+Seat 3: 10080092 (1004 in chips)
+Seat 4: DiggErr555 (464 in chips)
+Seat 6: 2Ran128 (514 in chips)
+joebrauser: posts the ante 3
+oposs153: posts the ante 3
+10080092: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+2Ran128: posts small blind 15
+joebrauser: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 4c]
+oposs153: folds
+10080092: folds
+DiggErr555: folds
+2Ran128: calls 15
+joebrauser: checks
+*** FLOP *** [Qs 4d 4h]
+2Ran128: bets 30
+joebrauser: folds
+Uncalled bet (30) returned to 2Ran128
+2Ran128 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Board [Qs 4d 4h]
+Seat 1: joebrauser (big blind) folded on the Flop
+Seat 2: oposs153 folded before Flop (didn't bet)
+Seat 3: 10080092 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: 2Ran128 (small blind) collected (75)
+
+PokerStars Hand #189829681167: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:06 MSK [2018/08/12 23:13:06 ET]
+Table '2381064346 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (461 in chips)
+Seat 2: oposs153 (521 in chips)
+Seat 3: 10080092 (1001 in chips)
+Seat 4: DiggErr555 (461 in chips)
+Seat 6: 2Ran128 (556 in chips)
+joebrauser: posts the ante 3
+oposs153: posts the ante 3
+10080092: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+joebrauser: posts small blind 15
+oposs153: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 2s]
+10080092: folds
+DiggErr555: folds
+2Ran128: folds
+joebrauser: raises 428 to 458 and is all-in
+oposs153: calls 428
+*** FLOP *** [4h Kc 8s]
+*** TURN *** [4h Kc 8s] [5h]
+*** RIVER *** [4h Kc 8s 5h] [4s]
+*** SHOW DOWN ***
+joebrauser: shows [7d Ac] (a pair of Fours)
+oposs153: shows [5c Qh] (two pair, Fives and Fours)
+oposs153 collected 931 from pot
+oposs153 wins the $12.01 bounty for eliminating joebrauser
+joebrauser finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 931 | Rake 0
+Board [4h Kc 8s 5h 4s]
+Seat 1: joebrauser (small blind) showed [7d Ac] and lost with a pair of Fours
+Seat 2: oposs153 (big blind) showed [5c Qh] and won (931) with two pair, Fives and Fours
+Seat 3: 10080092 folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 6: 2Ran128 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829690184: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:41 MSK [2018/08/12 23:13:41 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (991 in chips)
+Seat 3: 10080092 (998 in chips)
+Seat 4: DiggErr555 (458 in chips)
+Seat 6: 2Ran128 (553 in chips)
+oposs153: posts the ante 3
+10080092: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+10080092: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 3s]
+2Ran128: folds
+oposs153: raises 958 to 988 and is all-in
+10080092: folds
+DiggErr555: folds
+Uncalled bet (958) returned to oposs153
+oposs153 collected 87 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 2: oposs153 (button) collected (87)
+Seat 3: 10080092 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829692506: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:50 MSK [2018/08/12 23:13:50 ET]
+Table '2381064346 1' 6-max Seat #3 is the button
+Seat 2: oposs153 (1045 in chips)
+Seat 3: 10080092 (980 in chips)
+Seat 4: DiggErr555 (425 in chips)
+Seat 6: 2Ran128 (550 in chips)
+oposs153: posts the ante 3
+10080092: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Tc]
+oposs153: folds
+10080092: folds
+DiggErr555: raises 392 to 422 and is all-in
+2Ran128: folds
+Uncalled bet (392) returned to DiggErr555
+DiggErr555 collected 72 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 2: oposs153 folded before Flop (didn't bet)
+Seat 3: 10080092 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) collected (72)
+Seat 6: 2Ran128 (big blind) folded before Flop
+
+PokerStars Hand #189829698897: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:16 MSK [2018/08/12 23:14:16 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (1042 in chips)
+Seat 3: 10080092 (977 in chips)
+Seat 4: DiggErr555 (464 in chips)
+Seat 6: 2Ran128 (517 in chips)
+oposs153: posts the ante 4
+10080092: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+2Ran128: posts small blind 20
+oposs153: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 4c]
+10080092: folds
+DiggErr555: folds
+2Ran128: calls 20
+oposs153: raises 998 to 1038 and is all-in
+2Ran128: folds
+Uncalled bet (998) returned to oposs153
+oposs153 collected 96 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: oposs153 (big blind) collected (96)
+Seat 3: 10080092 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: 2Ran128 (small blind) folded before Flop
+
+PokerStars Hand #189829703717: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:35 MSK [2018/08/12 23:14:35 ET]
+Table '2381064346 1' 6-max Seat #6 is the button
+Seat 2: oposs153 (1094 in chips)
+Seat 3: 10080092 (973 in chips)
+Seat 4: DiggErr555 (460 in chips)
+Seat 6: 2Ran128 (473 in chips)
+oposs153: posts the ante 4
+10080092: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+oposs153: posts small blind 20
+10080092: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 6d]
+DiggErr555: folds
+2Ran128: raises 429 to 469 and is all-in
+oposs153: folds
+10080092: calls 429
+*** FLOP *** [3d 9c 5c]
+*** TURN *** [3d 9c 5c] [3c]
+*** RIVER *** [3d 9c 5c 3c] [Ts]
+*** SHOW DOWN ***
+10080092: shows [Js Ah] (a pair of Threes)
+2Ran128: shows [Ad 4d] (a pair of Threes - lower kicker)
+10080092 collected 974 from pot
+10080092 wins the $12.01 bounty for eliminating 2Ran128
+2Ran128 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 974 | Rake 0
+Board [3d 9c 5c 3c Ts]
+Seat 2: oposs153 (small blind) folded before Flop
+Seat 3: 10080092 (big blind) showed [Js Ah] and won (974) with a pair of Threes
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 6: 2Ran128 (button) showed [Ad 4d] and lost with a pair of Threes
+
+PokerStars Hand #189829708387: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:53 MSK [2018/08/12 23:14:53 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (1070 in chips)
+Seat 3: 10080092 (1474 in chips)
+Seat 4: DiggErr555 (456 in chips)
+oposs153: posts the ante 4
+10080092: posts the ante 4
+DiggErr555: posts the ante 4
+10080092: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 2h]
+oposs153: folds
+10080092: folds
+Uncalled bet (20) returned to DiggErr555
+DiggErr555 collected 52 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 2: oposs153 (button) folded before Flop (didn't bet)
+Seat 3: 10080092 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) collected (52)
+
+PokerStars Hand #189829710416: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:15:01 MSK [2018/08/12 23:15:01 ET]
+Table '2381064346 1' 6-max Seat #3 is the button
+Seat 2: oposs153 (1066 in chips)
+Seat 3: 10080092 (1450 in chips)
+Seat 4: DiggErr555 (484 in chips)
+oposs153: posts the ante 4
+10080092: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+oposs153: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4d]
+10080092: raises 1406 to 1446 and is all-in
+DiggErr555: folds
+oposs153: folds
+Uncalled bet (1406) returned to 10080092
+10080092 collected 112 from pot
+10080092: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 2: oposs153 (big blind) folded before Flop
+Seat 3: 10080092 (button) collected (112)
+Seat 4: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829713088: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:12 MSK [2018/08/12 23:15:12 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (1022 in chips)
+Seat 3: 10080092 (1518 in chips)
+Seat 4: DiggErr555 (460 in chips)
+oposs153: posts the ante 6
+10080092: posts the ante 6
+DiggErr555: posts the ante 6
+oposs153: posts small blind 30
+10080092: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 2s]
+DiggErr555: folds
+oposs153: raises 956 to 1016 and is all-in
+10080092: calls 956
+*** FLOP *** [Tc Qc Jh]
+*** TURN *** [Tc Qc Jh] [2h]
+*** RIVER *** [Tc Qc Jh 2h] [7s]
+*** SHOW DOWN ***
+oposs153: shows [Qd Qs] (three of a kind, Queens)
+10080092: shows [Ac Qh] (a pair of Queens)
+oposs153 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | Rake 0
+Board [Tc Qc Jh 2h 7s]
+Seat 2: oposs153 (small blind) showed [Qd Qs] and won (2050) with three of a kind, Queens
+Seat 3: 10080092 (big blind) showed [Ac Qh] and lost with a pair of Queens
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829716905: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:27 MSK [2018/08/12 23:15:27 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (2050 in chips)
+Seat 3: 10080092 (496 in chips)
+Seat 4: DiggErr555 (454 in chips)
+oposs153: posts the ante 6
+10080092: posts the ante 6
+DiggErr555: posts the ante 6
+10080092: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 2d]
+oposs153: raises 1984 to 2044 and is all-in
+10080092: folds
+DiggErr555: folds
+Uncalled bet (1984) returned to oposs153
+oposs153 collected 168 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: oposs153 (button) collected (168)
+Seat 3: 10080092 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829719219: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:36 MSK [2018/08/12 23:15:36 ET]
+Table '2381064346 1' 6-max Seat #3 is the button
+Seat 2: oposs153 (2152 in chips)
+Seat 3: 10080092 (460 in chips)
+Seat 4: DiggErr555 (388 in chips)
+oposs153: posts the ante 6
+10080092: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+oposs153: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Js]
+10080092: raises 394 to 454 and is all-in
+DiggErr555: folds
+oposs153: folds
+Uncalled bet (394) returned to 10080092
+10080092 collected 168 from pot
+10080092: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: oposs153 (big blind) folded before Flop
+Seat 3: 10080092 (button) collected (168)
+Seat 4: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829721579: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:45 MSK [2018/08/12 23:15:45 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (2086 in chips)
+Seat 3: 10080092 (562 in chips)
+Seat 4: DiggErr555 (352 in chips)
+oposs153: posts the ante 6
+10080092: posts the ante 6
+DiggErr555: posts the ante 6
+oposs153: posts small blind 30
+10080092: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 9s]
+DiggErr555: folds
+oposs153: raises 2020 to 2080 and is all-in
+10080092: calls 496 and is all-in
+Uncalled bet (1524) returned to oposs153
+*** FLOP *** [Jd 6d Ah]
+*** TURN *** [Jd 6d Ah] [Kh]
+*** RIVER *** [Jd 6d Ah Kh] [4h]
+*** SHOW DOWN ***
+oposs153: shows [4s 6h] (two pair, Sixes and Fours)
+10080092: shows [7d 7c] (a pair of Sevens)
+oposs153 collected 1130 from pot
+oposs153 wins the $12.01 bounty for eliminating 10080092
+10080092 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1130 | Rake 0
+Board [Jd 6d Ah Kh 4h]
+Seat 2: oposs153 (small blind) showed [4s 6h] and won (1130) with two pair, Sixes and Fours
+Seat 3: 10080092 (big blind) showed [7d 7c] and lost with a pair of Sevens
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829725975: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:16:03 MSK [2018/08/12 23:16:03 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (2654 in chips)
+Seat 4: DiggErr555 (346 in chips)
+oposs153: posts the ante 6
+DiggErr555: posts the ante 6
+oposs153: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 2s]
+oposs153: raises 240 to 300
+DiggErr555: folds
+Uncalled bet (240) returned to oposs153
+oposs153 collected 132 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 2: oposs153 (button) (small blind) collected (132)
+Seat 4: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829728257: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:11 MSK [2018/08/12 23:16:11 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (2720 in chips)
+Seat 4: DiggErr555 (280 in chips)
+oposs153: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+oposs153: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Ks]
+DiggErr555: raises 192 to 272 and is all-in
+oposs153: calls 192
+*** FLOP *** [Td Kd Kh]
+*** TURN *** [Td Kd Kh] [Ah]
+*** RIVER *** [Td Kd Kh Ah] [5s]
+*** SHOW DOWN ***
+oposs153: shows [Jc 5h] (two pair, Kings and Fives)
+DiggErr555: shows [Tc Ks] (a full house, Kings full of Tens)
+DiggErr555 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Board [Td Kd Kh Ah 5s]
+Seat 2: oposs153 (big blind) showed [Jc 5h] and lost with two pair, Kings and Fives
+Seat 4: DiggErr555 (button) (small blind) showed [Tc Ks] and won (560) with a full house, Kings full of Tens
+
+PokerStars Hand #189829731247: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:23 MSK [2018/08/12 23:16:23 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (2440 in chips)
+Seat 4: DiggErr555 (560 in chips)
+oposs153: posts the ante 8
+DiggErr555: posts the ante 8
+oposs153: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 4c]
+oposs153: raises 2352 to 2432 and is all-in
+DiggErr555: folds
+Uncalled bet (2352) returned to oposs153
+oposs153 collected 176 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 2: oposs153 (button) (small blind) collected (176)
+Seat 4: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829733506: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:32 MSK [2018/08/12 23:16:32 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (2528 in chips)
+Seat 4: DiggErr555 (472 in chips)
+oposs153: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+oposs153: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 3d]
+DiggErr555: folds
+Uncalled bet (40) returned to oposs153
+oposs153 collected 96 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: oposs153 (big blind) collected (96)
+Seat 4: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829735306: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:39 MSK [2018/08/12 23:16:39 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (2576 in chips)
+Seat 4: DiggErr555 (424 in chips)
+oposs153: posts the ante 8
+DiggErr555: posts the ante 8
+oposs153: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Ts]
+oposs153: raises 2488 to 2568 and is all-in
+DiggErr555: calls 336 and is all-in
+Uncalled bet (2152) returned to oposs153
+*** FLOP *** [Kc 9s 6d]
+*** TURN *** [Kc 9s 6d] [As]
+*** RIVER *** [Kc 9s 6d As] [7h]
+*** SHOW DOWN ***
+DiggErr555: shows [8d Ts] (a straight, Six to Ten)
+oposs153: shows [5d Qc] (high card Ace)
+DiggErr555 collected 848 from pot
+*** SUMMARY ***
+Total pot 848 | Rake 0
+Board [Kc 9s 6d As 7h]
+Seat 2: oposs153 (button) (small blind) showed [5d Qc] and lost with high card Ace
+Seat 4: DiggErr555 (big blind) showed [8d Ts] and won (848) with a straight, Six to Ten
+
+PokerStars Hand #189829738387: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:52 MSK [2018/08/12 23:16:52 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (2152 in chips)
+Seat 4: DiggErr555 (848 in chips)
+oposs153: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+oposs153: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 2d]
+DiggErr555: calls 40
+oposs153: checks
+*** FLOP *** [Tc 5c Kd]
+oposs153: checks
+DiggErr555: bets 80
+oposs153: folds
+Uncalled bet (80) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [Tc 5c Kd]
+Seat 2: oposs153 (big blind) folded on the Flop
+Seat 4: DiggErr555 (button) (small blind) collected (176)
+
+PokerStars Hand #189829741743: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:17:04 MSK [2018/08/12 23:17:04 ET]
+Table '2381064346 1' 6-max Seat #2 is the button
+Seat 2: oposs153 (2064 in chips)
+Seat 4: DiggErr555 (936 in chips)
+oposs153: posts the ante 10
+DiggErr555: posts the ante 10
+oposs153: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Jh]
+oposs153: raises 1954 to 2054 and is all-in
+DiggErr555: calls 826 and is all-in
+Uncalled bet (1128) returned to oposs153
+*** FLOP *** [8h 2s Qh]
+*** TURN *** [8h 2s Qh] [8d]
+*** RIVER *** [8h 2s Qh 8d] [8s]
+*** SHOW DOWN ***
+DiggErr555: shows [Ac Jh] (three of a kind, Eights)
+oposs153: shows [6h 7s] (three of a kind, Eights - lower kicker)
+DiggErr555 collected 1872 from pot
+*** SUMMARY ***
+Total pot 1872 | Rake 0
+Board [8h 2s Qh 8d 8s]
+Seat 2: oposs153 (button) (small blind) showed [6h 7s] and lost with three of a kind, Eights
+Seat 4: DiggErr555 (big blind) showed [Ac Jh] and won (1872) with three of a kind, Eights
+
+PokerStars Hand #189829744864: Tournament #2381064346, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:17:17 MSK [2018/08/12 23:17:17 ET]
+Table '2381064346 1' 6-max Seat #4 is the button
+Seat 2: oposs153 (1128 in chips)
+Seat 4: DiggErr555 (1872 in chips)
+oposs153: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+oposs153: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Ad]
+DiggErr555: raises 1762 to 1862 and is all-in
+oposs153: calls 1018 and is all-in
+Uncalled bet (744) returned to DiggErr555
+*** FLOP *** [7c 3s 7h]
+*** TURN *** [7c 3s 7h] [Qs]
+*** RIVER *** [7c 3s 7h Qs] [Th]
+*** SHOW DOWN ***
+oposs153: shows [4h Ac] (a pair of Sevens)
+DiggErr555: shows [7s Ad] (three of a kind, Sevens)
+DiggErr555 collected 2256 from pot
+DiggErr555 wins the $12.01 bounty for eliminating oposs153
+oposs153 finished the tournament in 2nd place and received $36.03.
+DiggErr555 wins the tournament and receives $36.03 - congratulations!
+*** SUMMARY ***
+Total pot 2256 | Rake 0
+Board [7c 3s 7h Qs Th]
+Seat 2: oposs153 (big blind) showed [4h Ac] and lost with a pair of Sevens
+Seat 4: DiggErr555 (button) (small blind) showed [7s Ad] and won (2256) with three of a kind, Sevens

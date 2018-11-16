@@ -1,0 +1,46 @@
+
+
+PokerStars Hand #189830399985: Tournament #2381082557, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:03:00 MSK [2018/08/13 0:03:00 ET]
+Table '2381082557 1' 6-max Seat #1 is the button
+Seat 1: bubba2213 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: pierrotip (500 in chips)
+Seat 4: LimpAndJam (500 in chips)
+Seat 5: Dmitriy56529 (500 in chips)
+Seat 6: PainEcho (500 in chips)
+bubba2213: posts the ante 2
+DiggErr555: posts the ante 2
+pierrotip: posts the ante 2
+LimpAndJam: posts the ante 2
+Dmitriy56529: posts the ante 2
+PainEcho: posts the ante 2
+DiggErr555: posts small blind 10
+pierrotip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Ks]
+LimpAndJam: folds
+Dmitriy56529: calls 20
+PainEcho: raises 478 to 498 and is all-in
+bubba2213: folds
+DiggErr555: calls 488 and is all-in
+pierrotip: folds
+Dmitriy56529: folds
+*** FLOP *** [Jc 5s 6s]
+*** TURN *** [Jc 5s 6s] [9h]
+*** RIVER *** [Jc 5s 6s 9h] [Qd]
+PainEcho said, "ez"
+*** SHOW DOWN ***
+DiggErr555: shows [Ah Ks] (high card Ace)
+PainEcho: shows [Jd Ad] (a pair of Jacks)
+PainEcho collected 1048 from pot
+PainEcho wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1048 | Rake 0
+Board [Jc 5s 6s 9h Qd]
+Seat 1: bubba2213 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) showed [Ah Ks] and lost with high card Ace
+Seat 3: pierrotip (big blind) folded before Flop
+Seat 4: LimpAndJam folded before Flop (didn't bet)
+Seat 5: Dmitriy56529 folded before Flop
+Seat 6: PainEcho showed [Jd Ad] and won (1048) with a pair of Jacks

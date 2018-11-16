@@ -1,0 +1,1008 @@
+
+
+PokerStars Hand #189829163019: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:40:45 MSK [2018/08/12 22:40:45 ET]
+Table '2381053914 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (500 in chips)
+Seat 2: son_bat_cheo (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: bowmanvillan (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: oposs153 (500 in chips)
+chorls464: posts the ante 2
+son_bat_cheo: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts the ante 2
+Mishator: posts the ante 2
+oposs153: posts the ante 2
+son_bat_cheo: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 3s]
+bowmanvillan: folds
+Mishator: folds
+oposs153: raises 478 to 498 and is all-in
+chorls464: folds
+son_bat_cheo: calls 488 and is all-in
+DiggErr555: folds
+*** FLOP *** [7c 4d 4c]
+*** TURN *** [7c 4d 4c] [3d]
+*** RIVER *** [7c 4d 4c 3d] [3c]
+*** SHOW DOWN ***
+son_bat_cheo: shows [Kd Qd] (two pair, Fours and Threes)
+oposs153: shows [Js Jd] (two pair, Jacks and Fours)
+oposs153 collected 1028 from pot
+oposs153 wins the $4.79 bounty for eliminating son_bat_cheo
+son_bat_cheo finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1028 | Rake 0
+Board [7c 4d 4c 3d 3c]
+Seat 1: chorls464 (button) folded before Flop (didn't bet)
+Seat 2: son_bat_cheo (small blind) showed [Kd Qd] and lost with two pair, Fours and Threes
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: oposs153 showed [Js Jd] and won (1028) with two pair, Jacks and Fours
+
+PokerStars Hand #189829171487: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:41:15 MSK [2018/08/12 22:41:15 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 1: chorls464 (498 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: bowmanvillan (498 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: oposs153 (1028 in chips)
+chorls464: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts the ante 2
+Mishator: posts the ante 2
+oposs153: posts the ante 2
+bowmanvillan: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Js]
+oposs153: folds
+chorls464: folds
+DiggErr555: folds
+bowmanvillan: raises 40 to 60
+Mishator: folds
+Uncalled bet (40) returned to bowmanvillan
+bowmanvillan collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) collected (50)
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 folded before Flop (didn't bet)
+
+PokerStars Hand #189829179953: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:41:45 MSK [2018/08/12 22:41:45 ET]
+Table '2381053914 1' 6-max Seat #4 is the button
+Seat 1: chorls464 (496 in chips)
+Seat 3: DiggErr555 (476 in chips)
+Seat 4: bowmanvillan (526 in chips)
+Seat 5: Mishator (476 in chips)
+Seat 6: oposs153 (1026 in chips)
+chorls464: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts the ante 2
+Mishator: posts the ante 2
+oposs153: posts the ante 2
+Mishator: posts small blind 10
+oposs153: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 4s]
+chorls464: folds
+DiggErr555: folds
+bowmanvillan: raises 40 to 60
+Mishator: folds
+oposs153: folds
+Uncalled bet (40) returned to bowmanvillan
+bowmanvillan collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) collected (60)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829186623: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:42:10 MSK [2018/08/12 22:42:10 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 1: chorls464 (494 in chips)
+Seat 3: DiggErr555 (474 in chips)
+Seat 4: bowmanvillan (564 in chips)
+Seat 5: Mishator (464 in chips)
+Seat 6: oposs153 (1004 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+Mishator: posts the ante 3
+oposs153: posts the ante 3
+oposs153: posts small blind 15
+chorls464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Kc]
+DiggErr555: folds
+bowmanvillan: raises 60 to 90
+Mishator: folds
+oposs153: folds
+chorls464: calls 60
+*** FLOP *** [4c Kh 7d]
+chorls464: checks
+bowmanvillan: bets 90
+chorls464: folds
+Uncalled bet (90) returned to bowmanvillan
+bowmanvillan collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0
+Board [4c Kh 7d]
+Seat 1: chorls464 (big blind) folded on the Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan collected (210)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829194710: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:42:39 MSK [2018/08/12 22:42:39 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 1: chorls464 (401 in chips)
+Seat 3: DiggErr555 (471 in chips)
+Seat 4: bowmanvillan (681 in chips)
+Seat 5: Mishator (461 in chips)
+Seat 6: oposs153 (986 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+Mishator: posts the ante 3
+oposs153: posts the ante 3
+chorls464: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 6s]
+bowmanvillan: folds
+Mishator: raises 30 to 60
+oposs153: folds
+chorls464: folds
+DiggErr555: raises 408 to 468 and is all-in
+Mishator: folds
+Uncalled bet (408) returned to DiggErr555
+DiggErr555 collected 150 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Seat 1: chorls464 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (150)
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop
+Seat 6: oposs153 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829206744: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:43:22 MSK [2018/08/12 22:43:22 ET]
+Table '2381053914 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (383 in chips)
+Seat 3: DiggErr555 (558 in chips)
+Seat 4: bowmanvillan (678 in chips)
+Seat 5: Mishator (398 in chips)
+Seat 6: oposs153 (983 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+Mishator: posts the ante 3
+oposs153: posts the ante 3
+DiggErr555: posts small blind 15
+bowmanvillan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Qc]
+Mishator: raises 365 to 395 and is all-in
+oposs153: folds
+chorls464: folds
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (365) returned to Mishator
+Mishator collected 90 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: chorls464 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: Mishator collected (90)
+Seat 6: oposs153 folded before Flop (didn't bet)
+
+PokerStars Hand #189829211581: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:43:39 MSK [2018/08/12 22:43:39 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 1: chorls464 (380 in chips)
+Seat 3: DiggErr555 (540 in chips)
+Seat 4: bowmanvillan (645 in chips)
+Seat 5: Mishator (455 in chips)
+Seat 6: oposs153 (980 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+Mishator: posts the ante 3
+oposs153: posts the ante 3
+bowmanvillan: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Jd]
+oposs153: folds
+chorls464: raises 347 to 377 and is all-in
+DiggErr555: folds
+bowmanvillan: folds
+Mishator: folds
+Uncalled bet (347) returned to chorls464
+chorls464 collected 90 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: chorls464 collected (90)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 folded before Flop (didn't bet)
+
+PokerStars Hand #189829218533: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:44:04 MSK [2018/08/12 22:44:04 ET]
+Table '2381053914 1' 6-max Seat #4 is the button
+Seat 1: chorls464 (437 in chips)
+Seat 3: DiggErr555 (537 in chips)
+Seat 4: bowmanvillan (627 in chips)
+Seat 5: Mishator (422 in chips)
+Seat 6: oposs153 (977 in chips)
+chorls464: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+Mishator: posts the ante 4
+oposs153: posts the ante 4
+Mishator: posts small blind 20
+oposs153: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Js]
+chorls464: raises 393 to 433 and is all-in
+DiggErr555: folds
+bowmanvillan: folds
+Mishator: folds
+oposs153: calls 393
+*** FLOP *** [5d 3s 6s]
+*** TURN *** [5d 3s 6s] [7h]
+*** RIVER *** [5d 3s 6s 7h] [Kh]
+*** SHOW DOWN ***
+oposs153: shows [Ac Ks] (a pair of Kings)
+chorls464: shows [Tc Ah] (high card Ace)
+oposs153 collected 906 from pot
+oposs153 wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 906 | Rake 0
+Board [5d 3s 6s 7h Kh]
+Seat 1: chorls464 showed [Tc Ah] and lost with high card Ace
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: oposs153 (big blind) showed [Ac Ks] and won (906) with a pair of Kings
+
+PokerStars Hand #189829224868: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:44:27 MSK [2018/08/12 22:44:27 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (533 in chips)
+Seat 4: bowmanvillan (623 in chips)
+Seat 5: Mishator (398 in chips)
+Seat 6: oposs153 (1446 in chips)
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+Mishator: posts the ante 4
+oposs153: posts the ante 4
+oposs153: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 7c]
+bowmanvillan: raises 80 to 120
+Mishator: raises 274 to 394 and is all-in
+oposs153: folds
+DiggErr555: folds
+bowmanvillan: calls 274
+*** FLOP *** [Js 5c Ah]
+*** TURN *** [Js 5c Ah] [5h]
+*** RIVER *** [Js 5c Ah 5h] [4s]
+*** SHOW DOWN ***
+bowmanvillan: shows [Qc Td] (a pair of Fives)
+Mishator: shows [Ad Qd] (two pair, Aces and Fives)
+Mishator collected 864 from pot
+*** SUMMARY ***
+Total pot 864 | Rake 0
+Board [Js 5c Ah 5h 4s]
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bowmanvillan showed [Qc Td] and lost with a pair of Fives
+Seat 5: Mishator (button) showed [Ad Qd] and won (864) with two pair, Aces and Fives
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829234828: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:45:03 MSK [2018/08/12 22:45:03 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (489 in chips)
+Seat 4: bowmanvillan (225 in chips)
+Seat 5: Mishator (864 in chips)
+Seat 6: oposs153 (1422 in chips)
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+Mishator: posts the ante 4
+oposs153: posts the ante 4
+DiggErr555: posts small blind 20
+bowmanvillan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 4h]
+Mishator: folds
+oposs153: folds
+DiggErr555: raises 445 to 485 and is all-in
+bowmanvillan: folds
+Uncalled bet (445) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 3: DiggErr555 (small blind) collected (96)
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: oposs153 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829239757: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:45:20 MSK [2018/08/12 22:45:20 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (541 in chips)
+Seat 4: bowmanvillan (181 in chips)
+Seat 5: Mishator (860 in chips)
+Seat 6: oposs153 (1418 in chips)
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+Mishator: posts the ante 4
+oposs153: posts the ante 4
+bowmanvillan: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 5c]
+oposs153: folds
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (20) returned to Mishator
+Mishator collected 56 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 56 | Rake 0
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: Mishator (big blind) collected (56)
+Seat 6: oposs153 folded before Flop (didn't bet)
+
+PokerStars Hand #189829245477: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:45:41 MSK [2018/08/12 22:45:41 ET]
+Table '2381053914 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (537 in chips)
+Seat 4: bowmanvillan (157 in chips)
+Seat 5: Mishator (892 in chips)
+Seat 6: oposs153 (1414 in chips)
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+Mishator: posts the ante 6
+oposs153: posts the ante 6
+Mishator: posts small blind 30
+oposs153: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 6c]
+DiggErr555: folds
+bowmanvillan: raises 91 to 151 and is all-in
+Mishator: raises 735 to 886 and is all-in
+oposs153: folds
+Uncalled bet (735) returned to Mishator
+*** FLOP *** [4h 6h 2d]
+*** TURN *** [4h 6h 2d] [3h]
+*** RIVER *** [4h 6h 2d 3h] [2s]
+*** SHOW DOWN ***
+Mishator: shows [9d 9c] (two pair, Nines and Deuces)
+bowmanvillan: shows [Ah 7h] (a flush, Ace high)
+bowmanvillan collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | Rake 0
+Board [4h 6h 2d 3h 2s]
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) showed [Ah 7h] and won (386) with a flush, Ace high
+Seat 5: Mishator (small blind) showed [9d 9c] and lost with two pair, Nines and Deuces
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829252688: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:46:07 MSK [2018/08/12 22:46:07 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (531 in chips)
+Seat 4: bowmanvillan (386 in chips)
+Seat 5: Mishator (735 in chips)
+Seat 6: oposs153 (1348 in chips)
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+Mishator: posts the ante 6
+oposs153: posts the ante 6
+oposs153: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 6s]
+bowmanvillan: folds
+Mishator: folds
+oposs153: raises 1282 to 1342 and is all-in
+DiggErr555: folds
+Uncalled bet (1282) returned to oposs153
+oposs153 collected 144 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: oposs153 (small blind) collected (144)
+
+PokerStars Hand #189829257722: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:46:25 MSK [2018/08/12 22:46:25 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (465 in chips)
+Seat 4: bowmanvillan (380 in chips)
+Seat 5: Mishator (729 in chips)
+Seat 6: oposs153 (1426 in chips)
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+Mishator: posts the ante 6
+oposs153: posts the ante 6
+DiggErr555: posts small blind 30
+bowmanvillan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Kh]
+Mishator: folds
+oposs153: raises 1360 to 1420 and is all-in
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (1360) returned to oposs153
+oposs153 collected 174 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: oposs153 (button) collected (174)
+
+PokerStars Hand #189829261941: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:46:40 MSK [2018/08/12 22:46:40 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (429 in chips)
+Seat 4: bowmanvillan (314 in chips)
+Seat 5: Mishator (723 in chips)
+Seat 6: oposs153 (1534 in chips)
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+Mishator: posts the ante 6
+oposs153: posts the ante 6
+bowmanvillan: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 4c]
+oposs153: raises 1468 to 1528 and is all-in
+DiggErr555: folds
+bowmanvillan: folds
+Mishator: folds
+Uncalled bet (1468) returned to oposs153
+oposs153 collected 174 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 collected (174)
+
+PokerStars Hand #189829265783: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:46:54 MSK [2018/08/12 22:46:54 ET]
+Table '2381053914 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (423 in chips)
+Seat 4: bowmanvillan (278 in chips)
+Seat 5: Mishator (657 in chips)
+Seat 6: oposs153 (1642 in chips)
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+Mishator: posts the ante 6
+oposs153: posts the ante 6
+Mishator: posts small blind 30
+oposs153: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 7h]
+DiggErr555: folds
+bowmanvillan: raises 120 to 180
+Mishator: folds
+oposs153: folds
+Uncalled bet (120) returned to bowmanvillan
+bowmanvillan collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) collected (174)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829270622: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:47:12 MSK [2018/08/12 22:47:12 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (417 in chips)
+Seat 4: bowmanvillan (386 in chips)
+Seat 5: Mishator (621 in chips)
+Seat 6: oposs153 (1576 in chips)
+DiggErr555: posts the ante 8
+bowmanvillan: posts the ante 8
+Mishator: posts the ante 8
+oposs153: posts the ante 8
+oposs153: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 5s]
+bowmanvillan: folds
+Mishator: raises 533 to 613 and is all-in
+oposs153: folds
+DiggErr555: folds
+Uncalled bet (533) returned to Mishator
+Mishator collected 232 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: Mishator (button) collected (232)
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829275912: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:47:31 MSK [2018/08/12 22:47:31 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (329 in chips)
+Seat 4: bowmanvillan (378 in chips)
+Seat 5: Mishator (765 in chips)
+Seat 6: oposs153 (1528 in chips)
+DiggErr555: posts the ante 8
+bowmanvillan: posts the ante 8
+Mishator: posts the ante 8
+oposs153: posts the ante 8
+DiggErr555: posts small blind 40
+bowmanvillan: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6s]
+Mishator: folds
+oposs153: folds
+DiggErr555: raises 241 to 321 and is all-in
+bowmanvillan has timed out
+bowmanvillan: folds
+bowmanvillan is sitting out
+Uncalled bet (241) returned to DiggErr555
+DiggErr555 collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Seat 3: DiggErr555 (small blind) collected (192)
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: oposs153 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829288115: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:48:15 MSK [2018/08/12 22:48:15 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (433 in chips)
+Seat 4: bowmanvillan (290 in chips) is sitting out
+Seat 5: Mishator (757 in chips)
+Seat 6: oposs153 (1520 in chips)
+DiggErr555: posts the ante 8
+bowmanvillan: posts the ante 8
+Mishator: posts the ante 8
+oposs153: posts the ante 8
+bowmanvillan: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 8h]
+oposs153: folds
+bowmanvillan has returned
+DiggErr555: folds
+bowmanvillan: calls 40
+Mishator: raises 669 to 749 and is all-in
+bowmanvillan: calls 202 and is all-in
+Uncalled bet (467) returned to Mishator
+*** FLOP *** [Ks 5c Ac]
+*** TURN *** [Ks 5c Ac] [7h]
+*** RIVER *** [Ks 5c Ac 7h] [Kh]
+*** SHOW DOWN ***
+bowmanvillan: shows [2c 3c] (a pair of Kings)
+Mishator: shows [As 5s] (two pair, Aces and Kings)
+Mishator collected 596 from pot
+Mishator wins the $4.79 bounty for eliminating bowmanvillan
+bowmanvillan finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 596 | Rake 0
+Board [Ks 5c Ac 7h Kh]
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) showed [2c 3c] and lost with a pair of Kings
+Seat 5: Mishator (big blind) showed [As 5s] and won (596) with two pair, Aces and Kings
+Seat 6: oposs153 folded before Flop (didn't bet)
+
+PokerStars Hand #189829299877: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:48:58 MSK [2018/08/12 22:48:58 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (425 in chips)
+Seat 5: Mishator (1063 in chips)
+Seat 6: oposs153 (1512 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+oposs153: posts the ante 8
+oposs153: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 3c]
+Mishator: raises 975 to 1055 and is all-in
+oposs153: folds
+DiggErr555: folds
+Uncalled bet (975) returned to Mishator
+Mishator collected 224 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator (button) collected (224)
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829303196: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:49:10 MSK [2018/08/12 22:49:10 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (337 in chips)
+Seat 5: Mishator (1199 in chips)
+Seat 6: oposs153 (1464 in chips)
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+oposs153: posts the ante 8
+DiggErr555: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 5s]
+oposs153: raises 1376 to 1456 and is all-in
+DiggErr555: calls 289 and is all-in
+Mishator: folds
+Uncalled bet (1127) returned to oposs153
+*** FLOP *** [Ac Kh 7s]
+*** TURN *** [Ac Kh 7s] [Tc]
+*** RIVER *** [Ac Kh 7s Tc] [8c]
+*** SHOW DOWN ***
+DiggErr555: shows [Ah 5s] (a pair of Aces)
+oposs153: shows [3c 3d] (a pair of Threes)
+DiggErr555 collected 762 from pot
+*** SUMMARY ***
+Total pot 762 | Rake 0
+Board [Ac Kh 7s Tc 8c]
+Seat 3: DiggErr555 (small blind) showed [Ah 5s] and won (762) with a pair of Aces
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 (button) showed [3c 3d] and lost with a pair of Threes
+
+PokerStars Hand #189829309795: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:49:35 MSK [2018/08/12 22:49:35 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (762 in chips)
+Seat 5: Mishator (1111 in chips)
+Seat 6: oposs153 (1127 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+oposs153: posts the ante 10
+Mishator: posts small blind 50
+oposs153: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 4s]
+DiggErr555: folds
+Mishator: raises 1001 to 1101 and is all-in
+oposs153: folds
+Uncalled bet (1001) returned to Mishator
+Mishator collected 230 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (230)
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829312836: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:49:46 MSK [2018/08/12 22:49:46 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (752 in chips)
+Seat 5: Mishator (1231 in chips)
+Seat 6: oposs153 (1017 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+oposs153: posts the ante 10
+oposs153: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 2d]
+Mishator: raises 1121 to 1221 and is all-in
+oposs153: folds
+DiggErr555: folds
+Uncalled bet (1121) returned to Mishator
+Mishator collected 280 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator (button) collected (280)
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829316515: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:49:59 MSK [2018/08/12 22:49:59 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (642 in chips)
+Seat 5: Mishator (1401 in chips)
+Seat 6: oposs153 (957 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+oposs153: posts the ante 10
+DiggErr555: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 4h]
+oposs153: raises 847 to 947 and is all-in
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (847) returned to oposs153
+oposs153 collected 280 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 (button) collected (280)
+
+PokerStars Hand #189829319316: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:50:09 MSK [2018/08/12 22:50:09 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (582 in chips)
+Seat 5: Mishator (1291 in chips)
+Seat 6: oposs153 (1127 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+oposs153: posts the ante 10
+Mishator: posts small blind 50
+oposs153: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 5h]
+DiggErr555: folds
+Mishator: raises 1181 to 1281 and is all-in
+oposs153: folds
+Uncalled bet (1181) returned to Mishator
+Mishator collected 230 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (230)
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829321970: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:50:19 MSK [2018/08/12 22:50:19 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (572 in chips)
+Seat 5: Mishator (1411 in chips)
+Seat 6: oposs153 (1017 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+oposs153: posts the ante 10
+oposs153: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 9c]
+Mishator: raises 1301 to 1401 and is all-in
+oposs153: folds
+DiggErr555: folds
+Uncalled bet (1301) returned to Mishator
+Mishator collected 280 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator (button) collected (280)
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829324428: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:50:28 MSK [2018/08/12 22:50:28 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (462 in chips)
+Seat 5: Mishator (1581 in chips)
+Seat 6: oposs153 (957 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+oposs153: posts the ante 10
+DiggErr555: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Jd]
+oposs153: raises 847 to 947 and is all-in
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (847) returned to oposs153
+oposs153 collected 280 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 (button) collected (280)
+
+PokerStars Hand #189829327911: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:50:41 MSK [2018/08/12 22:50:41 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (402 in chips)
+Seat 5: Mishator (1471 in chips)
+Seat 6: oposs153 (1127 in chips)
+DiggErr555: posts the ante 12
+Mishator: posts the ante 12
+oposs153: posts the ante 12
+Mishator: posts small blind 60
+oposs153: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h Jc]
+DiggErr555: folds
+Mishator: raises 1339 to 1459 and is all-in
+oposs153: folds
+Uncalled bet (1339) returned to Mishator
+Mishator collected 276 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 276 | Rake 0
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (276)
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829331051: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:50:52 MSK [2018/08/12 22:50:52 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (390 in chips)
+Seat 5: Mishator (1615 in chips)
+Seat 6: oposs153 (995 in chips)
+DiggErr555: posts the ante 12
+Mishator: posts the ante 12
+oposs153: posts the ante 12
+oposs153: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 8d]
+Mishator: raises 1483 to 1603 and is all-in
+oposs153: folds
+DiggErr555: calls 258 and is all-in
+Uncalled bet (1225) returned to Mishator
+*** FLOP *** [Qh 8h 6d]
+*** TURN *** [Qh 8h 6d] [3d]
+*** RIVER *** [Qh 8h 6d 3d] [2h]
+*** SHOW DOWN ***
+DiggErr555: shows [Ts 8d] (a pair of Eights)
+Mishator: shows [Ad 3s] (a pair of Threes)
+DiggErr555 collected 852 from pot
+*** SUMMARY ***
+Total pot 852 | Rake 0
+Board [Qh 8h 6d 3d 2h]
+Seat 3: DiggErr555 (big blind) showed [Ts 8d] and won (852) with a pair of Eights
+Seat 5: Mishator (button) showed [Ad 3s] and lost with a pair of Threes
+Seat 6: oposs153 (small blind) folded before Flop
+
+PokerStars Hand #189829336475: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:51:12 MSK [2018/08/12 22:51:12 ET]
+Table '2381053914 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (852 in chips)
+Seat 5: Mishator (1225 in chips)
+Seat 6: oposs153 (923 in chips)
+DiggErr555: posts the ante 12
+Mishator: posts the ante 12
+oposs153: posts the ante 12
+DiggErr555: posts small blind 60
+Mishator: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 8d]
+oposs153: folds
+DiggErr555: raises 720 to 840 and is all-in
+Mishator: folds
+Uncalled bet (720) returned to DiggErr555
+DiggErr555 collected 276 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 276 | Rake 0
+Seat 3: DiggErr555 (small blind) collected (276)
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: oposs153 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829340667: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:51:27 MSK [2018/08/12 22:51:27 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (996 in chips)
+Seat 5: Mishator (1093 in chips)
+Seat 6: oposs153 (911 in chips)
+DiggErr555: posts the ante 12
+Mishator: posts the ante 12
+oposs153: posts the ante 12
+Mishator: posts small blind 60
+oposs153: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 6s]
+DiggErr555: raises 864 to 984 and is all-in
+Mishator: folds
+oposs153: folds
+Uncalled bet (864) returned to DiggErr555
+DiggErr555 collected 336 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 336 | Rake 0
+Seat 3: DiggErr555 (button) collected (336)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: oposs153 (big blind) folded before Flop
+
+PokerStars Hand #189829344406: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:51:41 MSK [2018/08/12 22:51:41 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (1200 in chips)
+Seat 5: Mishator (1021 in chips)
+Seat 6: oposs153 (779 in chips)
+DiggErr555: posts the ante 12
+Mishator: posts the ante 12
+oposs153: posts the ante 12
+oposs153: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Kh]
+Mishator: raises 889 to 1009 and is all-in
+oposs153: calls 707 and is all-in
+DiggErr555: folds
+Uncalled bet (242) returned to Mishator
+*** FLOP *** [9h Ks Ah]
+*** TURN *** [9h Ks Ah] [Jh]
+*** RIVER *** [9h Ks Ah Jh] [7s]
+*** SHOW DOWN ***
+oposs153: shows [5d 5h] (a pair of Fives)
+Mishator: shows [Td Ac] (a pair of Aces)
+Mishator collected 1690 from pot
+Mishator wins the $4.79 bounty for eliminating oposs153
+oposs153 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1690 | Rake 0
+Board [9h Ks Ah Jh 7s]
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator (button) showed [Td Ac] and won (1690) with a pair of Aces
+Seat 6: oposs153 (small blind) showed [5d 5h] and lost with a pair of Fives
+
+PokerStars Hand #189829350330: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:52:03 MSK [2018/08/12 22:52:03 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (1068 in chips)
+Seat 5: Mishator (1932 in chips)
+DiggErr555: posts the ante 12
+Mishator: posts the ante 12
+DiggErr555: posts small blind 60
+Mishator: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 4c]
+DiggErr555: calls 60
+Mishator: raises 180 to 300
+DiggErr555: folds
+Uncalled bet (180) returned to Mishator
+Mishator collected 264 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+Seat 5: Mishator (big blind) collected (264)
+
+PokerStars Hand #189829355113: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 5:52:20 MSK [2018/08/12 22:52:20 ET]
+Table '2381053914 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (936 in chips)
+Seat 5: Mishator (2064 in chips)
+DiggErr555: posts the ante 15
+Mishator: posts the ante 15
+Mishator: posts small blind 75
+DiggErr555: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Tc]
+Mishator: raises 1899 to 2049 and is all-in
+DiggErr555: folds
+Uncalled bet (1899) returned to Mishator
+Mishator collected 330 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator (button) (small blind) collected (330)
+
+PokerStars Hand #189829358126: Tournament #2381053914, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VIII (75/150) - 2018/08/13 5:52:31 MSK [2018/08/12 22:52:31 ET]
+Table '2381053914 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (771 in chips)
+Seat 5: Mishator (2229 in chips)
+DiggErr555: posts the ante 15
+Mishator: posts the ante 15
+DiggErr555: posts small blind 75
+Mishator: posts big blind 150
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 9d]
+DiggErr555: raises 606 to 756 and is all-in
+Mishator: calls 606
+*** FLOP *** [5c Tc Kc]
+*** TURN *** [5c Tc Kc] [3c]
+*** RIVER *** [5c Tc Kc 3c] [3s]
+*** SHOW DOWN ***
+Mishator: shows [Ad Th] (two pair, Tens and Threes)
+DiggErr555: shows [Qh 9d] (a pair of Threes)
+Mishator collected 1542 from pot
+Mishator wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+Mishator wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1542 | Rake 0
+Board [5c Tc Kc 3c 3s]
+Seat 3: DiggErr555 (button) (small blind) showed [Qh 9d] and lost with a pair of Threes
+Seat 5: Mishator (big blind) showed [Ad Th] and won (1542) with two pair, Tens and Threes

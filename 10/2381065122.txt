@@ -1,0 +1,449 @@
+
+
+PokerStars Hand #189829626741: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:09:34 MSK [2018/08/12 23:09:34 ET]
+Table '2381065122 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (500 in chips)
+Seat 2: mrzm0118 (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: 2Ran128 (500 in chips)
+Seat 5: hustlerama (500 in chips)
+Seat 6: nevets177 (500 in chips)
+oposs153: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+hustlerama: posts the ante 2
+nevets177: posts the ante 2
+mrzm0118: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Qh]
+2Ran128: folds
+hustlerama: folds
+nevets177: raises 62 to 82
+oposs153: folds
+mrzm0118: folds
+DiggErr555: folds
+Uncalled bet (62) returned to nevets177
+nevets177 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 2: mrzm0118 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 folded before Flop (didn't bet)
+Seat 5: hustlerama folded before Flop (didn't bet)
+Seat 6: nevets177 collected (62)
+
+PokerStars Hand #189829631594: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:09:53 MSK [2018/08/12 23:09:53 ET]
+Table '2381065122 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (498 in chips)
+Seat 2: mrzm0118 (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: 2Ran128 (498 in chips)
+Seat 5: hustlerama (498 in chips)
+Seat 6: nevets177 (540 in chips)
+oposs153: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+hustlerama: posts the ante 2
+nevets177: posts the ante 2
+DiggErr555: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 3c]
+hustlerama: folds
+nevets177: calls 20
+oposs153: folds
+mrzm0118: raises 40 to 60
+DiggErr555: folds
+2Ran128: calls 40
+nevets177: calls 40
+*** FLOP *** [2c 5d 6d]
+2Ran128: checks
+nevets177: bets 20
+mrzm0118: raises 60 to 80
+2Ran128: folds
+nevets177: calls 60
+*** TURN *** [2c 5d 6d] [Jc]
+nevets177: checks
+mrzm0118: bets 100
+nevets177: calls 100
+*** RIVER *** [2c 5d 6d Jc] [4h]
+nevets177: checks
+mrzm0118: checks
+*** SHOW DOWN ***
+nevets177: shows [9h Qs] (high card Queen)
+mrzm0118: shows [As 4c] (a pair of Fours)
+mrzm0118 collected 562 from pot
+*** SUMMARY ***
+Total pot 562 | Rake 0
+Board [2c 5d 6d Jc 4h]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: mrzm0118 (button) showed [As 4c] and won (562) with a pair of Fours
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 2Ran128 (big blind) folded on the Flop
+Seat 5: hustlerama folded before Flop (didn't bet)
+Seat 6: nevets177 showed [9h Qs] and lost with high card Queen
+
+PokerStars Hand #189829652113: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:11:13 MSK [2018/08/12 23:11:13 ET]
+Table '2381065122 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (496 in chips)
+Seat 2: mrzm0118 (808 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: 2Ran128 (436 in chips)
+Seat 5: hustlerama (496 in chips)
+Seat 6: nevets177 (298 in chips)
+oposs153: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+hustlerama: posts the ante 2
+nevets177: posts the ante 2
+2Ran128: posts small blind 10
+hustlerama: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d Ad]
+nevets177: raises 62 to 82
+oposs153: folds
+mrzm0118: folds
+DiggErr555: folds
+2Ran128: folds
+hustlerama: raises 412 to 494 and is all-in
+nevets177: calls 214 and is all-in
+Uncalled bet (198) returned to hustlerama
+*** FLOP *** [Jh Qs Ks]
+*** TURN *** [Jh Qs Ks] [8c]
+*** RIVER *** [Jh Qs Ks 8c] [Jd]
+*** SHOW DOWN ***
+hustlerama: shows [9c 9s] (two pair, Jacks and Nines)
+nevets177: shows [6h 4h] (a pair of Jacks)
+hustlerama collected 614 from pot
+hustlerama wins the $4.79 bounty for eliminating nevets177
+nevets177 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 614 | Rake 0
+Board [Jh Qs Ks 8c Jd]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: mrzm0118 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: 2Ran128 (small blind) folded before Flop
+Seat 5: hustlerama (big blind) showed [9c 9s] and won (614) with two pair, Jacks and Nines
+Seat 6: nevets177 showed [6h 4h] and lost with a pair of Jacks
+
+PokerStars Hand #189829660600: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:11:46 MSK [2018/08/12 23:11:46 ET]
+Table '2381065122 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (494 in chips)
+Seat 2: mrzm0118 (806 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: 2Ran128 (424 in chips)
+Seat 5: hustlerama (812 in chips)
+oposs153: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+hustlerama: posts the ante 3
+hustlerama: posts small blind 15
+oposs153: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Jd]
+mrzm0118: folds
+DiggErr555: folds
+2Ran128: folds
+hustlerama: raises 779 to 809 and is all-in
+oposs153: calls 461 and is all-in
+Uncalled bet (318) returned to hustlerama
+*** FLOP *** [5h 9d 6h]
+*** TURN *** [5h 9d 6h] [Kh]
+*** RIVER *** [5h 9d 6h Kh] [6s]
+*** SHOW DOWN ***
+hustlerama: shows [Qh Ac] (a pair of Sixes)
+oposs153: shows [5d Js] (two pair, Sixes and Fives)
+oposs153 collected 997 from pot
+*** SUMMARY ***
+Total pot 997 | Rake 0
+Board [5h 9d 6h Kh 6s]
+Seat 1: oposs153 (big blind) showed [5d Js] and won (997) with two pair, Sixes and Fives
+Seat 2: mrzm0118 folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 5: hustlerama (small blind) showed [Qh Ac] and lost with a pair of Sixes
+
+PokerStars Hand #189829670166: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:23 MSK [2018/08/12 23:12:23 ET]
+Table '2381065122 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (997 in chips)
+Seat 2: mrzm0118 (803 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: 2Ran128 (421 in chips)
+Seat 5: hustlerama (318 in chips)
+oposs153: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+hustlerama: posts the ante 3
+oposs153: posts small blind 15
+mrzm0118: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 5c]
+DiggErr555: folds
+2Ran128: folds
+hustlerama: raises 285 to 315 and is all-in
+oposs153: raises 679 to 994 and is all-in
+mrzm0118: folds
+Uncalled bet (679) returned to oposs153
+*** FLOP *** [Qs 8h Js]
+*** TURN *** [Qs 8h Js] [Kd]
+*** RIVER *** [Qs 8h Js Kd] [5h]
+*** SHOW DOWN ***
+oposs153: shows [4c Ah] (high card Ace)
+hustlerama: shows [3s Ac] (high card Ace)
+oposs153 collected 338 from pot
+hustlerama collected 337 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0
+Board [Qs 8h Js Kd 5h]
+Seat 1: oposs153 (small blind) showed [4c Ah] and won (338) with high card Ace
+Seat 2: mrzm0118 (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: 2Ran128 folded before Flop (didn't bet)
+Seat 5: hustlerama (button) showed [3s Ac] and won (337) with high card Ace
+
+PokerStars Hand #189829676591: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:48 MSK [2018/08/12 23:12:48 ET]
+Table '2381065122 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (1017 in chips)
+Seat 2: mrzm0118 (770 in chips)
+Seat 3: DiggErr555 (458 in chips)
+Seat 4: 2Ran128 (418 in chips)
+Seat 5: hustlerama (337 in chips)
+oposs153: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+hustlerama: posts the ante 3
+mrzm0118: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 9d]
+2Ran128: folds
+hustlerama: raises 304 to 334 and is all-in
+oposs153: raises 680 to 1014 and is all-in
+mrzm0118: calls 752 and is all-in
+DiggErr555: folds
+Uncalled bet (247) returned to oposs153
+*** FLOP *** [8d 4h 3c]
+*** TURN *** [8d 4h 3c] [Js]
+*** RIVER *** [8d 4h 3c Js] [9c]
+*** SHOW DOWN ***
+mrzm0118: shows [Qd Qc] (a pair of Queens)
+oposs153: shows [7d Ks] (high card King)
+mrzm0118 collected 866 from side pot
+hustlerama: shows [Jh Qs] (a pair of Jacks)
+mrzm0118 collected 1047 from main pot
+mrzm0118 wins the $4.79 bounty for eliminating hustlerama
+hustlerama finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1913 Main pot 1047. Side pot 866. | Rake 0
+Board [8d 4h 3c Js 9c]
+Seat 1: oposs153 (button) showed [7d Ks] and lost with high card King
+Seat 2: mrzm0118 (small blind) showed [Qd Qc] and won (1913) with a pair of Queens
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 folded before Flop (didn't bet)
+Seat 5: hustlerama showed [Jh Qs] and lost with a pair of Jacks
+
+PokerStars Hand #189829683380: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:15 MSK [2018/08/12 23:13:15 ET]
+Table '2381065122 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (247 in chips)
+Seat 2: mrzm0118 (1913 in chips)
+Seat 3: DiggErr555 (425 in chips)
+Seat 4: 2Ran128 (415 in chips)
+oposs153: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 9s]
+oposs153: raises 214 to 244 and is all-in
+mrzm0118: calls 244
+DiggErr555: folds
+2Ran128: folds
+*** FLOP *** [Jc Jh 8s]
+*** TURN *** [Jc Jh 8s] [Js]
+*** RIVER *** [Jc Jh 8s Js] [3h]
+*** SHOW DOWN ***
+oposs153: shows [6h 7h] (three of a kind, Jacks)
+mrzm0118: shows [Ks 9c] (three of a kind, Jacks - King kicker)
+mrzm0118 collected 545 from pot
+mrzm0118 wins the $4.79 bounty for eliminating oposs153
+oposs153 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 545 | Rake 0
+Board [Jc Jh 8s Js 3h]
+Seat 1: oposs153 showed [6h 7h] and lost with three of a kind, Jacks
+Seat 2: mrzm0118 (button) showed [Ks 9c] and won (545) with three of a kind, Jacks
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 2Ran128 (big blind) folded before Flop
+
+PokerStars Hand #189829691515: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:13:46 MSK [2018/08/12 23:13:46 ET]
+Table '2381065122 1' 6-max Seat #3 is the button
+Seat 2: mrzm0118 (2211 in chips)
+Seat 3: DiggErr555 (407 in chips)
+Seat 4: 2Ran128 (382 in chips)
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+2Ran128: posts small blind 20
+mrzm0118: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 3c]
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (20) returned to mrzm0118
+mrzm0118 collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 2: mrzm0118 (big blind) collected (52)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: 2Ran128 (small blind) folded before Flop
+
+PokerStars Hand #189829696341: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:05 MSK [2018/08/12 23:14:05 ET]
+Table '2381065122 1' 6-max Seat #4 is the button
+Seat 2: mrzm0118 (2239 in chips)
+Seat 3: DiggErr555 (403 in chips)
+Seat 4: 2Ran128 (358 in chips)
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+mrzm0118: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 4h]
+2Ran128: raises 200 to 240
+mrzm0118: calls 220
+DiggErr555: folds
+*** FLOP *** [3d 4c 8s]
+mrzm0118: checks
+2Ran128: bets 114 and is all-in
+mrzm0118: calls 114
+*** TURN *** [3d 4c 8s] [Qs]
+*** RIVER *** [3d 4c 8s Qs] [Kd]
+*** SHOW DOWN ***
+mrzm0118: shows [Ad Ah] (a pair of Aces)
+2Ran128: shows [Qd Jh] (a pair of Queens)
+mrzm0118 collected 760 from pot
+mrzm0118 wins the $4.79 bounty for eliminating 2Ran128
+2Ran128 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 760 | Rake 0
+Board [3d 4c 8s Qs Kd]
+Seat 2: mrzm0118 (small blind) showed [Ad Ah] and won (760) with a pair of Aces
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 (button) showed [Qd Jh] and lost with a pair of Queens
+
+PokerStars Hand #189829705568: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:42 MSK [2018/08/12 23:14:42 ET]
+Table '2381065122 1' 6-max Seat #3 is the button
+Seat 2: mrzm0118 (2641 in chips)
+Seat 3: DiggErr555 (359 in chips)
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+mrzm0118: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 6d]
+DiggErr555: calls 20
+mrzm0118: raises 80 to 120
+DiggErr555: folds
+Uncalled bet (80) returned to mrzm0118
+mrzm0118 collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0
+Seat 2: mrzm0118 (big blind) collected (88)
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829707865: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:51 MSK [2018/08/12 23:14:51 ET]
+Table '2381065122 1' 6-max Seat #2 is the button
+Seat 2: mrzm0118 (2685 in chips)
+Seat 3: DiggErr555 (315 in chips)
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Kh]
+mrzm0118: folds
+Uncalled bet (20) returned to DiggErr555
+DiggErr555 collected 48 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 2: mrzm0118 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (48)
+
+PokerStars Hand #189829709786: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:14:58 MSK [2018/08/12 23:14:58 ET]
+Table '2381065122 1' 6-max Seat #3 is the button
+Seat 2: mrzm0118 (2661 in chips)
+Seat 3: DiggErr555 (339 in chips)
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+mrzm0118: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 5d]
+DiggErr555: raises 273 to 333 and is all-in
+mrzm0118: folds
+Uncalled bet (273) returned to DiggErr555
+DiggErr555 collected 132 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 2: mrzm0118 (big blind) folded before Flop
+Seat 3: DiggErr555 (button) (small blind) collected (132)
+
+PokerStars Hand #189829711273: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:04 MSK [2018/08/12 23:15:04 ET]
+Table '2381065122 1' 6-max Seat #2 is the button
+Seat 2: mrzm0118 (2595 in chips)
+Seat 3: DiggErr555 (405 in chips)
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+mrzm0118: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 3s]
+mrzm0118: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 72 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 2: mrzm0118 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (72)
+
+PokerStars Hand #189829712394: Tournament #2381065122, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:09 MSK [2018/08/12 23:15:09 ET]
+Table '2381065122 1' 6-max Seat #3 is the button
+Seat 2: mrzm0118 (2559 in chips)
+Seat 3: DiggErr555 (441 in chips)
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+mrzm0118: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Qc]
+DiggErr555: raises 375 to 435 and is all-in
+mrzm0118: calls 375
+*** FLOP *** [9d 9c Ks]
+*** TURN *** [9d 9c Ks] [Js]
+*** RIVER *** [9d 9c Ks Js] [As]
+*** SHOW DOWN ***
+mrzm0118: shows [9h Jd] (a full house, Nines full of Jacks)
+DiggErr555: shows [Kd Qc] (two pair, Kings and Nines)
+mrzm0118 collected 882 from pot
+mrzm0118 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+mrzm0118 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 882 | Rake 0
+Board [9d 9c Ks Js As]
+Seat 2: mrzm0118 (big blind) showed [9h Jd] and won (882) with a full house, Nines full of Jacks
+Seat 3: DiggErr555 (button) (small blind) showed [Kd Qc] and lost with two pair, Kings and Nines

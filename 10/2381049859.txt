@@ -1,0 +1,901 @@
+
+
+PokerStars Hand #189828947805: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:28:34 MSK [2018/08/12 22:28:34 ET]
+Table '2381049859 1' 6-max Seat #1 is the button
+Seat 1: desert120 (500 in chips)
+Seat 2: grandma__136 (500 in chips)
+Seat 3: kabonz914 (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: Zhangilish (500 in chips)
+desert120: posts the ante 2
+grandma__136: posts the ante 2
+kabonz914: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts the ante 2
+Zhangilish: posts the ante 2
+grandma__136: posts small blind 10
+kabonz914: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 4s]
+DiggErr555: folds
+Mishator: folds
+Zhangilish: folds
+desert120: folds
+grandma__136: calls 10
+kabonz914: raises 478 to 498 and is all-in
+grandma__136: calls 478 and is all-in
+*** FLOP *** [8h Kh Tc]
+*** TURN *** [8h Kh Tc] [4c]
+*** RIVER *** [8h Kh Tc 4c] [3d]
+*** SHOW DOWN ***
+grandma__136: shows [2d 2c] (a pair of Deuces)
+kabonz914: shows [Ad 8c] (a pair of Eights)
+kabonz914 collected 1008 from pot
+kabonz914 wins the $2.38 bounty for eliminating grandma__136
+grandma__136 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1008 | Rake 0
+Board [8h Kh Tc 4c 3d]
+Seat 1: desert120 (button) folded before Flop (didn't bet)
+Seat 2: grandma__136 (small blind) showed [2d 2c] and lost with a pair of Deuces
+Seat 3: kabonz914 (big blind) showed [Ad 8c] and won (1008) with a pair of Eights
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish folded before Flop (didn't bet)
+
+PokerStars Hand #189828957382: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:29:06 MSK [2018/08/12 22:29:06 ET]
+Table '2381049859 1' 6-max Seat #3 is the button
+Seat 1: desert120 (498 in chips)
+Seat 3: kabonz914 (1008 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: Zhangilish (498 in chips)
+desert120: posts the ante 2
+kabonz914: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts the ante 2
+Zhangilish: posts the ante 2
+DiggErr555: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8h]
+Zhangilish: raises 60 to 80
+desert120: folds
+kabonz914: folds
+DiggErr555: folds
+Mishator: folds
+Uncalled bet (60) returned to Zhangilish
+Zhangilish collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: Zhangilish collected (60)
+
+PokerStars Hand #189828962636: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:29:24 MSK [2018/08/12 22:29:24 ET]
+Table '2381049859 1' 6-max Seat #4 is the button
+Seat 1: desert120 (496 in chips)
+Seat 3: kabonz914 (1006 in chips)
+Seat 4: DiggErr555 (486 in chips)
+Seat 5: Mishator (476 in chips)
+Seat 6: Zhangilish (536 in chips)
+desert120: posts the ante 2
+kabonz914: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts the ante 2
+Zhangilish: posts the ante 2
+Mishator: posts small blind 10
+Zhangilish: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc Td]
+desert120: raises 474 to 494 and is all-in
+kabonz914: folds
+DiggErr555: folds
+Mishator: calls 464 and is all-in
+Zhangilish: folds
+Uncalled bet (20) returned to desert120
+*** FLOP *** [3s 4c 9s]
+*** TURN *** [3s 4c 9s] [9d]
+*** RIVER *** [3s 4c 9s 9d] [6h]
+*** SHOW DOWN ***
+Mishator: shows [Ah Ks] (a pair of Nines)
+desert120: shows [Jd Ad] (a pair of Nines - lower kicker)
+Mishator collected 978 from pot
+*** SUMMARY ***
+Total pot 978 | Rake 0
+Board [3s 4c 9s 9d 6h]
+Seat 1: desert120 showed [Jd Ad] and lost with a pair of Nines
+Seat 3: kabonz914 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) showed [Ah Ks] and won (978) with a pair of Nines
+Seat 6: Zhangilish (big blind) folded before Flop
+
+PokerStars Hand #189828972175: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:29:56 MSK [2018/08/12 22:29:56 ET]
+Table '2381049859 1' 6-max Seat #5 is the button
+Seat 1: desert120 (20 in chips)
+Seat 3: kabonz914 (1004 in chips)
+Seat 4: DiggErr555 (484 in chips)
+Seat 5: Mishator (978 in chips)
+Seat 6: Zhangilish (514 in chips)
+desert120: posts the ante 3
+kabonz914: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+Zhangilish: posts the ante 3
+Zhangilish: posts small blind 15
+desert120: posts big blind 17 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 4d]
+kabonz914: raises 90 to 107
+DiggErr555: folds
+Mishator: folds
+Zhangilish: calls 92
+*** FLOP *** [8s 4h 6c]
+Zhangilish: checks
+kabonz914: bets 894 and is all-in
+Zhangilish: folds
+Uncalled bet (894) returned to kabonz914
+*** TURN *** [8s 4h 6c] [2d]
+*** RIVER *** [8s 4h 6c 2d] [8h]
+*** SHOW DOWN ***
+kabonz914: shows [Th Js] (a pair of Eights)
+kabonz914 collected 180 from side pot
+desert120: shows [4c Qs] (two pair, Eights and Fours)
+desert120 collected 66 from main pot
+*** SUMMARY ***
+Total pot 246 Main pot 66. Side pot 180. | Rake 0
+Board [8s 4h 6c 2d 8h]
+Seat 1: desert120 (big blind) showed [4c Qs] and won (66) with two pair, Eights and Fours
+Seat 3: kabonz914 showed [Th Js] and won (180) with a pair of Eights
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Zhangilish (small blind) folded on the Flop
+
+PokerStars Hand #189828983559: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:30:35 MSK [2018/08/12 22:30:35 ET]
+Table '2381049859 1' 6-max Seat #6 is the button
+Seat 1: desert120 (66 in chips)
+Seat 3: kabonz914 (1074 in chips)
+Seat 4: DiggErr555 (481 in chips)
+Seat 5: Mishator (975 in chips)
+Seat 6: Zhangilish (404 in chips)
+desert120: posts the ante 3
+kabonz914: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+Zhangilish: posts the ante 3
+desert120: posts small blind 15
+kabonz914: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 8c]
+DiggErr555: folds
+Mishator: folds
+Zhangilish: folds
+desert120: raises 33 to 63 and is all-in
+kabonz914: calls 33
+*** FLOP *** [Kh Qd As]
+*** TURN *** [Kh Qd As] [9s]
+*** RIVER *** [Kh Qd As 9s] [Tc]
+*** SHOW DOWN ***
+desert120: shows [7c Ad] (a pair of Aces)
+kabonz914: shows [Ks 3c] (a pair of Kings)
+desert120 collected 141 from pot
+*** SUMMARY ***
+Total pot 141 | Rake 0
+Board [Kh Qd As 9s Tc]
+Seat 1: desert120 (small blind) showed [7c Ad] and won (141) with a pair of Aces
+Seat 3: kabonz914 (big blind) showed [Ks 3c] and lost with a pair of Kings
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828991603: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:31:03 MSK [2018/08/12 22:31:03 ET]
+Table '2381049859 1' 6-max Seat #1 is the button
+Seat 1: desert120 (141 in chips)
+Seat 3: kabonz914 (1008 in chips)
+Seat 4: DiggErr555 (478 in chips)
+Seat 5: Mishator (972 in chips)
+Seat 6: Zhangilish (401 in chips)
+desert120: posts the ante 3
+kabonz914: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+Zhangilish: posts the ante 3
+kabonz914: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts Jc]
+Mishator: folds
+Zhangilish: folds
+desert120: raises 108 to 138 and is all-in
+kabonz914: raises 867 to 1005 and is all-in
+DiggErr555: calls 445 and is all-in
+Uncalled bet (530) returned to kabonz914
+*** FLOP *** [3c Ad 2c]
+*** TURN *** [3c Ad 2c] [Qc]
+*** RIVER *** [3c Ad 2c Qc] [3h]
+*** SHOW DOWN ***
+kabonz914: shows [7s 8s] (a pair of Threes)
+DiggErr555: shows [Ts Jc] (a pair of Threes - Ace+Queen+Jack kicker)
+DiggErr555 collected 674 from side pot
+desert120: shows [5s 5h] (two pair, Fives and Threes)
+desert120 collected 429 from main pot
+*** SUMMARY ***
+Total pot 1103 Main pot 429. Side pot 674. | Rake 0
+Board [3c Ad 2c Qc 3h]
+Seat 1: desert120 (button) showed [5s 5h] and won (429) with two pair, Fives and Threes
+Seat 3: kabonz914 (small blind) showed [7s 8s] and lost with a pair of Threes
+Seat 4: DiggErr555 (big blind) showed [Ts Jc] and won (674) with a pair of Threes
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish folded before Flop (didn't bet)
+
+PokerStars Hand #189828999894: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:31:31 MSK [2018/08/12 22:31:31 ET]
+Table '2381049859 1' 6-max Seat #3 is the button
+Seat 1: desert120 (429 in chips)
+Seat 3: kabonz914 (530 in chips)
+Seat 4: DiggErr555 (674 in chips)
+Seat 5: Mishator (969 in chips)
+Seat 6: Zhangilish (398 in chips)
+desert120: posts the ante 3
+kabonz914: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts the ante 3
+Zhangilish: posts the ante 3
+DiggErr555: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 8s]
+Zhangilish: folds
+desert120: folds
+kabonz914: folds
+DiggErr555: folds
+Uncalled bet (15) returned to Mishator
+Mishator collected 45 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) collected (45)
+Seat 6: Zhangilish folded before Flop (didn't bet)
+
+PokerStars Hand #189829004460: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:31:47 MSK [2018/08/12 22:31:47 ET]
+Table '2381049859 1' 6-max Seat #4 is the button
+Seat 1: desert120 (426 in chips)
+Seat 3: kabonz914 (527 in chips)
+Seat 4: DiggErr555 (656 in chips)
+Seat 5: Mishator (996 in chips)
+Seat 6: Zhangilish (395 in chips)
+desert120: posts the ante 4
+kabonz914: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+Zhangilish: posts the ante 4
+Mishator: posts small blind 20
+Zhangilish: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 3c]
+desert120: folds
+kabonz914: folds
+DiggErr555: folds
+Mishator: raises 952 to 992 and is all-in
+Zhangilish: calls 351 and is all-in
+Uncalled bet (601) returned to Mishator
+*** FLOP *** [4d Jd 7c]
+*** TURN *** [4d Jd 7c] [Td]
+*** RIVER *** [4d Jd 7c Td] [9d]
+*** SHOW DOWN ***
+Mishator: shows [As Ks] (high card Ace)
+Zhangilish: shows [9s 6h] (a pair of Nines)
+Zhangilish collected 802 from pot
+*** SUMMARY ***
+Total pot 802 | Rake 0
+Board [4d Jd 7c Td 9d]
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) showed [As Ks] and lost with high card Ace
+Seat 6: Zhangilish (big blind) showed [9s 6h] and won (802) with a pair of Nines
+
+PokerStars Hand #189829011339: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:32:10 MSK [2018/08/12 22:32:10 ET]
+Table '2381049859 1' 6-max Seat #5 is the button
+Seat 1: desert120 (422 in chips)
+Seat 3: kabonz914 (523 in chips)
+Seat 4: DiggErr555 (652 in chips)
+Seat 5: Mishator (601 in chips)
+Seat 6: Zhangilish (802 in chips)
+desert120: posts the ante 4
+kabonz914: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+Zhangilish: posts the ante 4
+Zhangilish: posts small blind 20
+desert120: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs Tc]
+kabonz914: folds
+DiggErr555: raises 40 to 80
+Mishator: folds
+Zhangilish: folds
+desert120: calls 40
+*** FLOP *** [Qc 3d 8h]
+desert120: checks
+DiggErr555: bets 70
+desert120: folds
+Uncalled bet (70) returned to DiggErr555
+DiggErr555 collected 200 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Qc 3d 8h]
+Seat 1: desert120 (big blind) folded on the Flop
+Seat 3: kabonz914 folded before Flop (didn't bet)
+Seat 4: DiggErr555 collected (200)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Zhangilish (small blind) folded before Flop
+
+PokerStars Hand #189829019502: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:32:38 MSK [2018/08/12 22:32:38 ET]
+Table '2381049859 1' 6-max Seat #6 is the button
+Seat 1: desert120 (338 in chips)
+Seat 3: kabonz914 (519 in chips)
+Seat 4: DiggErr555 (768 in chips)
+Seat 5: Mishator (597 in chips)
+Seat 6: Zhangilish (778 in chips)
+desert120: posts the ante 4
+kabonz914: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+Zhangilish: posts the ante 4
+desert120: posts small blind 20
+kabonz914: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 3s]
+DiggErr555: folds
+Mishator: folds
+Zhangilish: folds
+desert120: folds
+Uncalled bet (20) returned to kabonz914
+kabonz914 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: desert120 (small blind) folded before Flop
+Seat 3: kabonz914 (big blind) collected (60)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829023159: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:32:50 MSK [2018/08/12 22:32:50 ET]
+Table '2381049859 1' 6-max Seat #1 is the button
+Seat 1: desert120 (314 in chips)
+Seat 3: kabonz914 (555 in chips)
+Seat 4: DiggErr555 (764 in chips)
+Seat 5: Mishator (593 in chips)
+Seat 6: Zhangilish (774 in chips)
+desert120: posts the ante 4
+kabonz914: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts the ante 4
+Zhangilish: posts the ante 4
+kabonz914: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh Qh]
+Mishator: folds
+Zhangilish: folds
+desert120: calls 40
+kabonz914: raises 511 to 551 and is all-in
+DiggErr555: raises 209 to 760 and is all-in
+desert120: folds
+Uncalled bet (209) returned to DiggErr555
+*** FLOP *** [5s Js Kc]
+*** TURN *** [5s Js Kc] [As]
+*** RIVER *** [5s Js Kc As] [8d]
+*** SHOW DOWN ***
+kabonz914: shows [Tc Ad] (a pair of Aces)
+DiggErr555: shows [Jh Qh] (a pair of Jacks)
+kabonz914 collected 1162 from pot
+*** SUMMARY ***
+Total pot 1162 | Rake 0
+Board [5s Js Kc As 8d]
+Seat 1: desert120 (button) folded before Flop
+Seat 3: kabonz914 (small blind) showed [Tc Ad] and won (1162) with a pair of Aces
+Seat 4: DiggErr555 (big blind) showed [Jh Qh] and lost with a pair of Jacks
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish folded before Flop (didn't bet)
+
+PokerStars Hand #189829031626: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:33:19 MSK [2018/08/12 22:33:19 ET]
+Table '2381049859 1' 6-max Seat #3 is the button
+Seat 1: desert120 (270 in chips)
+Seat 3: kabonz914 (1162 in chips)
+Seat 4: DiggErr555 (209 in chips)
+Seat 5: Mishator (589 in chips)
+Seat 6: Zhangilish (770 in chips)
+desert120: posts the ante 6
+kabonz914: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Zhangilish: posts the ante 6
+DiggErr555: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 4c]
+Zhangilish: raises 300 to 360
+desert120: folds
+kabonz914: folds
+DiggErr555: calls 173 and is all-in
+Mishator: folds
+Uncalled bet (157) returned to Zhangilish
+*** FLOP *** [6c 7s 3h]
+*** TURN *** [6c 7s 3h] [2h]
+*** RIVER *** [6c 7s 3h 2h] [Kd]
+*** SHOW DOWN ***
+DiggErr555: shows [4d 4c] (a pair of Fours)
+Zhangilish: shows [Qc Js] (high card King)
+DiggErr555 collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | Rake 0
+Board [6c 7s 3h 2h Kd]
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) showed [4d 4c] and won (496) with a pair of Fours
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: Zhangilish showed [Qc Js] and lost with high card King
+
+PokerStars Hand #189829040205: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:33:49 MSK [2018/08/12 22:33:49 ET]
+Table '2381049859 1' 6-max Seat #4 is the button
+Seat 1: desert120 (264 in chips)
+Seat 3: kabonz914 (1156 in chips)
+Seat 4: DiggErr555 (496 in chips)
+Seat 5: Mishator (523 in chips)
+Seat 6: Zhangilish (561 in chips)
+desert120: posts the ante 6
+kabonz914: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Zhangilish: posts the ante 6
+Mishator: posts small blind 30
+Zhangilish: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Qh]
+desert120: folds
+kabonz914: raises 1090 to 1150 and is all-in
+DiggErr555: folds
+Mishator: folds
+Zhangilish: folds
+Uncalled bet (1090) returned to kabonz914
+kabonz914 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 collected (180)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: Zhangilish (big blind) folded before Flop
+
+PokerStars Hand #189829046164: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:34:09 MSK [2018/08/12 22:34:09 ET]
+Table '2381049859 1' 6-max Seat #5 is the button
+Seat 1: desert120 (258 in chips)
+Seat 3: kabonz914 (1270 in chips)
+Seat 4: DiggErr555 (490 in chips)
+Seat 5: Mishator (487 in chips)
+Seat 6: Zhangilish (495 in chips)
+desert120: posts the ante 6
+kabonz914: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Zhangilish: posts the ante 6
+Zhangilish: posts small blind 30
+desert120: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 6h]
+kabonz914: folds
+DiggErr555: raises 424 to 484 and is all-in
+Mishator: folds
+Zhangilish: folds
+desert120: folds
+Uncalled bet (424) returned to DiggErr555
+DiggErr555 collected 180 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: desert120 (big blind) folded before Flop
+Seat 3: kabonz914 folded before Flop (didn't bet)
+Seat 4: DiggErr555 collected (180)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Zhangilish (small blind) folded before Flop
+
+PokerStars Hand #189829055820: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:34:42 MSK [2018/08/12 22:34:42 ET]
+Table '2381049859 1' 6-max Seat #6 is the button
+Seat 1: desert120 (192 in chips)
+Seat 3: kabonz914 (1264 in chips)
+Seat 4: DiggErr555 (604 in chips)
+Seat 5: Mishator (481 in chips)
+Seat 6: Zhangilish (459 in chips)
+desert120: posts the ante 6
+kabonz914: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Zhangilish: posts the ante 6
+desert120: posts small blind 30
+kabonz914: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 6c]
+DiggErr555: folds
+Mishator: folds
+Zhangilish: folds
+desert120: folds
+Uncalled bet (30) returned to kabonz914
+kabonz914 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: desert120 (small blind) folded before Flop
+Seat 3: kabonz914 (big blind) collected (90)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829059099: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:34:53 MSK [2018/08/12 22:34:53 ET]
+Table '2381049859 1' 6-max Seat #1 is the button
+Seat 1: desert120 (156 in chips)
+Seat 3: kabonz914 (1318 in chips)
+Seat 4: DiggErr555 (598 in chips)
+Seat 5: Mishator (475 in chips)
+Seat 6: Zhangilish (453 in chips)
+desert120: posts the ante 6
+kabonz914: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Zhangilish: posts the ante 6
+kabonz914: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Qc]
+Mishator: folds
+Zhangilish: raises 387 to 447 and is all-in
+desert120: folds
+kabonz914: folds
+DiggErr555: folds
+Uncalled bet (387) returned to Zhangilish
+Zhangilish collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: desert120 (button) folded before Flop (didn't bet)
+Seat 3: kabonz914 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Zhangilish collected (180)
+
+PokerStars Hand #189829064267: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:35:11 MSK [2018/08/12 22:35:11 ET]
+Table '2381049859 1' 6-max Seat #3 is the button
+Seat 1: desert120 (150 in chips)
+Seat 3: kabonz914 (1282 in chips)
+Seat 4: DiggErr555 (532 in chips)
+Seat 5: Mishator (469 in chips)
+Seat 6: Zhangilish (567 in chips)
+desert120: posts the ante 8
+kabonz914: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Zhangilish: posts the ante 8
+DiggErr555: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 2d]
+Zhangilish: raises 479 to 559 and is all-in
+desert120: folds
+kabonz914: calls 559
+DiggErr555: folds
+Mishator: folds
+*** FLOP *** [Ad 8c Ac]
+*** TURN *** [Ad 8c Ac] [Qs]
+*** RIVER *** [Ad 8c Ac Qs] [5h]
+*** SHOW DOWN ***
+Zhangilish: shows [As 5s] (a full house, Aces full of Fives)
+kabonz914: shows [Js Kc] (a pair of Aces)
+Zhangilish collected 1278 from pot
+*** SUMMARY ***
+Total pot 1278 | Rake 0
+Board [Ad 8c Ac Qs 5h]
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 (button) showed [Js Kc] and lost with a pair of Aces
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: Zhangilish showed [As 5s] and won (1278) with a full house, Aces full of Fives
+
+PokerStars Hand #189829070566: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:35:33 MSK [2018/08/12 22:35:33 ET]
+Table '2381049859 1' 6-max Seat #4 is the button
+Seat 1: desert120 (142 in chips)
+Seat 3: kabonz914 (715 in chips)
+Seat 4: DiggErr555 (484 in chips)
+Seat 5: Mishator (381 in chips)
+Seat 6: Zhangilish (1278 in chips)
+desert120: posts the ante 8
+kabonz914: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Zhangilish: posts the ante 8
+Mishator: posts small blind 40
+Zhangilish: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 5s]
+desert120: folds
+kabonz914: folds
+DiggErr555: folds
+Mishator: raises 293 to 373 and is all-in
+Zhangilish: folds
+Uncalled bet (293) returned to Mishator
+Mishator collected 200 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 3: kabonz914 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (200)
+Seat 6: Zhangilish (big blind) folded before Flop
+
+PokerStars Hand #189829075224: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:35:50 MSK [2018/08/12 22:35:50 ET]
+Table '2381049859 1' 6-max Seat #5 is the button
+Seat 1: desert120 (134 in chips)
+Seat 3: kabonz914 (707 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 5: Mishator (493 in chips)
+Seat 6: Zhangilish (1190 in chips)
+desert120: posts the ante 8
+kabonz914: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Zhangilish: posts the ante 8
+Zhangilish: posts small blind 40
+desert120: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 3h]
+kabonz914: folds
+DiggErr555: folds
+Mishator: raises 405 to 485 and is all-in
+Zhangilish: raises 405 to 890
+desert120: calls 46 and is all-in
+Uncalled bet (405) returned to Zhangilish
+*** FLOP *** [6s Ks 5c]
+*** TURN *** [6s Ks 5c] [Qd]
+*** RIVER *** [6s Ks 5c Qd] [Js]
+*** SHOW DOWN ***
+Zhangilish: shows [7s 7h] (a pair of Sevens)
+Mishator: shows [Qs Kc] (two pair, Kings and Queens)
+Mishator collected 718 from side pot
+desert120: shows [Jd Th] (a pair of Jacks)
+Mishator collected 418 from main pot
+Mishator wins the $2.38 bounty for eliminating desert120
+desert120 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1136 Main pot 418. Side pot 718. | Rake 0
+Board [6s Ks 5c Qd Js]
+Seat 1: desert120 (big blind) showed [Jd Th] and lost with a pair of Jacks
+Seat 3: kabonz914 folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator (button) showed [Qs Kc] and won (1136) with two pair, Kings and Queens
+Seat 6: Zhangilish (small blind) showed [7s 7h] and lost with a pair of Sevens
+
+PokerStars Hand #189829082095: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:36:14 MSK [2018/08/12 22:36:14 ET]
+Table '2381049859 1' 6-max Seat #6 is the button
+Seat 3: kabonz914 (699 in chips)
+Seat 4: DiggErr555 (468 in chips)
+Seat 5: Mishator (1136 in chips)
+Seat 6: Zhangilish (697 in chips)
+kabonz914: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Zhangilish: posts the ante 8
+kabonz914: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 2s]
+Mishator: raises 1048 to 1128 and is all-in
+Zhangilish: folds
+kabonz914: folds
+DiggErr555: folds
+Uncalled bet (1048) returned to Mishator
+Mishator collected 232 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Seat 3: kabonz914 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator collected (232)
+Seat 6: Zhangilish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829086832: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:36:31 MSK [2018/08/12 22:36:31 ET]
+Table '2381049859 1' 6-max Seat #3 is the button
+Seat 3: kabonz914 (651 in chips)
+Seat 4: DiggErr555 (380 in chips)
+Seat 5: Mishator (1280 in chips)
+Seat 6: Zhangilish (689 in chips)
+kabonz914: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Zhangilish: posts the ante 8
+DiggErr555: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 7s]
+Zhangilish: raises 80 to 160
+kabonz914: folds
+DiggErr555: folds
+Mishator: raises 1112 to 1272 and is all-in
+Zhangilish: calls 521 and is all-in
+Uncalled bet (591) returned to Mishator
+*** FLOP *** [9d 9c Ts]
+*** TURN *** [9d 9c Ts] [Td]
+*** RIVER *** [9d 9c Ts Td] [Jd]
+*** SHOW DOWN ***
+Mishator: shows [Th Ad] (a full house, Tens full of Nines)
+Zhangilish: shows [Jc Jh] (a full house, Jacks full of Tens)
+Zhangilish collected 1434 from pot
+*** SUMMARY ***
+Total pot 1434 | Rake 0
+Board [9d 9c Ts Td Jd]
+Seat 3: kabonz914 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [Th Ad] and lost with a full house, Tens full of Nines
+Seat 6: Zhangilish showed [Jc Jh] and won (1434) with a full house, Jacks full of Tens
+
+PokerStars Hand #189829094055: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:36:56 MSK [2018/08/12 22:36:56 ET]
+Table '2381049859 1' 6-max Seat #4 is the button
+Seat 3: kabonz914 (643 in chips)
+Seat 4: DiggErr555 (332 in chips)
+Seat 5: Mishator (591 in chips)
+Seat 6: Zhangilish (1434 in chips)
+kabonz914: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Zhangilish: posts the ante 10
+Mishator: posts small blind 50
+Zhangilish: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Jc]
+kabonz914: raises 533 to 633 and is all-in
+DiggErr555: folds
+Mishator: folds
+Zhangilish: folds
+Uncalled bet (533) returned to kabonz914
+kabonz914 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 3: kabonz914 collected (290)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: Zhangilish (big blind) folded before Flop
+
+PokerStars Hand #189829098533: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:37:11 MSK [2018/08/12 22:37:11 ET]
+Table '2381049859 1' 6-max Seat #5 is the button
+Seat 3: kabonz914 (823 in chips)
+Seat 4: DiggErr555 (322 in chips)
+Seat 5: Mishator (531 in chips)
+Seat 6: Zhangilish (1324 in chips)
+kabonz914: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Zhangilish: posts the ante 10
+Zhangilish: posts small blind 50
+kabonz914: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 4c]
+DiggErr555: folds
+Mishator: raises 421 to 521 and is all-in
+Zhangilish: folds
+kabonz914: folds
+Uncalled bet (421) returned to Mishator
+Mishator collected 290 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 3: kabonz914 (big blind) folded before Flop
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: Mishator (button) collected (290)
+Seat 6: Zhangilish (small blind) folded before Flop
+
+PokerStars Hand #189829103259: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:37:28 MSK [2018/08/12 22:37:28 ET]
+Table '2381049859 1' 6-max Seat #6 is the button
+Seat 3: kabonz914 (713 in chips)
+Seat 4: DiggErr555 (312 in chips)
+Seat 5: Mishator (711 in chips)
+Seat 6: Zhangilish (1264 in chips)
+kabonz914: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Zhangilish: posts the ante 10
+kabonz914: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Jh]
+Mishator: raises 601 to 701 and is all-in
+Zhangilish: folds
+kabonz914: raises 2 to 703 and is all-in
+DiggErr555: folds
+Uncalled bet (2) returned to kabonz914
+*** FLOP *** [Jd 4d 3d]
+*** TURN *** [Jd 4d 3d] [6d]
+*** RIVER *** [Jd 4d 3d 6d] [4c]
+*** SHOW DOWN ***
+kabonz914: shows [Ah Qh] (a pair of Fours)
+Mishator: shows [Jc 8c] (two pair, Jacks and Fours)
+Mishator collected 1542 from pot
+*** SUMMARY ***
+Total pot 1542 | Rake 0
+Board [Jd 4d 3d 6d 4c]
+Seat 3: kabonz914 (small blind) showed [Ah Qh] and lost with a pair of Fours
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: Mishator showed [Jc 8c] and won (1542) with two pair, Jacks and Fours
+Seat 6: Zhangilish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829109281: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:37:49 MSK [2018/08/12 22:37:49 ET]
+Table '2381049859 1' 6-max Seat #3 is the button
+Seat 3: kabonz914 (2 in chips)
+Seat 4: DiggErr555 (202 in chips)
+Seat 5: Mishator (1542 in chips)
+Seat 6: Zhangilish (1254 in chips)
+kabonz914: posts the ante 2 and is all-in
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Zhangilish: posts the ante 10
+DiggErr555: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 6s]
+Zhangilish: raises 1144 to 1244 and is all-in
+DiggErr555: calls 142 and is all-in
+Mishator: calls 1144
+*** FLOP *** [2s 8s 5h]
+*** TURN *** [2s 8s 5h] [4c]
+*** RIVER *** [2s 8s 5h 4c] [Th]
+*** SHOW DOWN ***
+Mishator: shows [Qh Kc] (high card King)
+Zhangilish: shows [Jh 9h] (high card Jack)
+Mishator collected 2104 from side pot-2
+DiggErr555: shows [7d 6s] (a straight, Four to Eight)
+DiggErr555 collected 600 from side pot-1
+kabonz914: shows [Qs Ac] (high card Ace)
+DiggErr555 collected 8 from main pot
+DiggErr555 wins the $2.38 bounty for eliminating kabonz914
+Mishator wins the $2.38 bounty for eliminating Zhangilish
+Zhangilish finished the tournament in 3rd place
+kabonz914 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 2712 Main pot 8. Side pot-1 600. Side pot-2 2104. | Rake 0
+Board [2s 8s 5h 4c Th]
+Seat 3: kabonz914 (button) showed [Qs Ac] and lost with high card Ace
+Seat 4: DiggErr555 (small blind) showed [7d 6s] and won (608) with a straight, Four to Eight
+Seat 5: Mishator (big blind) showed [Qh Kc] and won (2104) with high card King
+Seat 6: Zhangilish showed [Jh 9h] and lost with high card Jack
+
+PokerStars Hand #189829118146: Tournament #2381049859, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:38:21 MSK [2018/08/12 22:38:21 ET]
+Table '2381049859 1' 6-max Seat #5 is the button
+Seat 4: DiggErr555 (608 in chips)
+Seat 5: Mishator (2392 in chips)
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Mishator: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 9h]
+Mishator: raises 2282 to 2382 and is all-in
+DiggErr555: calls 498 and is all-in
+Uncalled bet (1784) returned to Mishator
+*** FLOP *** [Tc 2s Ks]
+*** TURN *** [Tc 2s Ks] [Kd]
+*** RIVER *** [Tc 2s Ks Kd] [3s]
+*** SHOW DOWN ***
+DiggErr555: shows [6h 9h] (a pair of Kings)
+Mishator: shows [Td 2d] (two pair, Kings and Tens)
+Mishator collected 1216 from pot
+Mishator wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $7.14.
+Mishator wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 1216 | Rake 0
+Board [Tc 2s Ks Kd 3s]
+Seat 4: DiggErr555 (big blind) showed [6h 9h] and lost with a pair of Kings
+Seat 5: Mishator (button) (small blind) showed [Td 2d] and won (1216) with two pair, Kings and Tens

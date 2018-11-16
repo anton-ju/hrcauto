@@ -1,0 +1,643 @@
+
+
+PokerStars Hand #189829240711: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:45:24 MSK [2018/08/12 22:45:24 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (500 in chips)
+Seat 2: jaybee583 (500 in chips)
+Seat 3: moimob (500 in chips)
+Seat 4: Gian515 (500 in chips)
+Seat 5: chorls464 (500 in chips)
+Seat 6: Mishator (500 in chips)
+DiggErr555: posts the ante 2
+jaybee583: posts the ante 2
+moimob: posts the ante 2
+Gian515: posts the ante 2
+chorls464: posts the ante 2
+Mishator: posts the ante 2
+jaybee583: posts small blind 10
+moimob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 2d]
+Gian515: folds
+chorls464: folds
+Mishator: folds
+DiggErr555: folds
+jaybee583: raises 20 to 40
+moimob: folds
+Uncalled bet (20) returned to jaybee583
+jaybee583 collected 52 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: jaybee583 (small blind) collected (52)
+Seat 3: moimob (big blind) folded before Flop
+Seat 4: Gian515 folded before Flop (didn't bet)
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829247030: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:45:46 MSK [2018/08/12 22:45:46 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (498 in chips)
+Seat 2: jaybee583 (530 in chips)
+Seat 3: moimob (478 in chips)
+Seat 4: Gian515 (498 in chips)
+Seat 5: chorls464 (498 in chips)
+Seat 6: Mishator (498 in chips)
+DiggErr555: posts the ante 2
+jaybee583: posts the ante 2
+moimob: posts the ante 2
+Gian515: posts the ante 2
+chorls464: posts the ante 2
+Mishator: posts the ante 2
+moimob: posts small blind 10
+Gian515: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 6h]
+chorls464: folds
+Mishator: folds
+DiggErr555: folds
+jaybee583: raises 20 to 40
+moimob: folds
+Gian515: calls 20
+*** FLOP *** [9h 2d 2c]
+Gian515: checks
+jaybee583: bets 20
+Gian515: raises 80 to 100
+jaybee583: calls 80
+*** TURN *** [9h 2d 2c] [Jh]
+Gian515: bets 160
+jaybee583: raises 160 to 320
+Gian515: folds
+Uncalled bet (160) returned to jaybee583
+jaybee583 collected 622 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 622 | Rake 0
+Board [9h 2d 2c Jh]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: jaybee583 (button) collected (622)
+Seat 3: moimob (small blind) folded before Flop
+Seat 4: Gian515 (big blind) folded on the Turn
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829260492: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:46:35 MSK [2018/08/12 22:46:35 ET]
+Table '2381055831 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (496 in chips)
+Seat 2: jaybee583 (850 in chips)
+Seat 3: moimob (466 in chips)
+Seat 4: Gian515 (196 in chips)
+Seat 5: chorls464 (496 in chips)
+Seat 6: Mishator (496 in chips)
+DiggErr555: posts the ante 2
+jaybee583: posts the ante 2
+moimob: posts the ante 2
+Gian515: posts the ante 2
+chorls464: posts the ante 2
+Mishator: posts the ante 2
+Gian515: posts small blind 10
+chorls464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 9s]
+Mishator: folds
+DiggErr555: folds
+jaybee583: raises 20 to 40
+moimob: folds
+Gian515: raises 154 to 194 and is all-in
+chorls464: raises 300 to 494 and is all-in
+jaybee583: calls 454
+*** FLOP *** [5c 4h 9d]
+*** TURN *** [5c 4h 9d] [8c]
+*** RIVER *** [5c 4h 9d 8c] [Ks]
+*** SHOW DOWN ***
+chorls464: shows [5d Qd] (a pair of Fives)
+jaybee583: shows [Kh 6h] (a pair of Kings)
+jaybee583 collected 600 from side pot
+Gian515: shows [Qc As] (high card Ace)
+jaybee583 collected 594 from main pot
+jaybee583 wins the $4.79 bounty for eliminating Gian515
+jaybee583 wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 5th place
+Gian515 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1194 Main pot 594. Side pot 600. | Rake 0
+Board [5c 4h 9d 8c Ks]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: jaybee583 showed [Kh 6h] and won (1194) with a pair of Kings
+Seat 3: moimob (button) folded before Flop (didn't bet)
+Seat 4: Gian515 (small blind) showed [Qc As] and lost with high card Ace
+Seat 5: chorls464 (big blind) showed [5d Qd] and lost with a pair of Fives
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829269757: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:47:09 MSK [2018/08/12 22:47:09 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (494 in chips)
+Seat 2: jaybee583 (1548 in chips)
+Seat 3: moimob (464 in chips)
+Seat 6: Mishator (494 in chips)
+DiggErr555: posts the ante 3
+jaybee583: posts the ante 3
+moimob: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts small blind 15
+jaybee583: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 9c]
+moimob: folds
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (15) returned to jaybee583
+jaybee583 collected 42 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: jaybee583 (big blind) collected (42)
+Seat 3: moimob folded before Flop (didn't bet)
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829273716: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:47:23 MSK [2018/08/12 22:47:23 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (476 in chips)
+Seat 2: jaybee583 (1572 in chips)
+Seat 3: moimob (461 in chips)
+Seat 6: Mishator (491 in chips)
+DiggErr555: posts the ante 3
+jaybee583: posts the ante 3
+moimob: posts the ante 3
+Mishator: posts the ante 3
+jaybee583: posts small blind 15
+moimob: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 7c]
+Mishator: folds
+DiggErr555: raises 30 to 60
+jaybee583: folds
+moimob: raises 398 to 458 and is all-in
+DiggErr555: calls 398
+*** FLOP *** [4d Ah 8c]
+*** TURN *** [4d Ah 8c] [Kh]
+*** RIVER *** [4d Ah 8c Kh] [8s]
+*** SHOW DOWN ***
+moimob: shows [5c 5h] (two pair, Eights and Fives)
+DiggErr555: shows [Kc 7c] (two pair, Kings and Eights)
+DiggErr555 collected 943 from pot
+DiggErr555 wins the $4.79 bounty for eliminating moimob
+moimob finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 943 | Rake 0
+Board [4d Ah 8c Kh 8s]
+Seat 1: DiggErr555 (button) showed [Kc 7c] and won (943) with two pair, Kings and Eights
+Seat 2: jaybee583 (small blind) folded before Flop
+Seat 3: moimob (big blind) showed [5c 5h] and lost with two pair, Eights and Fives
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829284182: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:48:01 MSK [2018/08/12 22:48:01 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (958 in chips)
+Seat 2: jaybee583 (1554 in chips)
+Seat 6: Mishator (488 in chips)
+DiggErr555: posts the ante 3
+jaybee583: posts the ante 3
+Mishator: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 7s]
+jaybee583: folds
+Mishator: folds
+Uncalled bet (15) returned to DiggErr555
+DiggErr555 collected 39 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (39)
+Seat 2: jaybee583 (button) folded before Flop (didn't bet)
+Seat 6: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189829286417: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:48:09 MSK [2018/08/12 22:48:09 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (979 in chips)
+Seat 2: jaybee583 (1551 in chips)
+Seat 6: Mishator (470 in chips)
+DiggErr555: posts the ante 3
+jaybee583: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts small blind 15
+jaybee583: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 2s]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (15) returned to jaybee583
+jaybee583 collected 39 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: jaybee583 (big blind) collected (39)
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829290661: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:48:25 MSK [2018/08/12 22:48:25 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (961 in chips)
+Seat 2: jaybee583 (1572 in chips)
+Seat 6: Mishator (467 in chips)
+DiggErr555: posts the ante 4
+jaybee583: posts the ante 4
+Mishator: posts the ante 4
+jaybee583: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h As]
+DiggErr555: folds
+jaybee583: raises 40 to 80
+Mishator: folds
+Uncalled bet (40) returned to jaybee583
+jaybee583 collected 92 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: jaybee583 (small blind) collected (92)
+Seat 6: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829294603: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:48:39 MSK [2018/08/12 22:48:39 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (957 in chips)
+Seat 2: jaybee583 (1620 in chips)
+Seat 6: Mishator (423 in chips)
+DiggErr555: posts the ante 4
+jaybee583: posts the ante 4
+Mishator: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 4s]
+jaybee583: folds
+Mishator: folds
+Uncalled bet (20) returned to DiggErr555
+DiggErr555 collected 52 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (52)
+Seat 2: jaybee583 (button) folded before Flop (didn't bet)
+Seat 6: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189829296832: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:48:47 MSK [2018/08/12 22:48:47 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (985 in chips)
+Seat 2: jaybee583 (1616 in chips)
+Seat 6: Mishator (399 in chips)
+DiggErr555: posts the ante 4
+jaybee583: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts small blind 20
+jaybee583: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Qc]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (20) returned to jaybee583
+jaybee583 collected 52 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: jaybee583 (big blind) collected (52)
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829299201: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:48:56 MSK [2018/08/12 22:48:56 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (961 in chips)
+Seat 2: jaybee583 (1644 in chips)
+Seat 6: Mishator (395 in chips)
+DiggErr555: posts the ante 4
+jaybee583: posts the ante 4
+Mishator: posts the ante 4
+jaybee583: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 8s]
+DiggErr555: folds
+jaybee583: raises 1600 to 1640 and is all-in
+Mishator: folds
+Uncalled bet (1600) returned to jaybee583
+jaybee583 collected 92 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: jaybee583 (small blind) collected (92)
+Seat 6: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829304906: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:17 MSK [2018/08/12 22:49:17 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (957 in chips)
+Seat 2: jaybee583 (1692 in chips)
+Seat 6: Mishator (351 in chips)
+DiggErr555: posts the ante 6
+jaybee583: posts the ante 6
+Mishator: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 4h]
+jaybee583: raises 60 to 120
+Mishator: raises 225 to 345 and is all-in
+DiggErr555: folds
+jaybee583: calls 225
+*** FLOP *** [Qs Ks 2s]
+*** TURN *** [Qs Ks 2s] [Jc]
+*** RIVER *** [Qs Ks 2s Jc] [7s]
+*** SHOW DOWN ***
+Mishator: shows [As Ts] (a flush, Ace high)
+jaybee583: shows [Jd Jh] (three of a kind, Jacks)
+Mishator collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | Rake 0
+Board [Qs Ks 2s Jc 7s]
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: jaybee583 (button) showed [Jd Jh] and lost with three of a kind, Jacks
+Seat 6: Mishator (small blind) showed [As Ts] and won (768) with a flush, Ace high
+
+PokerStars Hand #189829310903: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:39 MSK [2018/08/12 22:49:39 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (891 in chips)
+Seat 2: jaybee583 (1341 in chips)
+Seat 6: Mishator (768 in chips)
+DiggErr555: posts the ante 6
+jaybee583: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts small blind 30
+jaybee583: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Jc]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (30) returned to jaybee583
+jaybee583 collected 78 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: jaybee583 (big blind) collected (78)
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829314058: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:50 MSK [2018/08/12 22:49:50 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (855 in chips)
+Seat 2: jaybee583 (1383 in chips)
+Seat 6: Mishator (762 in chips)
+DiggErr555: posts the ante 6
+jaybee583: posts the ante 6
+Mishator: posts the ante 6
+jaybee583: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Ac]
+DiggErr555: raises 789 to 849 and is all-in
+jaybee583: folds
+Mishator: folds
+Uncalled bet (789) returned to DiggErr555
+DiggErr555 collected 168 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 1: DiggErr555 (button) collected (168)
+Seat 2: jaybee583 (small blind) folded before Flop
+Seat 6: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829318975: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:50:08 MSK [2018/08/12 22:50:08 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (957 in chips)
+Seat 2: jaybee583 (1347 in chips)
+Seat 6: Mishator (696 in chips)
+DiggErr555: posts the ante 6
+jaybee583: posts the ante 6
+Mishator: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 3h]
+jaybee583: folds
+Mishator: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (78)
+Seat 2: jaybee583 (button) folded before Flop (didn't bet)
+Seat 6: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189829321508: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:50:17 MSK [2018/08/12 22:50:17 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (999 in chips)
+Seat 2: jaybee583 (1341 in chips)
+Seat 6: Mishator (660 in chips)
+DiggErr555: posts the ante 6
+jaybee583: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts small blind 30
+jaybee583: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6c]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (30) returned to jaybee583
+jaybee583 collected 78 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: jaybee583 (big blind) collected (78)
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829324506: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:50:28 MSK [2018/08/12 22:50:28 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (963 in chips)
+Seat 2: jaybee583 (1383 in chips)
+Seat 6: Mishator (654 in chips)
+DiggErr555: posts the ante 8
+jaybee583: posts the ante 8
+Mishator: posts the ante 8
+jaybee583: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 8h]
+DiggErr555: folds
+jaybee583: raises 1295 to 1375 and is all-in
+Mishator: folds
+Uncalled bet (1295) returned to jaybee583
+jaybee583 collected 184 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: jaybee583 (small blind) collected (184)
+Seat 6: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829329855: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:50:48 MSK [2018/08/12 22:50:48 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (955 in chips)
+Seat 2: jaybee583 (1479 in chips)
+Seat 6: Mishator (566 in chips)
+DiggErr555: posts the ante 8
+jaybee583: posts the ante 8
+Mishator: posts the ante 8
+Mishator: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Ah]
+jaybee583: folds
+Mishator: raises 478 to 558 and is all-in
+DiggErr555: calls 478
+*** FLOP *** [Kd 6s Qs]
+*** TURN *** [Kd 6s Qs] [6d]
+*** RIVER *** [Kd 6s Qs 6d] [Ts]
+*** SHOW DOWN ***
+Mishator: shows [8d Kc] (two pair, Kings and Sixes)
+DiggErr555: shows [8h Ah] (a pair of Sixes)
+Mishator collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0
+Board [Kd 6s Qs 6d Ts]
+Seat 1: DiggErr555 (big blind) showed [8h Ah] and lost with a pair of Sixes
+Seat 2: jaybee583 (button) folded before Flop (didn't bet)
+Seat 6: Mishator (small blind) showed [8d Kc] and won (1140) with two pair, Kings and Sixes
+
+PokerStars Hand #189829335801: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:51:10 MSK [2018/08/12 22:51:10 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (389 in chips)
+Seat 2: jaybee583 (1471 in chips)
+Seat 6: Mishator (1140 in chips)
+DiggErr555: posts the ante 8
+jaybee583: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts small blind 40
+jaybee583: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Jc]
+Mishator: folds
+DiggErr555: raises 301 to 381 and is all-in
+jaybee583: calls 301
+*** FLOP *** [Qs Js 5s]
+*** TURN *** [Qs Js 5s] [Kd]
+*** RIVER *** [Qs Js 5s Kd] [6h]
+*** SHOW DOWN ***
+DiggErr555: shows [Kc Jc] (two pair, Kings and Jacks)
+jaybee583: shows [Jh As] (a pair of Jacks)
+DiggErr555 collected 786 from pot
+*** SUMMARY ***
+Total pot 786 | Rake 0
+Board [Qs Js 5s Kd 6h]
+Seat 1: DiggErr555 (small blind) showed [Kc Jc] and won (786) with two pair, Kings and Jacks
+Seat 2: jaybee583 (big blind) showed [Jh As] and lost with a pair of Jacks
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829341569: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:51:31 MSK [2018/08/12 22:51:31 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (786 in chips)
+Seat 2: jaybee583 (1082 in chips)
+Seat 6: Mishator (1132 in chips)
+DiggErr555: posts the ante 8
+jaybee583: posts the ante 8
+Mishator: posts the ante 8
+jaybee583: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Kd]
+DiggErr555: folds
+jaybee583: folds
+Uncalled bet (40) returned to Mishator
+Mishator collected 104 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: jaybee583 (small blind) folded before Flop
+Seat 6: Mishator (big blind) collected (104)
+
+PokerStars Hand #189829346374: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:51:48 MSK [2018/08/12 22:51:48 ET]
+Table '2381055831 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (778 in chips)
+Seat 2: jaybee583 (1034 in chips)
+Seat 6: Mishator (1188 in chips)
+DiggErr555: posts the ante 8
+jaybee583: posts the ante 8
+Mishator: posts the ante 8
+Mishator: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 6c]
+jaybee583: raises 946 to 1026 and is all-in
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (946) returned to jaybee583
+jaybee583 collected 224 from pot
+jaybee583: doesn't show hand
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: jaybee583 (button) collected (224)
+Seat 6: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189829351400: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:52:07 MSK [2018/08/12 22:52:07 ET]
+Table '2381055831 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (690 in chips)
+Seat 2: jaybee583 (1170 in chips)
+Seat 6: Mishator (1140 in chips)
+DiggErr555: posts the ante 10
+jaybee583: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts small blind 50
+jaybee583: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Th]
+Mishator: folds
+DiggErr555: raises 580 to 680 and is all-in
+jaybee583: folds
+Uncalled bet (580) returned to DiggErr555
+DiggErr555 collected 230 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: DiggErr555 (small blind) collected (230)
+Seat 2: jaybee583 (big blind) folded before Flop
+Seat 6: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829355286: Tournament #2381055831, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:52:21 MSK [2018/08/12 22:52:21 ET]
+Table '2381055831 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (810 in chips)
+Seat 2: jaybee583 (1060 in chips)
+Seat 6: Mishator (1130 in chips)
+DiggErr555: posts the ante 10
+jaybee583: posts the ante 10
+Mishator: posts the ante 10
+jaybee583: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc As]
+DiggErr555: raises 400 to 500
+jaybee583: folds
+Mishator: raises 620 to 1120 and is all-in
+DiggErr555: calls 300 and is all-in
+Uncalled bet (320) returned to Mishator
+*** FLOP *** [4s 9h Kc]
+*** TURN *** [4s 9h Kc] [3d]
+*** RIVER *** [4s 9h Kc 3d] [7d]
+*** SHOW DOWN ***
+Mishator: shows [Ts Tc] (a pair of Tens)
+DiggErr555: shows [Jc As] (high card Ace)
+Mishator collected 1680 from pot
+Mishator wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1680 | Rake 0
+Board [4s 9h Kc 3d 7d]
+Seat 1: DiggErr555 (button) showed [Jc As] and lost with high card Ace
+Seat 2: jaybee583 (small blind) folded before Flop
+Seat 6: Mishator (big blind) showed [Ts Tc] and won (1680) with a pair of Tens

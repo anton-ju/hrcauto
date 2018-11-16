@@ -1,0 +1,225 @@
+
+
+PokerStars Hand #189830085842: Tournament #2381075337, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:39:44 MSK [2018/08/12 23:39:44 ET]
+Table '2381075337 1' 6-max Seat #1 is the button
+Seat 1: feattoni1234 (500 in chips)
+Seat 2: k18rxb (500 in chips)
+Seat 3: RellasRent (500 in chips)
+Seat 4: FMALENAG (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: tokyo09 (500 in chips)
+feattoni1234: posts the ante 2
+k18rxb: posts the ante 2
+RellasRent: posts the ante 2
+FMALENAG: posts the ante 2
+DiggErr555: posts the ante 2
+tokyo09: posts the ante 2
+k18rxb: posts small blind 10
+RellasRent: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Jc]
+FMALENAG: folds
+DiggErr555: folds
+tokyo09: folds
+feattoni1234: raises 478 to 498 and is all-in
+k18rxb: calls 488 and is all-in
+RellasRent: folds
+*** FLOP *** [Ks 9d 5h]
+*** TURN *** [Ks 9d 5h] [6c]
+*** RIVER *** [Ks 9d 5h 6c] [2h]
+*** SHOW DOWN ***
+k18rxb: shows [Ac Ts] (high card Ace)
+feattoni1234: shows [Ad Kd] (a pair of Kings)
+feattoni1234 collected 1028 from pot
+feattoni1234 wins the $4.79 bounty for eliminating k18rxb
+k18rxb finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1028 | Rake 0
+Board [Ks 9d 5h 6c 2h]
+Seat 1: feattoni1234 (button) showed [Ad Kd] and won (1028) with a pair of Kings
+Seat 2: k18rxb (small blind) showed [Ac Ts] and lost with high card Ace
+Seat 3: RellasRent (big blind) folded before Flop
+Seat 4: FMALENAG folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: tokyo09 folded before Flop (didn't bet)
+
+PokerStars Hand #189830090181: Tournament #2381075337, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:40:02 MSK [2018/08/12 23:40:02 ET]
+Table '2381075337 1' 6-max Seat #3 is the button
+Seat 1: feattoni1234 (1028 in chips)
+Seat 3: RellasRent (478 in chips)
+Seat 4: FMALENAG (498 in chips)
+Seat 5: DiggErr555 (498 in chips)
+Seat 6: tokyo09 (498 in chips)
+feattoni1234: posts the ante 2
+RellasRent: posts the ante 2
+FMALENAG: posts the ante 2
+DiggErr555: posts the ante 2
+tokyo09: posts the ante 2
+FMALENAG: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 5c]
+tokyo09: raises 476 to 496 and is all-in
+feattoni1234: folds
+RellasRent: folds
+FMALENAG: folds
+DiggErr555: folds
+Uncalled bet (476) returned to tokyo09
+tokyo09 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: feattoni1234 folded before Flop (didn't bet)
+Seat 3: RellasRent (button) folded before Flop (didn't bet)
+Seat 4: FMALENAG (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: tokyo09 collected (60)
+
+PokerStars Hand #189830093741: Tournament #2381075337, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:40:17 MSK [2018/08/12 23:40:17 ET]
+Table '2381075337 1' 6-max Seat #4 is the button
+Seat 1: feattoni1234 (1026 in chips)
+Seat 3: RellasRent (476 in chips)
+Seat 4: FMALENAG (486 in chips)
+Seat 5: DiggErr555 (476 in chips)
+Seat 6: tokyo09 (536 in chips)
+feattoni1234: posts the ante 2
+RellasRent: posts the ante 2
+FMALENAG: posts the ante 2
+DiggErr555: posts the ante 2
+tokyo09: posts the ante 2
+DiggErr555: posts small blind 10
+tokyo09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 8c]
+feattoni1234: folds
+RellasRent: folds
+FMALENAG: calls 20
+DiggErr555: folds
+tokyo09: checks
+*** FLOP *** [Kc Js Qs]
+tokyo09: checks
+FMALENAG: bets 20
+tokyo09: calls 20
+*** TURN *** [Kc Js Qs] [4d]
+tokyo09: checks
+FMALENAG: bets 100
+tokyo09: folds
+Uncalled bet (100) returned to FMALENAG
+FMALENAG collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Board [Kc Js Qs 4d]
+Seat 1: feattoni1234 folded before Flop (didn't bet)
+Seat 3: RellasRent folded before Flop (didn't bet)
+Seat 4: FMALENAG (button) collected (100)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: tokyo09 (big blind) folded on the Turn
+
+PokerStars Hand #189830100475: Tournament #2381075337, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:40:45 MSK [2018/08/12 23:40:45 ET]
+Table '2381075337 1' 6-max Seat #5 is the button
+Seat 1: feattoni1234 (1024 in chips)
+Seat 3: RellasRent (474 in chips)
+Seat 4: FMALENAG (544 in chips)
+Seat 5: DiggErr555 (464 in chips)
+Seat 6: tokyo09 (494 in chips)
+feattoni1234: posts the ante 3
+RellasRent: posts the ante 3
+FMALENAG: posts the ante 3
+DiggErr555: posts the ante 3
+tokyo09: posts the ante 3
+tokyo09: posts small blind 15
+feattoni1234: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 7d]
+RellasRent: calls 30
+FMALENAG: raises 511 to 541 and is all-in
+DiggErr555: folds
+tokyo09: folds
+feattoni1234: calls 511
+RellasRent: folds
+*** FLOP *** [Ks Qh 4d]
+*** TURN *** [Ks Qh 4d] [As]
+*** RIVER *** [Ks Qh 4d As] [Js]
+*** SHOW DOWN ***
+feattoni1234: shows [3h 3c] (a pair of Threes)
+FMALENAG: shows [Ad 8d] (a pair of Aces)
+FMALENAG collected 1142 from pot
+*** SUMMARY ***
+Total pot 1142 | Rake 0
+Board [Ks Qh 4d As Js]
+Seat 1: feattoni1234 (big blind) showed [3h 3c] and lost with a pair of Threes
+Seat 3: RellasRent folded before Flop
+Seat 4: FMALENAG showed [Ad 8d] and won (1142) with a pair of Aces
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: tokyo09 (small blind) folded before Flop
+
+PokerStars Hand #189830107950: Tournament #2381075337, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:41:16 MSK [2018/08/12 23:41:16 ET]
+Table '2381075337 1' 6-max Seat #6 is the button
+Seat 1: feattoni1234 (480 in chips)
+Seat 3: RellasRent (441 in chips)
+Seat 4: FMALENAG (1142 in chips)
+Seat 5: DiggErr555 (461 in chips)
+Seat 6: tokyo09 (476 in chips)
+feattoni1234: posts the ante 3
+RellasRent: posts the ante 3
+FMALENAG: posts the ante 3
+DiggErr555: posts the ante 3
+tokyo09: posts the ante 3
+feattoni1234: posts small blind 15
+RellasRent: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 9d]
+FMALENAG: folds
+DiggErr555: folds
+tokyo09: folds
+feattoni1234: raises 447 to 477 and is all-in
+RellasRent: folds
+Uncalled bet (447) returned to feattoni1234
+feattoni1234 collected 75 from pot
+feattoni1234: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: feattoni1234 (small blind) collected (75)
+Seat 3: RellasRent (big blind) folded before Flop
+Seat 4: FMALENAG folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: tokyo09 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830113327: Tournament #2381075337, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:41:39 MSK [2018/08/12 23:41:39 ET]
+Table '2381075337 1' 6-max Seat #1 is the button
+Seat 1: feattoni1234 (522 in chips)
+Seat 3: RellasRent (408 in chips)
+Seat 4: FMALENAG (1139 in chips)
+Seat 5: DiggErr555 (458 in chips)
+Seat 6: tokyo09 (473 in chips)
+feattoni1234: posts the ante 3
+RellasRent: posts the ante 3
+FMALENAG: posts the ante 3
+DiggErr555: posts the ante 3
+tokyo09: posts the ante 3
+RellasRent: posts small blind 15
+FMALENAG: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 9d]
+DiggErr555: raises 425 to 455 and is all-in
+tokyo09: folds
+feattoni1234: raises 64 to 519 and is all-in
+RellasRent: folds
+FMALENAG: folds
+Uncalled bet (64) returned to feattoni1234
+*** FLOP *** [3h Kd Td]
+*** TURN *** [3h Kd Td] [4c]
+*** RIVER *** [3h Kd Td 4c] [Ks]
+*** SHOW DOWN ***
+DiggErr555: shows [Ad 9d] (a pair of Kings)
+feattoni1234: shows [Jc Jh] (two pair, Kings and Jacks)
+feattoni1234 collected 970 from pot
+feattoni1234 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 970 | Rake 0
+Board [3h Kd Td 4c Ks]
+Seat 1: feattoni1234 (button) showed [Jc Jh] and won (970) with two pair, Kings and Jacks
+Seat 3: RellasRent (small blind) folded before Flop
+Seat 4: FMALENAG (big blind) folded before Flop
+Seat 5: DiggErr555 showed [Ad 9d] and lost with a pair of Kings
+Seat 6: tokyo09 folded before Flop (didn't bet)

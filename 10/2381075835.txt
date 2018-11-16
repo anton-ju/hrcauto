@@ -1,0 +1,750 @@
+
+
+PokerStars Hand #189830126015: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:42:32 MSK [2018/08/12 23:42:32 ET]
+Table '2381075835 1' 6-max Seat #1 is the button
+Seat 1: Dmitry1993 (500 in chips)
+Seat 2: 2Ran128 (500 in chips)
+Seat 3: sergo78 (500 in chips)
+Seat 4: volkem55 (500 in chips)
+Seat 5: don,sthebest (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+Dmitry1993: posts the ante 2
+2Ran128: posts the ante 2
+sergo78: posts the ante 2
+volkem55: posts the ante 2
+don,sthebest: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts small blind 10
+sergo78: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Ks]
+volkem55: folds
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: folds
+2Ran128: folds
+Uncalled bet (10) returned to sergo78
+sergo78 collected 32 from pot
+sergo78: doesn't show hand
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: Dmitry1993 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 3: sergo78 (big blind) collected (32)
+Seat 4: volkem55 folded before Flop (didn't bet)
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830129255: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:42:45 MSK [2018/08/12 23:42:45 ET]
+Table '2381075835 1' 6-max Seat #2 is the button
+Seat 1: Dmitry1993 (498 in chips)
+Seat 2: 2Ran128 (488 in chips)
+Seat 3: sergo78 (520 in chips)
+Seat 4: volkem55 (498 in chips)
+Seat 5: don,sthebest (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+Dmitry1993: posts the ante 2
+2Ran128: posts the ante 2
+sergo78: posts the ante 2
+volkem55: posts the ante 2
+don,sthebest: posts the ante 2
+DiggErr555: posts the ante 2
+sergo78: posts small blind 10
+volkem55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Jd]
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: folds
+2Ran128: folds
+sergo78: raises 20 to 40
+volkem55: calls 20
+*** FLOP *** [3h 6d Qd]
+sergo78: checks
+volkem55: checks
+*** TURN *** [3h 6d Qd] [8s]
+sergo78: bets 20
+volkem55: raises 40 to 60
+sergo78: calls 40
+*** RIVER *** [3h 6d Qd 8s] [4s]
+sergo78: checks
+volkem55: bets 396 and is all-in
+sergo78: folds
+Uncalled bet (396) returned to volkem55
+volkem55 collected 212 from pot
+volkem55: doesn't show hand
+*** SUMMARY ***
+Total pot 212 | Rake 0
+Board [3h 6d Qd 8s 4s]
+Seat 1: Dmitry1993 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 3: sergo78 (small blind) folded on the River
+Seat 4: volkem55 (big blind) collected (212)
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830147564: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:44:02 MSK [2018/08/12 23:44:02 ET]
+Table '2381075835 1' 6-max Seat #3 is the button
+Seat 1: Dmitry1993 (496 in chips)
+Seat 2: 2Ran128 (486 in chips)
+Seat 3: sergo78 (418 in chips)
+Seat 4: volkem55 (608 in chips)
+Seat 5: don,sthebest (496 in chips)
+Seat 6: DiggErr555 (496 in chips)
+Dmitry1993: posts the ante 2
+2Ran128: posts the ante 2
+sergo78: posts the ante 2
+volkem55: posts the ante 2
+don,sthebest: posts the ante 2
+DiggErr555: posts the ante 2
+volkem55: posts small blind 10
+don,sthebest: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 9h]
+DiggErr555: folds
+Dmitry1993: raises 40 to 60
+2Ran128: folds
+sergo78: raises 356 to 416 and is all-in
+volkem55: folds
+don,sthebest: raises 78 to 494 and is all-in
+Dmitry1993: folds
+Uncalled bet (78) returned to don,sthebest
+*** FLOP *** [Qc Jc 7h]
+*** TURN *** [Qc Jc 7h] [6h]
+*** RIVER *** [Qc Jc 7h 6h] [8c]
+*** SHOW DOWN ***
+don,sthebest: shows [3s 3h] (a pair of Threes)
+sergo78: shows [Ah Th] (high card Ace)
+don,sthebest collected 914 from pot
+don,sthebest wins the $4.79 bounty for eliminating sergo78
+sergo78 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 914 | Rake 0
+Board [Qc Jc 7h 6h 8c]
+Seat 1: Dmitry1993 folded before Flop
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 3: sergo78 (button) showed [Ah Th] and lost with high card Ace
+Seat 4: volkem55 (small blind) folded before Flop
+Seat 5: don,sthebest (big blind) showed [3s 3h] and won (914) with a pair of Threes
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830157083: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:44:42 MSK [2018/08/12 23:44:42 ET]
+Table '2381075835 1' 6-max Seat #4 is the button
+Seat 1: Dmitry1993 (434 in chips)
+Seat 2: 2Ran128 (484 in chips)
+Seat 4: volkem55 (596 in chips)
+Seat 5: don,sthebest (992 in chips)
+Seat 6: DiggErr555 (494 in chips)
+Dmitry1993: posts the ante 3
+2Ran128: posts the ante 3
+volkem55: posts the ante 3
+don,sthebest: posts the ante 3
+DiggErr555: posts the ante 3
+don,sthebest: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts Jc]
+Dmitry1993: folds
+2Ran128: raises 30 to 60
+volkem55: folds
+don,sthebest: folds
+DiggErr555: calls 30
+*** FLOP *** [Qc 3c 8s]
+DiggErr555: checks
+2Ran128: bets 60
+DiggErr555: raises 371 to 431 and is all-in
+2Ran128: folds
+Uncalled bet (371) returned to DiggErr555
+DiggErr555 collected 270 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board [Qc 3c 8s]
+Seat 1: Dmitry1993 folded before Flop (didn't bet)
+Seat 2: 2Ran128 folded on the Flop
+Seat 4: volkem55 (button) folded before Flop (didn't bet)
+Seat 5: don,sthebest (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (270)
+
+PokerStars Hand #189830169656: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:45:35 MSK [2018/08/12 23:45:35 ET]
+Table '2381075835 1' 6-max Seat #5 is the button
+Seat 1: Dmitry1993 (431 in chips)
+Seat 2: 2Ran128 (361 in chips)
+Seat 4: volkem55 (593 in chips)
+Seat 5: don,sthebest (974 in chips)
+Seat 6: DiggErr555 (641 in chips)
+Dmitry1993: posts the ante 3
+2Ran128: posts the ante 3
+volkem55: posts the ante 3
+don,sthebest: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+Dmitry1993: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Ts]
+2Ran128: raises 30 to 60
+volkem55: folds
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: folds
+Uncalled bet (30) returned to 2Ran128
+2Ran128 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: Dmitry1993 (big blind) folded before Flop
+Seat 2: 2Ran128 collected (90)
+Seat 4: volkem55 folded before Flop (didn't bet)
+Seat 5: don,sthebest (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830173893: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:45:52 MSK [2018/08/12 23:45:52 ET]
+Table '2381075835 1' 6-max Seat #6 is the button
+Seat 1: Dmitry1993 (398 in chips)
+Seat 2: 2Ran128 (418 in chips)
+Seat 4: volkem55 (590 in chips)
+Seat 5: don,sthebest (971 in chips)
+Seat 6: DiggErr555 (623 in chips)
+Dmitry1993: posts the ante 3
+2Ran128: posts the ante 3
+volkem55: posts the ante 3
+don,sthebest: posts the ante 3
+DiggErr555: posts the ante 3
+Dmitry1993: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 9c]
+volkem55: folds
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: raises 365 to 395 and is all-in
+2Ran128: folds
+Uncalled bet (365) returned to Dmitry1993
+Dmitry1993 collected 75 from pot
+Dmitry1993: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: Dmitry1993 (small blind) collected (75)
+Seat 2: 2Ran128 (big blind) folded before Flop
+Seat 4: volkem55 folded before Flop (didn't bet)
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830177660: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:46:09 MSK [2018/08/12 23:46:09 ET]
+Table '2381075835 1' 6-max Seat #1 is the button
+Seat 1: Dmitry1993 (440 in chips)
+Seat 2: 2Ran128 (385 in chips)
+Seat 4: volkem55 (587 in chips)
+Seat 5: don,sthebest (968 in chips)
+Seat 6: DiggErr555 (620 in chips)
+Dmitry1993: posts the ante 3
+2Ran128: posts the ante 3
+volkem55: posts the ante 3
+don,sthebest: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts small blind 15
+volkem55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Ah]
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: raises 407 to 437 and is all-in
+2Ran128: folds
+volkem55: folds
+Uncalled bet (407) returned to Dmitry1993
+Dmitry1993 collected 90 from pot
+Dmitry1993: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: Dmitry1993 (button) collected (90)
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 4: volkem55 (big blind) folded before Flop
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830182376: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:46:29 MSK [2018/08/12 23:46:29 ET]
+Table '2381075835 1' 6-max Seat #2 is the button
+Seat 1: Dmitry1993 (497 in chips)
+Seat 2: 2Ran128 (367 in chips)
+Seat 4: volkem55 (554 in chips)
+Seat 5: don,sthebest (965 in chips)
+Seat 6: DiggErr555 (617 in chips)
+Dmitry1993: posts the ante 4
+2Ran128: posts the ante 4
+volkem55: posts the ante 4
+don,sthebest: posts the ante 4
+DiggErr555: posts the ante 4
+volkem55: posts small blind 20
+don,sthebest: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 4h]
+DiggErr555: folds
+Dmitry1993: folds
+2Ran128: raises 323 to 363 and is all-in
+volkem55: folds
+don,sthebest: folds
+Uncalled bet (323) returned to 2Ran128
+2Ran128 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: Dmitry1993 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) collected (120)
+Seat 4: volkem55 (small blind) folded before Flop
+Seat 5: don,sthebest (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830185646: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:46:43 MSK [2018/08/12 23:46:43 ET]
+Table '2381075835 1' 6-max Seat #4 is the button
+Seat 1: Dmitry1993 (493 in chips)
+Seat 2: 2Ran128 (443 in chips)
+Seat 4: volkem55 (530 in chips)
+Seat 5: don,sthebest (921 in chips)
+Seat 6: DiggErr555 (613 in chips)
+Dmitry1993: posts the ante 4
+2Ran128: posts the ante 4
+volkem55: posts the ante 4
+don,sthebest: posts the ante 4
+DiggErr555: posts the ante 4
+don,sthebest: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 2s]
+Dmitry1993: folds
+2Ran128: folds
+volkem55: raises 486 to 526 and is all-in
+don,sthebest: raises 391 to 917 and is all-in
+DiggErr555: folds
+Uncalled bet (391) returned to don,sthebest
+*** FLOP *** [Kc 6d 4h]
+*** TURN *** [Kc 6d 4h] [Ah]
+*** RIVER *** [Kc 6d 4h Ah] [Ad]
+*** SHOW DOWN ***
+don,sthebest: shows [Kh Ks] (a full house, Kings full of Aces)
+volkem55: shows [Kd 2d] (two pair, Aces and Kings)
+don,sthebest collected 1112 from pot
+don,sthebest wins the $4.79 bounty for eliminating volkem55
+volkem55 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1112 | Rake 0
+Board [Kc 6d 4h Ah Ad]
+Seat 1: Dmitry1993 folded before Flop (didn't bet)
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 4: volkem55 (button) showed [Kd 2d] and lost with two pair, Aces and Kings
+Seat 5: don,sthebest (small blind) showed [Kh Ks] and won (1112) with a full house, Kings full of Aces
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830190746: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:47:05 MSK [2018/08/12 23:47:05 ET]
+Table '2381075835 1' 6-max Seat #5 is the button
+Seat 1: Dmitry1993 (489 in chips)
+Seat 2: 2Ran128 (439 in chips)
+Seat 5: don,sthebest (1503 in chips)
+Seat 6: DiggErr555 (569 in chips)
+Dmitry1993: posts the ante 4
+2Ran128: posts the ante 4
+don,sthebest: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+Dmitry1993: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h Qs]
+2Ran128: raises 395 to 435 and is all-in
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: folds
+Uncalled bet (395) returned to 2Ran128
+2Ran128 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 1: Dmitry1993 (big blind) folded before Flop
+Seat 2: 2Ran128 collected (116)
+Seat 5: don,sthebest (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830193708: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:47:18 MSK [2018/08/12 23:47:18 ET]
+Table '2381075835 1' 6-max Seat #6 is the button
+Seat 1: Dmitry1993 (445 in chips)
+Seat 2: 2Ran128 (511 in chips)
+Seat 5: don,sthebest (1499 in chips)
+Seat 6: DiggErr555 (545 in chips)
+Dmitry1993: posts the ante 4
+2Ran128: posts the ante 4
+don,sthebest: posts the ante 4
+DiggErr555: posts the ante 4
+Dmitry1993: posts small blind 20
+2Ran128: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 3h]
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: raises 40 to 80
+2Ran128: calls 40
+*** FLOP *** [Ah 5s Tc]
+Dmitry1993: bets 80
+2Ran128: folds
+Uncalled bet (80) returned to Dmitry1993
+Dmitry1993 collected 176 from pot
+Dmitry1993: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [Ah 5s Tc]
+Seat 1: Dmitry1993 (small blind) collected (176)
+Seat 2: 2Ran128 (big blind) folded on the Flop
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830199553: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:47:43 MSK [2018/08/12 23:47:43 ET]
+Table '2381075835 1' 6-max Seat #1 is the button
+Seat 1: Dmitry1993 (537 in chips)
+Seat 2: 2Ran128 (427 in chips)
+Seat 5: don,sthebest (1495 in chips)
+Seat 6: DiggErr555 (541 in chips)
+Dmitry1993: posts the ante 6
+2Ran128: posts the ante 6
+don,sthebest: posts the ante 6
+DiggErr555: posts the ante 6
+2Ran128: posts small blind 30
+don,sthebest: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 9h]
+DiggErr555: folds
+Dmitry1993: folds
+2Ran128: raises 361 to 421 and is all-in
+don,sthebest: folds
+Uncalled bet (361) returned to 2Ran128
+2Ran128 collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: Dmitry1993 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) collected (144)
+Seat 5: don,sthebest (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189830202169: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:47:54 MSK [2018/08/12 23:47:54 ET]
+Table '2381075835 1' 6-max Seat #2 is the button
+Seat 1: Dmitry1993 (531 in chips)
+Seat 2: 2Ran128 (505 in chips)
+Seat 5: don,sthebest (1429 in chips)
+Seat 6: DiggErr555 (535 in chips)
+Dmitry1993: posts the ante 6
+2Ran128: posts the ante 6
+don,sthebest: posts the ante 6
+DiggErr555: posts the ante 6
+don,sthebest: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 4s]
+Dmitry1993: folds
+2Ran128: folds
+don,sthebest: raises 1363 to 1423 and is all-in
+DiggErr555: folds
+Uncalled bet (1363) returned to don,sthebest
+don,sthebest collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: Dmitry1993 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 5: don,sthebest (small blind) collected (144)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830204795: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:48:05 MSK [2018/08/12 23:48:05 ET]
+Table '2381075835 1' 6-max Seat #5 is the button
+Seat 1: Dmitry1993 (525 in chips)
+Seat 2: 2Ran128 (499 in chips)
+Seat 5: don,sthebest (1507 in chips)
+Seat 6: DiggErr555 (469 in chips)
+Dmitry1993: posts the ante 6
+2Ran128: posts the ante 6
+don,sthebest: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+Dmitry1993: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 8s]
+2Ran128: folds
+don,sthebest: raises 1441 to 1501 and is all-in
+DiggErr555: folds
+Dmitry1993: folds
+Uncalled bet (1441) returned to don,sthebest
+don,sthebest collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: Dmitry1993 (big blind) folded before Flop
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 5: don,sthebest (button) collected (174)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830207404: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:48:17 MSK [2018/08/12 23:48:17 ET]
+Table '2381075835 1' 6-max Seat #6 is the button
+Seat 1: Dmitry1993 (459 in chips)
+Seat 2: 2Ran128 (493 in chips)
+Seat 5: don,sthebest (1615 in chips)
+Seat 6: DiggErr555 (433 in chips)
+Dmitry1993: posts the ante 6
+2Ran128: posts the ante 6
+don,sthebest: posts the ante 6
+DiggErr555: posts the ante 6
+Dmitry1993: posts small blind 30
+2Ran128: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Jh]
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: raises 393 to 453 and is all-in
+2Ran128: folds
+Uncalled bet (393) returned to Dmitry1993
+Dmitry1993 collected 144 from pot
+Dmitry1993: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: Dmitry1993 (small blind) collected (144)
+Seat 2: 2Ran128 (big blind) folded before Flop
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830210881: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:48:32 MSK [2018/08/12 23:48:32 ET]
+Table '2381075835 1' 6-max Seat #1 is the button
+Seat 1: Dmitry1993 (537 in chips)
+Seat 2: 2Ran128 (427 in chips)
+Seat 5: don,sthebest (1609 in chips)
+Seat 6: DiggErr555 (427 in chips)
+Dmitry1993: posts the ante 6
+2Ran128: posts the ante 6
+don,sthebest: posts the ante 6
+DiggErr555: posts the ante 6
+2Ran128: posts small blind 30
+don,sthebest: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Kd]
+DiggErr555: raises 361 to 421 and is all-in
+Dmitry1993: folds
+2Ran128: folds
+don,sthebest: folds
+Uncalled bet (361) returned to DiggErr555
+DiggErr555 collected 174 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: Dmitry1993 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 5: don,sthebest (big blind) folded before Flop
+Seat 6: DiggErr555 collected (174)
+
+PokerStars Hand #189830213468: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:48:43 MSK [2018/08/12 23:48:43 ET]
+Table '2381075835 1' 6-max Seat #2 is the button
+Seat 1: Dmitry1993 (531 in chips)
+Seat 2: 2Ran128 (391 in chips)
+Seat 5: don,sthebest (1543 in chips)
+Seat 6: DiggErr555 (535 in chips)
+Dmitry1993: posts the ante 8
+2Ran128: posts the ante 8
+don,sthebest: posts the ante 8
+DiggErr555: posts the ante 8
+don,sthebest: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 6s]
+Dmitry1993: folds
+2Ran128: raises 303 to 383 and is all-in
+don,sthebest: folds
+DiggErr555: calls 303
+*** FLOP *** [Ac 4s 5s]
+*** TURN *** [Ac 4s 5s] [Td]
+*** RIVER *** [Ac 4s 5s Td] [Kc]
+*** SHOW DOWN ***
+DiggErr555: shows [3d 6s] (high card Ace)
+2Ran128: shows [Ad Ah] (three of a kind, Aces)
+2Ran128 collected 838 from pot
+*** SUMMARY ***
+Total pot 838 | Rake 0
+Board [Ac 4s 5s Td Kc]
+Seat 1: Dmitry1993 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) showed [Ad Ah] and won (838) with three of a kind, Aces
+Seat 5: don,sthebest (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) showed [3d 6s] and lost with high card Ace
+
+PokerStars Hand #189830220907: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:49:15 MSK [2018/08/12 23:49:15 ET]
+Table '2381075835 1' 6-max Seat #5 is the button
+Seat 1: Dmitry1993 (523 in chips)
+Seat 2: 2Ran128 (838 in chips)
+Seat 5: don,sthebest (1495 in chips)
+Seat 6: DiggErr555 (144 in chips)
+Dmitry1993: posts the ante 8
+2Ran128: posts the ante 8
+don,sthebest: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+Dmitry1993: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Kc]
+2Ran128: raises 750 to 830 and is all-in
+don,sthebest: folds
+DiggErr555: calls 96 and is all-in
+Dmitry1993: calls 435 and is all-in
+Uncalled bet (315) returned to 2Ran128
+*** FLOP *** [Ac Td 4s]
+*** TURN *** [Ac Td 4s] [Ks]
+*** RIVER *** [Ac Td 4s Ks] [Ad]
+*** SHOW DOWN ***
+Dmitry1993: shows [As 8c] (three of a kind, Aces)
+2Ran128: shows [9h Jh] (a pair of Aces)
+Dmitry1993 collected 758 from side pot
+DiggErr555: shows [Ah Kc] (a full house, Aces full of Kings)
+DiggErr555 collected 440 from main pot
+*** SUMMARY ***
+Total pot 1198 Main pot 440. Side pot 758. | Rake 0
+Board [Ac Td 4s Ks Ad]
+Seat 1: Dmitry1993 (big blind) showed [As 8c] and won (758) with three of a kind, Aces
+Seat 2: 2Ran128 showed [9h Jh] and lost with a pair of Aces
+Seat 5: don,sthebest (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [Ah Kc] and won (440) with a full house, Aces full of Kings
+
+PokerStars Hand #189830225892: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:49:37 MSK [2018/08/12 23:49:37 ET]
+Table '2381075835 1' 6-max Seat #6 is the button
+Seat 1: Dmitry1993 (758 in chips)
+Seat 2: 2Ran128 (315 in chips)
+Seat 5: don,sthebest (1487 in chips)
+Seat 6: DiggErr555 (440 in chips)
+Dmitry1993: posts the ante 8
+2Ran128: posts the ante 8
+don,sthebest: posts the ante 8
+DiggErr555: posts the ante 8
+Dmitry1993: posts small blind 40
+2Ran128: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Qs]
+don,sthebest: folds
+DiggErr555: folds
+Dmitry1993: raises 670 to 750 and is all-in
+2Ran128: folds
+Uncalled bet (670) returned to Dmitry1993
+Dmitry1993 collected 192 from pot
+Dmitry1993: doesn't show hand
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Seat 1: Dmitry1993 (small blind) collected (192)
+Seat 2: 2Ran128 (big blind) folded before Flop
+Seat 5: don,sthebest folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830229570: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:49:53 MSK [2018/08/12 23:49:53 ET]
+Table '2381075835 1' 6-max Seat #1 is the button
+Seat 1: Dmitry1993 (862 in chips)
+Seat 2: 2Ran128 (227 in chips)
+Seat 5: don,sthebest (1479 in chips)
+Seat 6: DiggErr555 (432 in chips)
+Dmitry1993: posts the ante 8
+2Ran128: posts the ante 8
+don,sthebest: posts the ante 8
+DiggErr555: posts the ante 8
+2Ran128: posts small blind 40
+don,sthebest: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 3c]
+DiggErr555: raises 344 to 424 and is all-in
+Dmitry1993: folds
+2Ran128: calls 179 and is all-in
+don,sthebest: calls 344
+*** FLOP *** [4c 4h Td]
+*** TURN *** [4c 4h Td] [5h]
+*** RIVER *** [4c 4h Td 5h] [3s]
+*** SHOW DOWN ***
+don,sthebest: shows [Jc 9h] (a pair of Fours)
+DiggErr555: shows [3h 3c] (a full house, Threes full of Fours)
+DiggErr555 collected 410 from side pot
+2Ran128: shows [Qc Ts] (two pair, Tens and Fours)
+DiggErr555 collected 689 from main pot
+DiggErr555 wins the $4.79 bounty for eliminating 2Ran128
+2Ran128 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1099 Main pot 689. Side pot 410. | Rake 0
+Board [4c 4h Td 5h 3s]
+Seat 1: Dmitry1993 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) showed [Qc Ts] and lost with two pair, Tens and Fours
+Seat 5: don,sthebest (big blind) showed [Jc 9h] and lost with a pair of Fours
+Seat 6: DiggErr555 showed [3h 3c] and won (1099) with a full house, Threes full of Fours
+
+PokerStars Hand #189830234863: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:50:16 MSK [2018/08/12 23:50:16 ET]
+Table '2381075835 1' 6-max Seat #5 is the button
+Seat 1: Dmitry1993 (854 in chips)
+Seat 5: don,sthebest (1047 in chips)
+Seat 6: DiggErr555 (1099 in chips)
+Dmitry1993: posts the ante 8
+don,sthebest: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+Dmitry1993: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 9c]
+don,sthebest: calls 80
+DiggErr555: raises 1011 to 1091 and is all-in
+Dmitry1993: folds
+don,sthebest: folds
+Uncalled bet (1011) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 1: Dmitry1993 (big blind) folded before Flop
+Seat 5: don,sthebest (button) folded before Flop
+Seat 6: DiggErr555 (small blind) collected (264)
+
+PokerStars Hand #189830239451: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:50:36 MSK [2018/08/12 23:50:36 ET]
+Table '2381075835 1' 6-max Seat #6 is the button
+Seat 1: Dmitry1993 (766 in chips)
+Seat 5: don,sthebest (959 in chips)
+Seat 6: DiggErr555 (1275 in chips)
+Dmitry1993: posts the ante 10
+don,sthebest: posts the ante 10
+DiggErr555: posts the ante 10
+Dmitry1993: posts small blind 50
+don,sthebest: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Td]
+DiggErr555: raises 1165 to 1265 and is all-in
+Dmitry1993: folds
+don,sthebest: calls 849 and is all-in
+Uncalled bet (316) returned to DiggErr555
+*** FLOP *** [Kd 5c Jd]
+*** TURN *** [Kd 5c Jd] [2h]
+*** RIVER *** [Kd 5c Jd 2h] [Jh]
+*** SHOW DOWN ***
+don,sthebest: shows [Js Tc] (three of a kind, Jacks)
+DiggErr555: shows [5d Td] (two pair, Jacks and Fives)
+don,sthebest collected 1978 from pot
+*** SUMMARY ***
+Total pot 1978 | Rake 0
+Board [Kd 5c Jd 2h Jh]
+Seat 1: Dmitry1993 (small blind) folded before Flop
+Seat 5: don,sthebest (big blind) showed [Js Tc] and won (1978) with three of a kind, Jacks
+Seat 6: DiggErr555 (button) showed [5d Td] and lost with two pair, Jacks and Fives
+
+PokerStars Hand #189830244132: Tournament #2381075835, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:50:56 MSK [2018/08/12 23:50:56 ET]
+Table '2381075835 1' 6-max Seat #1 is the button
+Seat 1: Dmitry1993 (706 in chips)
+Seat 5: don,sthebest (1978 in chips)
+Seat 6: DiggErr555 (316 in chips)
+Dmitry1993: posts the ante 10
+don,sthebest: posts the ante 10
+DiggErr555: posts the ante 10
+don,sthebest: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 5h]
+Dmitry1993: folds
+don,sthebest: raises 1868 to 1968 and is all-in
+DiggErr555: calls 206 and is all-in
+Uncalled bet (1662) returned to don,sthebest
+*** FLOP *** [9h 4d 9s]
+*** TURN *** [9h 4d 9s] [9c]
+*** RIVER *** [9h 4d 9s 9c] [Qd]
+*** SHOW DOWN ***
+don,sthebest: shows [Ac 6d] (three of a kind, Nines)
+DiggErr555: shows [Ts 5h] (three of a kind, Nines - lower kicker)
+don,sthebest collected 642 from pot
+don,sthebest wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 642 | Rake 0
+Board [9h 4d 9s 9c Qd]
+Seat 1: Dmitry1993 (button) folded before Flop (didn't bet)
+Seat 5: don,sthebest (small blind) showed [Ac 6d] and won (642) with three of a kind, Nines
+Seat 6: DiggErr555 (big blind) showed [Ts 5h] and lost with three of a kind, Nines

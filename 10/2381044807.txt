@@ -1,0 +1,597 @@
+
+
+PokerStars Hand #189828734922: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:16:49 MSK [2018/08/12 22:16:49 ET]
+Table '2381044807 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (500 in chips)
+Seat 2: bigatello1967 (500 in chips)
+Seat 3: dreia75 (500 in chips)
+Seat 4: Vanessao2220 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: desert120 (500 in chips)
+DiggErr555: posts the ante 2
+bigatello1967: posts the ante 2
+dreia75: posts the ante 2
+Vanessao2220: posts the ante 2
+Mishator: posts the ante 2
+desert120: posts the ante 2
+bigatello1967: posts small blind 10
+dreia75: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 6d]
+Vanessao2220: folds
+Mishator: folds
+desert120: folds
+DiggErr555: folds
+bigatello1967: raises 20 to 40
+dreia75: calls 20
+*** FLOP *** [3c Tc 3d]
+bigatello1967: checks
+dreia75: checks
+*** TURN *** [3c Tc 3d] [9h]
+bigatello1967: checks
+dreia75: checks
+*** RIVER *** [3c Tc 3d 9h] [7s]
+bigatello1967: checks
+dreia75: checks
+*** SHOW DOWN ***
+bigatello1967: shows [Kd 4c] (a pair of Threes)
+dreia75: shows [5d 7d] (two pair, Sevens and Threes)
+dreia75 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Board [3c Tc 3d 9h 7s]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: bigatello1967 (small blind) showed [Kd 4c] and lost with a pair of Threes
+Seat 3: dreia75 (big blind) showed [5d 7d] and won (92) with two pair, Sevens and Threes
+Seat 4: Vanessao2220 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: desert120 folded before Flop (didn't bet)
+
+PokerStars Hand #189828742097: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:17:13 MSK [2018/08/12 22:17:13 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (498 in chips)
+Seat 2: bigatello1967 (458 in chips)
+Seat 3: dreia75 (550 in chips)
+Seat 4: Vanessao2220 (498 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: desert120 (498 in chips)
+DiggErr555: posts the ante 2
+bigatello1967: posts the ante 2
+dreia75: posts the ante 2
+Vanessao2220: posts the ante 2
+Mishator: posts the ante 2
+desert120: posts the ante 2
+dreia75: posts small blind 10
+Vanessao2220: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Qh]
+Mishator: folds
+desert120: calls 20
+DiggErr555: folds
+bigatello1967: folds
+dreia75: calls 10
+Vanessao2220: raises 80 to 100
+desert120: calls 80
+dreia75: calls 80
+*** FLOP *** [Ah 9h 3h]
+dreia75: checks
+Vanessao2220: bets 396 and is all-in
+desert120: calls 396 and is all-in
+dreia75: folds
+*** TURN *** [Ah 9h 3h] [9c]
+*** RIVER *** [Ah 9h 3h 9c] [3d]
+*** SHOW DOWN ***
+Vanessao2220: shows [Qs As] (two pair, Aces and Nines)
+desert120: shows [Kh Js] (two pair, Nines and Threes)
+Vanessao2220 collected 1104 from pot
+Vanessao2220 wins the $2.38 bounty for eliminating desert120
+desert120 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1104 | Rake 0
+Board [Ah 9h 3h 9c 3d]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 3: dreia75 (small blind) folded on the Flop
+Seat 4: Vanessao2220 (big blind) showed [Qs As] and won (1104) with two pair, Aces and Nines
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: desert120 showed [Kh Js] and lost with two pair, Nines and Threes
+
+PokerStars Hand #189828756540: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:18:00 MSK [2018/08/12 22:18:00 ET]
+Table '2381044807 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (496 in chips)
+Seat 2: bigatello1967 (456 in chips)
+Seat 3: dreia75 (448 in chips)
+Seat 4: Vanessao2220 (1104 in chips)
+Seat 5: Mishator (496 in chips)
+DiggErr555: posts the ante 2
+bigatello1967: posts the ante 2
+dreia75: posts the ante 2
+Vanessao2220: posts the ante 2
+Mishator: posts the ante 2
+Vanessao2220: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Jc]
+DiggErr555: raises 20 to 40
+bigatello1967: calls 40
+dreia75: calls 40
+Vanessao2220: calls 30
+Mishator: calls 20
+*** FLOP *** [7d 6c Kh]
+Vanessao2220: checks
+Mishator: checks
+DiggErr555: checks
+bigatello1967: checks
+dreia75: checks
+*** TURN *** [7d 6c Kh] [Ah]
+Vanessao2220: bets 100
+Mishator: folds
+DiggErr555: folds
+bigatello1967: calls 100
+dreia75: calls 100
+*** RIVER *** [7d 6c Kh Ah] [7h]
+Vanessao2220: checks
+bigatello1967: bets 100
+dreia75: calls 100
+Vanessao2220: folds
+*** SHOW DOWN ***
+bigatello1967: shows [5h Qh] (a flush, Ace high)
+dreia75: mucks hand
+bigatello1967 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | Rake 0
+Board [7d 6c Kh Ah 7h]
+Seat 1: DiggErr555 folded on the Turn
+Seat 2: bigatello1967 showed [5h Qh] and won (710) with a flush, Ace high
+Seat 3: dreia75 (button) mucked [3h As]
+Seat 4: Vanessao2220 (small blind) folded on the River
+Seat 5: Mishator (big blind) folded on the Turn
+
+PokerStars Hand #189828773855: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:18:56 MSK [2018/08/12 22:18:56 ET]
+Table '2381044807 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (454 in chips)
+Seat 2: bigatello1967 (924 in chips)
+Seat 3: dreia75 (206 in chips)
+Seat 4: Vanessao2220 (962 in chips)
+Seat 5: Mishator (454 in chips)
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+dreia75: posts the ante 3
+Vanessao2220: posts the ante 3
+Mishator: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Jc]
+bigatello1967: calls 30
+dreia75: raises 173 to 203 and is all-in
+Vanessao2220: folds
+Mishator: folds
+DiggErr555: raises 248 to 451 and is all-in
+bigatello1967: folds
+Uncalled bet (248) returned to DiggErr555
+*** FLOP *** [5c 8h 2d]
+*** TURN *** [5c 8h 2d] [Td]
+*** RIVER *** [5c 8h 2d Td] [5h]
+*** SHOW DOWN ***
+DiggErr555: shows [Th Jc] (two pair, Tens and Fives)
+dreia75: shows [7h 7c] (two pair, Sevens and Fives)
+DiggErr555 collected 466 from pot
+DiggErr555 wins the $2.38 bounty for eliminating dreia75
+dreia75 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 466 | Rake 0
+Board [5c 8h 2d Td 5h]
+Seat 1: DiggErr555 (big blind) showed [Th Jc] and won (466) with two pair, Tens and Fives
+Seat 2: bigatello1967 folded before Flop
+Seat 3: dreia75 showed [7h 7c] and lost with two pair, Sevens and Fives
+Seat 4: Vanessao2220 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189828782789: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:26 MSK [2018/08/12 22:19:26 ET]
+Table '2381044807 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (714 in chips)
+Seat 2: bigatello1967 (891 in chips)
+Seat 4: Vanessao2220 (959 in chips)
+Seat 5: Mishator (436 in chips)
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+Vanessao2220: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts small blind 15
+bigatello1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Kh]
+Vanessao2220: folds
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (15) returned to bigatello1967
+bigatello1967 collected 42 from pot
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: bigatello1967 (big blind) collected (42)
+Seat 4: Vanessao2220 folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828787544: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:42 MSK [2018/08/12 22:19:42 ET]
+Table '2381044807 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (696 in chips)
+Seat 2: bigatello1967 (915 in chips)
+Seat 4: Vanessao2220 (956 in chips)
+Seat 5: Mishator (433 in chips)
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+Vanessao2220: posts the ante 3
+Mishator: posts the ante 3
+bigatello1967: posts small blind 15
+Vanessao2220: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 5d]
+Mishator: folds
+DiggErr555: folds
+bigatello1967: folds
+Uncalled bet (15) returned to Vanessao2220
+Vanessao2220 collected 42 from pot
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: bigatello1967 (small blind) folded before Flop
+Seat 4: Vanessao2220 (big blind) collected (42)
+Seat 5: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189828790025: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:50 MSK [2018/08/12 22:19:50 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (693 in chips)
+Seat 2: bigatello1967 (897 in chips)
+Seat 4: Vanessao2220 (980 in chips)
+Seat 5: Mishator (430 in chips)
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+Vanessao2220: posts the ante 3
+Mishator: posts the ante 3
+Vanessao2220: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Qh]
+DiggErr555: folds
+bigatello1967: raises 120 to 150
+Vanessao2220: calls 135
+Mishator: raises 277 to 427 and is all-in
+bigatello1967: calls 277
+Vanessao2220: folds
+*** FLOP *** [Qs 6s Ts]
+*** TURN *** [Qs 6s Ts] [2h]
+*** RIVER *** [Qs 6s Ts 2h] [9h]
+*** SHOW DOWN ***
+Mishator: shows [Kd Ac] (high card Ace)
+bigatello1967: shows [5s 5c] (a pair of Fives)
+bigatello1967 collected 1016 from pot
+bigatello1967 wins the $2.38 bounty for eliminating Mishator
+Mishator finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1016 | Rake 0
+Board [Qs 6s Ts 2h 9h]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: bigatello1967 (button) showed [5s 5c] and won (1016) with a pair of Fives
+Seat 4: Vanessao2220 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [Kd Ac] and lost with high card Ace
+
+PokerStars Hand #189828801218: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:20:26 MSK [2018/08/12 22:20:26 ET]
+Table '2381044807 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (690 in chips)
+Seat 2: bigatello1967 (1483 in chips)
+Seat 4: Vanessao2220 (827 in chips)
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+Vanessao2220: posts the ante 4
+DiggErr555: posts small blind 20
+bigatello1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 9h]
+Vanessao2220: raises 40 to 80
+DiggErr555: folds
+bigatello1967: folds
+Uncalled bet (40) returned to Vanessao2220
+Vanessao2220 collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: bigatello1967 (big blind) folded before Flop
+Seat 4: Vanessao2220 (button) collected (112)
+
+PokerStars Hand #189828805053: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:20:39 MSK [2018/08/12 22:20:39 ET]
+Table '2381044807 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (666 in chips)
+Seat 2: bigatello1967 (1439 in chips)
+Seat 4: Vanessao2220 (895 in chips)
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+Vanessao2220: posts the ante 4
+bigatello1967: posts small blind 20
+Vanessao2220: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 7c]
+DiggErr555: raises 40 to 80
+bigatello1967: folds
+Vanessao2220: calls 40
+*** FLOP *** [9h 3d 5c]
+Vanessao2220: checks
+DiggErr555: bets 67
+Vanessao2220: folds
+Uncalled bet (67) returned to DiggErr555
+DiggErr555 collected 192 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Board [9h 3d 5c]
+Seat 1: DiggErr555 (button) collected (192)
+Seat 2: bigatello1967 (small blind) folded before Flop
+Seat 4: Vanessao2220 (big blind) folded on the Flop
+
+PokerStars Hand #189828811934: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:01 MSK [2018/08/12 22:21:01 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (774 in chips)
+Seat 2: bigatello1967 (1415 in chips)
+Seat 4: Vanessao2220 (811 in chips)
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+Vanessao2220: posts the ante 4
+Vanessao2220: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Ts]
+bigatello1967: calls 40
+Vanessao2220: raises 767 to 807 and is all-in
+DiggErr555: folds
+bigatello1967: folds
+Uncalled bet (767) returned to Vanessao2220
+Vanessao2220 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: bigatello1967 (button) folded before Flop
+Seat 4: Vanessao2220 (small blind) collected (132)
+
+PokerStars Hand #189828817421: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:19 MSK [2018/08/12 22:21:19 ET]
+Table '2381044807 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (730 in chips)
+Seat 2: bigatello1967 (1371 in chips)
+Seat 4: Vanessao2220 (899 in chips)
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+Vanessao2220: posts the ante 4
+DiggErr555: posts small blind 20
+bigatello1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 5h]
+Vanessao2220: raises 40 to 80
+DiggErr555: folds
+bigatello1967: folds
+Uncalled bet (40) returned to Vanessao2220
+Vanessao2220 collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: bigatello1967 (big blind) folded before Flop
+Seat 4: Vanessao2220 (button) collected (112)
+
+PokerStars Hand #189828820732: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:21:30 MSK [2018/08/12 22:21:30 ET]
+Table '2381044807 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (706 in chips)
+Seat 2: bigatello1967 (1327 in chips)
+Seat 4: Vanessao2220 (967 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+Vanessao2220: posts the ante 6
+bigatello1967: posts small blind 30
+Vanessao2220: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 5d]
+DiggErr555: folds
+bigatello1967: folds
+Uncalled bet (30) returned to Vanessao2220
+Vanessao2220 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: bigatello1967 (small blind) folded before Flop
+Seat 4: Vanessao2220 (big blind) collected (78)
+
+PokerStars Hand #189828822387: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:21:36 MSK [2018/08/12 22:21:36 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (700 in chips)
+Seat 2: bigatello1967 (1291 in chips)
+Seat 4: Vanessao2220 (1009 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+Vanessao2220: posts the ante 6
+Vanessao2220: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Js]
+bigatello1967: raises 60 to 120
+Vanessao2220: folds
+DiggErr555: folds
+Uncalled bet (60) returned to bigatello1967
+bigatello1967 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: bigatello1967 (button) collected (168)
+Seat 4: Vanessao2220 (small blind) folded before Flop
+
+PokerStars Hand #189828828485: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:21:55 MSK [2018/08/12 22:21:55 ET]
+Table '2381044807 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (634 in chips)
+Seat 2: bigatello1967 (1393 in chips)
+Seat 4: Vanessao2220 (973 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+Vanessao2220: posts the ante 6
+DiggErr555: posts small blind 30
+bigatello1967: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 6d]
+Vanessao2220: folds
+DiggErr555: folds
+Uncalled bet (30) returned to bigatello1967
+bigatello1967 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: bigatello1967 (big blind) collected (78)
+Seat 4: Vanessao2220 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828835432: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:22:18 MSK [2018/08/12 22:22:18 ET]
+Table '2381044807 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (598 in chips)
+Seat 2: bigatello1967 (1435 in chips)
+Seat 4: Vanessao2220 (967 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+Vanessao2220: posts the ante 6
+bigatello1967: posts small blind 30
+Vanessao2220: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Qd]
+DiggErr555: raises 532 to 592 and is all-in
+bigatello1967: folds
+Vanessao2220: folds
+Uncalled bet (532) returned to DiggErr555
+DiggErr555 collected 168 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 1: DiggErr555 (button) collected (168)
+Seat 2: bigatello1967 (small blind) folded before Flop
+Seat 4: Vanessao2220 (big blind) folded before Flop
+
+PokerStars Hand #189828840476: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:22:35 MSK [2018/08/12 22:22:35 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (700 in chips)
+Seat 2: bigatello1967 (1399 in chips)
+Seat 4: Vanessao2220 (901 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+Vanessao2220: posts the ante 6
+Vanessao2220: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s As]
+bigatello1967: folds
+Vanessao2220: raises 835 to 895 and is all-in
+DiggErr555: calls 634 and is all-in
+Uncalled bet (201) returned to Vanessao2220
+*** FLOP *** [3c Tc Jc]
+*** TURN *** [3c Tc Jc] [9c]
+*** RIVER *** [3c Tc Jc 9c] [9d]
+*** SHOW DOWN ***
+Vanessao2220: shows [Ad 5s] (a pair of Nines)
+DiggErr555: shows [8s As] (a pair of Nines)
+Vanessao2220 collected 703 from pot
+DiggErr555 collected 703 from pot
+*** SUMMARY ***
+Total pot 1406 | Rake 0
+Board [3c Tc Jc 9c 9d]
+Seat 1: DiggErr555 (big blind) showed [8s As] and won (703) with a pair of Nines
+Seat 2: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 4: Vanessao2220 (small blind) showed [Ad 5s] and won (703) with a pair of Nines
+
+PokerStars Hand #189828847648: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:22:59 MSK [2018/08/12 22:22:59 ET]
+Table '2381044807 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (703 in chips)
+Seat 2: bigatello1967 (1393 in chips)
+Seat 4: Vanessao2220 (904 in chips)
+DiggErr555: posts the ante 8
+bigatello1967: posts the ante 8
+Vanessao2220: posts the ante 8
+DiggErr555: posts small blind 40
+bigatello1967: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 2c]
+Vanessao2220: raises 816 to 896 and is all-in
+DiggErr555: folds
+bigatello1967: calls 816
+*** FLOP *** [Kh Qc 6h]
+*** TURN *** [Kh Qc 6h] [5s]
+*** RIVER *** [Kh Qc 6h 5s] [Tc]
+*** SHOW DOWN ***
+bigatello1967: shows [Ad 9c] (high card Ace)
+Vanessao2220: shows [As 8h] (high card Ace - lower kicker)
+bigatello1967 collected 1856 from pot
+bigatello1967 wins the $2.38 bounty for eliminating Vanessao2220
+Vanessao2220 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1856 | Rake 0
+Board [Kh Qc 6h 5s Tc]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: bigatello1967 (big blind) showed [Ad 9c] and won (1856) with high card Ace
+Seat 4: Vanessao2220 (button) showed [As 8h] and lost with high card Ace
+
+PokerStars Hand #189828853149: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:23:17 MSK [2018/08/12 22:23:17 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (655 in chips)
+Seat 2: bigatello1967 (2345 in chips)
+DiggErr555: posts the ante 8
+bigatello1967: posts the ante 8
+bigatello1967: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 9c]
+bigatello1967: calls 40
+DiggErr555: raises 567 to 647 and is all-in
+bigatello1967: folds
+Uncalled bet (567) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (176)
+Seat 2: bigatello1967 (button) (small blind) folded before Flop
+
+PokerStars Hand #189828856246: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:23:27 MSK [2018/08/12 22:23:27 ET]
+Table '2381044807 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (743 in chips)
+Seat 2: bigatello1967 (2257 in chips)
+DiggErr555: posts the ante 8
+bigatello1967: posts the ante 8
+DiggErr555: posts small blind 40
+bigatello1967: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 4d]
+DiggErr555: raises 655 to 735 and is all-in
+bigatello1967: folds
+Uncalled bet (655) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 1: DiggErr555 (button) (small blind) collected (176)
+Seat 2: bigatello1967 (big blind) folded before Flop
+
+PokerStars Hand #189828858236: Tournament #2381044807, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:23:34 MSK [2018/08/12 22:23:34 ET]
+Table '2381044807 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (831 in chips)
+Seat 2: bigatello1967 (2169 in chips)
+DiggErr555: posts the ante 8
+bigatello1967: posts the ante 8
+bigatello1967: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Jh]
+bigatello1967: calls 40
+DiggErr555: raises 743 to 823 and is all-in
+bigatello1967: calls 743
+*** FLOP *** [7s 2d 2s]
+*** TURN *** [7s 2d 2s] [Tc]
+*** RIVER *** [7s 2d 2s Tc] [9h]
+*** SHOW DOWN ***
+DiggErr555: shows [Ac Jh] (a pair of Deuces)
+bigatello1967: shows [Ah Kh] (a pair of Deuces - Ace+King kicker)
+bigatello1967 collected 1662 from pot
+*** SUMMARY ***
+Total pot 1662 | Rake 0
+Board [7s 2d 2s Tc 9h]
+Seat 1: DiggErr555 (big blind) showed [Ac Jh] and lost with a pair of Deuces
+Seat 2: bigatello1967 (button) (small blind) showed [Ah Kh] and won (1662) with a pair of Deuces

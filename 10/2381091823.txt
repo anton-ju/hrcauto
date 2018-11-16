@@ -1,0 +1,408 @@
+
+
+PokerStars Hand #189830802070: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:33:48 MSK [2018/08/13 0:33:48 ET]
+Table '2381091823 1' 6-max Seat #1 is the button
+Seat 1: LimpAndJam (500 in chips)
+Seat 2: MichelLaflop (500 in chips)
+Seat 3: time part 90 (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: joel 1206 (500 in chips)
+Seat 6: beefstu694 (500 in chips)
+LimpAndJam: posts the ante 2
+MichelLaflop: posts the ante 2
+time part 90: posts the ante 2
+DiggErr555: posts the ante 2
+joel 1206: posts the ante 2
+beefstu694: posts the ante 2
+MichelLaflop: posts small blind 10
+time part 90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh Kh]
+DiggErr555: raises 20 to 40
+joel 1206: calls 40
+beefstu694: folds
+LimpAndJam: folds
+MichelLaflop: folds
+time part 90: folds
+*** FLOP *** [9h 3c As]
+DiggErr555: bets 42
+joel 1206: folds
+Uncalled bet (42) returned to DiggErr555
+DiggErr555 collected 122 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Board [9h 3c As]
+Seat 1: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 2: MichelLaflop (small blind) folded before Flop
+Seat 3: time part 90 (big blind) folded before Flop
+Seat 4: DiggErr555 collected (122)
+Seat 5: joel 1206 folded on the Flop
+Seat 6: beefstu694 folded before Flop (didn't bet)
+
+PokerStars Hand #189830811536: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:34:33 MSK [2018/08/13 0:34:33 ET]
+Table '2381091823 1' 6-max Seat #2 is the button
+Seat 1: LimpAndJam (498 in chips)
+Seat 2: MichelLaflop (488 in chips)
+Seat 3: time part 90 (478 in chips)
+Seat 4: DiggErr555 (580 in chips)
+Seat 5: joel 1206 (458 in chips)
+Seat 6: beefstu694 (498 in chips)
+LimpAndJam: posts the ante 2
+MichelLaflop: posts the ante 2
+time part 90: posts the ante 2
+DiggErr555: posts the ante 2
+joel 1206: posts the ante 2
+beefstu694: posts the ante 2
+time part 90: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 6d]
+joel 1206: raises 436 to 456 and is all-in
+beefstu694: folds
+LimpAndJam: folds
+MichelLaflop: folds
+time part 90: folds
+DiggErr555: folds
+Uncalled bet (436) returned to joel 1206
+joel 1206 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: LimpAndJam folded before Flop (didn't bet)
+Seat 2: MichelLaflop (button) folded before Flop (didn't bet)
+Seat 3: time part 90 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: joel 1206 collected (62)
+Seat 6: beefstu694 folded before Flop (didn't bet)
+
+PokerStars Hand #189830821276: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:35:20 MSK [2018/08/13 0:35:20 ET]
+Table '2381091823 1' 6-max Seat #3 is the button
+Seat 1: LimpAndJam (496 in chips)
+Seat 2: MichelLaflop (486 in chips)
+Seat 3: time part 90 (466 in chips)
+Seat 4: DiggErr555 (558 in chips)
+Seat 5: joel 1206 (498 in chips)
+Seat 6: beefstu694 (496 in chips)
+LimpAndJam: posts the ante 2
+MichelLaflop: posts the ante 2
+time part 90: posts the ante 2
+DiggErr555: posts the ante 2
+joel 1206: posts the ante 2
+beefstu694: posts the ante 2
+DiggErr555: posts small blind 10
+joel 1206: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 6s]
+beefstu694: folds
+LimpAndJam: folds
+MichelLaflop: calls 20
+time part 90: raises 444 to 464 and is all-in
+DiggErr555: folds
+joel 1206: folds
+MichelLaflop: folds
+Uncalled bet (444) returned to time part 90
+time part 90 collected 82 from pot
+time part 90: doesn't show hand
+*** SUMMARY ***
+Total pot 82 | Rake 0
+Seat 1: LimpAndJam folded before Flop (didn't bet)
+Seat 2: MichelLaflop folded before Flop
+Seat 3: time part 90 (button) collected (82)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: joel 1206 (big blind) folded before Flop
+Seat 6: beefstu694 folded before Flop (didn't bet)
+
+PokerStars Hand #189830830193: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:36:03 MSK [2018/08/13 0:36:03 ET]
+Table '2381091823 1' 6-max Seat #4 is the button
+Seat 1: LimpAndJam (494 in chips)
+Seat 2: MichelLaflop (464 in chips)
+Seat 3: time part 90 (526 in chips)
+Seat 4: DiggErr555 (546 in chips)
+Seat 5: joel 1206 (476 in chips)
+Seat 6: beefstu694 (494 in chips)
+LimpAndJam: posts the ante 3
+MichelLaflop: posts the ante 3
+time part 90: posts the ante 3
+DiggErr555: posts the ante 3
+joel 1206: posts the ante 3
+beefstu694: posts the ante 3
+joel 1206: posts small blind 15
+beefstu694: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 7c]
+LimpAndJam: folds
+MichelLaflop: folds
+time part 90: calls 30
+DiggErr555: folds
+joel 1206: raises 420 to 450
+beefstu694: folds
+time part 90: folds
+Uncalled bet (420) returned to joel 1206
+joel 1206 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | Rake 0
+Seat 1: LimpAndJam folded before Flop (didn't bet)
+Seat 2: MichelLaflop folded before Flop (didn't bet)
+Seat 3: time part 90 folded before Flop
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: joel 1206 (small blind) collected (108)
+Seat 6: beefstu694 (big blind) folded before Flop
+
+PokerStars Hand #189830837129: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:36:36 MSK [2018/08/13 0:36:36 ET]
+Table '2381091823 1' 6-max Seat #5 is the button
+Seat 1: LimpAndJam (491 in chips)
+Seat 2: MichelLaflop (461 in chips)
+Seat 3: time part 90 (493 in chips)
+Seat 4: DiggErr555 (543 in chips)
+Seat 5: joel 1206 (551 in chips)
+Seat 6: beefstu694 (461 in chips)
+LimpAndJam: posts the ante 3
+MichelLaflop: posts the ante 3
+time part 90: posts the ante 3
+DiggErr555: posts the ante 3
+joel 1206: posts the ante 3
+beefstu694: posts the ante 3
+beefstu694: posts small blind 15
+LimpAndJam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Qd]
+MichelLaflop: calls 30
+time part 90: folds
+DiggErr555: folds
+joel 1206: calls 30
+beefstu694: calls 15
+LimpAndJam: checks
+*** FLOP *** [Jc Jh 9s]
+beefstu694: bets 30
+LimpAndJam: calls 30
+MichelLaflop: folds
+joel 1206: folds
+*** TURN *** [Jc Jh 9s] [3c]
+beefstu694: bets 90
+LimpAndJam: folds
+Uncalled bet (90) returned to beefstu694
+beefstu694 collected 198 from pot
+beefstu694: doesn't show hand
+*** SUMMARY ***
+Total pot 198 | Rake 0
+Board [Jc Jh 9s 3c]
+Seat 1: LimpAndJam (big blind) folded on the Turn
+Seat 2: MichelLaflop folded on the Flop
+Seat 3: time part 90 folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: joel 1206 (button) folded on the Flop
+Seat 6: beefstu694 (small blind) collected (198)
+
+PokerStars Hand #189830850540: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:37:40 MSK [2018/08/13 0:37:40 ET]
+Table '2381091823 1' 6-max Seat #6 is the button
+Seat 1: LimpAndJam (428 in chips)
+Seat 2: MichelLaflop (428 in chips)
+Seat 3: time part 90 (490 in chips)
+Seat 4: DiggErr555 (540 in chips)
+Seat 5: joel 1206 (518 in chips)
+Seat 6: beefstu694 (596 in chips)
+LimpAndJam: posts the ante 3
+MichelLaflop: posts the ante 3
+time part 90: posts the ante 3
+DiggErr555: posts the ante 3
+joel 1206: posts the ante 3
+beefstu694: posts the ante 3
+LimpAndJam: posts small blind 15
+MichelLaflop: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Qh]
+time part 90: folds
+DiggErr555: folds
+joel 1206: folds
+beefstu694: folds
+LimpAndJam: folds
+Uncalled bet (15) returned to MichelLaflop
+MichelLaflop collected 48 from pot
+MichelLaflop: doesn't show hand
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: LimpAndJam (small blind) folded before Flop
+Seat 2: MichelLaflop (big blind) collected (48)
+Seat 3: time part 90 folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: joel 1206 folded before Flop (didn't bet)
+Seat 6: beefstu694 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830853265: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:37:53 MSK [2018/08/13 0:37:53 ET]
+Table '2381091823 1' 6-max Seat #1 is the button
+Seat 1: LimpAndJam (410 in chips)
+Seat 2: MichelLaflop (458 in chips)
+Seat 3: time part 90 (487 in chips)
+Seat 4: DiggErr555 (537 in chips)
+Seat 5: joel 1206 (515 in chips)
+Seat 6: beefstu694 (593 in chips)
+LimpAndJam: posts the ante 3
+MichelLaflop: posts the ante 3
+time part 90: posts the ante 3
+DiggErr555: posts the ante 3
+joel 1206: posts the ante 3
+beefstu694: posts the ante 3
+MichelLaflop: posts small blind 15
+time part 90: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 5h]
+DiggErr555: folds
+joel 1206: calls 30
+beefstu694: folds
+LimpAndJam: folds
+MichelLaflop: folds
+time part 90: checks
+*** FLOP *** [Ks 3d Ad]
+time part 90: checks
+joel 1206: checks
+*** TURN *** [Ks 3d Ad] [Kc]
+time part 90 has timed out
+time part 90: checks
+joel 1206: bets 60
+time part 90 has timed out
+time part 90: folds
+time part 90 is sitting out
+Uncalled bet (60) returned to joel 1206
+joel 1206 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Board [Ks 3d Ad Kc]
+Seat 1: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 2: MichelLaflop (small blind) folded before Flop
+Seat 3: time part 90 (big blind) folded on the Turn
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: joel 1206 collected (93)
+Seat 6: beefstu694 folded before Flop (didn't bet)
+
+PokerStars Hand #189830869101: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:39:10 MSK [2018/08/13 0:39:10 ET]
+Table '2381091823 1' 6-max Seat #2 is the button
+Seat 1: LimpAndJam (407 in chips)
+Seat 2: MichelLaflop (440 in chips)
+Seat 3: time part 90 (454 in chips)
+Seat 4: DiggErr555 (534 in chips)
+Seat 5: joel 1206 (575 in chips)
+Seat 6: beefstu694 (590 in chips)
+LimpAndJam: posts the ante 4
+MichelLaflop: posts the ante 4
+time part 90: posts the ante 4
+DiggErr555: posts the ante 4
+joel 1206: posts the ante 4
+beefstu694: posts the ante 4
+time part 90: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 7s]
+joel 1206: calls 40
+beefstu694: folds
+LimpAndJam: folds
+MichelLaflop: folds
+time part 90: folds
+DiggErr555: checks
+*** FLOP *** [Qd 6s As]
+DiggErr555: checks
+joel 1206: bets 62
+DiggErr555: folds
+Uncalled bet (62) returned to joel 1206
+joel 1206 collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | Rake 0
+Board [Qd 6s As]
+Seat 1: LimpAndJam folded before Flop (didn't bet)
+Seat 2: MichelLaflop (button) folded before Flop (didn't bet)
+Seat 3: time part 90 (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded on the Flop
+Seat 5: joel 1206 collected (124)
+Seat 6: beefstu694 folded before Flop (didn't bet)
+
+PokerStars Hand #189830883200: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:39:42 MSK [2018/08/13 0:39:42 ET]
+Table '2381091823 1' 6-max Seat #3 is the button
+Seat 1: LimpAndJam (403 in chips)
+Seat 2: MichelLaflop (436 in chips)
+Seat 3: time part 90 (430 in chips)
+Seat 4: DiggErr555 (490 in chips)
+Seat 5: joel 1206 (655 in chips)
+Seat 6: beefstu694 (586 in chips)
+LimpAndJam: posts the ante 4
+MichelLaflop: posts the ante 4
+time part 90: posts the ante 4
+DiggErr555: posts the ante 4
+joel 1206: posts the ante 4
+beefstu694: posts the ante 4
+DiggErr555: posts small blind 20
+joel 1206: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 4h]
+beefstu694: folds
+LimpAndJam: folds
+MichelLaflop: calls 40
+time part 90: raises 386 to 426 and is all-in
+DiggErr555: folds
+joel 1206: folds
+MichelLaflop: calls 386
+*** FLOP *** [2s Js 4d]
+*** TURN *** [2s Js 4d] [3s]
+*** RIVER *** [2s Js 4d 3s] [Kc]
+*** SHOW DOWN ***
+MichelLaflop: shows [Qd Jd] (a pair of Jacks)
+time part 90: shows [Qh Ks] (a pair of Kings)
+time part 90 collected 936 from pot
+*** SUMMARY ***
+Total pot 936 | Rake 0
+Board [2s Js 4d 3s Kc]
+Seat 1: LimpAndJam folded before Flop (didn't bet)
+Seat 2: MichelLaflop showed [Qd Jd] and lost with a pair of Jacks
+Seat 3: time part 90 (button) showed [Qh Ks] and won (936) with a pair of Kings
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: joel 1206 (big blind) folded before Flop
+Seat 6: beefstu694 folded before Flop (didn't bet)
+
+PokerStars Hand #189830890466: Tournament #2381091823, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:40:16 MSK [2018/08/13 0:40:16 ET]
+Table '2381091823 1' 6-max Seat #4 is the button
+Seat 1: LimpAndJam (399 in chips)
+Seat 2: MichelLaflop (6 in chips)
+Seat 3: time part 90 (936 in chips)
+Seat 4: DiggErr555 (466 in chips)
+Seat 5: joel 1206 (611 in chips)
+Seat 6: beefstu694 (582 in chips)
+LimpAndJam: posts the ante 4
+MichelLaflop: posts the ante 4
+time part 90: posts the ante 4
+DiggErr555: posts the ante 4
+joel 1206: posts the ante 4
+beefstu694: posts the ante 4
+joel 1206: posts small blind 20
+beefstu694: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 6h]
+LimpAndJam: raises 355 to 395 and is all-in
+MichelLaflop: calls 2 and is all-in
+time part 90: folds
+DiggErr555: raises 67 to 462 and is all-in
+joel 1206: folds
+beefstu694: calls 422
+*** FLOP *** [8s Qd 4c]
+*** TURN *** [8s Qd 4c] [6s]
+*** RIVER *** [8s Qd 4c 6s] [3s]
+*** SHOW DOWN ***
+beefstu694: shows [8d 8c] (three of a kind, Eights)
+DiggErr555: shows [Ah 6h] (a pair of Sixes)
+beefstu694 collected 134 from side pot-2
+LimpAndJam: shows [Qs Jd] (a pair of Queens)
+beefstu694 collected 1197 from side pot-1
+MichelLaflop: shows [5c Ac] (high card Ace)
+beefstu694 collected 34 from main pot
+beefstu694 wins the $2.38 bounty for eliminating LimpAndJam
+beefstu694 wins the $2.38 bounty for eliminating MichelLaflop
+beefstu694 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+LimpAndJam finished the tournament in 5th place
+MichelLaflop finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1365 Main pot 34. Side pot-1 1197. Side pot-2 134. | Rake 0
+Board [8s Qd 4c 6s 3s]
+Seat 1: LimpAndJam showed [Qs Jd] and lost with a pair of Queens
+Seat 2: MichelLaflop showed [5c Ac] and lost with high card Ace
+Seat 3: time part 90 folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) showed [Ah 6h] and lost with a pair of Sixes
+Seat 5: joel 1206 (small blind) folded before Flop
+Seat 6: beefstu694 (big blind) showed [8d 8c] and won (1365) with three of a kind, Eights

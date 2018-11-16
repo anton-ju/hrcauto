@@ -1,0 +1,490 @@
+
+
+PokerStars Hand #189829196369: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:42:45 MSK [2018/08/12 22:42:45 ET]
+Table '2381055093 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (500 in chips)
+Seat 2: marie3010 (500 in chips)
+Seat 3: josefmil (500 in chips)
+Seat 4: mrzm0118 (500 in chips)
+Seat 5: cowhead72 (500 in chips)
+Seat 6: Mishator (500 in chips)
+DiggErr555: posts the ante 2
+marie3010: posts the ante 2
+josefmil: posts the ante 2
+mrzm0118: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts the ante 2
+marie3010: posts small blind 10
+josefmil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Jh]
+mrzm0118: raises 20 to 40
+cowhead72 has timed out
+cowhead72: folds
+cowhead72 is sitting out
+Mishator: folds
+DiggErr555: folds
+cowhead72 has returned
+marie3010: raises 458 to 498 and is all-in
+josefmil: calls 478 and is all-in
+mrzm0118: calls 458 and is all-in
+*** FLOP *** [3d Tc 7h]
+*** TURN *** [3d Tc 7h] [8h]
+*** RIVER *** [3d Tc 7h 8h] [Kd]
+*** SHOW DOWN ***
+marie3010: shows [8c 8d] (three of a kind, Eights)
+josefmil: shows [Ad 6d] (high card Ace)
+mrzm0118: shows [Jc Jd] (a pair of Jacks)
+marie3010 collected 1506 from pot
+marie3010 wins the $4.79 bounty for eliminating josefmil
+marie3010 wins the $4.79 bounty for eliminating mrzm0118
+josefmil finished the tournament in 5th place
+mrzm0118 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1506 | Rake 0
+Board [3d Tc 7h 8h Kd]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: marie3010 (small blind) showed [8c 8d] and won (1506) with three of a kind, Eights
+Seat 3: josefmil (big blind) showed [Ad 6d] and lost with high card Ace
+Seat 4: mrzm0118 showed [Jc Jd] and lost with a pair of Jacks
+Seat 5: cowhead72 folded before Flop (didn't bet)
+Seat 6: Mishator folded before Flop (didn't bet)
+
+PokerStars Hand #189829212532: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:43:42 MSK [2018/08/12 22:43:42 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (498 in chips)
+Seat 2: marie3010 (1506 in chips)
+Seat 5: cowhead72 (498 in chips)
+Seat 6: Mishator (498 in chips)
+DiggErr555: posts the ante 2
+marie3010: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts the ante 2
+cowhead72: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 3s]
+DiggErr555: folds
+marie3010: raises 40 to 60
+cowhead72: folds
+Mishator: folds
+Uncalled bet (40) returned to marie3010
+marie3010 collected 58 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 58 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: marie3010 (button) collected (58)
+Seat 5: cowhead72 (small blind) folded before Flop
+Seat 6: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829219426: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:44:07 MSK [2018/08/12 22:44:07 ET]
+Table '2381055093 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (496 in chips)
+Seat 2: marie3010 (1542 in chips)
+Seat 5: cowhead72 (486 in chips)
+Seat 6: Mishator (476 in chips)
+DiggErr555: posts the ante 2
+marie3010: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts the ante 2
+Mishator: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh Td]
+marie3010: folds
+cowhead72: raises 30 to 50
+Mishator: folds
+DiggErr555: calls 30
+*** FLOP *** [Qd Jc Kc]
+DiggErr555: checks
+cowhead72: checks
+*** TURN *** [Qd Jc Kc] [4h]
+DiggErr555: checks
+cowhead72: bets 47
+DiggErr555: calls 47
+*** RIVER *** [Qd Jc Kc 4h] [7c]
+DiggErr555: checks
+cowhead72: bets 85
+DiggErr555: folds
+Uncalled bet (85) returned to cowhead72
+cowhead72 collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | Rake 0
+Board [Qd Jc Kc 4h 7c]
+Seat 1: DiggErr555 (big blind) folded on the River
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 5: cowhead72 (button) collected (212)
+Seat 6: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189829236002: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:45:07 MSK [2018/08/12 22:45:07 ET]
+Table '2381055093 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (397 in chips)
+Seat 2: marie3010 (1540 in chips)
+Seat 5: cowhead72 (599 in chips)
+Seat 6: Mishator (464 in chips)
+DiggErr555: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts small blind 15
+marie3010: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 6h]
+cowhead72: folds
+Mishator: raises 30 to 60
+DiggErr555: folds
+marie3010: calls 30
+*** FLOP *** [2s 3c 6s]
+marie3010: checks
+Mishator: bets 58
+marie3010: raises 1419 to 1477 and is all-in
+Mishator: folds
+Uncalled bet (1419) returned to marie3010
+marie3010 collected 263 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 263 | Rake 0
+Board [2s 3c 6s]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: marie3010 (big blind) collected (263)
+Seat 5: cowhead72 folded before Flop (didn't bet)
+Seat 6: Mishator (button) folded on the Flop
+
+PokerStars Hand #189829248493: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:45:52 MSK [2018/08/12 22:45:52 ET]
+Table '2381055093 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (379 in chips)
+Seat 2: marie3010 (1682 in chips)
+Seat 5: cowhead72 (596 in chips)
+Seat 6: Mishator (343 in chips)
+DiggErr555: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+marie3010: posts small blind 15
+cowhead72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 7s]
+Mishator: raises 310 to 340 and is all-in
+DiggErr555: folds
+marie3010: folds
+cowhead72: folds
+Uncalled bet (310) returned to Mishator
+Mishator collected 87 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: marie3010 (small blind) folded before Flop
+Seat 5: cowhead72 (big blind) folded before Flop
+Seat 6: Mishator collected (87)
+
+PokerStars Hand #189829253572: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:46:10 MSK [2018/08/12 22:46:10 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (376 in chips)
+Seat 2: marie3010 (1664 in chips)
+Seat 5: cowhead72 (563 in chips)
+Seat 6: Mishator (397 in chips)
+DiggErr555: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+cowhead72: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Kc]
+DiggErr555: folds
+marie3010: calls 30
+cowhead72: calls 15
+Mishator: raises 364 to 394 and is all-in
+marie3010: calls 364
+cowhead72: folds
+*** FLOP *** [3h 9h 5c]
+*** TURN *** [3h 9h 5c] [5s]
+*** RIVER *** [3h 9h 5c 5s] [Kd]
+*** SHOW DOWN ***
+Mishator: shows [Ac Js] (a pair of Fives)
+marie3010: shows [Qs 9d] (two pair, Nines and Fives)
+marie3010 collected 830 from pot
+marie3010 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 830 | Rake 0
+Board [3h 9h 5c 5s Kd]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: marie3010 (button) showed [Qs 9d] and won (830) with two pair, Nines and Fives
+Seat 5: cowhead72 (small blind) folded before Flop
+Seat 6: Mishator (big blind) showed [Ac Js] and lost with a pair of Fives
+
+PokerStars Hand #189829265392: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:46:53 MSK [2018/08/12 22:46:53 ET]
+Table '2381055093 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (373 in chips)
+Seat 2: marie3010 (2097 in chips)
+Seat 5: cowhead72 (530 in chips)
+DiggErr555: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+DiggErr555: posts small blind 15
+marie3010: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 9s]
+cowhead72 has timed out
+cowhead72: folds
+cowhead72 is sitting out
+DiggErr555: folds
+Uncalled bet (15) returned to marie3010
+cowhead72 has returned
+marie3010 collected 39 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: marie3010 (big blind) collected (39)
+Seat 5: cowhead72 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829271686: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:47:16 MSK [2018/08/12 22:47:16 ET]
+Table '2381055093 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (355 in chips)
+Seat 2: marie3010 (2118 in chips)
+Seat 5: cowhead72 (527 in chips)
+DiggErr555: posts the ante 4
+marie3010: posts the ante 4
+cowhead72: posts the ante 4
+marie3010: posts small blind 20
+cowhead72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Ah]
+DiggErr555: raises 311 to 351 and is all-in
+marie3010: folds
+cowhead72: calls 311
+*** FLOP *** [Jh Qh Ks]
+*** TURN *** [Jh Qh Ks] [6c]
+*** RIVER *** [Jh Qh Ks 6c] [2h]
+*** SHOW DOWN ***
+cowhead72: shows [As 2c] (a pair of Deuces)
+DiggErr555: shows [Kd Ah] (a pair of Kings)
+DiggErr555 collected 734 from pot
+*** SUMMARY ***
+Total pot 734 | Rake 0
+Board [Jh Qh Ks 6c 2h]
+Seat 1: DiggErr555 (button) showed [Kd Ah] and won (734) with a pair of Kings
+Seat 2: marie3010 (small blind) folded before Flop
+Seat 5: cowhead72 (big blind) showed [As 2c] and lost with a pair of Deuces
+
+PokerStars Hand #189829278055: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:47:39 MSK [2018/08/12 22:47:39 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (734 in chips)
+Seat 2: marie3010 (2094 in chips)
+Seat 5: cowhead72 (172 in chips)
+DiggErr555: posts the ante 4
+marie3010: posts the ante 4
+cowhead72: posts the ante 4
+cowhead72: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9c]
+marie3010: calls 40
+cowhead72: folds
+DiggErr555: checks
+*** FLOP *** [Ts 6s Qc]
+DiggErr555: checks
+marie3010: checks
+*** TURN *** [Ts 6s Qc] [3s]
+DiggErr555: checks
+marie3010: checks
+*** RIVER *** [Ts 6s Qc 3s] [Kd]
+DiggErr555: checks
+marie3010: checks
+*** SHOW DOWN ***
+DiggErr555: shows [5h 9c] (high card King)
+marie3010: mucks hand
+DiggErr555 collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Board [Ts 6s Qc 3s Kd]
+Seat 1: DiggErr555 (big blind) showed [5h 9c] and won (112) with high card King
+Seat 2: marie3010 (button) mucked [8d 5s]
+Seat 5: cowhead72 (small blind) folded before Flop
+
+PokerStars Hand #189829285054: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:48:04 MSK [2018/08/12 22:48:04 ET]
+Table '2381055093 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (802 in chips)
+Seat 2: marie3010 (2050 in chips)
+Seat 5: cowhead72 (148 in chips)
+DiggErr555: posts the ante 4
+marie3010: posts the ante 4
+cowhead72: posts the ante 4
+DiggErr555: posts small blind 20
+marie3010: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 4h]
+cowhead72: raises 104 to 144 and is all-in
+DiggErr555: folds
+marie3010: calls 104
+*** FLOP *** [5h Qs Jc]
+*** TURN *** [5h Qs Jc] [4c]
+*** RIVER *** [5h Qs Jc 4c] [Qc]
+*** SHOW DOWN ***
+marie3010: shows [8s Ac] (a pair of Queens)
+cowhead72: shows [Ks Ts] (a pair of Queens - lower kicker)
+marie3010 collected 320 from pot
+marie3010 wins the $4.79 bounty for eliminating cowhead72
+cowhead72 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [5h Qs Jc 4c Qc]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: marie3010 (big blind) showed [8s Ac] and won (320) with a pair of Queens
+Seat 5: cowhead72 (button) showed [Ks Ts] and lost with a pair of Queens
+
+PokerStars Hand #189829291845: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:48:29 MSK [2018/08/12 22:48:29 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (778 in chips)
+Seat 2: marie3010 (2222 in chips)
+DiggErr555: posts the ante 4
+marie3010: posts the ante 4
+marie3010: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 4c]
+marie3010: raises 2178 to 2218 and is all-in
+DiggErr555: folds
+Uncalled bet (2178) returned to marie3010
+marie3010 collected 88 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 88 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: marie3010 (button) (small blind) collected (88)
+
+PokerStars Hand #189829297013: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:48:48 MSK [2018/08/12 22:48:48 ET]
+Table '2381055093 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (734 in chips)
+Seat 2: marie3010 (2266 in chips)
+DiggErr555: posts the ante 6
+marie3010: posts the ante 6
+DiggErr555: posts small blind 30
+marie3010: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 2c]
+DiggErr555: calls 30
+marie3010: checks
+*** FLOP *** [Kd 6h 9c]
+marie3010: bets 2200 and is all-in
+DiggErr555: folds
+Uncalled bet (2200) returned to marie3010
+marie3010 collected 132 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Board [Kd 6h 9c]
+Seat 1: DiggErr555 (button) (small blind) folded on the Flop
+Seat 2: marie3010 (big blind) collected (132)
+
+PokerStars Hand #189829301264: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:03 MSK [2018/08/12 22:49:03 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (668 in chips)
+Seat 2: marie3010 (2332 in chips)
+DiggErr555: posts the ante 6
+marie3010: posts the ante 6
+marie3010: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Tc]
+marie3010: raises 2266 to 2326 and is all-in
+DiggErr555: folds
+Uncalled bet (2266) returned to marie3010
+marie3010 collected 132 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: marie3010 (button) (small blind) collected (132)
+
+PokerStars Hand #189829304217: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:14 MSK [2018/08/12 22:49:14 ET]
+Table '2381055093 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (602 in chips)
+Seat 2: marie3010 (2398 in chips)
+DiggErr555: posts the ante 6
+marie3010: posts the ante 6
+DiggErr555: posts small blind 30
+marie3010: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 3c]
+DiggErr555: folds
+Uncalled bet (30) returned to marie3010
+marie3010 collected 72 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 1: DiggErr555 (button) (small blind) folded before Flop
+Seat 2: marie3010 (big blind) collected (72)
+
+PokerStars Hand #189829305324: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:18 MSK [2018/08/12 22:49:18 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (566 in chips)
+Seat 2: marie3010 (2434 in chips)
+DiggErr555: posts the ante 6
+marie3010: posts the ante 6
+marie3010: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 5c]
+marie3010: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 72 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (72)
+Seat 2: marie3010 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829306750: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:23 MSK [2018/08/12 22:49:23 ET]
+Table '2381055093 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (602 in chips)
+Seat 2: marie3010 (2398 in chips)
+DiggErr555: posts the ante 6
+marie3010: posts the ante 6
+DiggErr555: posts small blind 30
+marie3010: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 5h]
+DiggErr555: calls 30
+marie3010: raises 2332 to 2392 and is all-in
+DiggErr555: folds
+Uncalled bet (2332) returned to marie3010
+marie3010 collected 132 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 1: DiggErr555 (button) (small blind) folded before Flop
+Seat 2: marie3010 (big blind) collected (132)
+
+PokerStars Hand #189829310533: Tournament #2381055093, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:49:37 MSK [2018/08/12 22:49:37 ET]
+Table '2381055093 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (536 in chips)
+Seat 2: marie3010 (2464 in chips)
+DiggErr555: posts the ante 8
+marie3010: posts the ante 8
+marie3010: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh Qs]
+marie3010: raises 2376 to 2456 and is all-in
+DiggErr555: calls 448 and is all-in
+Uncalled bet (1928) returned to marie3010
+*** FLOP *** [Jh 3d Jc]
+*** TURN *** [Jh 3d Jc] [6s]
+*** RIVER *** [Jh 3d Jc 6s] [8h]
+*** SHOW DOWN ***
+DiggErr555: shows [Kh Qs] (a pair of Jacks)
+marie3010: shows [9s 9h] (two pair, Jacks and Nines)
+marie3010 collected 1072 from pot
+marie3010 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+marie3010 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1072 | Rake 0
+Board [Jh 3d Jc 6s 8h]
+Seat 1: DiggErr555 (big blind) showed [Kh Qs] and lost with a pair of Jacks
+Seat 2: marie3010 (button) (small blind) showed [9s 9h] and won (1072) with two pair, Jacks and Nines

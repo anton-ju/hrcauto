@@ -1,0 +1,593 @@
+
+
+PokerStars Hand #189830166586: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:45:22 MSK [2018/08/12 23:45:22 ET]
+Table '2381077007 1' 6-max Seat #1 is the button
+Seat 1: LimpAndJam (500 in chips)
+Seat 2: Brisky5 (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: bigatello1967 (500 in chips)
+Seat 5: beefstu694 (500 in chips)
+Seat 6: PainEcho (500 in chips)
+LimpAndJam: posts the ante 2
+Brisky5: posts the ante 2
+DiggErr555: posts the ante 2
+bigatello1967: posts the ante 2
+beefstu694: posts the ante 2
+PainEcho: posts the ante 2
+Brisky5: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Kc]
+bigatello1967: calls 20
+beefstu694: calls 20
+PainEcho: folds
+LimpAndJam: raises 478 to 498 and is all-in
+Brisky5: folds
+DiggErr555: folds
+bigatello1967: calls 478 and is all-in
+beefstu694: folds
+*** FLOP *** [Ah Ac 6c]
+*** TURN *** [Ah Ac 6c] [6h]
+*** RIVER *** [Ah Ac 6c 6h] [Qs]
+*** SHOW DOWN ***
+bigatello1967: shows [Qd Qc] (a full house, Queens full of Aces)
+LimpAndJam: shows [Th Tc] (two pair, Aces and Tens)
+bigatello1967 collected 1058 from pot
+bigatello1967 wins the $2.38 bounty for eliminating LimpAndJam
+LimpAndJam finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1058 | Rake 0
+Board [Ah Ac 6c 6h Qs]
+Seat 1: LimpAndJam (button) showed [Th Tc] and lost with two pair, Aces and Tens
+Seat 2: Brisky5 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bigatello1967 showed [Qd Qc] and won (1058) with a full house, Queens full of Aces
+Seat 5: beefstu694 folded before Flop
+Seat 6: PainEcho folded before Flop (didn't bet)
+
+PokerStars Hand #189830174055: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:45:53 MSK [2018/08/12 23:45:53 ET]
+Table '2381077007 1' 6-max Seat #2 is the button
+Seat 2: Brisky5 (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: bigatello1967 (1058 in chips)
+Seat 5: beefstu694 (478 in chips)
+Seat 6: PainEcho (498 in chips)
+Brisky5: posts the ante 2
+DiggErr555: posts the ante 2
+bigatello1967: posts the ante 2
+beefstu694: posts the ante 2
+PainEcho: posts the ante 2
+DiggErr555: posts small blind 10
+bigatello1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 7c]
+beefstu694: folds
+PainEcho: folds
+Brisky5: calls 20
+DiggErr555: folds
+bigatello1967: checks
+*** FLOP *** [Th 9c 6h]
+bigatello1967: checks
+Brisky5: checks
+*** TURN *** [Th 9c 6h] [Qd]
+bigatello1967: bets 20
+Brisky5: calls 20
+*** RIVER *** [Th 9c 6h Qd] [Qs]
+bigatello1967: bets 20
+Brisky5: raises 140 to 160
+bigatello1967: folds
+Uncalled bet (140) returned to Brisky5
+Brisky5 collected 140 from pot
+Brisky5: doesn't show hand
+*** SUMMARY ***
+Total pot 140 | Rake 0
+Board [Th 9c 6h Qd Qs]
+Seat 2: Brisky5 (button) collected (140)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: bigatello1967 (big blind) folded on the River
+Seat 5: beefstu694 folded before Flop (didn't bet)
+Seat 6: PainEcho folded before Flop (didn't bet)
+
+PokerStars Hand #189830187351: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:46:50 MSK [2018/08/12 23:46:50 ET]
+Table '2381077007 1' 6-max Seat #3 is the button
+Seat 2: Brisky5 (566 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: bigatello1967 (996 in chips)
+Seat 5: beefstu694 (476 in chips)
+Seat 6: PainEcho (496 in chips)
+Brisky5: posts the ante 2
+DiggErr555: posts the ante 2
+bigatello1967: posts the ante 2
+beefstu694: posts the ante 2
+PainEcho: posts the ante 2
+bigatello1967: posts small blind 10
+beefstu694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 8c]
+PainEcho: folds
+Brisky5: calls 20
+DiggErr555: folds
+bigatello1967: folds
+beefstu694: raises 60 to 80
+Brisky5: calls 60
+*** FLOP *** [2c 7h Kd]
+beefstu694: bets 80
+Brisky5: folds
+Uncalled bet (80) returned to beefstu694
+beefstu694 collected 180 from pot
+beefstu694: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [2c 7h Kd]
+Seat 2: Brisky5 folded on the Flop
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bigatello1967 (small blind) folded before Flop
+Seat 5: beefstu694 (big blind) collected (180)
+Seat 6: PainEcho folded before Flop (didn't bet)
+
+PokerStars Hand #189830195339: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:47:25 MSK [2018/08/12 23:47:25 ET]
+Table '2381077007 1' 6-max Seat #4 is the button
+Seat 2: Brisky5 (484 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: bigatello1967 (984 in chips)
+Seat 5: beefstu694 (574 in chips)
+Seat 6: PainEcho (494 in chips)
+Brisky5: posts the ante 3
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+beefstu694: posts the ante 3
+PainEcho: posts the ante 3
+beefstu694: posts small blind 15
+PainEcho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Js]
+Brisky5: calls 30
+DiggErr555: folds
+bigatello1967: raises 435 to 465
+beefstu694: folds
+PainEcho: folds
+Brisky5: folds
+Uncalled bet (435) returned to bigatello1967
+bigatello1967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: Brisky5 folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bigatello1967 (button) collected (120)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: PainEcho (big blind) folded before Flop
+
+PokerStars Hand #189830200295: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:47:46 MSK [2018/08/12 23:47:46 ET]
+Table '2381077007 1' 6-max Seat #5 is the button
+Seat 2: Brisky5 (451 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: bigatello1967 (1071 in chips)
+Seat 5: beefstu694 (556 in chips)
+Seat 6: PainEcho (461 in chips)
+Brisky5: posts the ante 3
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+beefstu694: posts the ante 3
+PainEcho: posts the ante 3
+PainEcho: posts small blind 15
+Brisky5: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 3h]
+DiggErr555: folds
+bigatello1967: calls 30
+beefstu694: folds
+PainEcho: folds
+Brisky5: checks
+*** FLOP *** [Kh Kc Th]
+Brisky5: checks
+bigatello1967: checks
+*** TURN *** [Kh Kc Th] [4h]
+Brisky5: checks
+bigatello1967: checks
+*** RIVER *** [Kh Kc Th 4h] [2s]
+Brisky5: checks
+bigatello1967: bets 30
+Brisky5: calls 30
+*** SHOW DOWN ***
+bigatello1967: shows [Ks 7d] (three of a kind, Kings)
+Brisky5: mucks hand
+bigatello1967 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Board [Kh Kc Th 4h 2s]
+Seat 2: Brisky5 (big blind) mucked [4s Js]
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bigatello1967 showed [Ks 7d] and won (150) with three of a kind, Kings
+Seat 5: beefstu694 (button) folded before Flop (didn't bet)
+Seat 6: PainEcho (small blind) folded before Flop
+
+PokerStars Hand #189830206417: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:12 MSK [2018/08/12 23:48:12 ET]
+Table '2381077007 1' 6-max Seat #6 is the button
+Seat 2: Brisky5 (388 in chips)
+Seat 3: DiggErr555 (458 in chips)
+Seat 4: bigatello1967 (1158 in chips)
+Seat 5: beefstu694 (553 in chips)
+Seat 6: PainEcho (443 in chips)
+Brisky5: posts the ante 3
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+beefstu694: posts the ante 3
+PainEcho: posts the ante 3
+Brisky5: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 5d]
+bigatello1967: folds
+beefstu694: folds
+PainEcho: folds
+Brisky5: calls 15
+DiggErr555: checks
+*** FLOP *** [Jh Ah 4s]
+Brisky5: checks
+DiggErr555: bets 30
+Brisky5: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 75 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Board [Jh Ah 4s]
+Seat 2: Brisky5 (small blind) folded on the Flop
+Seat 3: DiggErr555 (big blind) collected (75)
+Seat 4: bigatello1967 folded before Flop (didn't bet)
+Seat 5: beefstu694 folded before Flop (didn't bet)
+Seat 6: PainEcho (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830216154: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:54 MSK [2018/08/12 23:48:54 ET]
+Table '2381077007 1' 6-max Seat #2 is the button
+Seat 2: Brisky5 (355 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: bigatello1967 (1155 in chips)
+Seat 5: beefstu694 (550 in chips)
+Seat 6: PainEcho (440 in chips)
+Brisky5: posts the ante 3
+DiggErr555: posts the ante 3
+bigatello1967: posts the ante 3
+beefstu694: posts the ante 3
+PainEcho: posts the ante 3
+DiggErr555: posts small blind 15
+bigatello1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Th]
+beefstu694: calls 30
+PainEcho: folds
+Brisky5: folds
+DiggErr555: folds
+bigatello1967: raises 30 to 60
+beefstu694: calls 30
+*** FLOP *** [3s 4h Jd]
+bigatello1967: bets 30
+beefstu694: calls 30
+*** TURN *** [3s 4h Jd] [4d]
+bigatello1967: bets 30
+beefstu694: calls 30
+*** RIVER *** [3s 4h Jd 4d] [5c]
+bigatello1967: bets 30
+beefstu694: calls 30
+*** SHOW DOWN ***
+bigatello1967: shows [Ac 3h] (two pair, Fours and Threes)
+beefstu694: mucks hand
+bigatello1967 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Board [3s 4h Jd 4d 5c]
+Seat 2: Brisky5 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: bigatello1967 (big blind) showed [Ac 3h] and won (330) with two pair, Fours and Threes
+Seat 5: beefstu694 mucked [8c Ks]
+Seat 6: PainEcho folded before Flop (didn't bet)
+
+PokerStars Hand #189830225309: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:34 MSK [2018/08/12 23:49:34 ET]
+Table '2381077007 1' 6-max Seat #3 is the button
+Seat 2: Brisky5 (352 in chips)
+Seat 3: DiggErr555 (482 in chips)
+Seat 4: bigatello1967 (1332 in chips)
+Seat 5: beefstu694 (397 in chips)
+Seat 6: PainEcho (437 in chips)
+Brisky5: posts the ante 4
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+beefstu694: posts the ante 4
+PainEcho: posts the ante 4
+bigatello1967: posts small blind 20
+beefstu694: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As Kh]
+PainEcho: raises 393 to 433 and is all-in
+Brisky5: folds
+DiggErr555: raises 45 to 478 and is all-in
+bigatello1967: calls 458
+beefstu694: folds
+*** FLOP *** [6d 9s 9d]
+*** TURN *** [6d 9s 9d] [Th]
+*** RIVER *** [6d 9s 9d Th] [2h]
+*** SHOW DOWN ***
+bigatello1967: shows [Ah 8c] (a pair of Nines)
+DiggErr555: shows [As Kh] (a pair of Nines - Ace+King kicker)
+DiggErr555 collected 90 from side pot
+PainEcho: shows [Qh 9h] (three of a kind, Nines)
+PainEcho collected 1359 from main pot
+*** SUMMARY ***
+Total pot 1449 Main pot 1359. Side pot 90. | Rake 0
+Board [6d 9s 9d Th 2h]
+Seat 2: Brisky5 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) showed [As Kh] and won (90) with a pair of Nines
+Seat 4: bigatello1967 (small blind) showed [Ah 8c] and lost with a pair of Nines
+Seat 5: beefstu694 (big blind) folded before Flop
+Seat 6: PainEcho showed [Qh 9h] and won (1359) with three of a kind, Nines
+
+PokerStars Hand #189830232863: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:50:07 MSK [2018/08/12 23:50:07 ET]
+Table '2381077007 1' 6-max Seat #4 is the button
+Seat 2: Brisky5 (348 in chips)
+Seat 3: DiggErr555 (90 in chips)
+Seat 4: bigatello1967 (850 in chips)
+Seat 5: beefstu694 (353 in chips)
+Seat 6: PainEcho (1359 in chips)
+Brisky5: posts the ante 4
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+beefstu694: posts the ante 4
+PainEcho: posts the ante 4
+beefstu694: posts small blind 20
+PainEcho: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 9c]
+Brisky5: raises 120 to 160
+DiggErr555: folds
+bigatello1967: folds
+beefstu694: folds
+PainEcho: raises 1195 to 1355 and is all-in
+Brisky5: calls 184 and is all-in
+Uncalled bet (1011) returned to PainEcho
+*** FLOP *** [7d 8c 5d]
+*** TURN *** [7d 8c 5d] [2d]
+*** RIVER *** [7d 8c 5d 2d] [4d]
+*** SHOW DOWN ***
+PainEcho: shows [Qc 7c] (a pair of Sevens)
+Brisky5: shows [4c Ad] (a flush, Ace high)
+Brisky5 collected 728 from pot
+*** SUMMARY ***
+Total pot 728 | Rake 0
+Board [7d 8c 5d 2d 4d]
+Seat 2: Brisky5 showed [4c Ad] and won (728) with a flush, Ace high
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: PainEcho (big blind) showed [Qc 7c] and lost with a pair of Sevens
+
+PokerStars Hand #189830240420: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:50:40 MSK [2018/08/12 23:50:40 ET]
+Table '2381077007 1' 6-max Seat #5 is the button
+Seat 2: Brisky5 (728 in chips)
+Seat 3: DiggErr555 (86 in chips)
+Seat 4: bigatello1967 (846 in chips)
+Seat 5: beefstu694 (329 in chips)
+Seat 6: PainEcho (1011 in chips)
+Brisky5: posts the ante 4
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+beefstu694: posts the ante 4
+PainEcho: posts the ante 4
+PainEcho: posts small blind 20
+Brisky5: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 9h]
+DiggErr555: folds
+bigatello1967: calls 40
+beefstu694: raises 285 to 325 and is all-in
+PainEcho: raises 682 to 1007 and is all-in
+Brisky5: folds
+bigatello1967: folds
+Uncalled bet (682) returned to PainEcho
+*** FLOP *** [8s 6c 3h]
+*** TURN *** [8s 6c 3h] [4s]
+*** RIVER *** [8s 6c 3h 4s] [Tc]
+*** SHOW DOWN ***
+PainEcho: shows [9s Qs] (high card Queen)
+beefstu694: shows [3d Kd] (a pair of Threes)
+beefstu694 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [8s 6c 3h 4s Tc]
+Seat 2: Brisky5 (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bigatello1967 folded before Flop
+Seat 5: beefstu694 (button) showed [3d Kd] and won (750) with a pair of Threes
+Seat 6: PainEcho (small blind) showed [9s Qs] and lost with high card Queen
+
+PokerStars Hand #189830248476: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:51:15 MSK [2018/08/12 23:51:15 ET]
+Table '2381077007 1' 6-max Seat #6 is the button
+Seat 2: Brisky5 (684 in chips)
+Seat 3: DiggErr555 (82 in chips)
+Seat 4: bigatello1967 (802 in chips)
+Seat 5: beefstu694 (750 in chips)
+Seat 6: PainEcho (682 in chips)
+Brisky5: posts the ante 4
+DiggErr555: posts the ante 4
+bigatello1967: posts the ante 4
+beefstu694: posts the ante 4
+PainEcho: posts the ante 4
+Brisky5: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Kh]
+bigatello1967: folds
+beefstu694: calls 40
+PainEcho: folds
+Brisky5: calls 20
+DiggErr555: raises 38 to 78 and is all-in
+beefstu694: calls 38
+Brisky5: calls 38
+*** FLOP *** [3h 2s Jd]
+Brisky5: checks
+beefstu694: checks
+*** TURN *** [3h 2s Jd] [9s]
+Brisky5: checks
+beefstu694: checks
+*** RIVER *** [3h 2s Jd 9s] [7c]
+Brisky5: checks
+beefstu694: checks
+*** SHOW DOWN ***
+Brisky5: shows [Kd Ts] (high card King)
+DiggErr555: shows [Jc Kh] (a pair of Jacks)
+beefstu694: mucks hand
+DiggErr555 collected 254 from pot
+*** SUMMARY ***
+Total pot 254 | Rake 0
+Board [3h 2s Jd 9s 7c]
+Seat 2: Brisky5 (small blind) showed [Kd Ts] and lost with high card King
+Seat 3: DiggErr555 (big blind) showed [Jc Kh] and won (254) with a pair of Jacks
+Seat 4: bigatello1967 folded before Flop (didn't bet)
+Seat 5: beefstu694 mucked [9c Qh]
+Seat 6: PainEcho (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830258066: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:55 MSK [2018/08/12 23:51:55 ET]
+Table '2381077007 1' 6-max Seat #2 is the button
+Seat 2: Brisky5 (602 in chips)
+Seat 3: DiggErr555 (254 in chips)
+Seat 4: bigatello1967 (798 in chips)
+Seat 5: beefstu694 (668 in chips)
+Seat 6: PainEcho (678 in chips)
+Brisky5: posts the ante 6
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+beefstu694: posts the ante 6
+PainEcho: posts the ante 6
+DiggErr555: posts small blind 30
+bigatello1967: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Kh]
+beefstu694: folds
+PainEcho: folds
+Brisky5: folds
+DiggErr555: raises 188 to 248 and is all-in
+bigatello1967: calls 188
+*** FLOP *** [Tc 3s Qh]
+*** TURN *** [Tc 3s Qh] [Qd]
+*** RIVER *** [Tc 3s Qh Qd] [Kd]
+*** SHOW DOWN ***
+DiggErr555: shows [2c Kh] (two pair, Kings and Queens)
+bigatello1967: shows [As 2h] (a pair of Queens)
+DiggErr555 collected 526 from pot
+*** SUMMARY ***
+Total pot 526 | Rake 0
+Board [Tc 3s Qh Qd Kd]
+Seat 2: Brisky5 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [2c Kh] and won (526) with two pair, Kings and Queens
+Seat 4: bigatello1967 (big blind) showed [As 2h] and lost with a pair of Queens
+Seat 5: beefstu694 folded before Flop (didn't bet)
+Seat 6: PainEcho folded before Flop (didn't bet)
+
+PokerStars Hand #189830262054: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:52:13 MSK [2018/08/12 23:52:13 ET]
+Table '2381077007 1' 6-max Seat #3 is the button
+Seat 2: Brisky5 (596 in chips)
+Seat 3: DiggErr555 (526 in chips)
+Seat 4: bigatello1967 (544 in chips)
+Seat 5: beefstu694 (662 in chips)
+Seat 6: PainEcho (672 in chips)
+Brisky5: posts the ante 6
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+beefstu694: posts the ante 6
+PainEcho: posts the ante 6
+bigatello1967: posts small blind 30
+beefstu694: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 8c]
+PainEcho: folds
+Brisky5: calls 60
+DiggErr555: folds
+bigatello1967: folds
+beefstu694: checks
+*** FLOP *** [4c Jd Js]
+beefstu694: bets 60
+Brisky5: raises 60 to 120
+beefstu694: calls 60
+*** TURN *** [4c Jd Js] [Ah]
+beefstu694: bets 120
+Brisky5: calls 120
+*** RIVER *** [4c Jd Js Ah] [2d]
+beefstu694: bets 120
+Brisky5: raises 120 to 240
+beefstu694: raises 116 to 356 and is all-in
+Brisky5: calls 50 and is all-in
+Uncalled bet (66) returned to beefstu694
+*** SHOW DOWN ***
+beefstu694: shows [Jh 3h] (three of a kind, Jacks)
+Brisky5: shows [9c Ac] (two pair, Aces and Jacks)
+beefstu694 collected 1240 from pot
+beefstu694 wins the $2.38 bounty for eliminating Brisky5
+Brisky5 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1240 | Rake 0
+Board [4c Jd Js Ah 2d]
+Seat 2: Brisky5 showed [9c Ac] and lost with two pair, Aces and Jacks
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bigatello1967 (small blind) folded before Flop
+Seat 5: beefstu694 (big blind) showed [Jh 3h] and won (1240) with three of a kind, Jacks
+Seat 6: PainEcho folded before Flop (didn't bet)
+
+PokerStars Hand #189830271743: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:52:54 MSK [2018/08/12 23:52:54 ET]
+Table '2381077007 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (520 in chips)
+Seat 4: bigatello1967 (508 in chips)
+Seat 5: beefstu694 (1306 in chips)
+Seat 6: PainEcho (666 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+beefstu694: posts the ante 6
+PainEcho: posts the ante 6
+beefstu694: posts small blind 30
+PainEcho: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 5d]
+DiggErr555: folds
+bigatello1967: folds
+beefstu694: folds
+Uncalled bet (30) returned to PainEcho
+PainEcho collected 84 from pot
+PainEcho: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: beefstu694 (small blind) folded before Flop
+Seat 6: PainEcho (big blind) collected (84)
+
+PokerStars Hand #189830274415: Tournament #2381077007, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:53:06 MSK [2018/08/12 23:53:06 ET]
+Table '2381077007 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (514 in chips)
+Seat 4: bigatello1967 (502 in chips)
+Seat 5: beefstu694 (1270 in chips)
+Seat 6: PainEcho (714 in chips)
+DiggErr555: posts the ante 6
+bigatello1967: posts the ante 6
+beefstu694: posts the ante 6
+PainEcho: posts the ante 6
+PainEcho: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc Kc]
+bigatello1967: folds
+beefstu694: folds
+PainEcho: raises 648 to 708 and is all-in
+DiggErr555: calls 448 and is all-in
+Uncalled bet (200) returned to PainEcho
+*** FLOP *** [7d Jh 9d]
+*** TURN *** [7d Jh 9d] [2d]
+*** RIVER *** [7d Jh 9d 2d] [7s]
+*** SHOW DOWN ***
+PainEcho: shows [Ad 2c] (two pair, Sevens and Deuces)
+DiggErr555: shows [Qc Kc] (a pair of Sevens)
+PainEcho collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0
+Board [7d Jh 9d 2d 7s]
+Seat 3: DiggErr555 (big blind) showed [Qc Kc] and lost with a pair of Sevens
+Seat 4: bigatello1967 folded before Flop (didn't bet)
+Seat 5: beefstu694 (button) folded before Flop (didn't bet)
+Seat 6: PainEcho (small blind) showed [Ad 2c] and won (1040) with two pair, Sevens and Deuces

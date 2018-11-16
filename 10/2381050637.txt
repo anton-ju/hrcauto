@@ -1,0 +1,493 @@
+
+
+PokerStars Hand #189828998609: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:31:26 MSK [2018/08/12 22:31:26 ET]
+Table '2381050637 1' 6-max Seat #1 is the button
+Seat 1: moimob (500 in chips)
+Seat 2: HuGuinZ (500 in chips)
+Seat 3: oposs153 (500 in chips)
+Seat 4: cal1234 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+moimob: posts the ante 2
+HuGuinZ: posts the ante 2
+oposs153: posts the ante 2
+cal1234: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+HuGuinZ: posts small blind 10
+oposs153: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 6d]
+cal1234: folds
+Mishator: folds
+DiggErr555: folds
+moimob: folds
+HuGuinZ: folds
+Uncalled bet (10) returned to oposs153
+oposs153 collected 32 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: moimob (button) folded before Flop (didn't bet)
+Seat 2: HuGuinZ (small blind) folded before Flop
+Seat 3: oposs153 (big blind) collected (32)
+Seat 4: cal1234 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829003939: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:31:45 MSK [2018/08/12 22:31:45 ET]
+Table '2381050637 1' 6-max Seat #2 is the button
+Seat 1: moimob (498 in chips)
+Seat 2: HuGuinZ (488 in chips)
+Seat 3: oposs153 (520 in chips)
+Seat 4: cal1234 (498 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+moimob: posts the ante 2
+HuGuinZ: posts the ante 2
+oposs153: posts the ante 2
+cal1234: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+oposs153: posts small blind 10
+cal1234: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Js]
+Mishator: folds
+DiggErr555: folds
+moimob: raises 476 to 496 and is all-in
+HuGuinZ: folds
+oposs153: folds
+cal1234: folds
+Uncalled bet (476) returned to moimob
+moimob collected 62 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: moimob collected (62)
+Seat 2: HuGuinZ (button) folded before Flop (didn't bet)
+Seat 3: oposs153 (small blind) folded before Flop
+Seat 4: cal1234 (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829011676: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:32:11 MSK [2018/08/12 22:32:11 ET]
+Table '2381050637 1' 6-max Seat #3 is the button
+Seat 1: moimob (538 in chips)
+Seat 2: HuGuinZ (486 in chips)
+Seat 3: oposs153 (508 in chips)
+Seat 4: cal1234 (476 in chips)
+Seat 5: Mishator (496 in chips)
+Seat 6: DiggErr555 (496 in chips)
+moimob: posts the ante 2
+HuGuinZ: posts the ante 2
+oposs153: posts the ante 2
+cal1234: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cal1234: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts Tc]
+DiggErr555: raises 20 to 40
+moimob: folds
+HuGuinZ: folds
+oposs153: raises 466 to 506 and is all-in
+cal1234: folds
+Mishator: folds
+DiggErr555: calls 454 and is all-in
+Uncalled bet (12) returned to oposs153
+*** FLOP *** [Js Kd 2s]
+*** TURN *** [Js Kd 2s] [6s]
+*** RIVER *** [Js Kd 2s 6s] [Qs]
+*** SHOW DOWN ***
+DiggErr555: shows [Ts Tc] (a flush, Queen high)
+oposs153: shows [Jh Ad] (a pair of Jacks)
+DiggErr555 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | Rake 0
+Board [Js Kd 2s 6s Qs]
+Seat 1: moimob folded before Flop (didn't bet)
+Seat 2: HuGuinZ folded before Flop (didn't bet)
+Seat 3: oposs153 (button) showed [Jh Ad] and lost with a pair of Jacks
+Seat 4: cal1234 (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: DiggErr555 showed [Ts Tc] and won (1030) with a flush, Queen high
+
+PokerStars Hand #189829020316: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:32:41 MSK [2018/08/12 22:32:41 ET]
+Table '2381050637 1' 6-max Seat #4 is the button
+Seat 1: moimob (536 in chips)
+Seat 2: HuGuinZ (484 in chips)
+Seat 3: oposs153 (12 in chips)
+Seat 4: cal1234 (464 in chips)
+Seat 5: Mishator (474 in chips)
+Seat 6: DiggErr555 (1030 in chips)
+moimob: posts the ante 3
+HuGuinZ: posts the ante 3
+oposs153: posts the ante 3
+cal1234: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 9h]
+moimob: folds
+HuGuinZ: folds
+oposs153: calls 9 and is all-in
+cal1234: calls 30
+Mishator: raises 441 to 471 and is all-in
+DiggErr555: raises 556 to 1027 and is all-in
+cal1234: folds
+Uncalled bet (556) returned to DiggErr555
+*** FLOP *** [Jd 2d 4c]
+*** TURN *** [Jd 2d 4c] [Js]
+*** RIVER *** [Jd 2d 4c Js] [5d]
+*** SHOW DOWN ***
+Mishator: shows [8c Tc] (a pair of Jacks)
+DiggErr555: shows [9d 9h] (two pair, Jacks and Nines)
+DiggErr555 collected 945 from side pot
+oposs153: shows [3d As] (a straight, Ace to Five)
+oposs153 collected 54 from main pot
+DiggErr555 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 999 Main pot 54. Side pot 945. | Rake 0
+Board [Jd 2d 4c Js 5d]
+Seat 1: moimob folded before Flop (didn't bet)
+Seat 2: HuGuinZ folded before Flop (didn't bet)
+Seat 3: oposs153 showed [3d As] and won (54) with a straight, Ace to Five
+Seat 4: cal1234 (button) folded before Flop
+Seat 5: Mishator (small blind) showed [8c Tc] and lost with a pair of Jacks
+Seat 6: DiggErr555 (big blind) showed [9d 9h] and won (945) with two pair, Jacks and Nines
+
+PokerStars Hand #189829034247: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:33:28 MSK [2018/08/12 22:33:28 ET]
+Table '2381050637 1' 6-max Seat #6 is the button
+Seat 1: moimob (533 in chips)
+Seat 2: HuGuinZ (481 in chips)
+Seat 3: oposs153 (54 in chips)
+Seat 4: cal1234 (431 in chips)
+Seat 6: DiggErr555 (1501 in chips)
+moimob: posts the ante 3
+HuGuinZ: posts the ante 3
+oposs153: posts the ante 3
+cal1234: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts small blind 15
+HuGuinZ: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 6d]
+oposs153: raises 21 to 51 and is all-in
+cal1234: calls 51
+DiggErr555: raises 1447 to 1498 and is all-in
+moimob: folds
+HuGuinZ: folds
+cal1234: calls 377 and is all-in
+Uncalled bet (1070) returned to DiggErr555
+*** FLOP *** [Jh 9d 8s]
+*** TURN *** [Jh 9d 8s] [6c]
+*** RIVER *** [Jh 9d 8s 6c] [3s]
+*** SHOW DOWN ***
+cal1234: shows [Qd Td] (a straight, Eight to Queen)
+DiggErr555: shows [5c 6d] (a pair of Sixes)
+cal1234 collected 754 from side pot
+oposs153: shows [9c Ah] (a pair of Nines)
+cal1234 collected 213 from main pot
+cal1234 wins the $4.79 bounty for eliminating oposs153
+oposs153 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 967 Main pot 213. Side pot 754. | Rake 0
+Board [Jh 9d 8s 6c 3s]
+Seat 1: moimob (small blind) folded before Flop
+Seat 2: HuGuinZ (big blind) folded before Flop
+Seat 3: oposs153 showed [9c Ah] and lost with a pair of Nines
+Seat 4: cal1234 showed [Qd Td] and won (967) with a straight, Eight to Queen
+Seat 6: DiggErr555 (button) showed [5c 6d] and lost with a pair of Sixes
+
+PokerStars Hand #189829046451: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:34:10 MSK [2018/08/12 22:34:10 ET]
+Table '2381050637 1' 6-max Seat #1 is the button
+Seat 1: moimob (515 in chips)
+Seat 2: HuGuinZ (448 in chips)
+Seat 4: cal1234 (967 in chips)
+Seat 6: DiggErr555 (1070 in chips)
+moimob: posts the ante 3
+HuGuinZ: posts the ante 3
+cal1234: posts the ante 3
+DiggErr555: posts the ante 3
+HuGuinZ: posts small blind 15
+cal1234: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Ad]
+DiggErr555: raises 30 to 60
+moimob: folds
+HuGuinZ: folds
+cal1234: calls 30
+*** FLOP *** [4h 2s 6c]
+cal1234: checks
+DiggErr555: checks
+*** TURN *** [4h 2s 6c] [8h]
+cal1234: bets 60
+DiggErr555: calls 60
+*** RIVER *** [4h 2s 6c 8h] [Jc]
+cal1234: bets 30
+DiggErr555: calls 30
+*** SHOW DOWN ***
+cal1234: shows [8c As] (a pair of Eights)
+DiggErr555: mucks hand
+cal1234 collected 327 from pot
+*** SUMMARY ***
+Total pot 327 | Rake 0
+Board [4h 2s 6c 8h Jc]
+Seat 1: moimob (button) folded before Flop (didn't bet)
+Seat 2: HuGuinZ (small blind) folded before Flop
+Seat 4: cal1234 (big blind) showed [8c As] and won (327) with a pair of Eights
+Seat 6: DiggErr555 mucked [9c Ad]
+
+PokerStars Hand #189829060782: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:34:59 MSK [2018/08/12 22:34:59 ET]
+Table '2381050637 1' 6-max Seat #2 is the button
+Seat 1: moimob (512 in chips)
+Seat 2: HuGuinZ (430 in chips)
+Seat 4: cal1234 (1141 in chips)
+Seat 6: DiggErr555 (917 in chips)
+moimob: posts the ante 3
+HuGuinZ: posts the ante 3
+cal1234: posts the ante 3
+DiggErr555: posts the ante 3
+cal1234: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 7d]
+moimob: raises 479 to 509 and is all-in
+HuGuinZ: calls 427 and is all-in
+cal1234: calls 494
+DiggErr555: folds
+*** FLOP *** [Jc 9h Kd]
+*** TURN *** [Jc 9h Kd] [5d]
+*** RIVER *** [Jc 9h Kd 5d] [2s]
+*** SHOW DOWN ***
+cal1234: shows [Kc Th] (a pair of Kings)
+moimob: shows [Qd Ac] (high card Ace)
+cal1234 collected 164 from side pot
+HuGuinZ: shows [8h 8s] (a pair of Eights)
+cal1234 collected 1323 from main pot
+cal1234 wins the $4.79 bounty for eliminating moimob
+cal1234 wins the $4.79 bounty for eliminating HuGuinZ
+moimob finished the tournament in 3rd place
+HuGuinZ finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1487 Main pot 1323. Side pot 164. | Rake 0
+Board [Jc 9h Kd 5d 2s]
+Seat 1: moimob showed [Qd Ac] and lost with high card Ace
+Seat 2: HuGuinZ (button) showed [8h 8s] and lost with a pair of Eights
+Seat 4: cal1234 (small blind) showed [Kc Th] and won (1487) with a pair of Kings
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829068769: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:35:27 MSK [2018/08/12 22:35:27 ET]
+Table '2381050637 1' 6-max Seat #6 is the button
+Seat 4: cal1234 (2116 in chips)
+Seat 6: DiggErr555 (884 in chips)
+cal1234: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+cal1234: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 5d]
+DiggErr555: calls 20
+cal1234: checks
+*** FLOP *** [6s 9c 2h]
+cal1234: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to cal1234
+cal1234 collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0
+Board [6s 9c 2h]
+Seat 4: cal1234 (big blind) collected (88)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189829074841: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:35:48 MSK [2018/08/12 22:35:48 ET]
+Table '2381050637 1' 6-max Seat #4 is the button
+Seat 4: cal1234 (2160 in chips)
+Seat 6: DiggErr555 (840 in chips)
+cal1234: posts the ante 4
+DiggErr555: posts the ante 4
+cal1234: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 3s]
+cal1234: raises 40 to 80
+DiggErr555: folds
+Uncalled bet (40) returned to cal1234
+cal1234 collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0
+Seat 4: cal1234 (button) (small blind) collected (88)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829077934: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:35:59 MSK [2018/08/12 22:35:59 ET]
+Table '2381050637 1' 6-max Seat #6 is the button
+Seat 4: cal1234 (2204 in chips)
+Seat 6: DiggErr555 (796 in chips)
+cal1234: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+cal1234: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 4c]
+DiggErr555: calls 20
+cal1234: raises 40 to 80
+DiggErr555: calls 40
+*** FLOP *** [Kh 8s 5d]
+cal1234: bets 40
+DiggErr555: folds
+Uncalled bet (40) returned to cal1234
+cal1234 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Board [Kh 8s 5d]
+Seat 4: cal1234 (big blind) collected (168)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189829083856: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:36:20 MSK [2018/08/12 22:36:20 ET]
+Table '2381050637 1' 6-max Seat #4 is the button
+Seat 4: cal1234 (2288 in chips)
+Seat 6: DiggErr555 (712 in chips)
+cal1234: posts the ante 4
+DiggErr555: posts the ante 4
+cal1234: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 7d]
+cal1234: calls 20
+DiggErr555: raises 668 to 708 and is all-in
+cal1234: folds
+Uncalled bet (668) returned to DiggErr555
+DiggErr555 collected 88 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 88 | Rake 0
+Seat 4: cal1234 (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (88)
+
+PokerStars Hand #189829087886: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:36:34 MSK [2018/08/12 22:36:34 ET]
+Table '2381050637 1' 6-max Seat #6 is the button
+Seat 4: cal1234 (2244 in chips)
+Seat 6: DiggErr555 (756 in chips)
+cal1234: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+cal1234: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 6h]
+DiggErr555: raises 690 to 750 and is all-in
+cal1234: folds
+Uncalled bet (690) returned to DiggErr555
+DiggErr555 collected 132 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 4: cal1234 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) (small blind) collected (132)
+
+PokerStars Hand #189829089349: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:36:39 MSK [2018/08/12 22:36:39 ET]
+Table '2381050637 1' 6-max Seat #4 is the button
+Seat 4: cal1234 (2178 in chips)
+Seat 6: DiggErr555 (822 in chips)
+cal1234: posts the ante 6
+DiggErr555: posts the ante 6
+cal1234: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Ah]
+cal1234: raises 60 to 120
+DiggErr555: raises 696 to 816 and is all-in
+cal1234: calls 696
+*** FLOP *** [Kc 2s 3d]
+*** TURN *** [Kc 2s 3d] [3s]
+*** RIVER *** [Kc 2s 3d 3s] [6c]
+*** SHOW DOWN ***
+DiggErr555: shows [Ks Ah] (two pair, Kings and Threes)
+cal1234: shows [8c 9h] (a pair of Threes)
+DiggErr555 collected 1644 from pot
+*** SUMMARY ***
+Total pot 1644 | Rake 0
+Board [Kc 2s 3d 3s 6c]
+Seat 4: cal1234 (button) (small blind) showed [8c 9h] and lost with a pair of Threes
+Seat 6: DiggErr555 (big blind) showed [Ks Ah] and won (1644) with two pair, Kings and Threes
+
+PokerStars Hand #189829095057: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:36:59 MSK [2018/08/12 22:36:59 ET]
+Table '2381050637 1' 6-max Seat #6 is the button
+Seat 4: cal1234 (1356 in chips)
+Seat 6: DiggErr555 (1644 in chips)
+cal1234: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+cal1234: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 8s]
+DiggErr555: calls 30
+cal1234: raises 132 to 192
+DiggErr555: calls 132
+*** FLOP *** [9c 6s Qh]
+cal1234: bets 396
+DiggErr555: calls 396
+*** TURN *** [9c 6s Qh] [4s]
+cal1234: bets 762 and is all-in
+DiggErr555: calls 762
+*** RIVER *** [9c 6s Qh 4s] [2c]
+*** SHOW DOWN ***
+cal1234: shows [Ks 9h] (a pair of Nines)
+DiggErr555: shows [Js 8s] (high card Queen)
+cal1234 collected 2712 from pot
+*** SUMMARY ***
+Total pot 2712 | Rake 0
+Board [9c 6s Qh 4s 2c]
+Seat 4: cal1234 (big blind) showed [Ks 9h] and won (2712) with a pair of Nines
+Seat 6: DiggErr555 (button) (small blind) showed [Js 8s] and lost with high card Queen
+
+PokerStars Hand #189829104628: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:37:33 MSK [2018/08/12 22:37:33 ET]
+Table '2381050637 1' 6-max Seat #4 is the button
+Seat 4: cal1234 (2712 in chips)
+Seat 6: DiggErr555 (288 in chips)
+cal1234: posts the ante 6
+DiggErr555: posts the ante 6
+cal1234: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 2c]
+cal1234: raises 60 to 120
+DiggErr555: folds
+Uncalled bet (60) returned to cal1234
+cal1234 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 4: cal1234 (button) (small blind) collected (132)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829106377: Tournament #2381050637, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:37:39 MSK [2018/08/12 22:37:39 ET]
+Table '2381050637 1' 6-max Seat #6 is the button
+Seat 4: cal1234 (2778 in chips)
+Seat 6: DiggErr555 (222 in chips)
+cal1234: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+cal1234: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 2s]
+DiggErr555: raises 156 to 216 and is all-in
+cal1234: calls 156
+*** FLOP *** [8s 8c Kh]
+*** TURN *** [8s 8c Kh] [Js]
+*** RIVER *** [8s 8c Kh Js] [Ah]
+*** SHOW DOWN ***
+cal1234: shows [Jc 3c] (two pair, Jacks and Eights)
+DiggErr555: shows [Qh 2s] (a pair of Eights)
+cal1234 collected 444 from pot
+cal1234 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+cal1234 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 444 | Rake 0
+Board [8s 8c Kh Js Ah]
+Seat 4: cal1234 (big blind) showed [Jc 3c] and won (444) with two pair, Jacks and Eights
+Seat 6: DiggErr555 (button) (small blind) showed [Qh 2s] and lost with a pair of Eights

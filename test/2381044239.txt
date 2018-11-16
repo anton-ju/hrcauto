@@ -1,0 +1,701 @@
+
+
+PokerStars Hand #189828729666: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:16:32 MSK [2018/08/12 22:16:32 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (500 in chips) is sitting out
+Seat 2: moimob (500 in chips)
+Seat 3: chorls464 (500 in chips)
+Seat 4: yaniw777 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+Elvasco543: posts the ante 2
+moimob: posts the ante 2
+chorls464: posts the ante 2
+yaniw777: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts small blind 10
+chorls464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 9h]
+Elvasco543 has returned
+yaniw777: raises 20 to 40
+Mishator: folds
+DiggErr555: folds
+Elvasco543: calls 40
+moimob: folds
+chorls464 has timed out
+chorls464: folds
+chorls464 is sitting out
+*** FLOP *** [6d Td 2d]
+yaniw777: checks
+chorls464 has returned
+Elvasco543: bets 40
+yaniw777: folds
+Uncalled bet (40) returned to Elvasco543
+Elvasco543 collected 122 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Board [6d Td 2d]
+Seat 1: Elvasco543 (button) collected (122)
+Seat 2: moimob (small blind) folded before Flop
+Seat 3: chorls464 (big blind) folded before Flop
+Seat 4: yaniw777 folded on the Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828747431: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:17:30 MSK [2018/08/12 22:17:30 ET]
+Table '2381044239 1' 6-max Seat #2 is the button
+Seat 1: Elvasco543 (580 in chips)
+Seat 2: moimob (488 in chips)
+Seat 3: chorls464 (478 in chips)
+Seat 4: yaniw777 (458 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+Elvasco543: posts the ante 2
+moimob: posts the ante 2
+chorls464: posts the ante 2
+yaniw777: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+chorls464: posts small blind 10
+yaniw777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Tc]
+Mishator: folds
+DiggErr555: folds
+Elvasco543: calls 20
+moimob: folds
+chorls464: raises 456 to 476 and is all-in
+yaniw777: folds
+Elvasco543: calls 456
+*** FLOP *** [Jd 2h 5d]
+*** TURN *** [Jd 2h 5d] [6s]
+*** RIVER *** [Jd 2h 5d 6s] [4s]
+*** SHOW DOWN ***
+chorls464: shows [Jc Ah] (a pair of Jacks)
+Elvasco543: shows [Qd Qs] (a pair of Queens)
+Elvasco543 collected 984 from pot
+Elvasco543 wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 984 | Rake 0
+Board [Jd 2h 5d 6s 4s]
+Seat 1: Elvasco543 showed [Qd Qs] and won (984) with a pair of Queens
+Seat 2: moimob (button) folded before Flop (didn't bet)
+Seat 3: chorls464 (small blind) showed [Jc Ah] and lost with a pair of Jacks
+Seat 4: yaniw777 (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828757287: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:18:02 MSK [2018/08/12 22:18:02 ET]
+Table '2381044239 1' 6-max Seat #4 is the button
+Seat 1: Elvasco543 (1086 in chips)
+Seat 2: moimob (486 in chips)
+Seat 4: yaniw777 (436 in chips)
+Seat 5: Mishator (496 in chips)
+Seat 6: DiggErr555 (496 in chips)
+Elvasco543: posts the ante 2
+moimob: posts the ante 2
+yaniw777: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+Mishator: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 5s]
+Elvasco543: calls 20
+moimob: folds
+yaniw777: folds
+Mishator: folds
+DiggErr555: checks
+*** FLOP *** [Ah 7s Qd]
+DiggErr555: checks
+Elvasco543: bets 40
+DiggErr555: folds
+Uncalled bet (40) returned to Elvasco543
+Elvasco543 collected 60 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [Ah 7s Qd]
+Seat 1: Elvasco543 collected (60)
+Seat 2: moimob folded before Flop (didn't bet)
+Seat 4: yaniw777 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189828768398: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:18:39 MSK [2018/08/12 22:18:39 ET]
+Table '2381044239 1' 6-max Seat #5 is the button
+Seat 1: Elvasco543 (1124 in chips)
+Seat 2: moimob (484 in chips)
+Seat 4: yaniw777 (434 in chips)
+Seat 5: Mishator (484 in chips)
+Seat 6: DiggErr555 (474 in chips)
+Elvasco543: posts the ante 3
+moimob: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+Elvasco543: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 8s]
+moimob: folds
+yaniw777: raises 401 to 431 and is all-in
+Mishator: folds
+DiggErr555: folds
+Elvasco543: folds
+Uncalled bet (401) returned to yaniw777
+yaniw777 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: Elvasco543 (big blind) folded before Flop
+Seat 2: moimob folded before Flop (didn't bet)
+Seat 4: yaniw777 collected (90)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828773360: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:18:55 MSK [2018/08/12 22:18:55 ET]
+Table '2381044239 1' 6-max Seat #6 is the button
+Seat 1: Elvasco543 (1091 in chips)
+Seat 2: moimob (481 in chips)
+Seat 4: yaniw777 (491 in chips)
+Seat 5: Mishator (481 in chips)
+Seat 6: DiggErr555 (456 in chips)
+Elvasco543: posts the ante 3
+moimob: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+Elvasco543: posts small blind 15
+moimob: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 5s]
+yaniw777: folds
+Mishator: raises 448 to 478 and is all-in
+DiggErr555: folds
+Elvasco543: folds
+moimob: folds
+Uncalled bet (448) returned to Mishator
+Mishator collected 90 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: Elvasco543 (small blind) folded before Flop
+Seat 2: moimob (big blind) folded before Flop
+Seat 4: yaniw777 folded before Flop (didn't bet)
+Seat 5: Mishator collected (90)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828776947: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:07 MSK [2018/08/12 22:19:07 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (1073 in chips)
+Seat 2: moimob (448 in chips)
+Seat 4: yaniw777 (488 in chips)
+Seat 5: Mishator (538 in chips)
+Seat 6: DiggErr555 (453 in chips)
+Elvasco543: posts the ante 3
+moimob: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts small blind 15
+yaniw777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Kd]
+Mishator: raises 30 to 60
+DiggErr555: folds
+Elvasco543: calls 60
+moimob: calls 45
+yaniw777: calls 30
+*** FLOP *** [8d Kh Ah]
+moimob: checks
+yaniw777: checks
+Mishator: bets 102
+Elvasco543: calls 102
+moimob: raises 283 to 385 and is all-in
+yaniw777: folds
+Mishator: raises 90 to 475 and is all-in
+Elvasco543: calls 373
+*** TURN *** [8d Kh Ah] [Qc]
+*** RIVER *** [8d Kh Ah Qc] [8s]
+*** SHOW DOWN ***
+Mishator: shows [Ac Kc] (two pair, Aces and Kings)
+Elvasco543: shows [6d Ad] (two pair, Aces and Eights)
+Mishator collected 180 from side pot
+moimob: shows [Th 9h] (a pair of Eights)
+Mishator collected 1410 from main pot
+Mishator wins the $4.79 bounty for eliminating moimob
+moimob finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1590 Main pot 1410. Side pot 180. | Rake 0
+Board [8d Kh Ah Qc 8s]
+Seat 1: Elvasco543 (button) showed [6d Ad] and lost with two pair, Aces and Eights
+Seat 2: moimob (small blind) showed [Th 9h] and lost with a pair of Eights
+Seat 4: yaniw777 (big blind) folded on the Flop
+Seat 5: Mishator showed [Ac Kc] and won (1590) with two pair, Aces and Kings
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828790692: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:52 MSK [2018/08/12 22:19:52 ET]
+Table '2381044239 1' 6-max Seat #4 is the button
+Seat 1: Elvasco543 (535 in chips)
+Seat 4: yaniw777 (425 in chips)
+Seat 5: Mishator (1590 in chips)
+Seat 6: DiggErr555 (450 in chips)
+Elvasco543: posts the ante 3
+yaniw777: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 8h]
+Elvasco543: calls 30
+yaniw777: folds
+Mishator: folds
+DiggErr555: checks
+*** FLOP *** [5c 6s 2h]
+DiggErr555: checks
+Elvasco543: bets 90
+DiggErr555: folds
+Uncalled bet (90) returned to Elvasco543
+Elvasco543 collected 87 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Board [5c 6s 2h]
+Seat 1: Elvasco543 collected (87)
+Seat 4: yaniw777 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189828804038: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:20:35 MSK [2018/08/12 22:20:35 ET]
+Table '2381044239 1' 6-max Seat #5 is the button
+Seat 1: Elvasco543 (589 in chips)
+Seat 4: yaniw777 (422 in chips)
+Seat 5: Mishator (1572 in chips)
+Seat 6: DiggErr555 (417 in chips)
+Elvasco543: posts the ante 4
+yaniw777: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+Elvasco543: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 7c]
+yaniw777: raises 378 to 418 and is all-in
+Mishator: folds
+DiggErr555: folds
+Elvasco543: folds
+Uncalled bet (378) returned to yaniw777
+yaniw777 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 1: Elvasco543 (big blind) folded before Flop
+Seat 4: yaniw777 collected (116)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828807707: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:20:47 MSK [2018/08/12 22:20:47 ET]
+Table '2381044239 1' 6-max Seat #6 is the button
+Seat 1: Elvasco543 (545 in chips)
+Seat 4: yaniw777 (494 in chips)
+Seat 5: Mishator (1568 in chips)
+Seat 6: DiggErr555 (393 in chips)
+Elvasco543: posts the ante 4
+yaniw777: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+Elvasco543: posts small blind 20
+yaniw777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Qd]
+Mishator: raises 1524 to 1564 and is all-in
+DiggErr555: folds
+Elvasco543: calls 521 and is all-in
+yaniw777: folds
+Uncalled bet (1023) returned to Mishator
+*** FLOP *** [4h 6c As]
+*** TURN *** [4h 6c As] [6s]
+*** RIVER *** [4h 6c As 6s] [Th]
+*** SHOW DOWN ***
+Elvasco543: shows [Kh Ks] (two pair, Kings and Sixes)
+Mishator: shows [9h 9d] (two pair, Nines and Sixes)
+Elvasco543 collected 1138 from pot
+*** SUMMARY ***
+Total pot 1138 | Rake 0
+Board [4h 6c As 6s Th]
+Seat 1: Elvasco543 (small blind) showed [Kh Ks] and won (1138) with two pair, Kings and Sixes
+Seat 4: yaniw777 (big blind) folded before Flop
+Seat 5: Mishator showed [9h 9d] and lost with two pair, Nines and Sixes
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828814514: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:10 MSK [2018/08/12 22:21:10 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (1138 in chips)
+Seat 4: yaniw777 (450 in chips)
+Seat 5: Mishator (1023 in chips)
+Seat 6: DiggErr555 (389 in chips)
+Elvasco543: posts the ante 4
+yaniw777: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+yaniw777: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 2s]
+DiggErr555: folds
+Elvasco543: calls 40
+yaniw777: folds
+Mishator: checks
+*** FLOP *** [4h Qh 8h]
+Mishator: checks
+Elvasco543: bets 240
+Mishator: folds
+Uncalled bet (240) returned to Elvasco543
+Elvasco543 collected 116 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Board [4h Qh 8h]
+Seat 1: Elvasco543 (button) collected (116)
+Seat 4: yaniw777 (small blind) folded before Flop
+Seat 5: Mishator (big blind) folded on the Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828821252: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:32 MSK [2018/08/12 22:21:32 ET]
+Table '2381044239 1' 6-max Seat #4 is the button
+Seat 1: Elvasco543 (1210 in chips)
+Seat 4: yaniw777 (426 in chips)
+Seat 5: Mishator (979 in chips)
+Seat 6: DiggErr555 (385 in chips)
+Elvasco543: posts the ante 4
+yaniw777: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 2c]
+Elvasco543: folds
+yaniw777: raises 382 to 422 and is all-in
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (382) returned to yaniw777
+yaniw777 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 1: Elvasco543 folded before Flop (didn't bet)
+Seat 4: yaniw777 (button) collected (116)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828826196: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:21:48 MSK [2018/08/12 22:21:48 ET]
+Table '2381044239 1' 6-max Seat #5 is the button
+Seat 1: Elvasco543 (1206 in chips)
+Seat 4: yaniw777 (498 in chips)
+Seat 5: Mishator (955 in chips)
+Seat 6: DiggErr555 (341 in chips)
+Elvasco543: posts the ante 6
+yaniw777: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+Elvasco543: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Qs]
+yaniw777: folds
+Mishator: folds
+DiggErr555: raises 275 to 335 and is all-in
+Elvasco543: folds
+Uncalled bet (275) returned to DiggErr555
+DiggErr555 collected 144 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: Elvasco543 (big blind) folded before Flop
+Seat 4: yaniw777 folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (144)
+
+PokerStars Hand #189828830973: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:22:04 MSK [2018/08/12 22:22:04 ET]
+Table '2381044239 1' 6-max Seat #6 is the button
+Seat 1: Elvasco543 (1140 in chips)
+Seat 4: yaniw777 (492 in chips)
+Seat 5: Mishator (949 in chips)
+Seat 6: DiggErr555 (419 in chips)
+Elvasco543: posts the ante 6
+yaniw777: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+Elvasco543: posts small blind 30
+yaniw777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Ts]
+Mishator: raises 883 to 943 and is all-in
+DiggErr555: folds
+Elvasco543: folds
+yaniw777: folds
+Uncalled bet (883) returned to Mishator
+Mishator collected 174 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: Elvasco543 (small blind) folded before Flop
+Seat 4: yaniw777 (big blind) folded before Flop
+Seat 5: Mishator collected (174)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828840069: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:22:33 MSK [2018/08/12 22:22:33 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (1104 in chips)
+Seat 4: yaniw777 (426 in chips)
+Seat 5: Mishator (1057 in chips)
+Seat 6: DiggErr555 (413 in chips)
+Elvasco543: posts the ante 6
+yaniw777: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+yaniw777: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Kh]
+DiggErr555: raises 347 to 407 and is all-in
+Elvasco543: folds
+yaniw777: folds
+Mishator: calls 347
+*** FLOP *** [5h Ac 7h]
+*** TURN *** [5h Ac 7h] [3c]
+*** RIVER *** [5h Ac 7h 3c] [8h]
+*** SHOW DOWN ***
+Mishator: shows [9d 9c] (a pair of Nines)
+DiggErr555: shows [Th Kh] (a flush, King high)
+DiggErr555 collected 868 from pot
+*** SUMMARY ***
+Total pot 868 | Rake 0
+Board [5h Ac 7h 3c 8h]
+Seat 1: Elvasco543 (button) folded before Flop (didn't bet)
+Seat 4: yaniw777 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [9d 9c] and lost with a pair of Nines
+Seat 6: DiggErr555 showed [Th Kh] and won (868) with a flush, King high
+
+PokerStars Hand #189828845735: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:22:52 MSK [2018/08/12 22:22:52 ET]
+Table '2381044239 1' 6-max Seat #4 is the button
+Seat 1: Elvasco543 (1098 in chips)
+Seat 4: yaniw777 (390 in chips)
+Seat 5: Mishator (644 in chips)
+Seat 6: DiggErr555 (868 in chips)
+Elvasco543: posts the ante 6
+yaniw777: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Tc]
+Elvasco543: folds
+yaniw777: folds
+Mishator: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 84 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 1: Elvasco543 folded before Flop (didn't bet)
+Seat 4: yaniw777 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (84)
+
+PokerStars Hand #189828849984: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:23:06 MSK [2018/08/12 22:23:06 ET]
+Table '2381044239 1' 6-max Seat #5 is the button
+Seat 1: Elvasco543 (1092 in chips)
+Seat 4: yaniw777 (384 in chips)
+Seat 5: Mishator (608 in chips)
+Seat 6: DiggErr555 (916 in chips)
+Elvasco543: posts the ante 6
+yaniw777: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+Elvasco543: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad Ks]
+yaniw777: raises 318 to 378 and is all-in
+Mishator: folds
+DiggErr555: raises 532 to 910 and is all-in
+Elvasco543: folds
+Uncalled bet (532) returned to DiggErr555
+*** FLOP *** [As 3s Qs]
+*** TURN *** [As 3s Qs] [4h]
+*** RIVER *** [As 3s Qs 4h] [6h]
+*** SHOW DOWN ***
+DiggErr555: shows [Ad Ks] (a pair of Aces)
+yaniw777: shows [Qc Td] (a pair of Queens)
+DiggErr555 collected 840 from pot
+DiggErr555 wins the $4.79 bounty for eliminating yaniw777
+yaniw777 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [As 3s Qs 4h 6h]
+Seat 1: Elvasco543 (big blind) folded before Flop
+Seat 4: yaniw777 showed [Qc Td] and lost with a pair of Queens
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [Ad Ks] and won (840) with a pair of Aces
+
+PokerStars Hand #189828856921: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:23:29 MSK [2018/08/12 22:23:29 ET]
+Table '2381044239 1' 6-max Seat #6 is the button
+Seat 1: Elvasco543 (1026 in chips)
+Seat 5: Mishator (602 in chips)
+Seat 6: DiggErr555 (1372 in chips)
+Elvasco543: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+Elvasco543: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 6s]
+DiggErr555: raises 1284 to 1364 and is all-in
+Elvasco543: folds
+Mishator: calls 514 and is all-in
+Uncalled bet (770) returned to DiggErr555
+*** FLOP *** [As 3s Kd]
+*** TURN *** [As 3s Kd] [4s]
+*** RIVER *** [As 3s Kd 4s] [2d]
+*** SHOW DOWN ***
+Mishator: shows [9d Ac] (a pair of Aces)
+DiggErr555: shows [Js 6s] (a flush, Ace high)
+DiggErr555 collected 1252 from pot
+DiggErr555 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1252 | Rake 0
+Board [As 3s Kd 4s 2d]
+Seat 1: Elvasco543 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [9d Ac] and lost with a pair of Aces
+Seat 6: DiggErr555 (button) showed [Js 6s] and won (1252) with a flush, Ace high
+
+PokerStars Hand #189828866289: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:24:00 MSK [2018/08/12 22:24:00 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (978 in chips)
+Seat 6: DiggErr555 (2022 in chips)
+Elvasco543: posts the ante 8
+DiggErr555: posts the ante 8
+Elvasco543: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 4s]
+Elvasco543: calls 40
+DiggErr555: checks
+*** FLOP *** [9s 2s 4d]
+DiggErr555: checks
+Elvasco543: bets 240
+DiggErr555: folds
+Uncalled bet (240) returned to Elvasco543
+Elvasco543 collected 176 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [9s 2s 4d]
+Seat 1: Elvasco543 (button) (small blind) collected (176)
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189828871611: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:24:18 MSK [2018/08/12 22:24:18 ET]
+Table '2381044239 1' 6-max Seat #6 is the button
+Seat 1: Elvasco543 (1066 in chips)
+Seat 6: DiggErr555 (1934 in chips)
+Elvasco543: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+Elvasco543: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 4h]
+DiggErr555: calls 40
+Elvasco543: checks
+*** FLOP *** [6h Qd Ks]
+Elvasco543: checks
+DiggErr555: bets 80
+Elvasco543: folds
+Uncalled bet (80) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [6h Qd Ks]
+Seat 1: Elvasco543 (big blind) folded on the Flop
+Seat 6: DiggErr555 (button) (small blind) collected (176)
+
+PokerStars Hand #189828875829: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:24:32 MSK [2018/08/12 22:24:32 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (978 in chips)
+Seat 6: DiggErr555 (2022 in chips)
+Elvasco543: posts the ante 8
+DiggErr555: posts the ante 8
+Elvasco543: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Td]
+Elvasco543: raises 80 to 160
+DiggErr555: folds
+Uncalled bet (80) returned to Elvasco543
+Elvasco543 collected 176 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 1: Elvasco543 (button) (small blind) collected (176)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828878693: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:24:42 MSK [2018/08/12 22:24:42 ET]
+Table '2381044239 1' 6-max Seat #6 is the button
+Seat 1: Elvasco543 (1066 in chips)
+Seat 6: DiggErr555 (1934 in chips)
+Elvasco543: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+Elvasco543: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 8c]
+DiggErr555: calls 40
+Elvasco543: checks
+*** FLOP *** [Jc Ks 4s]
+Elvasco543: bets 160
+DiggErr555: folds
+Uncalled bet (160) returned to Elvasco543
+Elvasco543 collected 176 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [Jc Ks 4s]
+Seat 1: Elvasco543 (big blind) collected (176)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189828883036: Tournament #2381044239, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:24:56 MSK [2018/08/12 22:24:56 ET]
+Table '2381044239 1' 6-max Seat #1 is the button
+Seat 1: Elvasco543 (1154 in chips)
+Seat 6: DiggErr555 (1846 in chips)
+Elvasco543: posts the ante 10
+DiggErr555: posts the ante 10
+Elvasco543: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s Qh]
+Elvasco543: calls 50
+DiggErr555: raises 1736 to 1836 and is all-in
+Elvasco543: calls 1044 and is all-in
+Uncalled bet (692) returned to DiggErr555
+*** FLOP *** [2s 6d Jd]
+*** TURN *** [2s 6d Jd] [Jc]
+*** RIVER *** [2s 6d Jd Jc] [9d]
+*** SHOW DOWN ***
+DiggErr555: shows [9s Qh] (two pair, Jacks and Nines)
+Elvasco543: shows [8h Ks] (a pair of Jacks)
+DiggErr555 collected 2308 from pot
+DiggErr555 wins the $4.79 bounty for eliminating Elvasco543
+Elvasco543 finished the tournament in 2nd place and received $14.37.
+DiggErr555 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 2308 | Rake 0
+Board [2s 6d Jd Jc 9d]
+Seat 1: Elvasco543 (button) (small blind) showed [8h Ks] and lost with a pair of Jacks
+Seat 6: DiggErr555 (big blind) showed [9s Qh] and won (2308) with two pair, Jacks and Nines

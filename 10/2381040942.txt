@@ -1,0 +1,385 @@
+
+
+PokerStars Hand #189828756876: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:18:01 MSK [2018/08/12 22:18:01 ET]
+Table '2381040942 1' 6-max Seat #1 is the button
+Seat 1: yokatala. ru (500 in chips)
+Seat 2: Chebby32 (500 in chips)
+Seat 3: JEAN.VK (500 in chips)
+Seat 4: bowmanvillan (500 in chips)
+Seat 5: HAZHITMAN (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+yokatala. ru: posts the ante 2
+Chebby32: posts the ante 2
+JEAN.VK: posts the ante 2
+bowmanvillan: posts the ante 2
+HAZHITMAN: posts the ante 2
+DiggErr555: posts the ante 2
+Chebby32: posts small blind 10
+JEAN.VK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 8c]
+bowmanvillan: raises 40 to 60
+HAZHITMAN: folds
+DiggErr555: folds
+yokatala. ru: raises 438 to 498 and is all-in
+Chebby32: folds
+JEAN.VK: folds
+bowmanvillan: folds
+Uncalled bet (438) returned to yokatala. ru
+yokatala. ru collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | Rake 0
+Seat 1: yokatala. ru (button) collected (162)
+Seat 2: Chebby32 (small blind) folded before Flop
+Seat 3: JEAN.VK (big blind) folded before Flop
+Seat 4: bowmanvillan folded before Flop
+Seat 5: HAZHITMAN folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828763812: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:18:24 MSK [2018/08/12 22:18:24 ET]
+Table '2381040942 1' 6-max Seat #2 is the button
+Seat 1: yokatala. ru (600 in chips)
+Seat 2: Chebby32 (488 in chips)
+Seat 3: JEAN.VK (478 in chips)
+Seat 4: bowmanvillan (438 in chips)
+Seat 5: HAZHITMAN (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+yokatala. ru: posts the ante 2
+Chebby32: posts the ante 2
+JEAN.VK: posts the ante 2
+bowmanvillan: posts the ante 2
+HAZHITMAN: posts the ante 2
+DiggErr555: posts the ante 2
+JEAN.VK: posts small blind 10
+bowmanvillan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 8s]
+HAZHITMAN: raises 476 to 496 and is all-in
+DiggErr555: folds
+yokatala. ru: folds
+Chebby32: folds
+JEAN.VK: folds
+bowmanvillan: folds
+Uncalled bet (476) returned to HAZHITMAN
+HAZHITMAN collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: yokatala. ru folded before Flop (didn't bet)
+Seat 2: Chebby32 (button) folded before Flop (didn't bet)
+Seat 3: JEAN.VK (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: HAZHITMAN collected (62)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828768536: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:18:39 MSK [2018/08/12 22:18:39 ET]
+Table '2381040942 1' 6-max Seat #3 is the button
+Seat 1: yokatala. ru (598 in chips)
+Seat 2: Chebby32 (486 in chips)
+Seat 3: JEAN.VK (466 in chips)
+Seat 4: bowmanvillan (416 in chips)
+Seat 5: HAZHITMAN (538 in chips)
+Seat 6: DiggErr555 (496 in chips)
+yokatala. ru: posts the ante 2
+Chebby32: posts the ante 2
+JEAN.VK: posts the ante 2
+bowmanvillan: posts the ante 2
+HAZHITMAN: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts small blind 10
+HAZHITMAN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 3s]
+DiggErr555: folds
+yokatala. ru: folds
+Chebby32: folds
+JEAN.VK: folds
+bowmanvillan: raises 40 to 60
+HAZHITMAN: folds
+Uncalled bet (40) returned to bowmanvillan
+bowmanvillan collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: yokatala. ru folded before Flop (didn't bet)
+Seat 2: Chebby32 folded before Flop (didn't bet)
+Seat 3: JEAN.VK (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) collected (52)
+Seat 5: HAZHITMAN (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828773908: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:18:57 MSK [2018/08/12 22:18:57 ET]
+Table '2381040942 1' 6-max Seat #4 is the button
+Seat 1: yokatala. ru (596 in chips)
+Seat 2: Chebby32 (484 in chips)
+Seat 3: JEAN.VK (464 in chips)
+Seat 4: bowmanvillan (446 in chips)
+Seat 5: HAZHITMAN (516 in chips)
+Seat 6: DiggErr555 (494 in chips)
+yokatala. ru: posts the ante 3
+Chebby32: posts the ante 3
+JEAN.VK: posts the ante 3
+bowmanvillan: posts the ante 3
+HAZHITMAN: posts the ante 3
+DiggErr555: posts the ante 3
+HAZHITMAN: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Ks]
+yokatala. ru: folds
+Chebby32: raises 451 to 481 and is all-in
+JEAN.VK: calls 461 and is all-in
+bowmanvillan: folds
+HAZHITMAN: raises 32 to 513 and is all-in
+DiggErr555: folds
+Uncalled bet (32) returned to HAZHITMAN
+*** FLOP *** [9h Tc 2s]
+*** TURN *** [9h Tc 2s] [9s]
+*** RIVER *** [9h Tc 2s 9s] [7d]
+*** SHOW DOWN ***
+HAZHITMAN: shows [Ts Th] (a full house, Tens full of Nines)
+Chebby32: shows [Jh Kc] (a pair of Nines)
+HAZHITMAN collected 40 from side pot
+JEAN.VK: shows [5h Kh] (a pair of Nines)
+HAZHITMAN collected 1431 from main pot
+HAZHITMAN wins the $12.01 bounty for eliminating Chebby32
+HAZHITMAN wins the $12.01 bounty for eliminating JEAN.VK
+Chebby32 finished the tournament in 5th place
+JEAN.VK finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1471 Main pot 1431. Side pot 40. | Rake 0
+Board [9h Tc 2s 9s 7d]
+Seat 1: yokatala. ru folded before Flop (didn't bet)
+Seat 2: Chebby32 showed [Jh Kc] and lost with a pair of Nines
+Seat 3: JEAN.VK showed [5h Kh] and lost with a pair of Nines
+Seat 4: bowmanvillan (button) folded before Flop (didn't bet)
+Seat 5: HAZHITMAN (small blind) showed [Ts Th] and won (1471) with a full house, Tens full of Nines
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828780645: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:19 MSK [2018/08/12 22:19:19 ET]
+Table '2381040942 1' 6-max Seat #5 is the button
+Seat 1: yokatala. ru (593 in chips)
+Seat 4: bowmanvillan (443 in chips)
+Seat 5: HAZHITMAN (1503 in chips)
+Seat 6: DiggErr555 (461 in chips)
+yokatala. ru: posts the ante 3
+bowmanvillan: posts the ante 3
+HAZHITMAN: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+yokatala. ru: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 5s]
+bowmanvillan: raises 60 to 90
+HAZHITMAN: raises 1410 to 1500 and is all-in
+DiggErr555: folds
+yokatala. ru: folds
+bowmanvillan: calls 350 and is all-in
+Uncalled bet (1060) returned to HAZHITMAN
+*** FLOP *** [5h 3d Jd]
+*** TURN *** [5h 3d Jd] [6h]
+*** RIVER *** [5h 3d Jd 6h] [4d]
+*** SHOW DOWN ***
+bowmanvillan: shows [7c Ac] (a straight, Three to Seven)
+HAZHITMAN: shows [Js Ah] (a pair of Jacks)
+bowmanvillan collected 937 from pot
+*** SUMMARY ***
+Total pot 937 | Rake 0
+Board [5h 3d Jd 6h 4d]
+Seat 1: yokatala. ru (big blind) folded before Flop
+Seat 4: bowmanvillan showed [7c Ac] and won (937) with a straight, Three to Seven
+Seat 5: HAZHITMAN (button) showed [Js Ah] and lost with a pair of Jacks
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828790002: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:19:50 MSK [2018/08/12 22:19:50 ET]
+Table '2381040942 1' 6-max Seat #6 is the button
+Seat 1: yokatala. ru (560 in chips)
+Seat 4: bowmanvillan (937 in chips)
+Seat 5: HAZHITMAN (1060 in chips)
+Seat 6: DiggErr555 (443 in chips)
+yokatala. ru: posts the ante 3
+bowmanvillan: posts the ante 3
+HAZHITMAN: posts the ante 3
+DiggErr555: posts the ante 3
+yokatala. ru: posts small blind 15
+bowmanvillan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Ah]
+HAZHITMAN: folds
+DiggErr555: raises 30 to 60
+yokatala. ru: folds
+bowmanvillan: calls 30
+*** FLOP *** [4d 9c 2d]
+bowmanvillan: bets 74
+DiggErr555: calls 74
+*** TURN *** [4d 9c 2d] [7d]
+bowmanvillan: bets 148
+DiggErr555: folds
+Uncalled bet (148) returned to bowmanvillan
+bowmanvillan collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | Rake 0
+Board [4d 9c 2d 7d]
+Seat 1: yokatala. ru (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) collected (295)
+Seat 5: HAZHITMAN folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded on the Turn
+
+PokerStars Hand #189828801279: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:20:26 MSK [2018/08/12 22:20:26 ET]
+Table '2381040942 1' 6-max Seat #1 is the button
+Seat 1: yokatala. ru (542 in chips)
+Seat 4: bowmanvillan (1095 in chips)
+Seat 5: HAZHITMAN (1057 in chips)
+Seat 6: DiggErr555 (306 in chips)
+yokatala. ru: posts the ante 3
+bowmanvillan: posts the ante 3
+HAZHITMAN: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts small blind 15
+HAZHITMAN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 4d]
+DiggErr555: folds
+yokatala. ru: folds
+bowmanvillan: raises 60 to 90
+HAZHITMAN: calls 60
+*** FLOP *** [9d 2s 2h]
+bowmanvillan: checks
+HAZHITMAN: checks
+*** TURN *** [9d 2s 2h] [5s]
+bowmanvillan: bets 90
+HAZHITMAN: raises 360 to 450
+bowmanvillan: folds [5h]
+Uncalled bet (360) returned to HAZHITMAN
+HAZHITMAN collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | Rake 0
+Board [9d 2s 2h 5s]
+Seat 1: yokatala. ru (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded on the Turn
+Seat 5: HAZHITMAN (big blind) collected (372)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828812053: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:02 MSK [2018/08/12 22:21:02 ET]
+Table '2381040942 1' 6-max Seat #4 is the button
+Seat 1: yokatala. ru (539 in chips)
+Seat 4: bowmanvillan (912 in chips)
+Seat 5: HAZHITMAN (1246 in chips)
+Seat 6: DiggErr555 (303 in chips)
+yokatala. ru: posts the ante 4
+bowmanvillan: posts the ante 4
+HAZHITMAN: posts the ante 4
+DiggErr555: posts the ante 4
+HAZHITMAN: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Ts]
+yokatala. ru: raises 495 to 535 and is all-in
+bowmanvillan: folds
+HAZHITMAN: folds
+DiggErr555: folds
+Uncalled bet (495) returned to yokatala. ru
+yokatala. ru collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 1: yokatala. ru collected (116)
+Seat 4: bowmanvillan (button) folded before Flop (didn't bet)
+Seat 5: HAZHITMAN (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828815883: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:14 MSK [2018/08/12 22:21:14 ET]
+Table '2381040942 1' 6-max Seat #5 is the button
+Seat 1: yokatala. ru (611 in chips)
+Seat 4: bowmanvillan (908 in chips)
+Seat 5: HAZHITMAN (1222 in chips)
+Seat 6: DiggErr555 (259 in chips)
+yokatala. ru: posts the ante 4
+bowmanvillan: posts the ante 4
+HAZHITMAN: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+yokatala. ru: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 3c]
+bowmanvillan: raises 40 to 80
+HAZHITMAN: calls 80
+DiggErr555: folds
+yokatala. ru: folds
+*** FLOP *** [Kh 2s 8d]
+bowmanvillan: bets 80
+HAZHITMAN: folds
+Uncalled bet (80) returned to bowmanvillan
+bowmanvillan collected 236 from pot
+*** SUMMARY ***
+Total pot 236 | Rake 0
+Board [Kh 2s 8d]
+Seat 1: yokatala. ru (big blind) folded before Flop
+Seat 4: bowmanvillan collected (236)
+Seat 5: HAZHITMAN (button) folded on the Flop
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828822634: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:36 MSK [2018/08/12 22:21:36 ET]
+Table '2381040942 1' 6-max Seat #6 is the button
+Seat 1: yokatala. ru (567 in chips)
+Seat 4: bowmanvillan (1060 in chips)
+Seat 5: HAZHITMAN (1138 in chips)
+Seat 6: DiggErr555 (235 in chips)
+yokatala. ru: posts the ante 4
+bowmanvillan: posts the ante 4
+HAZHITMAN: posts the ante 4
+DiggErr555: posts the ante 4
+yokatala. ru: posts small blind 20
+bowmanvillan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 2h]
+HAZHITMAN: folds
+DiggErr555: folds
+yokatala. ru: raises 523 to 563 and is all-in
+bowmanvillan: folds
+Uncalled bet (523) returned to yokatala. ru
+yokatala. ru collected 96 from pot
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 1: yokatala. ru (small blind) collected (96)
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: HAZHITMAN folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828829708: Tournament #2381040942, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:22:00 MSK [2018/08/12 22:22:00 ET]
+Table '2381040942 1' 6-max Seat #1 is the button
+Seat 1: yokatala. ru (619 in chips)
+Seat 4: bowmanvillan (1016 in chips)
+Seat 5: HAZHITMAN (1134 in chips)
+Seat 6: DiggErr555 (231 in chips)
+yokatala. ru: posts the ante 4
+bowmanvillan: posts the ante 4
+HAZHITMAN: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts small blind 20
+HAZHITMAN: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 8c]
+DiggErr555: raises 187 to 227 and is all-in
+yokatala. ru: calls 227
+bowmanvillan: folds
+HAZHITMAN: raises 903 to 1130 and is all-in
+yokatala. ru: calls 388 and is all-in
+Uncalled bet (515) returned to HAZHITMAN
+*** FLOP *** [5c 7d Ts]
+*** TURN *** [5c 7d Ts] [4h]
+*** RIVER *** [5c 7d Ts 4h] [8h]
+*** SHOW DOWN ***
+HAZHITMAN: shows [5h 5d] (three of a kind, Fives)
+yokatala. ru: shows [Td Kc] (a pair of Tens)
+HAZHITMAN collected 776 from side pot
+DiggErr555: shows [As 8c] (a pair of Eights)
+HAZHITMAN collected 717 from main pot
+HAZHITMAN wins the $12.01 bounty for eliminating yokatala. ru
+HAZHITMAN wins the $12.01 bounty for eliminating DiggErr555
+yokatala. ru finished the tournament in 3rd place
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1493 Main pot 717. Side pot 776. | Rake 0
+Board [5c 7d Ts 4h 8h]
+Seat 1: yokatala. ru (button) showed [Td Kc] and lost with a pair of Tens
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: HAZHITMAN (big blind) showed [5h 5d] and won (1493) with three of a kind, Fives
+Seat 6: DiggErr555 showed [As 8c] and lost with a pair of Eights

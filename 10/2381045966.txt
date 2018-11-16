@@ -1,0 +1,347 @@
+
+
+PokerStars Hand #189828774965: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:19:00 MSK [2018/08/12 22:19:00 ET]
+Table '2381045966 1' 6-max Seat #1 is the button
+Seat 1: marie3010 (500 in chips)
+Seat 2: Mishator (500 in chips)
+Seat 3: beefstu694 (500 in chips)
+Seat 4: savemeboots (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: piquete1 (500 in chips)
+marie3010: posts the ante 2
+Mishator: posts the ante 2
+beefstu694: posts the ante 2
+savemeboots: posts the ante 2
+DiggErr555: posts the ante 2
+piquete1: posts the ante 2
+Mishator: posts small blind 10
+beefstu694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Ks]
+savemeboots: folds
+DiggErr555: folds
+piquete1: folds
+marie3010: calls 20
+Mishator: folds
+beefstu694: checks
+*** FLOP *** [7s 6s Th]
+beefstu694: bets 60
+marie3010: calls 60
+*** TURN *** [7s 6s Th] [Ts]
+beefstu694: bets 60
+marie3010: calls 60
+*** RIVER *** [7s 6s Th Ts] [Kd]
+beefstu694: bets 60
+marie3010: raises 298 to 358 and is all-in
+beefstu694: calls 298 and is all-in
+*** SHOW DOWN ***
+marie3010: shows [Js Qd] (a pair of Tens)
+beefstu694: shows [8h Td] (three of a kind, Tens)
+beefstu694 collected 1018 from pot
+beefstu694 wins the $2.38 bounty for eliminating marie3010
+marie3010 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1018 | Rake 0
+Board [7s 6s Th Ts Kd]
+Seat 1: marie3010 (button) showed [Js Qd] and lost with a pair of Tens
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: beefstu694 (big blind) showed [8h Td] and won (1018) with three of a kind, Tens
+Seat 4: savemeboots folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: piquete1 folded before Flop (didn't bet)
+
+PokerStars Hand #189828787741: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:19:42 MSK [2018/08/12 22:19:42 ET]
+Table '2381045966 1' 6-max Seat #2 is the button
+Seat 2: Mishator (488 in chips)
+Seat 3: beefstu694 (1018 in chips)
+Seat 4: savemeboots (498 in chips)
+Seat 5: DiggErr555 (498 in chips)
+Seat 6: piquete1 (498 in chips)
+Mishator: posts the ante 2
+beefstu694: posts the ante 2
+savemeboots: posts the ante 2
+DiggErr555: posts the ante 2
+piquete1: posts the ante 2
+beefstu694: posts small blind 10
+savemeboots: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 6d]
+DiggErr555: folds
+piquete1: calls 20
+Mishator: calls 20
+beefstu694: calls 10
+savemeboots: raises 90 to 110
+piquete1: folds
+Mishator: folds
+beefstu694: calls 90
+*** FLOP *** [Qd 4d Ks]
+beefstu694: checks
+savemeboots: checks
+*** TURN *** [Qd 4d Ks] [7c]
+beefstu694: bets 160
+savemeboots: folds
+Uncalled bet (160) returned to beefstu694
+beefstu694 collected 270 from pot
+beefstu694: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board [Qd 4d Ks 7c]
+Seat 2: Mishator (button) folded before Flop
+Seat 3: beefstu694 (small blind) collected (270)
+Seat 4: savemeboots (big blind) folded on the Turn
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: piquete1 folded before Flop
+
+PokerStars Hand #189828799048: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:20:19 MSK [2018/08/12 22:20:19 ET]
+Table '2381045966 1' 6-max Seat #3 is the button
+Seat 2: Mishator (466 in chips)
+Seat 3: beefstu694 (1176 in chips)
+Seat 4: savemeboots (386 in chips)
+Seat 5: DiggErr555 (496 in chips)
+Seat 6: piquete1 (476 in chips)
+Mishator: posts the ante 2
+beefstu694: posts the ante 2
+savemeboots: posts the ante 2
+DiggErr555: posts the ante 2
+piquete1: posts the ante 2
+savemeboots: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 2s]
+piquete1: folds
+Mishator: raises 20 to 40
+beefstu694: folds
+savemeboots: calls 30
+DiggErr555: folds
+*** FLOP *** [4s Ts Qs]
+savemeboots: checks
+Mishator: checks
+*** TURN *** [4s Ts Qs] [5c]
+savemeboots: bets 110
+Mishator: folds
+Uncalled bet (110) returned to savemeboots
+savemeboots collected 110 from pot
+savemeboots: doesn't show hand
+*** SUMMARY ***
+Total pot 110 | Rake 0
+Board [4s Ts Qs 5c]
+Seat 2: Mishator folded on the Turn
+Seat 3: beefstu694 (button) folded before Flop (didn't bet)
+Seat 4: savemeboots (small blind) collected (110)
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: piquete1 folded before Flop (didn't bet)
+
+PokerStars Hand #189828809797: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:20:54 MSK [2018/08/12 22:20:54 ET]
+Table '2381045966 1' 6-max Seat #4 is the button
+Seat 2: Mishator (424 in chips)
+Seat 3: beefstu694 (1174 in chips)
+Seat 4: savemeboots (454 in chips)
+Seat 5: DiggErr555 (474 in chips)
+Seat 6: piquete1 (474 in chips)
+Mishator: posts the ante 3
+beefstu694: posts the ante 3
+savemeboots: posts the ante 3
+DiggErr555: posts the ante 3
+piquete1: posts the ante 3
+DiggErr555: posts small blind 15
+piquete1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs Kc]
+Mishator: folds
+beefstu694: folds
+savemeboots: raises 30 to 60
+DiggErr555: raises 411 to 471 and is all-in
+piquete1: folds
+savemeboots: folds
+Uncalled bet (411) returned to DiggErr555
+DiggErr555 collected 165 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 165 | Rake 0
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: beefstu694 folded before Flop (didn't bet)
+Seat 4: savemeboots (button) folded before Flop
+Seat 5: DiggErr555 (small blind) collected (165)
+Seat 6: piquete1 (big blind) folded before Flop
+
+PokerStars Hand #189828813993: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:21:08 MSK [2018/08/12 22:21:08 ET]
+Table '2381045966 1' 6-max Seat #5 is the button
+Seat 2: Mishator (421 in chips)
+Seat 3: beefstu694 (1171 in chips)
+Seat 4: savemeboots (391 in chips)
+Seat 5: DiggErr555 (576 in chips)
+Seat 6: piquete1 (441 in chips)
+Mishator: posts the ante 3
+beefstu694: posts the ante 3
+savemeboots: posts the ante 3
+DiggErr555: posts the ante 3
+piquete1: posts the ante 3
+piquete1: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Ah]
+beefstu694: folds
+savemeboots: folds
+DiggErr555: raises 543 to 573 and is all-in
+piquete1: folds
+Mishator: calls 388 and is all-in
+Uncalled bet (155) returned to DiggErr555
+*** FLOP *** [Tc Jd 3h]
+*** TURN *** [Tc Jd 3h] [7c]
+*** RIVER *** [Tc Jd 3h 7c] [9c]
+*** SHOW DOWN ***
+Mishator: shows [Td Ks] (a pair of Tens)
+DiggErr555: shows [7s Ah] (a pair of Sevens)
+Mishator collected 866 from pot
+*** SUMMARY ***
+Total pot 866 | Rake 0
+Board [Tc Jd 3h 7c 9c]
+Seat 2: Mishator (big blind) showed [Td Ks] and won (866) with a pair of Tens
+Seat 3: beefstu694 folded before Flop (didn't bet)
+Seat 4: savemeboots folded before Flop (didn't bet)
+Seat 5: DiggErr555 (button) showed [7s Ah] and lost with a pair of Sevens
+Seat 6: piquete1 (small blind) folded before Flop
+
+PokerStars Hand #189828820332: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:21:29 MSK [2018/08/12 22:21:29 ET]
+Table '2381045966 1' 6-max Seat #6 is the button
+Seat 2: Mishator (866 in chips)
+Seat 3: beefstu694 (1168 in chips)
+Seat 4: savemeboots (388 in chips)
+Seat 5: DiggErr555 (155 in chips)
+Seat 6: piquete1 (423 in chips)
+Mishator: posts the ante 3
+beefstu694: posts the ante 3
+savemeboots: posts the ante 3
+DiggErr555: posts the ante 3
+piquete1: posts the ante 3
+Mishator: posts small blind 15
+beefstu694: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s Kc]
+savemeboots: folds
+DiggErr555: raises 122 to 152 and is all-in
+piquete1: folds
+Mishator: folds
+beefstu694: calls 122
+*** FLOP *** [Td Ks 7d]
+*** TURN *** [Td Ks 7d] [4d]
+*** RIVER *** [Td Ks 7d 4d] [5c]
+*** SHOW DOWN ***
+beefstu694: shows [Jd Ah] (high card Ace)
+DiggErr555: shows [9s Kc] (a pair of Kings)
+DiggErr555 collected 334 from pot
+*** SUMMARY ***
+Total pot 334 | Rake 0
+Board [Td Ks 7d 4d 5c]
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: beefstu694 (big blind) showed [Jd Ah] and lost with high card Ace
+Seat 4: savemeboots folded before Flop (didn't bet)
+Seat 5: DiggErr555 showed [9s Kc] and won (334) with a pair of Kings
+Seat 6: piquete1 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828828363: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:21:55 MSK [2018/08/12 22:21:55 ET]
+Table '2381045966 1' 6-max Seat #2 is the button
+Seat 2: Mishator (848 in chips)
+Seat 3: beefstu694 (1013 in chips)
+Seat 4: savemeboots (385 in chips)
+Seat 5: DiggErr555 (334 in chips)
+Seat 6: piquete1 (420 in chips)
+Mishator: posts the ante 3
+beefstu694: posts the ante 3
+savemeboots: posts the ante 3
+DiggErr555: posts the ante 3
+piquete1: posts the ante 3
+beefstu694: posts small blind 15
+savemeboots: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs Tc]
+DiggErr555: folds
+piquete1: calls 30
+Mishator: folds
+beefstu694: raises 30 to 60
+savemeboots: folds
+piquete1: calls 30
+*** FLOP *** [6h 8h 8s]
+beefstu694: bets 60
+piquete1: raises 297 to 357 and is all-in
+beefstu694: calls 297
+*** TURN *** [6h 8h 8s] [2s]
+*** RIVER *** [6h 8h 8s 2s] [4c]
+*** SHOW DOWN ***
+beefstu694: shows [Ks Kd] (two pair, Kings and Eights)
+piquete1: shows [Th 9h] (a pair of Eights)
+beefstu694 collected 879 from pot
+beefstu694 wins the $2.38 bounty for eliminating piquete1
+piquete1 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 879 | Rake 0
+Board [6h 8h 8s 2s 4c]
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: beefstu694 (small blind) showed [Ks Kd] and won (879) with two pair, Kings and Eights
+Seat 4: savemeboots (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: piquete1 showed [Th 9h] and lost with a pair of Eights
+
+PokerStars Hand #189828838357: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:22:28 MSK [2018/08/12 22:22:28 ET]
+Table '2381045966 1' 6-max Seat #3 is the button
+Seat 2: Mishator (845 in chips)
+Seat 3: beefstu694 (1472 in chips)
+Seat 4: savemeboots (352 in chips)
+Seat 5: DiggErr555 (331 in chips)
+Mishator: posts the ante 4
+beefstu694: posts the ante 4
+savemeboots: posts the ante 4
+DiggErr555: posts the ante 4
+savemeboots: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Ts]
+Mishator: raises 40 to 80
+beefstu694: folds
+savemeboots: folds
+DiggErr555: folds
+Uncalled bet (40) returned to Mishator
+Mishator collected 116 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 2: Mishator collected (116)
+Seat 3: beefstu694 (button) folded before Flop (didn't bet)
+Seat 4: savemeboots (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828843791: Tournament #2381045966, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:22:46 MSK [2018/08/12 22:22:46 ET]
+Table '2381045966 1' 6-max Seat #4 is the button
+Seat 2: Mishator (917 in chips)
+Seat 3: beefstu694 (1468 in chips)
+Seat 4: savemeboots (328 in chips)
+Seat 5: DiggErr555 (287 in chips)
+Mishator: posts the ante 4
+beefstu694: posts the ante 4
+savemeboots: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Js]
+beefstu694: raises 40 to 80
+savemeboots: folds
+DiggErr555: raises 203 to 283 and is all-in
+Mishator: folds
+beefstu694: calls 203
+*** FLOP *** [4c 5h Ks]
+*** TURN *** [4c 5h Ks] [8s]
+*** RIVER *** [4c 5h Ks 8s] [4d]
+*** SHOW DOWN ***
+DiggErr555: shows [Ah Js] (a pair of Fours)
+beefstu694: shows [Kh Kd] (a full house, Kings full of Fours)
+beefstu694 collected 622 from pot
+beefstu694 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 622 | Rake 0
+Board [4c 5h Ks 8s 4d]
+Seat 2: Mishator (big blind) folded before Flop
+Seat 3: beefstu694 showed [Kh Kd] and won (622) with a full house, Kings full of Fours
+Seat 4: savemeboots (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) showed [Ah Js] and lost with a pair of Fours

@@ -1,0 +1,265 @@
+
+
+PokerStars Hand #189829489443: Tournament #2381056014, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:00:43 MSK [2018/08/12 23:00:43 ET]
+Table '2381056014 1' 6-max Seat #1 is the button
+Seat 1: joebrauser (500 in chips)
+Seat 2: Kyleddd (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: 08pj08 (500 in chips)
+Seat 5: 2Ran128 (500 in chips)
+Seat 6: savemeboots (500 in chips)
+joebrauser: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts the ante 2
+08pj08: posts the ante 2
+2Ran128: posts the ante 2
+savemeboots: posts the ante 2
+Kyleddd: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 4h]
+08pj08: raises 40 to 60
+2Ran128: folds
+savemeboots: folds
+joebrauser: folds
+Kyleddd: folds
+DiggErr555: folds
+Uncalled bet (40) returned to 08pj08
+08pj08 collected 62 from pot
+08pj08: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: joebrauser (button) folded before Flop (didn't bet)
+Seat 2: Kyleddd (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 08pj08 collected (62)
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: savemeboots folded before Flop (didn't bet)
+
+PokerStars Hand #189829494067: Tournament #2381056014, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:01:02 MSK [2018/08/12 23:01:02 ET]
+Table '2381056014 1' 6-max Seat #2 is the button
+Seat 1: joebrauser (498 in chips)
+Seat 2: Kyleddd (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: 08pj08 (540 in chips)
+Seat 5: 2Ran128 (498 in chips)
+Seat 6: savemeboots (498 in chips)
+joebrauser: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts the ante 2
+08pj08: posts the ante 2
+2Ran128: posts the ante 2
+savemeboots: posts the ante 2
+DiggErr555: posts small blind 10
+08pj08: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Qs]
+2Ran128: folds
+savemeboots: folds
+joebrauser: calls 20
+Kyleddd: folds
+DiggErr555 has timed out
+DiggErr555: folds
+DiggErr555 is sitting out
+DiggErr555 has returned
+08pj08: checks
+*** FLOP *** [Jc Jh Kc]
+08pj08: checks
+joebrauser: bets 30
+08pj08: calls 30
+*** TURN *** [Jc Jh Kc] [7c]
+08pj08: checks
+joebrauser: checks
+*** RIVER *** [Jc Jh Kc 7c] [9h]
+08pj08: checks
+joebrauser: checks
+*** SHOW DOWN ***
+08pj08: shows [Th 9d] (two pair, Jacks and Nines)
+joebrauser: mucks hand
+08pj08 collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Board [Jc Jh Kc 7c 9h]
+Seat 1: joebrauser mucked [3s 3d]
+Seat 2: Kyleddd (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 08pj08 (big blind) showed [Th 9d] and won (122) with two pair, Jacks and Nines
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: savemeboots folded before Flop (didn't bet)
+
+PokerStars Hand #189829510170: Tournament #2381056014, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:02:03 MSK [2018/08/12 23:02:03 ET]
+Table '2381056014 1' 6-max Seat #3 is the button
+Seat 1: joebrauser (446 in chips)
+Seat 2: Kyleddd (486 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: 08pj08 (610 in chips)
+Seat 5: 2Ran128 (496 in chips)
+Seat 6: savemeboots (496 in chips)
+joebrauser: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts the ante 2
+08pj08: posts the ante 2
+2Ran128: posts the ante 2
+savemeboots: posts the ante 2
+08pj08: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Tc]
+savemeboots: raises 62 to 82
+joebrauser: folds
+Kyleddd: raises 402 to 484 and is all-in
+DiggErr555: folds
+08pj08: calls 474
+2Ran128: folds
+savemeboots: folds
+*** FLOP *** [6c 5s 5c]
+*** TURN *** [6c 5s 5c] [9c]
+*** RIVER *** [6c 5s 5c 9c] [5h]
+*** SHOW DOWN ***
+08pj08: shows [Qh Qs] (a full house, Fives full of Queens)
+Kyleddd: shows [9s Ah] (a full house, Fives full of Nines)
+08pj08 collected 1082 from pot
+08pj08 wins the $12.01 bounty for eliminating Kyleddd
+Kyleddd finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1082 | Rake 0
+Board [6c 5s 5c 9c 5h]
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 2: Kyleddd showed [9s Ah] and lost with a full house, Fives full of Nines
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: 08pj08 (small blind) showed [Qh Qs] and won (1082) with a full house, Fives full of Queens
+Seat 5: 2Ran128 (big blind) folded before Flop
+Seat 6: savemeboots folded before Flop
+
+PokerStars Hand #189829518428: Tournament #2381056014, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:02:35 MSK [2018/08/12 23:02:35 ET]
+Table '2381056014 1' 6-max Seat #4 is the button
+Seat 1: joebrauser (444 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: 08pj08 (1206 in chips)
+Seat 5: 2Ran128 (474 in chips)
+Seat 6: savemeboots (412 in chips)
+joebrauser: posts the ante 3
+DiggErr555: posts the ante 3
+08pj08: posts the ante 3
+2Ran128: posts the ante 3
+savemeboots: posts the ante 3
+2Ran128: posts small blind 15
+savemeboots: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 3s]
+joebrauser: folds
+DiggErr555: folds
+08pj08: folds
+2Ran128: calls 15
+savemeboots: checks
+*** FLOP *** [8c 6s 8s]
+2Ran128: bets 30
+savemeboots: calls 30
+*** TURN *** [8c 6s 8s] [Ad]
+2Ran128: checks
+savemeboots: bets 135
+2Ran128: raises 276 to 411 and is all-in
+savemeboots: folds
+Uncalled bet (276) returned to 2Ran128
+2Ran128 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0
+Board [8c 6s 8s Ad]
+Seat 1: joebrauser folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: 08pj08 (button) folded before Flop (didn't bet)
+Seat 5: 2Ran128 (small blind) collected (405)
+Seat 6: savemeboots (big blind) folded on the Turn
+
+PokerStars Hand #189829527064: Tournament #2381056014, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:03:09 MSK [2018/08/12 23:03:09 ET]
+Table '2381056014 1' 6-max Seat #5 is the button
+Seat 1: joebrauser (441 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: 08pj08 (1203 in chips)
+Seat 5: 2Ran128 (681 in chips)
+Seat 6: savemeboots (214 in chips)
+joebrauser: posts the ante 3
+DiggErr555: posts the ante 3
+08pj08: posts the ante 3
+2Ran128: posts the ante 3
+savemeboots: posts the ante 3
+savemeboots: posts small blind 15
+joebrauser: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Qs]
+DiggErr555: raises 30 to 60
+08pj08: folds
+2Ran128: calls 60
+savemeboots: calls 45
+joebrauser: calls 30
+*** FLOP *** [5d 3d 9h]
+savemeboots: checks
+joebrauser: checks
+DiggErr555: checks
+2Ran128: checks
+*** TURN *** [5d 3d 9h] [As]
+savemeboots: checks
+joebrauser: bets 140
+DiggErr555: folds
+2Ran128: folds
+savemeboots: folds
+Uncalled bet (140) returned to joebrauser
+joebrauser collected 255 from pot
+joebrauser: doesn't show hand
+*** SUMMARY ***
+Total pot 255 | Rake 0
+Board [5d 3d 9h As]
+Seat 1: joebrauser (big blind) collected (255)
+Seat 3: DiggErr555 folded on the Turn
+Seat 4: 08pj08 folded before Flop (didn't bet)
+Seat 5: 2Ran128 (button) folded on the Turn
+Seat 6: savemeboots (small blind) folded on the Turn
+
+PokerStars Hand #189829541433: Tournament #2381056014, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:04:04 MSK [2018/08/12 23:04:04 ET]
+Table '2381056014 1' 6-max Seat #6 is the button
+Seat 1: joebrauser (633 in chips)
+Seat 3: DiggErr555 (398 in chips)
+Seat 4: 08pj08 (1200 in chips)
+Seat 5: 2Ran128 (618 in chips)
+Seat 6: savemeboots (151 in chips)
+joebrauser: posts the ante 3
+DiggErr555: posts the ante 3
+08pj08: posts the ante 3
+2Ran128: posts the ante 3
+savemeboots: posts the ante 3
+joebrauser: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks As]
+08pj08: calls 30
+2Ran128: folds
+savemeboots: raises 30 to 60
+joebrauser: raises 570 to 630 and is all-in
+DiggErr555: calls 365 and is all-in
+08pj08: calls 600
+savemeboots: calls 88 and is all-in
+*** FLOP *** [3d 3h 9c]
+*** TURN *** [3d 3h 9c] [Jh]
+*** RIVER *** [3d 3h 9c Jh] [Tc]
+*** SHOW DOWN ***
+joebrauser: shows [Qh Ac] (a pair of Threes)
+08pj08: shows [Js Th] (two pair, Jacks and Tens)
+08pj08 collected 470 from side pot-2
+DiggErr555: shows [Ks As] (a pair of Threes)
+08pj08 collected 741 from side pot-1
+savemeboots: shows [5c 6c] (a pair of Threes)
+08pj08 collected 607 from main pot
+08pj08 wins the $12.01 bounty for eliminating joebrauser
+08pj08 wins the $12.01 bounty for eliminating DiggErr555
+08pj08 wins the $12.01 bounty for eliminating savemeboots
+joebrauser finished the tournament in 3rd place
+DiggErr555 finished the tournament in 4th place
+savemeboots finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1818 Main pot 607. Side pot-1 741. Side pot-2 470. | Rake 0
+Board [3d 3h 9c Jh Tc]
+Seat 1: joebrauser (small blind) showed [Qh Ac] and lost with a pair of Threes
+Seat 3: DiggErr555 (big blind) showed [Ks As] and lost with a pair of Threes
+Seat 4: 08pj08 showed [Js Th] and won (1818) with two pair, Jacks and Tens
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: savemeboots (button) showed [5c 6c] and lost with a pair of Threes

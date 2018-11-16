@@ -1,0 +1,233 @@
+
+
+PokerStars Hand #189829562509: Tournament #2381063612, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:05:25 MSK [2018/08/12 23:05:25 ET]
+Table '2381063612 1' 6-max Seat #1 is the button
+Seat 1: givenitall (500 in chips)
+Seat 2: beefstu694 (500 in chips)
+Seat 3: desert120 (500 in chips)
+Seat 4: LEandrobsn23 (500 in chips)
+Seat 5: moimob (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+givenitall: posts the ante 2
+beefstu694: posts the ante 2
+desert120: posts the ante 2
+LEandrobsn23: posts the ante 2
+moimob: posts the ante 2
+DiggErr555: posts the ante 2
+beefstu694: posts small blind 10
+desert120: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 5h]
+LEandrobsn23: folds
+moimob: raises 20 to 40
+DiggErr555: folds
+givenitall: calls 40
+beefstu694: folds
+desert120: calls 20
+*** FLOP *** [Kd 8c 6h]
+desert120: checks
+moimob: checks
+givenitall: checks
+*** TURN *** [Kd 8c 6h] [4d]
+desert120: checks
+moimob: bets 80
+givenitall: calls 80
+desert120: folds
+*** RIVER *** [Kd 8c 6h 4d] [Kc]
+moimob: bets 378 and is all-in
+givenitall: calls 378 and is all-in
+*** SHOW DOWN ***
+moimob: shows [Qd Qc] (two pair, Kings and Queens)
+givenitall: shows [5d 8h] (two pair, Kings and Eights)
+moimob collected 1058 from pot
+moimob wins the $2.38 bounty for eliminating givenitall
+givenitall finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1058 | Rake 0
+Board [Kd 8c 6h 4d Kc]
+Seat 1: givenitall (button) showed [5d 8h] and lost with two pair, Kings and Eights
+Seat 2: beefstu694 (small blind) folded before Flop
+Seat 3: desert120 (big blind) folded on the Turn
+Seat 4: LEandrobsn23 folded before Flop (didn't bet)
+Seat 5: moimob showed [Qd Qc] and won (1058) with two pair, Kings and Queens
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829583789: Tournament #2381063612, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:06:47 MSK [2018/08/12 23:06:47 ET]
+Table '2381063612 1' 6-max Seat #2 is the button
+Seat 2: beefstu694 (488 in chips)
+Seat 3: desert120 (458 in chips)
+Seat 4: LEandrobsn23 (498 in chips)
+Seat 5: moimob (1058 in chips)
+Seat 6: DiggErr555 (498 in chips)
+beefstu694: posts the ante 2
+desert120: posts the ante 2
+LEandrobsn23: posts the ante 2
+moimob: posts the ante 2
+DiggErr555: posts the ante 2
+desert120: posts small blind 10
+LEandrobsn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 6s]
+moimob: folds
+DiggErr555: folds
+beefstu694: folds
+desert120: calls 10
+LEandrobsn23: checks
+*** FLOP *** [As 8d 5c]
+desert120: checks
+LEandrobsn23 has timed out
+LEandrobsn23: checks
+*** TURN *** [As 8d 5c] [Th]
+desert120: checks
+LEandrobsn23: bets 20
+desert120: calls 20
+*** RIVER *** [As 8d 5c Th] [4c]
+desert120: checks
+LEandrobsn23: bets 80
+desert120: folds
+Uncalled bet (80) returned to LEandrobsn23
+LEandrobsn23 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Board [As 8d 5c Th 4c]
+Seat 2: beefstu694 (button) folded before Flop (didn't bet)
+Seat 3: desert120 (small blind) folded on the River
+Seat 4: LEandrobsn23 (big blind) collected (90)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829605375: Tournament #2381063612, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:08:11 MSK [2018/08/12 23:08:11 ET]
+Table '2381063612 1' 6-max Seat #3 is the button
+Seat 2: beefstu694 (486 in chips)
+Seat 3: desert120 (416 in chips)
+Seat 4: LEandrobsn23 (546 in chips)
+Seat 5: moimob (1056 in chips)
+Seat 6: DiggErr555 (496 in chips)
+beefstu694: posts the ante 2
+desert120: posts the ante 2
+LEandrobsn23: posts the ante 2
+moimob: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts small blind 10
+moimob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Qd]
+DiggErr555: folds
+beefstu694: folds
+desert120: folds
+LEandrobsn23: calls 10
+moimob: checks
+*** FLOP *** [8c 3d Jc]
+LEandrobsn23: checks
+moimob: bets 20
+LEandrobsn23: folds
+Uncalled bet (20) returned to moimob
+moimob collected 50 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Board [8c 3d Jc]
+Seat 2: beefstu694 folded before Flop (didn't bet)
+Seat 3: desert120 (button) folded before Flop (didn't bet)
+Seat 4: LEandrobsn23 (small blind) folded on the Flop
+Seat 5: moimob (big blind) collected (50)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829619196: Tournament #2381063612, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:09:05 MSK [2018/08/12 23:09:05 ET]
+Table '2381063612 1' 6-max Seat #4 is the button
+Seat 2: beefstu694 (484 in chips)
+Seat 3: desert120 (414 in chips)
+Seat 4: LEandrobsn23 (524 in chips)
+Seat 5: moimob (1084 in chips)
+Seat 6: DiggErr555 (494 in chips)
+beefstu694: posts the ante 3
+desert120: posts the ante 3
+LEandrobsn23: posts the ante 3
+moimob: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 3d]
+beefstu694: calls 30
+desert120: calls 30
+LEandrobsn23: folds
+moimob: folds
+DiggErr555: checks
+*** FLOP *** [8s Jd 6s]
+DiggErr555: checks
+beefstu694: bets 30
+desert120: calls 30
+DiggErr555: calls 30
+*** TURN *** [8s Jd 6s] [3h]
+DiggErr555: checks
+beefstu694: bets 120
+desert120: calls 120
+DiggErr555: raises 311 to 431 and is all-in
+beefstu694: calls 301 and is all-in
+desert120: folds
+Uncalled bet (10) returned to DiggErr555
+*** RIVER *** [8s Jd 6s 3h] [6h]
+*** SHOW DOWN ***
+DiggErr555: shows [8d 3d] (two pair, Eights and Sixes)
+beefstu694: shows [As Js] (two pair, Jacks and Sixes)
+beefstu694 collected 1172 from pot
+*** SUMMARY ***
+Total pot 1172 | Rake 0
+Board [8s Jd 6s 3h 6h]
+Seat 2: beefstu694 showed [As Js] and won (1172) with two pair, Jacks and Sixes
+Seat 3: desert120 folded on the Turn
+Seat 4: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) showed [8d 3d] and lost with two pair, Eights and Sixes
+
+PokerStars Hand #189829634903: Tournament #2381063612, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:10:06 MSK [2018/08/12 23:10:06 ET]
+Table '2381063612 1' 6-max Seat #5 is the button
+Seat 2: beefstu694 (1172 in chips)
+Seat 3: desert120 (231 in chips)
+Seat 4: LEandrobsn23 (521 in chips)
+Seat 5: moimob (1066 in chips)
+Seat 6: DiggErr555 (10 in chips)
+beefstu694: posts the ante 3
+desert120: posts the ante 3
+LEandrobsn23: posts the ante 3
+moimob: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 7 and is all-in
+beefstu694: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 7d]
+desert120: calls 30
+LEandrobsn23: calls 30
+moimob: folds
+beefstu694: checks
+*** FLOP *** [6d 9h 5s]
+beefstu694: checks
+desert120: checks
+LEandrobsn23: checks
+*** TURN *** [6d 9h 5s] [Qh]
+beefstu694: checks
+desert120: checks
+LEandrobsn23: checks
+*** RIVER *** [6d 9h 5s Qh] [Jh]
+beefstu694: checks
+desert120: checks
+LEandrobsn23: bets 90
+beefstu694: calls 90
+desert120: folds
+*** SHOW DOWN ***
+LEandrobsn23: shows [As Ts] (high card Ace)
+beefstu694: shows [2d 5h] (a pair of Fives)
+beefstu694 collected 249 from side pot
+DiggErr555: mucks hand
+beefstu694 collected 43 from main pot
+beefstu694 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 292 Main pot 43. Side pot 249. | Rake 0
+Board [6d 9h 5s Qh Jh]
+Seat 2: beefstu694 (big blind) showed [2d 5h] and won (292) with a pair of Fives
+Seat 3: desert120 folded on the River
+Seat 4: LEandrobsn23 showed [As Ts] and lost with high card Ace
+Seat 5: moimob (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) mucked [3s 7d]

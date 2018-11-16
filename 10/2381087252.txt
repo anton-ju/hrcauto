@@ -1,0 +1,901 @@
+
+
+PokerStars Hand #189830631190: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:20:30 MSK [2018/08/13 0:20:30 ET]
+Table '2381087252 1' 6-max Seat #1 is the button
+Seat 1: RellasRent (500 in chips)
+Seat 2: time part 90 (500 in chips)
+Seat 3: blues13252 (500 in chips)
+Seat 4: joel 1206 (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: Chili195809 (500 in chips)
+RellasRent: posts the ante 2
+time part 90: posts the ante 2
+blues13252: posts the ante 2
+joel 1206: posts the ante 2
+DiggErr555: posts the ante 2
+Chili195809: posts the ante 2
+time part 90: posts small blind 10
+blues13252: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Qc]
+joel 1206: calls 20
+DiggErr555: raises 40 to 60
+Chili195809: folds
+RellasRent: folds
+time part 90: folds
+blues13252: folds
+joel 1206: calls 40
+*** FLOP *** [3c 6h 5h]
+joel 1206: checks
+DiggErr555: checks
+*** TURN *** [3c 6h 5h] [Td]
+joel 1206: bets 438 and is all-in
+DiggErr555: folds
+Uncalled bet (438) returned to joel 1206
+joel 1206 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | Rake 0
+Board [3c 6h 5h Td]
+Seat 1: RellasRent (button) folded before Flop (didn't bet)
+Seat 2: time part 90 (small blind) folded before Flop
+Seat 3: blues13252 (big blind) folded before Flop
+Seat 4: joel 1206 collected (162)
+Seat 5: DiggErr555 folded on the Turn
+Seat 6: Chili195809 folded before Flop (didn't bet)
+
+PokerStars Hand #189830639525: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:21:08 MSK [2018/08/13 0:21:08 ET]
+Table '2381087252 1' 6-max Seat #2 is the button
+Seat 1: RellasRent (498 in chips)
+Seat 2: time part 90 (488 in chips)
+Seat 3: blues13252 (478 in chips)
+Seat 4: joel 1206 (600 in chips)
+Seat 5: DiggErr555 (438 in chips)
+Seat 6: Chili195809 (498 in chips)
+RellasRent: posts the ante 2
+time part 90: posts the ante 2
+blues13252: posts the ante 2
+joel 1206: posts the ante 2
+DiggErr555: posts the ante 2
+Chili195809: posts the ante 2
+blues13252: posts small blind 10
+joel 1206: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Td]
+DiggErr555: folds
+Chili195809: folds
+RellasRent: calls 20
+time part 90: raises 466 to 486 and is all-in
+blues13252: folds
+joel 1206: folds
+RellasRent: folds
+Uncalled bet (466) returned to time part 90
+time part 90 collected 82 from pot
+*** SUMMARY ***
+Total pot 82 | Rake 0
+Seat 1: RellasRent folded before Flop
+Seat 2: time part 90 (button) collected (82)
+Seat 3: blues13252 (small blind) folded before Flop
+Seat 4: joel 1206 (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: Chili195809 folded before Flop (didn't bet)
+
+PokerStars Hand #189830642190: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:21:20 MSK [2018/08/13 0:21:20 ET]
+Table '2381087252 1' 6-max Seat #3 is the button
+Seat 1: RellasRent (476 in chips)
+Seat 2: time part 90 (548 in chips)
+Seat 3: blues13252 (466 in chips)
+Seat 4: joel 1206 (578 in chips)
+Seat 5: DiggErr555 (436 in chips)
+Seat 6: Chili195809 (496 in chips)
+RellasRent: posts the ante 2
+time part 90: posts the ante 2
+blues13252: posts the ante 2
+joel 1206: posts the ante 2
+DiggErr555: posts the ante 2
+Chili195809: posts the ante 2
+joel 1206: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 2h]
+Chili195809: folds
+RellasRent: folds
+time part 90: raises 22 to 42
+blues13252: folds
+joel 1206: calls 32
+DiggErr555: folds
+*** FLOP *** [4h 6h 9d]
+joel 1206: checks
+time part 90: checks
+*** TURN *** [4h 6h 9d] [9s]
+joel 1206: bets 20
+time part 90: calls 20
+*** RIVER *** [4h 6h 9d 9s] [8s]
+joel 1206: bets 20
+time part 90: calls 20
+*** SHOW DOWN ***
+joel 1206: shows [5c 6s] (two pair, Nines and Sixes)
+time part 90: mucks hand
+joel 1206 collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0
+Board [4h 6h 9d 9s 8s]
+Seat 1: RellasRent folded before Flop (didn't bet)
+Seat 2: time part 90 mucked [Kc Js]
+Seat 3: blues13252 (button) folded before Flop (didn't bet)
+Seat 4: joel 1206 (small blind) showed [5c 6s] and won (196) with two pair, Nines and Sixes
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: Chili195809 folded before Flop (didn't bet)
+
+PokerStars Hand #189830652872: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:22:10 MSK [2018/08/13 0:22:10 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 1: RellasRent (474 in chips)
+Seat 2: time part 90 (464 in chips)
+Seat 3: blues13252 (464 in chips)
+Seat 4: joel 1206 (690 in chips)
+Seat 5: DiggErr555 (414 in chips)
+Seat 6: Chili195809 (494 in chips)
+RellasRent: posts the ante 3
+time part 90: posts the ante 3
+blues13252: posts the ante 3
+joel 1206: posts the ante 3
+DiggErr555: posts the ante 3
+Chili195809: posts the ante 3
+DiggErr555: posts small blind 15
+Chili195809: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 8h]
+RellasRent: folds
+time part 90: raises 431 to 461 and is all-in
+blues13252: folds
+joel 1206: folds
+DiggErr555: folds
+Chili195809: calls 431
+*** FLOP *** [Qd 2s As]
+*** TURN *** [Qd 2s As] [9h]
+*** RIVER *** [Qd 2s As 9h] [8s]
+*** SHOW DOWN ***
+Chili195809: shows [Qs Ah] (two pair, Aces and Queens)
+time part 90: shows [4h 4s] (a pair of Fours)
+Chili195809 collected 955 from pot
+Chili195809 wins the $2.38 bounty for eliminating time part 90
+time part 90 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 955 | Rake 0
+Board [Qd 2s As 9h 8s]
+Seat 1: RellasRent folded before Flop (didn't bet)
+Seat 2: time part 90 showed [4h 4s] and lost with a pair of Fours
+Seat 3: blues13252 folded before Flop (didn't bet)
+Seat 4: joel 1206 (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: Chili195809 (big blind) showed [Qs Ah] and won (955) with two pair, Aces and Queens
+
+PokerStars Hand #189830657695: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:22:32 MSK [2018/08/13 0:22:32 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 1: RellasRent (471 in chips)
+Seat 3: blues13252 (461 in chips)
+Seat 4: joel 1206 (687 in chips)
+Seat 5: DiggErr555 (396 in chips)
+Seat 6: Chili195809 (985 in chips)
+RellasRent: posts the ante 3
+blues13252: posts the ante 3
+joel 1206: posts the ante 3
+DiggErr555: posts the ante 3
+Chili195809: posts the ante 3
+Chili195809: posts small blind 15
+RellasRent: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 6h]
+blues13252: folds
+joel 1206: raises 654 to 684 and is all-in
+DiggErr555: folds
+Chili195809: folds
+RellasRent: calls 438 and is all-in
+Uncalled bet (216) returned to joel 1206
+*** FLOP *** [Qd Ks Kc]
+*** TURN *** [Qd Ks Kc] [8s]
+*** RIVER *** [Qd Ks Kc 8s] [Ad]
+*** SHOW DOWN ***
+RellasRent: shows [3h 3c] (two pair, Kings and Threes)
+joel 1206: shows [Th Ah] (two pair, Aces and Kings)
+joel 1206 collected 966 from pot
+joel 1206 wins the $2.38 bounty for eliminating RellasRent
+RellasRent finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 966 | Rake 0
+Board [Qd Ks Kc 8s Ad]
+Seat 1: RellasRent (big blind) showed [3h 3c] and lost with two pair, Kings and Threes
+Seat 3: blues13252 folded before Flop (didn't bet)
+Seat 4: joel 1206 showed [Th Ah] and won (966) with two pair, Aces and Kings
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: Chili195809 (small blind) folded before Flop
+
+PokerStars Hand #189830661758: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:22:51 MSK [2018/08/13 0:22:51 ET]
+Table '2381087252 1' 6-max Seat #6 is the button
+Seat 3: blues13252 (458 in chips)
+Seat 4: joel 1206 (1182 in chips)
+Seat 5: DiggErr555 (393 in chips)
+Seat 6: Chili195809 (967 in chips)
+blues13252: posts the ante 3
+joel 1206: posts the ante 3
+DiggErr555: posts the ante 3
+Chili195809: posts the ante 3
+blues13252: posts small blind 15
+joel 1206: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 6d]
+DiggErr555: folds
+Chili195809: calls 30
+blues13252: calls 15
+joel 1206: checks
+*** FLOP *** [7d 3s 3d]
+blues13252: checks
+joel 1206: bets 60
+Chili195809: calls 60
+blues13252: folds
+*** TURN *** [7d 3s 3d] [Kh]
+joel 1206: bets 30
+Chili195809: calls 30
+*** RIVER *** [7d 3s 3d Kh] [Td]
+joel 1206: bets 30
+Chili195809: calls 30
+*** SHOW DOWN ***
+joel 1206: shows [7h 4h] (two pair, Sevens and Threes)
+Chili195809: mucks hand
+joel 1206 collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | Rake 0
+Board [7d 3s 3d Kh Td]
+Seat 3: blues13252 (small blind) folded on the Flop
+Seat 4: joel 1206 (big blind) showed [7h 4h] and won (342) with two pair, Sevens and Threes
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: Chili195809 (button) mucked [9s Js]
+
+PokerStars Hand #189830671365: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:23:36 MSK [2018/08/13 0:23:36 ET]
+Table '2381087252 1' 6-max Seat #3 is the button
+Seat 3: blues13252 (425 in chips)
+Seat 4: joel 1206 (1371 in chips)
+Seat 5: DiggErr555 (390 in chips)
+Seat 6: Chili195809 (814 in chips)
+blues13252: posts the ante 3
+joel 1206: posts the ante 3
+DiggErr555: posts the ante 3
+Chili195809: posts the ante 3
+joel 1206: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 9d]
+Chili195809: folds
+blues13252: raises 60 to 90
+joel 1206: folds
+DiggErr555: folds
+Uncalled bet (60) returned to blues13252
+blues13252 collected 87 from pot
+blues13252: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 3: blues13252 (button) collected (87)
+Seat 4: joel 1206 (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: Chili195809 folded before Flop (didn't bet)
+
+PokerStars Hand #189830674994: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:23:53 MSK [2018/08/13 0:23:53 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 3: blues13252 (479 in chips)
+Seat 4: joel 1206 (1353 in chips)
+Seat 5: DiggErr555 (357 in chips)
+Seat 6: Chili195809 (811 in chips)
+blues13252: posts the ante 4
+joel 1206: posts the ante 4
+DiggErr555: posts the ante 4
+Chili195809: posts the ante 4
+DiggErr555: posts small blind 20
+Chili195809: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 9d]
+blues13252: folds
+joel 1206: calls 40
+DiggErr555: folds
+Chili195809: checks
+*** FLOP *** [Kc 3s 7c]
+Chili195809: bets 40
+joel 1206: calls 40
+*** TURN *** [Kc 3s 7c] [Qc]
+Chili195809: bets 40
+joel 1206: calls 40
+*** RIVER *** [Kc 3s 7c Qc] [Ad]
+Chili195809: bets 40
+joel 1206: raises 200 to 240
+Chili195809: folds
+Uncalled bet (200) returned to joel 1206
+joel 1206 collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | Rake 0
+Board [Kc 3s 7c Qc Ad]
+Seat 3: blues13252 folded before Flop (didn't bet)
+Seat 4: joel 1206 (button) collected (356)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: Chili195809 (big blind) folded on the River
+
+PokerStars Hand #189830681339: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:24:22 MSK [2018/08/13 0:24:22 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 3: blues13252 (475 in chips)
+Seat 4: joel 1206 (1545 in chips)
+Seat 5: DiggErr555 (333 in chips)
+Seat 6: Chili195809 (647 in chips)
+blues13252: posts the ante 4
+joel 1206: posts the ante 4
+DiggErr555: posts the ante 4
+Chili195809: posts the ante 4
+Chili195809: posts small blind 20
+blues13252: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Ah]
+joel 1206: calls 40
+DiggErr555: raises 289 to 329 and is all-in
+Chili195809: calls 309
+blues13252: calls 289
+joel 1206: folds
+*** FLOP *** [Kd Td 3d]
+Chili195809: bets 314 and is all-in
+blues13252: folds
+Uncalled bet (314) returned to Chili195809
+*** TURN *** [Kd Td 3d] [Qs]
+*** RIVER *** [Kd Td 3d Qs] [5d]
+*** SHOW DOWN ***
+Chili195809: shows [Ac Kh] (a pair of Kings)
+DiggErr555: shows [Jd Ah] (a flush, King high)
+DiggErr555 collected 1043 from pot
+*** SUMMARY ***
+Total pot 1043 | Rake 0
+Board [Kd Td 3d Qs 5d]
+Seat 3: blues13252 (big blind) folded on the Flop
+Seat 4: joel 1206 folded before Flop
+Seat 5: DiggErr555 (button) showed [Jd Ah] and won (1043) with a flush, King high
+Seat 6: Chili195809 (small blind) showed [Ac Kh] and lost with a pair of Kings
+
+PokerStars Hand #189830688445: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:24:56 MSK [2018/08/13 0:24:56 ET]
+Table '2381087252 1' 6-max Seat #6 is the button
+Seat 3: blues13252 (142 in chips)
+Seat 4: joel 1206 (1501 in chips)
+Seat 5: DiggErr555 (1043 in chips)
+Seat 6: Chili195809 (314 in chips)
+blues13252: posts the ante 4
+joel 1206: posts the ante 4
+DiggErr555: posts the ante 4
+Chili195809: posts the ante 4
+blues13252: posts small blind 20
+joel 1206: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Qh]
+DiggErr555: folds
+Chili195809: calls 40
+blues13252: calls 20
+joel 1206: checks
+*** FLOP *** [Ks Jh Th]
+blues13252: checks
+joel 1206: bets 80
+Chili195809: raises 190 to 270 and is all-in
+blues13252: folds
+joel 1206: calls 190
+*** TURN *** [Ks Jh Th] [Ad]
+*** RIVER *** [Ks Jh Th Ad] [7s]
+*** SHOW DOWN ***
+joel 1206: shows [Js 2c] (a pair of Jacks)
+Chili195809: shows [9c Qc] (a straight, Ten to Ace)
+Chili195809 collected 676 from pot
+*** SUMMARY ***
+Total pot 676 | Rake 0
+Board [Ks Jh Th Ad 7s]
+Seat 3: blues13252 (small blind) folded on the Flop
+Seat 4: joel 1206 (big blind) showed [Js 2c] and lost with a pair of Jacks
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: Chili195809 (button) showed [9c Qc] and won (676) with a straight, Ten to Ace
+
+PokerStars Hand #189830695316: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:25:28 MSK [2018/08/13 0:25:28 ET]
+Table '2381087252 1' 6-max Seat #3 is the button
+Seat 3: blues13252 (98 in chips)
+Seat 4: joel 1206 (1187 in chips)
+Seat 5: DiggErr555 (1039 in chips)
+Seat 6: Chili195809 (676 in chips)
+blues13252: posts the ante 4
+joel 1206: posts the ante 4
+DiggErr555: posts the ante 4
+Chili195809: posts the ante 4
+joel 1206: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 9c]
+Chili195809: calls 40
+blues13252: raises 40 to 80
+joel 1206: calls 60
+DiggErr555: calls 40
+Chili195809: calls 40
+*** FLOP *** [8h 4h Kd]
+joel 1206: bets 40
+DiggErr555: folds
+Chili195809: calls 40
+blues13252: calls 14 and is all-in
+*** TURN *** [8h 4h Kd] [5d]
+joel 1206: bets 1063 and is all-in
+Chili195809: folds
+Uncalled bet (1063) returned to joel 1206
+*** RIVER *** [8h 4h Kd 5d] [Ks]
+*** SHOW DOWN ***
+joel 1206: shows [8c 5c] (two pair, Kings and Eights)
+joel 1206 collected 52 from side pot
+blues13252: shows [Jd 4d] (two pair, Kings and Fours)
+joel 1206 collected 378 from main pot
+joel 1206 wins the $2.38 bounty for eliminating blues13252
+blues13252 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 430 Main pot 378. Side pot 52. | Rake 0
+Board [8h 4h Kd 5d Ks]
+Seat 3: blues13252 (button) showed [Jd 4d] and lost with two pair, Kings and Fours
+Seat 4: joel 1206 (small blind) showed [8c 5c] and won (430) with two pair, Kings and Eights
+Seat 5: DiggErr555 (big blind) folded on the Flop
+Seat 6: Chili195809 folded on the Turn
+
+PokerStars Hand #189830706014: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:26:17 MSK [2018/08/13 0:26:17 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (1493 in chips)
+Seat 5: DiggErr555 (955 in chips)
+Seat 6: Chili195809 (552 in chips)
+joel 1206: posts the ante 6
+DiggErr555: posts the ante 6
+Chili195809: posts the ante 6
+DiggErr555: posts small blind 30
+Chili195809: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Qc]
+joel 1206: calls 60
+DiggErr555: folds
+Chili195809: checks
+*** FLOP *** [9c 2d 8h]
+Chili195809: checks
+joel 1206: checks
+*** TURN *** [9c 2d 8h] [Js]
+Chili195809: bets 60
+joel 1206: calls 60
+*** RIVER *** [9c 2d 8h Js] [7h]
+Chili195809: bets 288
+joel 1206: calls 288
+*** SHOW DOWN ***
+Chili195809: shows [Jh 7s] (two pair, Jacks and Sevens)
+joel 1206: shows [5d 6d] (a straight, Five to Nine)
+joel 1206 collected 864 from pot
+*** SUMMARY ***
+Total pot 864 | Rake 0
+Board [9c 2d 8h Js 7h]
+Seat 4: joel 1206 (button) showed [5d 6d] and won (864) with a straight, Five to Nine
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: Chili195809 (big blind) showed [Jh 7s] and lost with two pair, Jacks and Sevens
+
+PokerStars Hand #189830712347: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:26:46 MSK [2018/08/13 0:26:46 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (1943 in chips)
+Seat 5: DiggErr555 (919 in chips)
+Seat 6: Chili195809 (138 in chips)
+joel 1206: posts the ante 6
+DiggErr555: posts the ante 6
+Chili195809: posts the ante 6
+Chili195809: posts small blind 30
+joel 1206: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Jd]
+DiggErr555: folds
+Chili195809: folds
+Uncalled bet (30) returned to joel 1206
+joel 1206 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 4: joel 1206 (big blind) collected (78)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: Chili195809 (small blind) folded before Flop
+
+PokerStars Hand #189830713776: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:26:53 MSK [2018/08/13 0:26:53 ET]
+Table '2381087252 1' 6-max Seat #6 is the button
+Seat 4: joel 1206 (1985 in chips)
+Seat 5: DiggErr555 (913 in chips)
+Seat 6: Chili195809 (102 in chips)
+joel 1206: posts the ante 6
+DiggErr555: posts the ante 6
+Chili195809: posts the ante 6
+joel 1206: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c As]
+Chili195809: folds
+joel 1206: calls 30
+DiggErr555: checks
+*** FLOP *** [5d 9h Jc]
+joel 1206: checks
+DiggErr555: bets 60
+joel 1206: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 138 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Board [5d 9h Jc]
+Seat 4: joel 1206 (small blind) folded on the Flop
+Seat 5: DiggErr555 (big blind) collected (138)
+Seat 6: Chili195809 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830717058: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:27:09 MSK [2018/08/13 0:27:09 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (1919 in chips)
+Seat 5: DiggErr555 (985 in chips)
+Seat 6: Chili195809 (96 in chips)
+joel 1206: posts the ante 6
+DiggErr555: posts the ante 6
+Chili195809: posts the ante 6
+DiggErr555: posts small blind 30
+Chili195809: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s Ad]
+joel 1206: raises 60 to 120
+DiggErr555: folds
+Chili195809: calls 30 and is all-in
+Uncalled bet (30) returned to joel 1206
+*** FLOP *** [Ts 9s 3h]
+*** TURN *** [Ts 9s 3h] [Jd]
+*** RIVER *** [Ts 9s 3h Jd] [2d]
+*** SHOW DOWN ***
+Chili195809: shows [4s 7h] (high card Jack)
+joel 1206: shows [7c 5c] (high card Jack - Ten+Nine+Seven+Five kicker)
+joel 1206 collected 228 from pot
+joel 1206 wins the $2.38 bounty for eliminating Chili195809
+Chili195809 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 228 | Rake 0
+Board [Ts 9s 3h Jd 2d]
+Seat 4: joel 1206 (button) showed [7c 5c] and won (228) with high card Jack
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: Chili195809 (big blind) showed [4s 7h] and lost with high card Jack
+
+PokerStars Hand #189830722220: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:27:33 MSK [2018/08/13 0:27:33 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (2051 in chips)
+Seat 5: DiggErr555 (949 in chips)
+joel 1206: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+joel 1206: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 5h]
+DiggErr555: raises 60 to 120
+joel 1206: raises 1925 to 2045 and is all-in
+DiggErr555: folds
+Uncalled bet (1925) returned to joel 1206
+joel 1206 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | Rake 0
+Seat 4: joel 1206 (big blind) collected (252)
+Seat 5: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189830724928: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:27:45 MSK [2018/08/13 0:27:45 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (2177 in chips)
+Seat 5: DiggErr555 (823 in chips)
+joel 1206: posts the ante 8
+DiggErr555: posts the ante 8
+joel 1206: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 7h]
+joel 1206: raises 2089 to 2169 and is all-in
+DiggErr555: folds
+Uncalled bet (2089) returned to joel 1206
+joel 1206 collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 4: joel 1206 (button) (small blind) collected (176)
+Seat 5: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830727392: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:27:57 MSK [2018/08/13 0:27:57 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (2265 in chips)
+Seat 5: DiggErr555 (735 in chips)
+joel 1206: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+joel 1206: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 7h]
+DiggErr555: calls 40
+joel 1206: checks
+*** FLOP *** [Tc Jh Kd]
+joel 1206: bets 88
+DiggErr555: folds
+Uncalled bet (88) returned to joel 1206
+joel 1206 collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [Tc Jh Kd]
+Seat 4: joel 1206 (big blind) collected (176)
+Seat 5: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189830729753: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:28:08 MSK [2018/08/13 0:28:08 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (2353 in chips)
+Seat 5: DiggErr555 (647 in chips)
+joel 1206: posts the ante 8
+DiggErr555: posts the ante 8
+joel 1206: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 4s]
+joel 1206: calls 40
+DiggErr555: raises 559 to 639 and is all-in
+joel 1206: folds
+Uncalled bet (559) returned to DiggErr555
+DiggErr555 collected 176 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 4: joel 1206 (button) (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) collected (176)
+
+PokerStars Hand #189830731317: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:28:15 MSK [2018/08/13 0:28:15 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (2265 in chips)
+Seat 5: DiggErr555 (735 in chips)
+joel 1206: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+joel 1206: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 4d]
+DiggErr555: calls 40
+joel 1206: checks
+*** FLOP *** [Th 9c 2d]
+joel 1206: checks
+DiggErr555: checks
+*** TURN *** [Th 9c 2d] [6c]
+joel 1206: bets 80
+DiggErr555: calls 80
+*** RIVER *** [Th 9c 2d 6c] [Jc]
+joel 1206: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to joel 1206
+joel 1206 collected 336 from pot
+*** SUMMARY ***
+Total pot 336 | Rake 0
+Board [Th 9c 2d 6c Jc]
+Seat 4: joel 1206 (big blind) collected (336)
+Seat 5: DiggErr555 (button) (small blind) folded on the River
+
+PokerStars Hand #189830735995: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:28:37 MSK [2018/08/13 0:28:37 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (2433 in chips)
+Seat 5: DiggErr555 (567 in chips)
+joel 1206: posts the ante 8
+DiggErr555: posts the ante 8
+joel 1206: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Tc]
+joel 1206: calls 40
+DiggErr555: checks
+*** FLOP *** [Ah 9h 3d]
+DiggErr555: checks
+joel 1206: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to joel 1206
+joel 1206 collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [Ah 9h 3d]
+Seat 4: joel 1206 (button) (small blind) collected (176)
+Seat 5: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189830741465: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:29:02 MSK [2018/08/13 0:29:02 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (2521 in chips)
+Seat 5: DiggErr555 (479 in chips)
+joel 1206: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+joel 1206: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Qd]
+DiggErr555: raises 369 to 469 and is all-in
+joel 1206: folds
+Uncalled bet (369) returned to DiggErr555
+DiggErr555 collected 220 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 4: joel 1206 (big blind) folded before Flop
+Seat 5: DiggErr555 (button) (small blind) collected (220)
+
+PokerStars Hand #189830742780: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:29:09 MSK [2018/08/13 0:29:09 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (2411 in chips)
+Seat 5: DiggErr555 (589 in chips)
+joel 1206: posts the ante 10
+DiggErr555: posts the ante 10
+joel 1206: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 3s]
+joel 1206: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 4: joel 1206 (button) (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) collected (120)
+
+PokerStars Hand #189830743699: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:29:13 MSK [2018/08/13 0:29:13 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (2351 in chips)
+Seat 5: DiggErr555 (649 in chips)
+joel 1206: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+joel 1206: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 8c]
+DiggErr555: raises 539 to 639 and is all-in
+joel 1206: folds
+Uncalled bet (539) returned to DiggErr555
+DiggErr555 collected 220 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 4: joel 1206 (big blind) folded before Flop
+Seat 5: DiggErr555 (button) (small blind) collected (220)
+
+PokerStars Hand #189830745400: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:29:21 MSK [2018/08/13 0:29:21 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (2241 in chips)
+Seat 5: DiggErr555 (759 in chips)
+joel 1206: posts the ante 10
+DiggErr555: posts the ante 10
+joel 1206: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 6d]
+joel 1206: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 4: joel 1206 (button) (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) collected (120)
+
+PokerStars Hand #189830746260: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:29:25 MSK [2018/08/13 0:29:25 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (2181 in chips)
+Seat 5: DiggErr555 (819 in chips)
+joel 1206: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+joel 1206: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Ks]
+DiggErr555: calls 50
+joel 1206: raises 100 to 200
+DiggErr555: raises 609 to 809 and is all-in
+joel 1206: calls 609
+*** FLOP *** [As 5d 2d]
+*** TURN *** [As 5d 2d] [9c]
+*** RIVER *** [As 5d 2d 9c] [Kc]
+*** SHOW DOWN ***
+joel 1206: shows [Qd Qc] (a pair of Queens)
+DiggErr555: shows [Js Ks] (a pair of Kings)
+DiggErr555 collected 1638 from pot
+*** SUMMARY ***
+Total pot 1638 | Rake 0
+Board [As 5d 2d 9c Kc]
+Seat 4: joel 1206 (big blind) showed [Qd Qc] and lost with a pair of Queens
+Seat 5: DiggErr555 (button) (small blind) showed [Js Ks] and won (1638) with a pair of Kings
+
+PokerStars Hand #189830750350: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:29:44 MSK [2018/08/13 0:29:44 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (1362 in chips)
+Seat 5: DiggErr555 (1638 in chips)
+joel 1206: posts the ante 10
+DiggErr555: posts the ante 10
+joel 1206: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 3c]
+joel 1206: calls 50
+DiggErr555: raises 1528 to 1628 and is all-in
+joel 1206: folds
+Uncalled bet (1528) returned to DiggErr555
+DiggErr555 collected 220 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 4: joel 1206 (button) (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) collected (220)
+
+PokerStars Hand #189830752898: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:29:56 MSK [2018/08/13 0:29:56 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (1252 in chips)
+Seat 5: DiggErr555 (1748 in chips)
+joel 1206: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+joel 1206: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 2d]
+DiggErr555: folds
+Uncalled bet (60) returned to joel 1206
+joel 1206 collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 4: joel 1206 (big blind) collected (144)
+Seat 5: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189830754284: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:30:03 MSK [2018/08/13 0:30:03 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (1324 in chips)
+Seat 5: DiggErr555 (1676 in chips)
+joel 1206: posts the ante 12
+DiggErr555: posts the ante 12
+joel 1206: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 9c]
+joel 1206: raises 1192 to 1312 and is all-in
+DiggErr555: folds
+Uncalled bet (1192) returned to joel 1206
+joel 1206 collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 4: joel 1206 (button) (small blind) collected (264)
+Seat 5: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189830757801: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:30:19 MSK [2018/08/13 0:30:19 ET]
+Table '2381087252 1' 6-max Seat #5 is the button
+Seat 4: joel 1206 (1456 in chips)
+Seat 5: DiggErr555 (1544 in chips)
+joel 1206: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+joel 1206: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 6c]
+DiggErr555: raises 1412 to 1532 and is all-in
+joel 1206: folds
+Uncalled bet (1412) returned to DiggErr555
+DiggErr555 collected 264 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Seat 4: joel 1206 (big blind) folded before Flop
+Seat 5: DiggErr555 (button) (small blind) collected (264)
+
+PokerStars Hand #189830759382: Tournament #2381087252, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:30:26 MSK [2018/08/13 0:30:26 ET]
+Table '2381087252 1' 6-max Seat #4 is the button
+Seat 4: joel 1206 (1324 in chips)
+Seat 5: DiggErr555 (1676 in chips)
+joel 1206: posts the ante 12
+DiggErr555: posts the ante 12
+joel 1206: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d Kh]
+joel 1206: raises 1192 to 1312 and is all-in
+DiggErr555: calls 1192
+*** FLOP *** [2h 7c 3s]
+*** TURN *** [2h 7c 3s] [9s]
+*** RIVER *** [2h 7c 3s 9s] [6s]
+*** SHOW DOWN ***
+DiggErr555: shows [4d Kh] (high card King)
+joel 1206: shows [Jh Td] (high card Jack)
+DiggErr555 collected 2648 from pot
+DiggErr555 wins the $2.38 bounty for eliminating joel 1206
+joel 1206 finished the tournament in 2nd place and received $7.14.
+DiggErr555 wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 2648 | Rake 0
+Board [2h 7c 3s 9s 6s]
+Seat 4: joel 1206 (button) (small blind) showed [Jh Td] and lost with high card Jack
+Seat 5: DiggErr555 (big blind) showed [4d Kh] and won (2648) with high card King

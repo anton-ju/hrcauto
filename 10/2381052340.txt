@@ -1,0 +1,962 @@
+
+
+PokerStars Hand #189829203777: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:43:11 MSK [2018/08/12 22:43:11 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (500 in chips)
+Seat 2: Kyleddd (500 in chips)
+Seat 3: LuckyLeopard (500 in chips)
+Seat 4: Mishator (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: cowhead72 (500 in chips)
+oposs153: posts the ante 2
+Kyleddd: posts the ante 2
+LuckyLeopard: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cowhead72: posts the ante 2
+Kyleddd: posts small blind 10
+LuckyLeopard: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Qd]
+Mishator: folds
+DiggErr555: raises 20 to 40
+cowhead72: folds
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: folds
+Uncalled bet (20) returned to DiggErr555
+DiggErr555 collected 62 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 2: Kyleddd (small blind) folded before Flop
+Seat 3: LuckyLeopard (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 collected (62)
+Seat 6: cowhead72 folded before Flop (didn't bet)
+
+PokerStars Hand #189829209209: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:43:30 MSK [2018/08/12 22:43:30 ET]
+Table '2381052340 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (498 in chips)
+Seat 2: Kyleddd (488 in chips)
+Seat 3: LuckyLeopard (478 in chips)
+Seat 4: Mishator (498 in chips)
+Seat 5: DiggErr555 (540 in chips)
+Seat 6: cowhead72 (498 in chips)
+oposs153: posts the ante 2
+Kyleddd: posts the ante 2
+LuckyLeopard: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cowhead72: posts the ante 2
+LuckyLeopard: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 7h]
+DiggErr555: folds
+cowhead72: folds
+oposs153: raises 476 to 496 and is all-in
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+Uncalled bet (476) returned to oposs153
+oposs153 collected 62 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: oposs153 collected (62)
+Seat 2: Kyleddd (button) folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (small blind) folded before Flop
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cowhead72 folded before Flop (didn't bet)
+
+PokerStars Hand #189829216454: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:43:56 MSK [2018/08/12 22:43:56 ET]
+Table '2381052340 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (538 in chips)
+Seat 2: Kyleddd (486 in chips)
+Seat 3: LuckyLeopard (466 in chips)
+Seat 4: Mishator (476 in chips)
+Seat 5: DiggErr555 (538 in chips)
+Seat 6: cowhead72 (496 in chips)
+oposs153: posts the ante 2
+Kyleddd: posts the ante 2
+LuckyLeopard: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 8s]
+cowhead72: folds
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: raises 30 to 50
+DiggErr555: folds
+Uncalled bet (30) returned to Mishator
+Mishator collected 52 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) collected (52)
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: cowhead72 folded before Flop (didn't bet)
+
+PokerStars Hand #189829223000: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:44:20 MSK [2018/08/12 22:44:20 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (536 in chips)
+Seat 2: Kyleddd (484 in chips)
+Seat 3: LuckyLeopard (464 in chips)
+Seat 4: Mishator (506 in chips)
+Seat 5: DiggErr555 (516 in chips)
+Seat 6: cowhead72 (494 in chips)
+oposs153: posts the ante 3
+Kyleddd: posts the ante 3
+LuckyLeopard: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+DiggErr555: posts small blind 15
+cowhead72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 4d]
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+DiggErr555: raises 37 to 67
+cowhead72: folds
+Uncalled bet (37) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) collected (78)
+Seat 6: cowhead72 (big blind) folded before Flop
+
+PokerStars Hand #189829230013: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:44:45 MSK [2018/08/12 22:44:45 ET]
+Table '2381052340 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (533 in chips)
+Seat 2: Kyleddd (481 in chips)
+Seat 3: LuckyLeopard (461 in chips)
+Seat 4: Mishator (503 in chips)
+Seat 5: DiggErr555 (561 in chips)
+Seat 6: cowhead72 (461 in chips)
+oposs153: posts the ante 3
+Kyleddd: posts the ante 3
+LuckyLeopard: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+cowhead72: posts small blind 15
+oposs153: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 8s]
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: raises 30 to 60
+DiggErr555: folds
+cowhead72: folds
+oposs153: folds
+Uncalled bet (30) returned to Mishator
+Mishator collected 93 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: oposs153 (big blind) folded before Flop
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard folded before Flop (didn't bet)
+Seat 4: Mishator collected (93)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: cowhead72 (small blind) folded before Flop
+
+PokerStars Hand #189829234880: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:45:03 MSK [2018/08/12 22:45:03 ET]
+Table '2381052340 1' 6-max Seat #6 is the button
+Seat 1: oposs153 (500 in chips)
+Seat 2: Kyleddd (478 in chips)
+Seat 3: LuckyLeopard (458 in chips)
+Seat 4: Mishator (563 in chips)
+Seat 5: DiggErr555 (558 in chips)
+Seat 6: cowhead72 (443 in chips)
+oposs153: posts the ante 3
+Kyleddd: posts the ante 3
+LuckyLeopard: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+oposs153: posts small blind 15
+Kyleddd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 4d]
+LuckyLeopard: folds
+Mishator: folds
+DiggErr555: folds
+cowhead72: folds
+oposs153: raises 467 to 497 and is all-in
+Kyleddd: folds
+Uncalled bet (467) returned to oposs153
+oposs153 collected 78 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: oposs153 (small blind) collected (78)
+Seat 2: Kyleddd (big blind) folded before Flop
+Seat 3: LuckyLeopard folded before Flop (didn't bet)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cowhead72 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829242285: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:45:30 MSK [2018/08/12 22:45:30 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (545 in chips)
+Seat 2: Kyleddd (445 in chips)
+Seat 3: LuckyLeopard (455 in chips)
+Seat 4: Mishator (560 in chips)
+Seat 5: DiggErr555 (555 in chips)
+Seat 6: cowhead72 (440 in chips)
+oposs153: posts the ante 3
+Kyleddd: posts the ante 3
+LuckyLeopard: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+cowhead72: posts the ante 3
+Kyleddd: posts small blind 15
+LuckyLeopard: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 4d]
+Mishator: folds
+DiggErr555: folds
+cowhead72: raises 30 to 60
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: raises 392 to 452 and is all-in
+cowhead72: folds
+Uncalled bet (392) returned to LuckyLeopard
+LuckyLeopard collected 153 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 153 | Rake 0
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 2: Kyleddd (small blind) folded before Flop
+Seat 3: LuckyLeopard (big blind) collected (153)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cowhead72 folded before Flop
+
+PokerStars Hand #189829253617: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:46:10 MSK [2018/08/12 22:46:10 ET]
+Table '2381052340 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (542 in chips)
+Seat 2: Kyleddd (427 in chips)
+Seat 3: LuckyLeopard (545 in chips)
+Seat 4: Mishator (557 in chips)
+Seat 5: DiggErr555 (552 in chips)
+Seat 6: cowhead72 (377 in chips)
+oposs153: posts the ante 4
+Kyleddd: posts the ante 4
+LuckyLeopard: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+LuckyLeopard: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Qc]
+DiggErr555: folds
+cowhead72: folds
+oposs153: raises 498 to 538 and is all-in
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+Uncalled bet (498) returned to oposs153
+oposs153 collected 124 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 124 | Rake 0
+Seat 1: oposs153 collected (124)
+Seat 2: Kyleddd (button) folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (small blind) folded before Flop
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cowhead72 folded before Flop (didn't bet)
+
+PokerStars Hand #189829260706: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:46:36 MSK [2018/08/12 22:46:36 ET]
+Table '2381052340 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (622 in chips)
+Seat 2: Kyleddd (423 in chips)
+Seat 3: LuckyLeopard (521 in chips)
+Seat 4: Mishator (513 in chips)
+Seat 5: DiggErr555 (548 in chips)
+Seat 6: cowhead72 (373 in chips)
+oposs153: posts the ante 4
+Kyleddd: posts the ante 4
+LuckyLeopard: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 4d]
+cowhead72: calls 40
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+DiggErr555: checks
+*** FLOP *** [3c Jc 9s]
+DiggErr555: checks
+cowhead72: bets 60
+DiggErr555: calls 60
+*** TURN *** [3c Jc 9s] [Js]
+DiggErr555: checks
+cowhead72: bets 40
+DiggErr555: raises 404 to 444 and is all-in
+cowhead72: folds
+Uncalled bet (404) returned to DiggErr555
+DiggErr555 collected 324 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 324 | Rake 0
+Board [3c Jc 9s Js]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) collected (324)
+Seat 6: cowhead72 folded on the Turn
+
+PokerStars Hand #189829272749: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:47:20 MSK [2018/08/12 22:47:20 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (618 in chips)
+Seat 2: Kyleddd (419 in chips)
+Seat 3: LuckyLeopard (517 in chips)
+Seat 4: Mishator (489 in chips)
+Seat 5: DiggErr555 (728 in chips)
+Seat 6: cowhead72 (229 in chips)
+oposs153: posts the ante 4
+Kyleddd: posts the ante 4
+LuckyLeopard: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+cowhead72: posts the ante 4
+DiggErr555: posts small blind 20
+cowhead72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 4h]
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: raises 445 to 485 and is all-in
+DiggErr555: folds
+cowhead72: calls 185 and is all-in
+Uncalled bet (260) returned to Mishator
+*** FLOP *** [Kc 6s 4d]
+*** TURN *** [Kc 6s 4d] [7c]
+*** RIVER *** [Kc 6s 4d 7c] [As]
+*** SHOW DOWN ***
+cowhead72: shows [9c Kd] (a pair of Kings)
+Mishator: shows [Ks Js] (a pair of Kings - Ace+Jack kicker)
+Mishator collected 494 from pot
+Mishator wins the $12.01 bounty for eliminating cowhead72
+cowhead72 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 494 | Rake 0
+Board [Kc 6s 4d 7c As]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard folded before Flop (didn't bet)
+Seat 4: Mishator (button) showed [Ks Js] and won (494) with a pair of Kings
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: cowhead72 (big blind) showed [9c Kd] and lost with a pair of Kings
+
+PokerStars Hand #189829280774: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:47:49 MSK [2018/08/12 22:47:49 ET]
+Table '2381052340 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (614 in chips)
+Seat 2: Kyleddd (415 in chips)
+Seat 3: LuckyLeopard (513 in chips)
+Seat 4: Mishator (754 in chips)
+Seat 5: DiggErr555 (704 in chips)
+oposs153: posts the ante 4
+Kyleddd: posts the ante 4
+LuckyLeopard: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+oposs153: posts small blind 20
+Kyleddd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Ts]
+LuckyLeopard: folds
+Mishator: folds
+DiggErr555: raises 40 to 80
+oposs153: folds
+Kyleddd: calls 40
+*** FLOP *** [Ah Js Tc]
+Kyleddd: checks
+DiggErr555: bets 80
+Kyleddd: folds
+Uncalled bet (80) returned to DiggErr555
+DiggErr555 collected 200 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Ah Js Tc]
+Seat 1: oposs153 (small blind) folded before Flop
+Seat 2: Kyleddd (big blind) folded on the Flop
+Seat 3: LuckyLeopard folded before Flop (didn't bet)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 (button) collected (200)
+
+PokerStars Hand #189829292709: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:48:32 MSK [2018/08/12 22:48:32 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (590 in chips)
+Seat 2: Kyleddd (331 in chips)
+Seat 3: LuckyLeopard (509 in chips)
+Seat 4: Mishator (750 in chips)
+Seat 5: DiggErr555 (820 in chips)
+oposs153: posts the ante 6
+Kyleddd: posts the ante 6
+LuckyLeopard: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+Kyleddd: posts small blind 30
+LuckyLeopard: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Ks]
+Mishator: folds
+DiggErr555: raises 754 to 814 and is all-in
+oposs153: folds
+Kyleddd: folds
+LuckyLeopard: folds
+Uncalled bet (754) returned to DiggErr555
+DiggErr555 collected 180 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 2: Kyleddd (small blind) folded before Flop
+Seat 3: LuckyLeopard (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 collected (180)
+
+PokerStars Hand #189829297088: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:48:48 MSK [2018/08/12 22:48:48 ET]
+Table '2381052340 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (584 in chips)
+Seat 2: Kyleddd (295 in chips)
+Seat 3: LuckyLeopard (443 in chips)
+Seat 4: Mishator (744 in chips)
+Seat 5: DiggErr555 (934 in chips)
+oposs153: posts the ante 6
+Kyleddd: posts the ante 6
+LuckyLeopard: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+LuckyLeopard: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 2h]
+DiggErr555: folds
+oposs153: raises 518 to 578 and is all-in
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+Uncalled bet (518) returned to oposs153
+oposs153 collected 180 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: oposs153 collected (180)
+Seat 2: Kyleddd (button) folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (small blind) folded before Flop
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829303014: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:10 MSK [2018/08/12 22:49:10 ET]
+Table '2381052340 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (698 in chips)
+Seat 2: Kyleddd (289 in chips)
+Seat 3: LuckyLeopard (407 in chips)
+Seat 4: Mishator (678 in chips)
+Seat 5: DiggErr555 (928 in chips)
+oposs153: posts the ante 6
+Kyleddd: posts the ante 6
+LuckyLeopard: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 8s]
+oposs153: raises 632 to 692 and is all-in
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (632) returned to oposs153
+oposs153 collected 180 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 1: oposs153 collected (180)
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829307308: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:26 MSK [2018/08/12 22:49:26 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (812 in chips)
+Seat 2: Kyleddd (283 in chips)
+Seat 3: LuckyLeopard (401 in chips)
+Seat 4: Mishator (642 in chips)
+Seat 5: DiggErr555 (862 in chips)
+oposs153: posts the ante 6
+Kyleddd: posts the ante 6
+LuckyLeopard: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+oposs153: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 4d]
+Kyleddd: folds
+LuckyLeopard: folds
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (30) returned to oposs153
+oposs153 collected 90 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: oposs153 (big blind) collected (90)
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: LuckyLeopard folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829310227: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:49:36 MSK [2018/08/12 22:49:36 ET]
+Table '2381052340 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (866 in chips)
+Seat 2: Kyleddd (277 in chips)
+Seat 3: LuckyLeopard (395 in chips)
+Seat 4: Mishator (636 in chips)
+Seat 5: DiggErr555 (826 in chips)
+oposs153: posts the ante 6
+Kyleddd: posts the ante 6
+LuckyLeopard: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+oposs153: posts small blind 30
+Kyleddd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 5d]
+LuckyLeopard: raises 329 to 389 and is all-in
+Mishator: folds
+DiggErr555: folds
+oposs153: raises 471 to 860 and is all-in
+Kyleddd: folds
+Uncalled bet (471) returned to oposs153
+*** FLOP *** [6s 4h 6d]
+*** TURN *** [6s 4h 6d] [5c]
+*** RIVER *** [6s 4h 6d 5c] [Qs]
+*** SHOW DOWN ***
+oposs153: shows [Th Kc] (a pair of Sixes)
+LuckyLeopard: shows [8c Qc] (two pair, Queens and Sixes)
+LuckyLeopard collected 868 from pot
+*** SUMMARY ***
+Total pot 868 | Rake 0
+Board [6s 4h 6d 5c Qs]
+Seat 1: oposs153 (small blind) showed [Th Kc] and lost with a pair of Sixes
+Seat 2: Kyleddd (big blind) folded before Flop
+Seat 3: LuckyLeopard showed [8c Qc] and won (868) with two pair, Queens and Sixes
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829318576: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:50:07 MSK [2018/08/12 22:50:07 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (471 in chips)
+Seat 2: Kyleddd (211 in chips)
+Seat 3: LuckyLeopard (868 in chips)
+Seat 4: Mishator (630 in chips)
+Seat 5: DiggErr555 (820 in chips)
+oposs153: posts the ante 8
+Kyleddd: posts the ante 8
+LuckyLeopard: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+Kyleddd: posts small blind 40
+LuckyLeopard: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 8h]
+Mishator: folds
+DiggErr555: folds
+oposs153: folds
+Kyleddd: raises 123 to 203 and is all-in
+LuckyLeopard: calls 123
+*** FLOP *** [3d 9s Tc]
+*** TURN *** [3d 9s Tc] [4s]
+*** RIVER *** [3d 9s Tc 4s] [7c]
+*** SHOW DOWN ***
+Kyleddd: shows [2s 2h] (a pair of Deuces)
+LuckyLeopard: shows [Jc 9h] (a pair of Nines)
+LuckyLeopard collected 446 from pot
+LuckyLeopard wins the $12.01 bounty for eliminating Kyleddd
+Kyleddd finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 446 | Rake 0
+Board [3d 9s Tc 4s 7c]
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 2: Kyleddd (small blind) showed [2s 2h] and lost with a pair of Deuces
+Seat 3: LuckyLeopard (big blind) showed [Jc 9h] and won (446) with a pair of Nines
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829325331: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:50:31 MSK [2018/08/12 22:50:31 ET]
+Table '2381052340 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (463 in chips)
+Seat 3: LuckyLeopard (1103 in chips)
+Seat 4: Mishator (622 in chips)
+Seat 5: DiggErr555 (812 in chips)
+oposs153: posts the ante 8
+LuckyLeopard: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 9c]
+oposs153: folds
+LuckyLeopard: folds
+Mishator: raises 534 to 614 and is all-in
+DiggErr555: folds
+Uncalled bet (534) returned to Mishator
+Mishator collected 192 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) collected (192)
+Seat 5: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829329780: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:50:48 MSK [2018/08/12 22:50:48 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (455 in chips)
+Seat 3: LuckyLeopard (1095 in chips)
+Seat 4: Mishator (726 in chips)
+Seat 5: DiggErr555 (724 in chips)
+oposs153: posts the ante 8
+LuckyLeopard: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+oposs153: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 3s]
+LuckyLeopard: raises 80 to 160
+Mishator: folds
+DiggErr555: folds
+oposs153: raises 287 to 447 and is all-in
+LuckyLeopard: calls 287
+*** FLOP *** [Qh 2c 2s]
+*** TURN *** [Qh 2c 2s] [9h]
+*** RIVER *** [Qh 2c 2s 9h] [2h]
+*** SHOW DOWN ***
+oposs153: shows [8s 8h] (a full house, Deuces full of Eights)
+LuckyLeopard: shows [Kc 5d] (three of a kind, Deuces)
+oposs153 collected 966 from pot
+*** SUMMARY ***
+Total pot 966 | Rake 0
+Board [Qh 2c 2s 9h 2h]
+Seat 1: oposs153 (big blind) showed [8s 8h] and won (966) with a full house, Deuces full of Eights
+Seat 3: LuckyLeopard showed [Kc 5d] and lost with three of a kind, Deuces
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829339923: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:51:25 MSK [2018/08/12 22:51:25 ET]
+Table '2381052340 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (966 in chips)
+Seat 3: LuckyLeopard (640 in chips)
+Seat 4: Mishator (718 in chips)
+Seat 5: DiggErr555 (676 in chips)
+oposs153: posts the ante 8
+LuckyLeopard: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+oposs153: posts small blind 40
+LuckyLeopard: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 4s]
+Mishator: folds
+DiggErr555: folds
+oposs153: raises 878 to 958 and is all-in
+LuckyLeopard: folds
+Uncalled bet (878) returned to oposs153
+oposs153 collected 192 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Seat 1: oposs153 (small blind) collected (192)
+Seat 3: LuckyLeopard (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829344701: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:51:42 MSK [2018/08/12 22:51:42 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (1070 in chips)
+Seat 3: LuckyLeopard (552 in chips)
+Seat 4: Mishator (710 in chips)
+Seat 5: DiggErr555 (668 in chips)
+oposs153: posts the ante 8
+LuckyLeopard: posts the ante 8
+Mishator: posts the ante 8
+DiggErr555: posts the ante 8
+LuckyLeopard: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 7s]
+DiggErr555: folds
+oposs153: folds
+LuckyLeopard: raises 464 to 544 and is all-in
+Mishator: folds
+Uncalled bet (464) returned to LuckyLeopard
+LuckyLeopard collected 192 from pot
+LuckyLeopard: doesn't show hand
+*** SUMMARY ***
+Total pot 192 | Rake 0
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (small blind) collected (192)
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829348602: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:51:56 MSK [2018/08/12 22:51:56 ET]
+Table '2381052340 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (1062 in chips)
+Seat 3: LuckyLeopard (656 in chips)
+Seat 4: Mishator (622 in chips)
+Seat 5: DiggErr555 (660 in chips)
+oposs153: posts the ante 10
+LuckyLeopard: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Kc]
+oposs153: folds
+LuckyLeopard: folds
+Mishator: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 140 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 140 | Rake 0
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 3: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) collected (140)
+
+PokerStars Hand #189829354883: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:52:20 MSK [2018/08/12 22:52:20 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (1052 in chips)
+Seat 3: LuckyLeopard (646 in chips)
+Seat 4: Mishator (562 in chips)
+Seat 5: DiggErr555 (740 in chips)
+oposs153: posts the ante 10
+LuckyLeopard: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+oposs153: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 2d]
+LuckyLeopard: raises 536 to 636 and is all-in
+Mishator: folds
+DiggErr555: folds
+oposs153: calls 536
+*** FLOP *** [8h Qc Ts]
+*** TURN *** [8h Qc Ts] [Jh]
+*** RIVER *** [8h Qc Ts Jh] [9c]
+*** SHOW DOWN ***
+oposs153: shows [Ks 6d] (a straight, Nine to King)
+LuckyLeopard: shows [7d Ah] (a straight, Eight to Queen)
+oposs153 collected 1362 from pot
+oposs153 wins the $12.01 bounty for eliminating LuckyLeopard
+LuckyLeopard finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1362 | Rake 0
+Board [8h Qc Ts Jh 9c]
+Seat 1: oposs153 (big blind) showed [Ks 6d] and won (1362) with a straight, Nine to King
+Seat 3: LuckyLeopard showed [7d Ah] and lost with a straight, Eight to Queen
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829360702: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:52:41 MSK [2018/08/12 22:52:41 ET]
+Table '2381052340 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (1768 in chips)
+Seat 4: Mishator (552 in chips)
+Seat 5: DiggErr555 (680 in chips)
+oposs153: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts the ante 10
+oposs153: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 6s]
+DiggErr555: folds
+oposs153: raises 1658 to 1758 and is all-in
+Mishator: folds
+Uncalled bet (1658) returned to oposs153
+oposs153 collected 230 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Seat 1: oposs153 (small blind) collected (230)
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829364158: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:52:53 MSK [2018/08/12 22:52:53 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (1888 in chips)
+Seat 4: Mishator (442 in chips)
+Seat 5: DiggErr555 (670 in chips)
+oposs153: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 3h]
+oposs153: folds
+Mishator: raises 332 to 432 and is all-in
+DiggErr555: calls 332
+*** FLOP *** [8h Qh Jc]
+*** TURN *** [8h Qh Jc] [2s]
+*** RIVER *** [8h Qh Jc 2s] [5s]
+*** SHOW DOWN ***
+Mishator: shows [8c 8s] (three of a kind, Eights)
+DiggErr555: shows [Js 3h] (a pair of Jacks)
+Mishator collected 894 from pot
+*** SUMMARY ***
+Total pot 894 | Rake 0
+Board [8h Qh Jc 2s 5s]
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) showed [8c 8s] and won (894) with three of a kind, Eights
+Seat 5: DiggErr555 (big blind) showed [Js 3h] and lost with a pair of Jacks
+
+PokerStars Hand #189829368975: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:53:11 MSK [2018/08/12 22:53:11 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (1878 in chips)
+Seat 4: Mishator (894 in chips)
+Seat 5: DiggErr555 (228 in chips)
+oposs153: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+oposs153: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 4d]
+Mishator: raises 784 to 884 and is all-in
+DiggErr555: folds
+oposs153: folds
+Uncalled bet (784) returned to Mishator
+Mishator collected 280 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 1: oposs153 (big blind) folded before Flop
+Seat 4: Mishator (button) collected (280)
+Seat 5: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829372448: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:53:24 MSK [2018/08/12 22:53:24 ET]
+Table '2381052340 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (1768 in chips)
+Seat 4: Mishator (1064 in chips)
+Seat 5: DiggErr555 (168 in chips)
+oposs153: posts the ante 10
+Mishator: posts the ante 10
+DiggErr555: posts the ante 10
+oposs153: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 8c]
+DiggErr555: folds
+oposs153: folds
+Uncalled bet (50) returned to Mishator
+Mishator collected 130 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: oposs153 (small blind) folded before Flop
+Seat 4: Mishator (big blind) collected (130)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829374907: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:53:33 MSK [2018/08/12 22:53:33 ET]
+Table '2381052340 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (1708 in chips)
+Seat 4: Mishator (1134 in chips)
+Seat 5: DiggErr555 (158 in chips)
+oposs153: posts the ante 12
+Mishator: posts the ante 12
+DiggErr555: posts the ante 12
+Mishator: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 8d]
+oposs153: folds
+Mishator: raises 120 to 240
+DiggErr555: calls 26 and is all-in
+Uncalled bet (94) returned to Mishator
+*** FLOP *** [7h Kh 7d]
+*** TURN *** [7h Kh 7d] [Kd]
+*** RIVER *** [7h Kh 7d Kd] [8c]
+*** SHOW DOWN ***
+Mishator: shows [9s 2s] (two pair, Kings and Sevens)
+DiggErr555: shows [Jc 8d] (two pair, Kings and Eights)
+DiggErr555 collected 328 from pot
+*** SUMMARY ***
+Total pot 328 | Rake 0
+Board [7h Kh 7d Kd 8c]
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) showed [9s 2s] and lost with two pair, Kings and Sevens
+Seat 5: DiggErr555 (big blind) showed [Jc 8d] and won (328) with two pair, Kings and Eights
+
+PokerStars Hand #189829379097: Tournament #2381052340, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:53:49 MSK [2018/08/12 22:53:49 ET]
+Table '2381052340 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (1696 in chips)
+Seat 4: Mishator (976 in chips)
+Seat 5: DiggErr555 (328 in chips)
+oposs153: posts the ante 12
+Mishator: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+oposs153: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 8c]
+Mishator: folds
+DiggErr555: raises 196 to 316 and is all-in
+oposs153: calls 196
+*** FLOP *** [5s Qc 6s]
+*** TURN *** [5s Qc 6s] [3h]
+*** RIVER *** [5s Qc 6s 3h] [5h]
+*** SHOW DOWN ***
+DiggErr555: shows [7d 8c] (a pair of Fives)
+oposs153: shows [3c 4s] (two pair, Fives and Threes)
+oposs153 collected 668 from pot
+oposs153 wins the $12.01 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 668 | Rake 0
+Board [5s Qc 6s 3h 5h]
+Seat 1: oposs153 (big blind) showed [3c 4s] and won (668) with two pair, Fives and Threes
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) showed [7d 8c] and lost with a pair of Fives

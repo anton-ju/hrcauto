@@ -1,0 +1,784 @@
+
+
+PokerStars Hand #189830628362: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:20:17 MSK [2018/08/13 0:20:17 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (500 in chips)
+Seat 2: britosantiag (500 in chips)
+Seat 3: sergo78 (500 in chips)
+Seat 4: sandycupcake (500 in chips)
+Seat 5: chorls464 (500 in chips)
+Seat 6: RellasRent (500 in chips)
+DiggErr555: posts the ante 2
+britosantiag: posts the ante 2
+sergo78: posts the ante 2
+sandycupcake: posts the ante 2
+chorls464: posts the ante 2
+RellasRent: posts the ante 2
+britosantiag: posts small blind 10
+sergo78: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 9c]
+sandycupcake: raises 478 to 498 and is all-in
+chorls464: folds
+RellasRent: folds
+DiggErr555: folds
+britosantiag: folds
+sergo78: folds
+Uncalled bet (478) returned to sandycupcake
+sandycupcake collected 62 from pot
+sandycupcake: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: britosantiag (small blind) folded before Flop
+Seat 3: sergo78 (big blind) folded before Flop
+Seat 4: sandycupcake collected (62)
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: RellasRent folded before Flop (didn't bet)
+
+PokerStars Hand #189830631297: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:20:30 MSK [2018/08/13 0:20:30 ET]
+Table '2381085508 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (498 in chips)
+Seat 2: britosantiag (488 in chips)
+Seat 3: sergo78 (478 in chips)
+Seat 4: sandycupcake (540 in chips)
+Seat 5: chorls464 (498 in chips)
+Seat 6: RellasRent (498 in chips)
+DiggErr555: posts the ante 2
+britosantiag: posts the ante 2
+sergo78: posts the ante 2
+sandycupcake: posts the ante 2
+chorls464: posts the ante 2
+RellasRent: posts the ante 2
+sergo78: posts small blind 10
+sandycupcake: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 8d]
+chorls464: folds
+RellasRent: folds
+DiggErr555: folds
+britosantiag: calls 20
+sergo78: calls 10
+sandycupcake: checks
+*** FLOP *** [4h 3s 7s]
+sergo78: checks
+sandycupcake: bets 80
+britosantiag: folds
+sergo78: folds
+Uncalled bet (80) returned to sandycupcake
+sandycupcake collected 72 from pot
+sandycupcake: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Board [4h 3s 7s]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: britosantiag (button) folded on the Flop
+Seat 3: sergo78 (small blind) folded on the Flop
+Seat 4: sandycupcake (big blind) collected (72)
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: RellasRent folded before Flop (didn't bet)
+
+PokerStars Hand #189830639928: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:21:10 MSK [2018/08/13 0:21:10 ET]
+Table '2381085508 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (496 in chips)
+Seat 2: britosantiag (466 in chips)
+Seat 3: sergo78 (456 in chips)
+Seat 4: sandycupcake (590 in chips)
+Seat 5: chorls464 (496 in chips)
+Seat 6: RellasRent (496 in chips)
+DiggErr555: posts the ante 2
+britosantiag: posts the ante 2
+sergo78: posts the ante 2
+sandycupcake: posts the ante 2
+chorls464: posts the ante 2
+RellasRent: posts the ante 2
+sandycupcake: posts small blind 10
+chorls464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 5c]
+RellasRent: raises 80 to 100
+DiggErr555: folds
+britosantiag: calls 100
+sergo78: folds
+sandycupcake: folds
+chorls464: folds
+*** FLOP *** [9c 8s 2c]
+RellasRent: checks
+britosantiag: bets 364 and is all-in
+RellasRent: folds
+Uncalled bet (364) returned to britosantiag
+britosantiag collected 242 from pot
+britosantiag: doesn't show hand
+*** SUMMARY ***
+Total pot 242 | Rake 0
+Board [9c 8s 2c]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: britosantiag collected (242)
+Seat 3: sergo78 (button) folded before Flop (didn't bet)
+Seat 4: sandycupcake (small blind) folded before Flop
+Seat 5: chorls464 (big blind) folded before Flop
+Seat 6: RellasRent folded on the Flop
+
+PokerStars Hand #189830648262: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:21:48 MSK [2018/08/13 0:21:48 ET]
+Table '2381085508 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (494 in chips)
+Seat 2: britosantiag (606 in chips)
+Seat 3: sergo78 (454 in chips)
+Seat 4: sandycupcake (578 in chips)
+Seat 5: chorls464 (474 in chips)
+Seat 6: RellasRent (394 in chips)
+DiggErr555: posts the ante 3
+britosantiag: posts the ante 3
+sergo78: posts the ante 3
+sandycupcake: posts the ante 3
+chorls464: posts the ante 3
+RellasRent: posts the ante 3
+chorls464: posts small blind 15
+RellasRent: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 4c]
+DiggErr555: folds
+britosantiag: folds
+sergo78: calls 30
+sandycupcake: folds
+chorls464: folds
+RellasRent: checks
+*** FLOP *** [7h 6s 5h]
+RellasRent: bets 93
+sergo78: calls 93
+*** TURN *** [7h 6s 5h] [Jd]
+RellasRent: bets 140
+sergo78: folds
+Uncalled bet (140) returned to RellasRent
+RellasRent collected 279 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 279 | Rake 0
+Board [7h 6s 5h Jd]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: britosantiag folded before Flop (didn't bet)
+Seat 3: sergo78 folded on the Turn
+Seat 4: sandycupcake (button) folded before Flop (didn't bet)
+Seat 5: chorls464 (small blind) folded before Flop
+Seat 6: RellasRent (big blind) collected (279)
+
+PokerStars Hand #189830653714: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:22:14 MSK [2018/08/13 0:22:14 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (491 in chips)
+Seat 2: britosantiag (603 in chips)
+Seat 3: sergo78 (328 in chips)
+Seat 4: sandycupcake (575 in chips)
+Seat 5: chorls464 (456 in chips)
+Seat 6: RellasRent (547 in chips)
+DiggErr555: posts the ante 3
+britosantiag: posts the ante 3
+sergo78: posts the ante 3
+sandycupcake: posts the ante 3
+chorls464: posts the ante 3
+RellasRent: posts the ante 3
+RellasRent: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 3s]
+britosantiag: folds
+sergo78: folds
+sandycupcake: raises 542 to 572 and is all-in
+chorls464: folds
+RellasRent: calls 529 and is all-in
+DiggErr555: folds
+Uncalled bet (28) returned to sandycupcake
+*** FLOP *** [3h 2h Jd]
+*** TURN *** [3h 2h Jd] [3c]
+*** RIVER *** [3h 2h Jd 3c] [Td]
+*** SHOW DOWN ***
+RellasRent: shows [Ah Qd] (a pair of Threes)
+sandycupcake: shows [8s Ad] (a pair of Threes - lower kicker)
+RellasRent collected 1136 from pot
+*** SUMMARY ***
+Total pot 1136 | Rake 0
+Board [3h 2h Jd 3c Td]
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: britosantiag folded before Flop (didn't bet)
+Seat 3: sergo78 folded before Flop (didn't bet)
+Seat 4: sandycupcake showed [8s Ad] and lost with a pair of Threes
+Seat 5: chorls464 (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) showed [Ah Qd] and won (1136) with a pair of Threes
+
+PokerStars Hand #189830658337: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:22:35 MSK [2018/08/13 0:22:35 ET]
+Table '2381085508 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (458 in chips)
+Seat 2: britosantiag (600 in chips)
+Seat 3: sergo78 (325 in chips)
+Seat 4: sandycupcake (28 in chips)
+Seat 5: chorls464 (453 in chips)
+Seat 6: RellasRent (1136 in chips)
+DiggErr555: posts the ante 3
+britosantiag: posts the ante 3
+sergo78: posts the ante 3
+sandycupcake: posts the ante 3
+chorls464: posts the ante 3
+RellasRent: posts the ante 3
+DiggErr555: posts small blind 15
+britosantiag: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 8d]
+sergo78: raises 292 to 322 and is all-in
+sandycupcake: calls 25 and is all-in
+chorls464: raises 128 to 450 and is all-in
+RellasRent: folds
+DiggErr555: folds
+britosantiag: calls 420
+*** FLOP *** [9h 5c 8s]
+*** TURN *** [9h 5c 8s] [7s]
+*** RIVER *** [9h 5c 8s 7s] [2h]
+*** SHOW DOWN ***
+britosantiag: shows [Jh As] (high card Ace)
+chorls464: shows [9c 9d] (three of a kind, Nines)
+chorls464 collected 256 from side pot-2
+sergo78: shows [Kc Ad] (high card Ace)
+chorls464 collected 891 from side pot-1
+sandycupcake: shows [Js Qs] (high card Queen)
+chorls464 collected 133 from main pot
+chorls464 wins the $4.79 bounty for eliminating sergo78
+chorls464 wins the $4.79 bounty for eliminating sandycupcake
+sergo78 finished the tournament in 5th place
+sandycupcake finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1280 Main pot 133. Side pot-1 891. Side pot-2 256. | Rake 0
+Board [9h 5c 8s 7s 2h]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: britosantiag (big blind) showed [Jh As] and lost with high card Ace
+Seat 3: sergo78 showed [Kc Ad] and lost with high card Ace
+Seat 4: sandycupcake showed [Js Qs] and lost with high card Queen
+Seat 5: chorls464 showed [9c 9d] and won (1280) with three of a kind, Nines
+Seat 6: RellasRent (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830663853: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:23:01 MSK [2018/08/13 0:23:01 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (440 in chips)
+Seat 2: britosantiag (147 in chips)
+Seat 5: chorls464 (1280 in chips)
+Seat 6: RellasRent (1133 in chips)
+DiggErr555: posts the ante 3
+britosantiag: posts the ante 3
+chorls464: posts the ante 3
+RellasRent: posts the ante 3
+britosantiag: posts small blind 15
+chorls464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 4h]
+RellasRent: folds
+DiggErr555: raises 407 to 437 and is all-in
+britosantiag: calls 129 and is all-in
+chorls464: calls 407
+*** FLOP *** [5d 5s 7h]
+*** TURN *** [5d 5s 7h] [2c]
+*** RIVER *** [5d 5s 7h 2c] [Qd]
+*** SHOW DOWN ***
+chorls464: shows [2h Kh] (two pair, Fives and Deuces)
+DiggErr555: shows [4s 4h] (two pair, Fives and Fours)
+DiggErr555 collected 586 from side pot
+britosantiag: shows [6d 6h] (two pair, Sixes and Fives)
+britosantiag collected 444 from main pot
+*** SUMMARY ***
+Total pot 1030 Main pot 444. Side pot 586. | Rake 0
+Board [5d 5s 7h 2c Qd]
+Seat 1: DiggErr555 (button) showed [4s 4h] and won (586) with two pair, Fives and Fours
+Seat 2: britosantiag (small blind) showed [6d 6h] and won (444) with two pair, Sixes and Fives
+Seat 5: chorls464 (big blind) showed [2h Kh] and lost with two pair, Fives and Deuces
+Seat 6: RellasRent folded before Flop (didn't bet)
+
+PokerStars Hand #189830669093: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:23:25 MSK [2018/08/13 0:23:25 ET]
+Table '2381085508 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (586 in chips)
+Seat 2: britosantiag (444 in chips)
+Seat 5: chorls464 (840 in chips)
+Seat 6: RellasRent (1130 in chips)
+DiggErr555: posts the ante 4
+britosantiag: posts the ante 4
+chorls464: posts the ante 4
+RellasRent: posts the ante 4
+chorls464: posts small blind 20
+RellasRent: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Js]
+DiggErr555: folds
+britosantiag: folds
+chorls464: folds
+Uncalled bet (20) returned to RellasRent
+RellasRent collected 56 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 56 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: britosantiag (button) folded before Flop (didn't bet)
+Seat 5: chorls464 (small blind) folded before Flop
+Seat 6: RellasRent (big blind) collected (56)
+
+PokerStars Hand #189830671350: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:23:36 MSK [2018/08/13 0:23:36 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (582 in chips)
+Seat 2: britosantiag (440 in chips)
+Seat 5: chorls464 (816 in chips)
+Seat 6: RellasRent (1162 in chips)
+DiggErr555: posts the ante 4
+britosantiag: posts the ante 4
+chorls464: posts the ante 4
+RellasRent: posts the ante 4
+RellasRent: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Jd]
+britosantiag: calls 40
+chorls464: folds
+RellasRent: calls 20
+DiggErr555: checks
+*** FLOP *** [7s Ac 8h]
+RellasRent: bets 136
+DiggErr555: folds
+britosantiag: folds
+Uncalled bet (136) returned to RellasRent
+RellasRent collected 136 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 136 | Rake 0
+Board [7s Ac 8h]
+Seat 1: DiggErr555 (big blind) folded on the Flop
+Seat 2: britosantiag folded on the Flop
+Seat 5: chorls464 (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) collected (136)
+
+PokerStars Hand #189830677748: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:24:06 MSK [2018/08/13 0:24:06 ET]
+Table '2381085508 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (538 in chips)
+Seat 2: britosantiag (396 in chips)
+Seat 5: chorls464 (812 in chips)
+Seat 6: RellasRent (1254 in chips)
+DiggErr555: posts the ante 4
+britosantiag: posts the ante 4
+chorls464: posts the ante 4
+RellasRent: posts the ante 4
+DiggErr555: posts small blind 20
+britosantiag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 4h]
+chorls464: folds
+RellasRent: folds
+DiggErr555: raises 494 to 534 and is all-in
+britosantiag: folds
+Uncalled bet (494) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 1: DiggErr555 (small blind) collected (96)
+Seat 2: britosantiag (big blind) folded before Flop
+Seat 5: chorls464 folded before Flop (didn't bet)
+Seat 6: RellasRent (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830680544: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:24:19 MSK [2018/08/13 0:24:19 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (590 in chips)
+Seat 2: britosantiag (352 in chips)
+Seat 5: chorls464 (808 in chips)
+Seat 6: RellasRent (1250 in chips)
+DiggErr555: posts the ante 4
+britosantiag: posts the ante 4
+chorls464: posts the ante 4
+RellasRent: posts the ante 4
+britosantiag: posts small blind 20
+chorls464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 8c]
+RellasRent: raises 80 to 120
+DiggErr555: folds
+britosantiag: raises 228 to 348 and is all-in
+chorls464: folds
+RellasRent: calls 228
+*** FLOP *** [Qd 9d 2d]
+*** TURN *** [Qd 9d 2d] [7h]
+*** RIVER *** [Qd 9d 2d 7h] [Jd]
+*** SHOW DOWN ***
+britosantiag: shows [Ks Ac] (high card Ace)
+RellasRent: shows [Qh Kc] (a pair of Queens)
+RellasRent collected 752 from pot
+RellasRent wins the $4.79 bounty for eliminating britosantiag
+britosantiag finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 752 | Rake 0
+Board [Qd 9d 2d 7h Jd]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: britosantiag (small blind) showed [Ks Ac] and lost with high card Ace
+Seat 5: chorls464 (big blind) folded before Flop
+Seat 6: RellasRent showed [Qh Kc] and won (752) with a pair of Queens
+
+PokerStars Hand #189830686769: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:24:48 MSK [2018/08/13 0:24:48 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (586 in chips)
+Seat 5: chorls464 (764 in chips)
+Seat 6: RellasRent (1650 in chips)
+DiggErr555: posts the ante 6
+chorls464: posts the ante 6
+RellasRent: posts the ante 6
+RellasRent: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 5s]
+chorls464: folds
+RellasRent: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (78)
+Seat 5: chorls464 (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) folded before Flop
+
+PokerStars Hand #189830687822: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:24:53 MSK [2018/08/13 0:24:53 ET]
+Table '2381085508 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (628 in chips)
+Seat 5: chorls464 (758 in chips)
+Seat 6: RellasRent (1614 in chips)
+DiggErr555: posts the ante 6
+chorls464: posts the ante 6
+RellasRent: posts the ante 6
+DiggErr555: posts small blind 30
+chorls464: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 9c]
+RellasRent: raises 60 to 120
+DiggErr555: folds
+chorls464: calls 60
+*** FLOP *** [9s 5h 6h]
+chorls464: checks
+RellasRent: checks
+*** TURN *** [9s 5h 6h] [4s]
+chorls464: bets 115
+RellasRent: folds
+Uncalled bet (115) returned to chorls464
+chorls464 collected 288 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 288 | Rake 0
+Board [9s 5h 6h 4s]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 5: chorls464 (big blind) collected (288)
+Seat 6: RellasRent (button) folded on the Turn
+
+PokerStars Hand #189830692524: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:25:15 MSK [2018/08/13 0:25:15 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (592 in chips)
+Seat 5: chorls464 (920 in chips)
+Seat 6: RellasRent (1488 in chips)
+DiggErr555: posts the ante 6
+chorls464: posts the ante 6
+RellasRent: posts the ante 6
+chorls464: posts small blind 30
+RellasRent: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 9s]
+DiggErr555: folds
+chorls464: folds
+Uncalled bet (30) returned to RellasRent
+RellasRent collected 78 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: chorls464 (small blind) folded before Flop
+Seat 6: RellasRent (big blind) collected (78)
+
+PokerStars Hand #189830694030: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:25:22 MSK [2018/08/13 0:25:22 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (586 in chips)
+Seat 5: chorls464 (884 in chips)
+Seat 6: RellasRent (1530 in chips)
+DiggErr555: posts the ante 6
+chorls464: posts the ante 6
+RellasRent: posts the ante 6
+RellasRent: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 6d]
+chorls464: folds
+RellasRent: raises 120 to 180
+DiggErr555: folds
+Uncalled bet (120) returned to RellasRent
+RellasRent collected 138 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 5: chorls464 (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) collected (138)
+
+PokerStars Hand #189830696867: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:25:35 MSK [2018/08/13 0:25:35 ET]
+Table '2381085508 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (520 in chips)
+Seat 5: chorls464 (878 in chips)
+Seat 6: RellasRent (1602 in chips)
+DiggErr555: posts the ante 6
+chorls464: posts the ante 6
+RellasRent: posts the ante 6
+DiggErr555: posts small blind 30
+chorls464: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Qs]
+RellasRent: calls 60
+DiggErr555: raises 360 to 420
+chorls464: raises 452 to 872 and is all-in
+RellasRent: folds
+DiggErr555: calls 94 and is all-in
+Uncalled bet (358) returned to chorls464
+*** FLOP *** [Kh 6s 8s]
+*** TURN *** [Kh 6s 8s] [4d]
+*** RIVER *** [Kh 6s 8s 4d] [6d]
+*** SHOW DOWN ***
+DiggErr555: shows [Ah Qs] (a pair of Sixes)
+chorls464: shows [Ad 5d] (a pair of Sixes - lower kicker)
+DiggErr555 collected 1106 from pot
+*** SUMMARY ***
+Total pot 1106 | Rake 0
+Board [Kh 6s 8s 4d 6d]
+Seat 1: DiggErr555 (small blind) showed [Ah Qs] and won (1106) with a pair of Sixes
+Seat 5: chorls464 (big blind) showed [Ad 5d] and lost with a pair of Sixes
+Seat 6: RellasRent (button) folded before Flop
+
+PokerStars Hand #189830702797: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:26:03 MSK [2018/08/13 0:26:03 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (1106 in chips)
+Seat 5: chorls464 (358 in chips)
+Seat 6: RellasRent (1536 in chips)
+DiggErr555: posts the ante 8
+chorls464: posts the ante 8
+RellasRent: posts the ante 8
+chorls464: posts small blind 40
+RellasRent: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 6s]
+DiggErr555: folds
+chorls464: folds
+Uncalled bet (40) returned to RellasRent
+RellasRent collected 104 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: chorls464 (small blind) folded before Flop
+Seat 6: RellasRent (big blind) collected (104)
+
+PokerStars Hand #189830703980: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:26:08 MSK [2018/08/13 0:26:08 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (1098 in chips)
+Seat 5: chorls464 (310 in chips)
+Seat 6: RellasRent (1592 in chips)
+DiggErr555: posts the ante 8
+chorls464: posts the ante 8
+RellasRent: posts the ante 8
+RellasRent: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 8s]
+chorls464: folds
+RellasRent: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 104 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (104)
+Seat 5: chorls464 (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) folded before Flop
+
+PokerStars Hand #189830704840: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:26:12 MSK [2018/08/13 0:26:12 ET]
+Table '2381085508 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (1154 in chips)
+Seat 5: chorls464 (302 in chips)
+Seat 6: RellasRent (1544 in chips)
+DiggErr555: posts the ante 8
+chorls464: posts the ante 8
+RellasRent: posts the ante 8
+DiggErr555: posts small blind 40
+chorls464: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 9d]
+RellasRent: raises 80 to 160
+DiggErr555: folds
+chorls464: raises 134 to 294 and is all-in
+RellasRent: calls 134
+*** FLOP *** [4h Ah 7c]
+*** TURN *** [4h Ah 7c] [6s]
+*** RIVER *** [4h Ah 7c 6s] [6c]
+*** SHOW DOWN ***
+chorls464: shows [Kc Tc] (a pair of Sixes)
+RellasRent: shows [Qs 8s] (a pair of Sixes - lower kicker)
+chorls464 collected 652 from pot
+*** SUMMARY ***
+Total pot 652 | Rake 0
+Board [4h Ah 7c 6s 6c]
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 5: chorls464 (big blind) showed [Kc Tc] and won (652) with a pair of Sixes
+Seat 6: RellasRent (button) showed [Qs 8s] and lost with a pair of Sixes
+
+PokerStars Hand #189830708372: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:26:28 MSK [2018/08/13 0:26:28 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (1106 in chips)
+Seat 5: chorls464 (652 in chips)
+Seat 6: RellasRent (1242 in chips)
+DiggErr555: posts the ante 8
+chorls464: posts the ante 8
+RellasRent: posts the ante 8
+chorls464: posts small blind 40
+RellasRent: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 7h]
+DiggErr555: folds
+chorls464: folds
+Uncalled bet (40) returned to RellasRent
+RellasRent collected 104 from pot
+RellasRent: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: chorls464 (small blind) folded before Flop
+Seat 6: RellasRent (big blind) collected (104)
+
+PokerStars Hand #189830710090: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:26:36 MSK [2018/08/13 0:26:36 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (1098 in chips)
+Seat 5: chorls464 (604 in chips)
+Seat 6: RellasRent (1298 in chips)
+DiggErr555: posts the ante 8
+chorls464: posts the ante 8
+RellasRent: posts the ante 8
+RellasRent: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 3d]
+chorls464: folds
+RellasRent: calls 40
+DiggErr555: checks
+*** FLOP *** [3h Td Ac]
+RellasRent: checks
+DiggErr555: bets 80
+RellasRent: folds
+Uncalled bet (80) returned to DiggErr555
+DiggErr555 collected 184 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Board [3h Td Ac]
+Seat 1: DiggErr555 (big blind) collected (184)
+Seat 5: chorls464 (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) folded on the Flop
+
+PokerStars Hand #189830715131: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:26:59 MSK [2018/08/13 0:26:59 ET]
+Table '2381085508 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (1194 in chips)
+Seat 5: chorls464 (596 in chips)
+Seat 6: RellasRent (1210 in chips)
+DiggErr555: posts the ante 10
+chorls464: posts the ante 10
+RellasRent: posts the ante 10
+DiggErr555: posts small blind 50
+chorls464: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As Jh]
+RellasRent: raises 100 to 200
+DiggErr555: raises 984 to 1184 and is all-in
+chorls464: folds
+RellasRent: calls 984
+*** FLOP *** [Th Js 2d]
+*** TURN *** [Th Js 2d] [9d]
+*** RIVER *** [Th Js 2d 9d] [8d]
+*** SHOW DOWN ***
+DiggErr555: shows [As Jh] (a pair of Jacks)
+RellasRent: shows [Ac 8c] (a pair of Eights)
+DiggErr555 collected 2498 from pot
+*** SUMMARY ***
+Total pot 2498 | Rake 0
+Board [Th Js 2d 9d 8d]
+Seat 1: DiggErr555 (small blind) showed [As Jh] and won (2498) with a pair of Jacks
+Seat 5: chorls464 (big blind) folded before Flop
+Seat 6: RellasRent (button) showed [Ac 8c] and lost with a pair of Eights
+
+PokerStars Hand #189830719860: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:27:22 MSK [2018/08/13 0:27:22 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (2498 in chips)
+Seat 5: chorls464 (486 in chips)
+Seat 6: RellasRent (16 in chips)
+DiggErr555: posts the ante 10
+chorls464: posts the ante 10
+RellasRent: posts the ante 10
+chorls464: posts small blind 50
+RellasRent: posts big blind 6 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 5s]
+DiggErr555: raises 2438 to 2488 and is all-in
+chorls464: folds
+Uncalled bet (2438) returned to DiggErr555
+*** FLOP *** [7d 5d Kh]
+*** TURN *** [7d 5d Kh] [2c]
+*** RIVER *** [7d 5d Kh 2c] [As]
+*** SHOW DOWN ***
+DiggErr555: shows [4h 5s] (a pair of Fives)
+DiggErr555 collected 88 from side pot
+RellasRent: shows [Ts 9d] (high card Ace)
+DiggErr555 collected 48 from main pot
+DiggErr555 wins the $4.79 bounty for eliminating RellasRent
+RellasRent finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 136 Main pot 48. Side pot 88. | Rake 0
+Board [7d 5d Kh 2c As]
+Seat 1: DiggErr555 (button) showed [4h 5s] and won (136) with a pair of Fives
+Seat 5: chorls464 (small blind) folded before Flop
+Seat 6: RellasRent (big blind) showed [Ts 9d] and lost with high card Ace
+
+PokerStars Hand #189830723995: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:27:41 MSK [2018/08/13 0:27:41 ET]
+Table '2381085508 1' 6-max Seat #5 is the button
+Seat 1: DiggErr555 (2574 in chips)
+Seat 5: chorls464 (426 in chips)
+DiggErr555: posts the ante 10
+chorls464: posts the ante 10
+chorls464: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 5d]
+chorls464: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: DiggErr555 (big blind) collected (120)
+Seat 5: chorls464 (button) (small blind) folded before Flop
+
+PokerStars Hand #189830724743: Tournament #2381085508, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:27:44 MSK [2018/08/13 0:27:44 ET]
+Table '2381085508 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (2634 in chips)
+Seat 5: chorls464 (366 in chips)
+DiggErr555: posts the ante 10
+chorls464: posts the ante 10
+DiggErr555: posts small blind 50
+chorls464: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td Ts]
+DiggErr555: raises 2524 to 2624 and is all-in
+chorls464: calls 256 and is all-in
+Uncalled bet (2268) returned to DiggErr555
+*** FLOP *** [2c Ac Qd]
+*** TURN *** [2c Ac Qd] [Kd]
+*** RIVER *** [2c Ac Qd Kd] [Jc]
+*** SHOW DOWN ***
+chorls464: shows [Js 8h] (a pair of Jacks)
+DiggErr555: shows [Td Ts] (a straight, Ten to Ace)
+DiggErr555 collected 732 from pot
+DiggErr555 wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 2nd place and received $14.37.
+DiggErr555 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 732 | Rake 0
+Board [2c Ac Qd Kd Jc]
+Seat 1: DiggErr555 (button) (small blind) showed [Td Ts] and won (732) with a straight, Ten to Ace
+Seat 5: chorls464 (big blind) showed [Js 8h] and lost with a pair of Jacks

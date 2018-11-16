@@ -1,0 +1,520 @@
+
+
+PokerStars Hand #189829404752: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:55:24 MSK [2018/08/12 22:55:24 ET]
+Table '2381059920 1' 6-max Seat #1 is the button
+Seat 1: bowmanvillan (500 in chips)
+Seat 2: moimob (500 in chips)
+Seat 3: NK1719 (500 in chips)
+Seat 4: mrzm0118 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+bowmanvillan: posts the ante 2
+moimob: posts the ante 2
+NK1719: posts the ante 2
+mrzm0118: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+moimob: posts small blind 10
+NK1719: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 9d]
+mrzm0118: folds
+Mishator: folds
+DiggErr555: folds
+bowmanvillan: folds
+moimob: raises 478 to 498 and is all-in
+NK1719: folds
+Uncalled bet (478) returned to moimob
+moimob collected 52 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: bowmanvillan (button) folded before Flop (didn't bet)
+Seat 2: moimob (small blind) collected (52)
+Seat 3: NK1719 (big blind) folded before Flop
+Seat 4: mrzm0118 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829414034: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:56:03 MSK [2018/08/12 22:56:03 ET]
+Table '2381059920 1' 6-max Seat #2 is the button
+Seat 1: bowmanvillan (498 in chips)
+Seat 2: moimob (530 in chips)
+Seat 3: NK1719 (478 in chips)
+Seat 4: mrzm0118 (498 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+bowmanvillan: posts the ante 2
+moimob: posts the ante 2
+NK1719: posts the ante 2
+mrzm0118: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+NK1719: posts small blind 10
+mrzm0118: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Kd]
+Mishator: folds
+DiggErr555: folds
+bowmanvillan: folds
+moimob: raises 20 to 40
+NK1719: calls 30
+mrzm0118: folds
+*** FLOP *** [Ad Qh 9d]
+NK1719: checks
+moimob: bets 40
+NK1719: folds
+Uncalled bet (40) returned to moimob
+moimob collected 112 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Board [Ad Qh 9d]
+Seat 1: bowmanvillan folded before Flop (didn't bet)
+Seat 2: moimob (button) collected (112)
+Seat 3: NK1719 (small blind) folded on the Flop
+Seat 4: mrzm0118 (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829422775: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:56:40 MSK [2018/08/12 22:56:40 ET]
+Table '2381059920 1' 6-max Seat #3 is the button
+Seat 1: bowmanvillan (496 in chips)
+Seat 2: moimob (600 in chips)
+Seat 3: NK1719 (436 in chips)
+Seat 4: mrzm0118 (476 in chips)
+Seat 5: Mishator (496 in chips)
+Seat 6: DiggErr555 (496 in chips)
+bowmanvillan: posts the ante 2
+moimob: posts the ante 2
+NK1719: posts the ante 2
+mrzm0118: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+mrzm0118: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d Js]
+DiggErr555: folds
+bowmanvillan: folds
+moimob: folds
+NK1719: folds
+mrzm0118: raises 20 to 40
+Mishator: folds
+Uncalled bet (20) returned to mrzm0118
+mrzm0118 collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: bowmanvillan folded before Flop (didn't bet)
+Seat 2: moimob folded before Flop (didn't bet)
+Seat 3: NK1719 (button) folded before Flop (didn't bet)
+Seat 4: mrzm0118 (small blind) collected (52)
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829428359: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:57:03 MSK [2018/08/12 22:57:03 ET]
+Table '2381059920 1' 6-max Seat #4 is the button
+Seat 1: bowmanvillan (494 in chips)
+Seat 2: moimob (598 in chips)
+Seat 3: NK1719 (434 in chips)
+Seat 4: mrzm0118 (506 in chips)
+Seat 5: Mishator (474 in chips)
+Seat 6: DiggErr555 (494 in chips)
+bowmanvillan: posts the ante 3
+moimob: posts the ante 3
+NK1719: posts the ante 3
+mrzm0118: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 5c]
+bowmanvillan: raises 60 to 90
+moimob: raises 410 to 500
+NK1719: folds
+mrzm0118: folds
+Mishator: folds
+DiggErr555: folds
+bowmanvillan: calls 401 and is all-in
+Uncalled bet (9) returned to moimob
+*** FLOP *** [Ks Ah 7c]
+*** TURN *** [Ks Ah 7c] [9d]
+*** RIVER *** [Ks Ah 7c 9d] [Js]
+*** SHOW DOWN ***
+bowmanvillan: shows [8d 8c] (a pair of Eights)
+moimob: shows [Kd Qd] (a pair of Kings)
+moimob collected 1045 from pot
+moimob wins the $4.79 bounty for eliminating bowmanvillan
+bowmanvillan finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1045 | Rake 0
+Board [Ks Ah 7c 9d Js]
+Seat 1: bowmanvillan showed [8d 8c] and lost with a pair of Eights
+Seat 2: moimob showed [Kd Qd] and won (1045) with a pair of Kings
+Seat 3: NK1719 folded before Flop (didn't bet)
+Seat 4: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829446620: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:57:45 MSK [2018/08/12 22:57:45 ET]
+Table '2381059920 1' 6-max Seat #5 is the button
+Seat 2: moimob (1149 in chips)
+Seat 3: NK1719 (431 in chips)
+Seat 4: mrzm0118 (503 in chips)
+Seat 5: Mishator (456 in chips)
+Seat 6: DiggErr555 (461 in chips)
+moimob: posts the ante 3
+NK1719: posts the ante 3
+mrzm0118: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+moimob: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 7c]
+NK1719: folds
+mrzm0118: raises 30 to 60
+Mishator: folds
+DiggErr555: folds
+moimob: folds
+Uncalled bet (30) returned to mrzm0118
+mrzm0118 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 2: moimob (big blind) folded before Flop
+Seat 3: NK1719 folded before Flop (didn't bet)
+Seat 4: mrzm0118 collected (90)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829451530: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:05 MSK [2018/08/12 22:58:05 ET]
+Table '2381059920 1' 6-max Seat #6 is the button
+Seat 2: moimob (1116 in chips)
+Seat 3: NK1719 (428 in chips)
+Seat 4: mrzm0118 (560 in chips)
+Seat 5: Mishator (453 in chips)
+Seat 6: DiggErr555 (443 in chips)
+moimob: posts the ante 3
+NK1719: posts the ante 3
+mrzm0118: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+moimob: posts small blind 15
+NK1719: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 2d]
+mrzm0118: folds
+Mishator: folds
+DiggErr555: folds
+moimob: calls 15
+NK1719: checks
+*** FLOP *** [Ah 8d 7h]
+moimob: bets 30
+NK1719: calls 30
+*** TURN *** [Ah 8d 7h] [9c]
+moimob: bets 120
+NK1719: calls 120
+*** RIVER *** [Ah 8d 7h 9c] [5s]
+moimob: bets 933 and is all-in
+NK1719: calls 245 and is all-in
+Uncalled bet (688) returned to moimob
+*** SHOW DOWN ***
+moimob: shows [8c 9d] (two pair, Nines and Eights)
+NK1719: shows [Ts 6s] (a straight, Six to Ten)
+NK1719 collected 865 from pot
+*** SUMMARY ***
+Total pot 865 | Rake 0
+Board [Ah 8d 7h 9c 5s]
+Seat 2: moimob (small blind) showed [8c 9d] and lost with two pair, Nines and Eights
+Seat 3: NK1719 (big blind) showed [Ts 6s] and won (865) with a straight, Six to Ten
+Seat 4: mrzm0118 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829461622: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:47 MSK [2018/08/12 22:58:47 ET]
+Table '2381059920 1' 6-max Seat #2 is the button
+Seat 2: moimob (688 in chips)
+Seat 3: NK1719 (865 in chips)
+Seat 4: mrzm0118 (557 in chips)
+Seat 5: Mishator (450 in chips)
+Seat 6: DiggErr555 (440 in chips)
+moimob: posts the ante 3
+NK1719: posts the ante 3
+mrzm0118: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+NK1719: posts small blind 15
+mrzm0118: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 8h]
+Mishator: raises 30 to 60
+DiggErr555: folds
+moimob: folds
+NK1719: folds
+mrzm0118: raises 494 to 554 and is all-in
+Mishator: calls 387 and is all-in
+Uncalled bet (107) returned to mrzm0118
+*** FLOP *** [Kh Js 5h]
+*** TURN *** [Kh Js 5h] [8s]
+*** RIVER *** [Kh Js 5h 8s] [2c]
+*** SHOW DOWN ***
+mrzm0118: shows [Kc Ad] (a pair of Kings)
+Mishator: shows [Qh Ah] (high card Ace)
+mrzm0118 collected 924 from pot
+mrzm0118 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 924 | Rake 0
+Board [Kh Js 5h 8s 2c]
+Seat 2: moimob (button) folded before Flop (didn't bet)
+Seat 3: NK1719 (small blind) folded before Flop
+Seat 4: mrzm0118 (big blind) showed [Kc Ad] and won (924) with a pair of Kings
+Seat 5: Mishator showed [Qh Ah] and lost with high card Ace
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829467695: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:59:13 MSK [2018/08/12 22:59:13 ET]
+Table '2381059920 1' 6-max Seat #3 is the button
+Seat 2: moimob (685 in chips)
+Seat 3: NK1719 (847 in chips)
+Seat 4: mrzm0118 (1031 in chips)
+Seat 6: DiggErr555 (437 in chips)
+moimob: posts the ante 4
+NK1719: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 3s]
+moimob: folds
+NK1719: folds
+mrzm0118: raises 987 to 1027 and is all-in
+DiggErr555: folds
+Uncalled bet (987) returned to mrzm0118
+mrzm0118 collected 96 from pot
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: moimob folded before Flop (didn't bet)
+Seat 3: NK1719 (button) folded before Flop (didn't bet)
+Seat 4: mrzm0118 (small blind) collected (96)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829472669: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:59:34 MSK [2018/08/12 22:59:34 ET]
+Table '2381059920 1' 6-max Seat #4 is the button
+Seat 2: moimob (681 in chips)
+Seat 3: NK1719 (843 in chips)
+Seat 4: mrzm0118 (1083 in chips)
+Seat 6: DiggErr555 (393 in chips)
+moimob: posts the ante 4
+NK1719: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+moimob: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Qh]
+NK1719: folds
+mrzm0118: folds
+DiggErr555: folds
+Uncalled bet (20) returned to moimob
+moimob collected 56 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 56 | Rake 0
+Seat 2: moimob (big blind) collected (56)
+Seat 3: NK1719 folded before Flop (didn't bet)
+Seat 4: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829475838: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:59:47 MSK [2018/08/12 22:59:47 ET]
+Table '2381059920 1' 6-max Seat #6 is the button
+Seat 2: moimob (713 in chips)
+Seat 3: NK1719 (839 in chips)
+Seat 4: mrzm0118 (1079 in chips)
+Seat 6: DiggErr555 (369 in chips)
+moimob: posts the ante 4
+NK1719: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+moimob: posts small blind 20
+NK1719: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Kd]
+mrzm0118: folds
+DiggErr555: folds
+moimob: calls 20
+NK1719: checks
+*** FLOP *** [8h Ah 9s]
+moimob: checks
+NK1719: checks
+*** TURN *** [8h Ah 9s] [Qs]
+moimob: checks
+NK1719: checks
+*** RIVER *** [8h Ah 9s Qs] [9d]
+moimob: bets 80
+NK1719: folds
+Uncalled bet (80) returned to moimob
+moimob collected 96 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Board [8h Ah 9s Qs 9d]
+Seat 2: moimob (small blind) collected (96)
+Seat 3: NK1719 (big blind) folded on the River
+Seat 4: mrzm0118 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829483060: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:00:18 MSK [2018/08/12 23:00:18 ET]
+Table '2381059920 1' 6-max Seat #2 is the button
+Seat 2: moimob (765 in chips)
+Seat 3: NK1719 (795 in chips)
+Seat 4: mrzm0118 (1075 in chips)
+Seat 6: DiggErr555 (365 in chips)
+moimob: posts the ante 4
+NK1719: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+NK1719: posts small blind 20
+mrzm0118: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 3h]
+DiggErr555: folds
+moimob: folds
+NK1719: calls 20
+mrzm0118: raises 80 to 120
+NK1719: calls 80
+*** FLOP *** [2d 8s 2h]
+NK1719: checks
+mrzm0118: bets 951 and is all-in
+NK1719: calls 671 and is all-in
+Uncalled bet (280) returned to mrzm0118
+*** TURN *** [2d 8s 2h] [8c]
+*** RIVER *** [2d 8s 2h 8c] [8h]
+*** SHOW DOWN ***
+NK1719: shows [2s Ah] (a full house, Eights full of Deuces)
+mrzm0118: shows [8d Jc] (four of a kind, Eights)
+mrzm0118 collected 1598 from pot
+mrzm0118 wins the $4.79 bounty for eliminating NK1719
+NK1719 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1598 | Rake 0
+Board [2d 8s 2h 8c 8h]
+Seat 2: moimob (button) folded before Flop (didn't bet)
+Seat 3: NK1719 (small blind) showed [2s Ah] and lost with a full house, Eights full of Deuces
+Seat 4: mrzm0118 (big blind) showed [8d Jc] and won (1598) with four of a kind, Eights
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829492131: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:00:54 MSK [2018/08/12 23:00:54 ET]
+Table '2381059920 1' 6-max Seat #4 is the button
+Seat 2: moimob (761 in chips)
+Seat 4: mrzm0118 (1878 in chips)
+Seat 6: DiggErr555 (361 in chips)
+moimob: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+moimob: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 4d]
+mrzm0118: raises 1812 to 1872 and is all-in
+DiggErr555: folds
+moimob: folds
+Uncalled bet (1812) returned to mrzm0118
+mrzm0118 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: moimob (big blind) folded before Flop
+Seat 4: mrzm0118 (button) collected (168)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829496250: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:01:11 MSK [2018/08/12 23:01:11 ET]
+Table '2381059920 1' 6-max Seat #6 is the button
+Seat 2: moimob (695 in chips)
+Seat 4: mrzm0118 (1980 in chips)
+Seat 6: DiggErr555 (325 in chips)
+moimob: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts small blind 30
+mrzm0118: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 4s]
+DiggErr555: raises 259 to 319 and is all-in
+moimob: folds
+mrzm0118: calls 259
+*** FLOP *** [8d Kh 9s]
+*** TURN *** [8d Kh 9s] [Jh]
+*** RIVER *** [8d Kh 9s Jh] [8h]
+*** SHOW DOWN ***
+mrzm0118: shows [6c 4c] (a pair of Eights)
+DiggErr555: shows [As 4s] (a pair of Eights - Ace kicker)
+DiggErr555 collected 686 from pot
+*** SUMMARY ***
+Total pot 686 | Rake 0
+Board [8d Kh 9s Jh 8h]
+Seat 2: moimob (small blind) folded before Flop
+Seat 4: mrzm0118 (big blind) showed [6c 4c] and lost with a pair of Eights
+Seat 6: DiggErr555 (button) showed [As 4s] and won (686) with a pair of Eights
+
+PokerStars Hand #189829506430: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:01:50 MSK [2018/08/12 23:01:50 ET]
+Table '2381059920 1' 6-max Seat #2 is the button
+Seat 2: moimob (659 in chips)
+Seat 4: mrzm0118 (1655 in chips)
+Seat 6: DiggErr555 (686 in chips)
+moimob: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+mrzm0118: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah As]
+moimob: raises 593 to 653 and is all-in
+mrzm0118: folds
+DiggErr555: calls 593
+*** FLOP *** [Jh Qh 9d]
+*** TURN *** [Jh Qh 9d] [Jd]
+*** RIVER *** [Jh Qh 9d Jd] [Kc]
+*** SHOW DOWN ***
+DiggErr555: shows [Ah As] (two pair, Aces and Jacks)
+moimob: shows [Td Kh] (a straight, Nine to King)
+moimob collected 1354 from pot
+*** SUMMARY ***
+Total pot 1354 | Rake 0
+Board [Jh Qh 9d Jd Kc]
+Seat 2: moimob (button) showed [Td Kh] and won (1354) with a straight, Nine to King
+Seat 4: mrzm0118 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) showed [Ah As] and lost with two pair, Aces and Jacks
+
+PokerStars Hand #189829511398: Tournament #2381059920, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:02:08 MSK [2018/08/12 23:02:08 ET]
+Table '2381059920 1' 6-max Seat #4 is the button
+Seat 2: moimob (1354 in chips)
+Seat 4: mrzm0118 (1619 in chips)
+Seat 6: DiggErr555 (27 in chips)
+moimob: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 21 and is all-in
+moimob: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 6c]
+mrzm0118: raises 1553 to 1613 and is all-in
+moimob: calls 1288 and is all-in
+Uncalled bet (265) returned to mrzm0118
+*** FLOP *** [9c Jh 3c]
+*** TURN *** [9c Jh 3c] [Qh]
+*** RIVER *** [9c Jh 3c Qh] [Kd]
+*** SHOW DOWN ***
+moimob: shows [Tc Ac] (a straight, Ten to Ace)
+mrzm0118: shows [7s 4s] (high card King)
+moimob collected 2654 from side pot
+DiggErr555: shows [2d 6c] (high card King)
+moimob collected 81 from main pot
+moimob wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2735 Main pot 81. Side pot 2654. | Rake 0
+Board [9c Jh 3c Qh Kd]
+Seat 2: moimob (big blind) showed [Tc Ac] and won (2735) with a straight, Ten to Ace
+Seat 4: mrzm0118 (button) showed [7s 4s] and lost with high card King
+Seat 6: DiggErr555 (small blind) showed [2d 6c] and lost with high card King

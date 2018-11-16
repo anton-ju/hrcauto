@@ -1,0 +1,582 @@
+
+
+PokerStars Hand #189829524617: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:02:59 MSK [2018/08/12 23:02:59 ET]
+Table '2381062357 1' 6-max Seat #1 is the button
+Seat 1: 2Ran128 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: chorls464 (500 in chips)
+Seat 4: biertjeh (500 in chips)
+Seat 5: bowmanvillan (500 in chips)
+Seat 6: cal1234 (500 in chips)
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+chorls464: posts the ante 2
+biertjeh: posts the ante 2
+bowmanvillan: posts the ante 2
+cal1234: posts the ante 2
+DiggErr555: posts small blind 10
+chorls464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Qs]
+biertjeh: folds
+bowmanvillan: folds
+cal1234: calls 20
+2Ran128: folds
+DiggErr555: folds
+chorls464: raises 478 to 498 and is all-in
+cal1234: folds
+Uncalled bet (478) returned to chorls464
+chorls464 collected 62 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: chorls464 (big blind) collected (62)
+Seat 4: biertjeh folded before Flop (didn't bet)
+Seat 5: bowmanvillan folded before Flop (didn't bet)
+Seat 6: cal1234 folded before Flop
+
+PokerStars Hand #189829530538: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:03:22 MSK [2018/08/12 23:03:22 ET]
+Table '2381062357 1' 6-max Seat #2 is the button
+Seat 1: 2Ran128 (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: chorls464 (540 in chips)
+Seat 4: biertjeh (498 in chips)
+Seat 5: bowmanvillan (498 in chips)
+Seat 6: cal1234 (478 in chips)
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+chorls464: posts the ante 2
+biertjeh: posts the ante 2
+bowmanvillan: posts the ante 2
+cal1234: posts the ante 2
+chorls464: posts small blind 10
+biertjeh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 8h]
+bowmanvillan: folds
+cal1234: calls 20
+2Ran128: folds
+DiggErr555: folds
+chorls464: folds
+biertjeh: checks
+*** FLOP *** [3h 5c Td]
+biertjeh: checks
+cal1234: checks
+*** TURN *** [3h 5c Td] [6s]
+biertjeh: checks
+cal1234: checks
+*** RIVER *** [3h 5c Td 6s] [9c]
+biertjeh: checks
+cal1234: checks
+*** SHOW DOWN ***
+biertjeh: shows [4h Kh] (high card King)
+cal1234: mucks hand
+biertjeh collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Board [3h 5c Td 6s 9c]
+Seat 1: 2Ran128 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: chorls464 (small blind) folded before Flop
+Seat 4: biertjeh (big blind) showed [4h Kh] and won (62) with high card King
+Seat 5: bowmanvillan folded before Flop (didn't bet)
+Seat 6: cal1234 mucked [Qs 4c]
+
+PokerStars Hand #189829539508: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:03:57 MSK [2018/08/12 23:03:57 ET]
+Table '2381062357 1' 6-max Seat #3 is the button
+Seat 1: 2Ran128 (496 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: chorls464 (528 in chips)
+Seat 4: biertjeh (538 in chips)
+Seat 5: bowmanvillan (496 in chips)
+Seat 6: cal1234 (456 in chips)
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+chorls464: posts the ante 2
+biertjeh: posts the ante 2
+bowmanvillan: posts the ante 2
+cal1234: posts the ante 2
+biertjeh: posts small blind 10
+bowmanvillan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 6d]
+cal1234: raises 20 to 40
+2Ran128: folds
+DiggErr555: folds
+chorls464: folds
+biertjeh: folds
+bowmanvillan: raises 102 to 142
+cal1234: raises 312 to 454 and is all-in
+bowmanvillan: calls 312
+*** FLOP *** [Ac 5h Kd]
+*** TURN *** [Ac 5h Kd] [Jd]
+*** RIVER *** [Ac 5h Kd Jd] [9c]
+*** SHOW DOWN ***
+bowmanvillan: shows [As 2d] (a pair of Aces)
+cal1234: shows [Kh 4d] (a pair of Kings)
+bowmanvillan collected 930 from pot
+bowmanvillan wins the $4.79 bounty for eliminating cal1234
+cal1234 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 930 | Rake 0
+Board [Ac 5h Kd Jd 9c]
+Seat 1: 2Ran128 folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: chorls464 (button) folded before Flop (didn't bet)
+Seat 4: biertjeh (small blind) folded before Flop
+Seat 5: bowmanvillan (big blind) showed [As 2d] and won (930) with a pair of Aces
+Seat 6: cal1234 showed [Kh 4d] and lost with a pair of Kings
+
+PokerStars Hand #189829548459: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:04:30 MSK [2018/08/12 23:04:30 ET]
+Table '2381062357 1' 6-max Seat #4 is the button
+Seat 1: 2Ran128 (494 in chips)
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: chorls464 (526 in chips)
+Seat 4: biertjeh (526 in chips)
+Seat 5: bowmanvillan (970 in chips)
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+chorls464: posts the ante 3
+biertjeh: posts the ante 3
+bowmanvillan: posts the ante 3
+bowmanvillan: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 8c]
+DiggErr555: folds
+chorls464: folds
+biertjeh: folds
+bowmanvillan: folds
+Uncalled bet (15) returned to 2Ran128
+2Ran128 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: 2Ran128 (big blind) collected (45)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: chorls464 folded before Flop (didn't bet)
+Seat 4: biertjeh (button) folded before Flop (didn't bet)
+Seat 5: bowmanvillan (small blind) folded before Flop
+
+PokerStars Hand #189829553483: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:04:50 MSK [2018/08/12 23:04:50 ET]
+Table '2381062357 1' 6-max Seat #5 is the button
+Seat 1: 2Ran128 (521 in chips)
+Seat 2: DiggErr555 (481 in chips)
+Seat 3: chorls464 (523 in chips)
+Seat 4: biertjeh (523 in chips)
+Seat 5: bowmanvillan (952 in chips)
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+chorls464: posts the ante 3
+biertjeh: posts the ante 3
+bowmanvillan: posts the ante 3
+2Ran128: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 6h]
+chorls464: raises 490 to 520 and is all-in
+biertjeh: folds
+bowmanvillan: folds
+2Ran128: folds
+DiggErr555: folds
+Uncalled bet (490) returned to chorls464
+chorls464 collected 90 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: 2Ran128 (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: chorls464 collected (90)
+Seat 4: biertjeh folded before Flop (didn't bet)
+Seat 5: bowmanvillan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829557567: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:05:05 MSK [2018/08/12 23:05:05 ET]
+Table '2381062357 1' 6-max Seat #1 is the button
+Seat 1: 2Ran128 (503 in chips)
+Seat 2: DiggErr555 (448 in chips)
+Seat 3: chorls464 (580 in chips)
+Seat 4: biertjeh (520 in chips)
+Seat 5: bowmanvillan (949 in chips)
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+chorls464: posts the ante 3
+biertjeh: posts the ante 3
+bowmanvillan: posts the ante 3
+DiggErr555: posts small blind 15
+chorls464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Th]
+biertjeh: raises 487 to 517 and is all-in
+bowmanvillan: calls 517
+2Ran128: folds
+DiggErr555: folds
+chorls464: folds
+*** FLOP *** [Kd Qs Qh]
+*** TURN *** [Kd Qs Qh] [Kc]
+*** RIVER *** [Kd Qs Qh Kc] [As]
+*** SHOW DOWN ***
+biertjeh: shows [9d 9h] (two pair, Kings and Queens)
+bowmanvillan: shows [Ts Ad] (two pair, Aces and Kings)
+bowmanvillan collected 1094 from pot
+bowmanvillan wins the $4.79 bounty for eliminating biertjeh
+biertjeh finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1094 | Rake 0
+Board [Kd Qs Qh Kc As]
+Seat 1: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: chorls464 (big blind) folded before Flop
+Seat 4: biertjeh showed [9d 9h] and lost with two pair, Kings and Queens
+Seat 5: bowmanvillan showed [Ts Ad] and won (1094) with two pair, Aces and Kings
+
+PokerStars Hand #189829566348: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:05:39 MSK [2018/08/12 23:05:39 ET]
+Table '2381062357 1' 6-max Seat #2 is the button
+Seat 1: 2Ran128 (500 in chips)
+Seat 2: DiggErr555 (430 in chips)
+Seat 3: chorls464 (547 in chips)
+Seat 5: bowmanvillan (1523 in chips)
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+chorls464: posts the ante 3
+bowmanvillan: posts the ante 3
+chorls464: posts small blind 15
+bowmanvillan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Js]
+2Ran128: folds
+DiggErr555: folds
+chorls464: calls 15
+bowmanvillan: checks
+*** FLOP *** [4s 2d 6c]
+chorls464: bets 50
+bowmanvillan: calls 50
+*** TURN *** [4s 2d 6c] [Td]
+chorls464: bets 120
+bowmanvillan: raises 120 to 240
+chorls464: raises 224 to 464 and is all-in
+bowmanvillan: calls 224
+*** RIVER *** [4s 2d 6c Td] [Kc]
+*** SHOW DOWN ***
+chorls464: shows [As Ad] (a pair of Aces)
+bowmanvillan: shows [Th Kd] (two pair, Kings and Tens)
+bowmanvillan collected 1100 from pot
+bowmanvillan wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1100 | Rake 0
+Board [4s 2d 6c Td Kc]
+Seat 1: 2Ran128 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: chorls464 (small blind) showed [As Ad] and lost with a pair of Aces
+Seat 5: bowmanvillan (big blind) showed [Th Kd] and won (1100) with two pair, Kings and Tens
+
+PokerStars Hand #189829575204: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:06:13 MSK [2018/08/12 23:06:13 ET]
+Table '2381062357 1' 6-max Seat #5 is the button
+Seat 1: 2Ran128 (497 in chips)
+Seat 2: DiggErr555 (427 in chips)
+Seat 5: bowmanvillan (2076 in chips)
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+2Ran128: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 7d]
+bowmanvillan: folds
+2Ran128: raises 453 to 493 and is all-in
+DiggErr555: folds
+Uncalled bet (453) returned to 2Ran128
+2Ran128 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: 2Ran128 (small blind) collected (92)
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 5: bowmanvillan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829578368: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:06:26 MSK [2018/08/12 23:06:26 ET]
+Table '2381062357 1' 6-max Seat #1 is the button
+Seat 1: 2Ran128 (545 in chips)
+Seat 2: DiggErr555 (383 in chips)
+Seat 5: bowmanvillan (2072 in chips)
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+DiggErr555: posts small blind 20
+bowmanvillan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 9d]
+2Ran128: folds
+DiggErr555: folds
+Uncalled bet (20) returned to bowmanvillan
+bowmanvillan collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 5: bowmanvillan (big blind) collected (52)
+
+PokerStars Hand #189829579844: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:06:32 MSK [2018/08/12 23:06:32 ET]
+Table '2381062357 1' 6-max Seat #2 is the button
+Seat 1: 2Ran128 (541 in chips)
+Seat 2: DiggErr555 (359 in chips)
+Seat 5: bowmanvillan (2100 in chips)
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+bowmanvillan: posts small blind 20
+2Ran128: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6h]
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (20) returned to 2Ran128
+2Ran128 collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: 2Ran128 (big blind) collected (52)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: bowmanvillan (small blind) folded before Flop
+
+PokerStars Hand #189829583393: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:06:45 MSK [2018/08/12 23:06:45 ET]
+Table '2381062357 1' 6-max Seat #5 is the button
+Seat 1: 2Ran128 (569 in chips)
+Seat 2: DiggErr555 (355 in chips)
+Seat 5: bowmanvillan (2076 in chips)
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+2Ran128: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4c]
+bowmanvillan: folds
+2Ran128: raises 525 to 565 and is all-in
+DiggErr555: folds
+Uncalled bet (525) returned to 2Ran128
+2Ran128 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: 2Ran128 (small blind) collected (92)
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 5: bowmanvillan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829587314: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:07:00 MSK [2018/08/12 23:07:00 ET]
+Table '2381062357 1' 6-max Seat #1 is the button
+Seat 1: 2Ran128 (617 in chips)
+Seat 2: DiggErr555 (311 in chips)
+Seat 5: bowmanvillan (2072 in chips)
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+DiggErr555: posts small blind 30
+bowmanvillan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Ks]
+2Ran128: folds
+DiggErr555: raises 245 to 305 and is all-in
+bowmanvillan: calls 245
+*** FLOP *** [Qd 5c 3h]
+*** TURN *** [Qd 5c 3h] [Kd]
+*** RIVER *** [Qd 5c 3h Kd] [Ad]
+*** SHOW DOWN ***
+DiggErr555: shows [4h Ks] (a pair of Kings)
+bowmanvillan: shows [Jc 8s] (high card Ace)
+DiggErr555 collected 628 from pot
+*** SUMMARY ***
+Total pot 628 | Rake 0
+Board [Qd 5c 3h Kd Ad]
+Seat 1: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) showed [4h Ks] and won (628) with a pair of Kings
+Seat 5: bowmanvillan (big blind) showed [Jc 8s] and lost with high card Ace
+
+PokerStars Hand #189829592621: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:07:21 MSK [2018/08/12 23:07:21 ET]
+Table '2381062357 1' 6-max Seat #2 is the button
+Seat 1: 2Ran128 (611 in chips)
+Seat 2: DiggErr555 (628 in chips)
+Seat 5: bowmanvillan (1761 in chips)
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+bowmanvillan: posts small blind 30
+2Ran128: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 7c]
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (30) returned to 2Ran128
+2Ran128 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: 2Ran128 (big blind) collected (78)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: bowmanvillan (small blind) folded before Flop
+
+PokerStars Hand #189829594175: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:07:27 MSK [2018/08/12 23:07:27 ET]
+Table '2381062357 1' 6-max Seat #5 is the button
+Seat 1: 2Ran128 (653 in chips)
+Seat 2: DiggErr555 (622 in chips)
+Seat 5: bowmanvillan (1725 in chips)
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+2Ran128: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 3c]
+bowmanvillan: folds
+2Ran128: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: 2Ran128 (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) collected (78)
+Seat 5: bowmanvillan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829596106: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:07:35 MSK [2018/08/12 23:07:35 ET]
+Table '2381062357 1' 6-max Seat #1 is the button
+Seat 1: 2Ran128 (617 in chips)
+Seat 2: DiggErr555 (664 in chips)
+Seat 5: bowmanvillan (1719 in chips)
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+DiggErr555: posts small blind 30
+bowmanvillan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d As]
+2Ran128: raises 240 to 300
+DiggErr555: folds
+bowmanvillan: calls 240
+*** FLOP *** [2c 3h 8h]
+bowmanvillan: checks
+2Ran128: bets 311 and is all-in
+bowmanvillan: calls 311
+*** TURN *** [2c 3h 8h] [7c]
+*** RIVER *** [2c 3h 8h 7c] [Kc]
+*** SHOW DOWN ***
+bowmanvillan: shows [6h Th] (high card King)
+2Ran128: shows [Ad Jh] (high card Ace)
+2Ran128 collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | Rake 0
+Board [2c 3h 8h 7c Kc]
+Seat 1: 2Ran128 (button) showed [Ad Jh] and won (1270) with high card Ace
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 5: bowmanvillan (big blind) showed [6h Th] and lost with high card King
+
+PokerStars Hand #189829604016: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:08:05 MSK [2018/08/12 23:08:05 ET]
+Table '2381062357 1' 6-max Seat #2 is the button
+Seat 1: 2Ran128 (1270 in chips)
+Seat 2: DiggErr555 (628 in chips)
+Seat 5: bowmanvillan (1102 in chips)
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+bowmanvillan: posts the ante 6
+bowmanvillan: posts small blind 30
+2Ran128: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d Qc]
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (30) returned to 2Ran128
+2Ran128 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: 2Ran128 (big blind) collected (78)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: bowmanvillan (small blind) folded before Flop
+
+PokerStars Hand #189829606031: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:08:13 MSK [2018/08/12 23:08:13 ET]
+Table '2381062357 1' 6-max Seat #5 is the button
+Seat 1: 2Ran128 (1312 in chips)
+Seat 2: DiggErr555 (622 in chips)
+Seat 5: bowmanvillan (1066 in chips)
+2Ran128: posts the ante 8
+DiggErr555: posts the ante 8
+bowmanvillan: posts the ante 8
+2Ran128: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Kd]
+bowmanvillan: folds
+2Ran128: raises 1224 to 1304 and is all-in
+DiggErr555: calls 534 and is all-in
+Uncalled bet (690) returned to 2Ran128
+*** FLOP *** [Jc 6c Kh]
+*** TURN *** [Jc 6c Kh] [4s]
+*** RIVER *** [Jc 6c Kh 4s] [2h]
+*** SHOW DOWN ***
+2Ran128: shows [Ah 5c] (high card Ace)
+DiggErr555: shows [Ks Kd] (three of a kind, Kings)
+DiggErr555 collected 1252 from pot
+*** SUMMARY ***
+Total pot 1252 | Rake 0
+Board [Jc 6c Kh 4s 2h]
+Seat 1: 2Ran128 (small blind) showed [Ah 5c] and lost with high card Ace
+Seat 2: DiggErr555 (big blind) showed [Ks Kd] and won (1252) with three of a kind, Kings
+Seat 5: bowmanvillan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829611979: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:08:37 MSK [2018/08/12 23:08:37 ET]
+Table '2381062357 1' 6-max Seat #1 is the button
+Seat 1: 2Ran128 (690 in chips)
+Seat 2: DiggErr555 (1252 in chips)
+Seat 5: bowmanvillan (1058 in chips)
+2Ran128: posts the ante 8
+DiggErr555: posts the ante 8
+bowmanvillan: posts the ante 8
+DiggErr555: posts small blind 40
+bowmanvillan: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 7d]
+2Ran128: raises 240 to 320
+DiggErr555: folds
+bowmanvillan: raises 240 to 560
+2Ran128: raises 122 to 682 and is all-in
+bowmanvillan: calls 122
+*** FLOP *** [Qd 4h 8s]
+*** TURN *** [Qd 4h 8s] [Qs]
+*** RIVER *** [Qd 4h 8s Qs] [2d]
+*** SHOW DOWN ***
+bowmanvillan: shows [9s Ac] (a pair of Queens)
+2Ran128: shows [8h As] (two pair, Queens and Eights)
+2Ran128 collected 1428 from pot
+*** SUMMARY ***
+Total pot 1428 | Rake 0
+Board [Qd 4h 8s Qs 2d]
+Seat 1: 2Ran128 (button) showed [8h As] and won (1428) with two pair, Queens and Eights
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 5: bowmanvillan (big blind) showed [9s Ac] and lost with a pair of Queens
+
+PokerStars Hand #189829617512: Tournament #2381062357, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:08:58 MSK [2018/08/12 23:08:58 ET]
+Table '2381062357 1' 6-max Seat #2 is the button
+Seat 1: 2Ran128 (1428 in chips)
+Seat 2: DiggErr555 (1204 in chips)
+Seat 5: bowmanvillan (368 in chips)
+2Ran128: posts the ante 8
+DiggErr555: posts the ante 8
+bowmanvillan: posts the ante 8
+bowmanvillan: posts small blind 40
+2Ran128: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks 8h]
+DiggErr555: raises 1116 to 1196 and is all-in
+bowmanvillan: folds
+2Ran128: calls 1116
+*** FLOP *** [7c 4s 6c]
+*** TURN *** [7c 4s 6c] [Tc]
+*** RIVER *** [7c 4s 6c Tc] [3c]
+*** SHOW DOWN ***
+2Ran128: shows [Td Ts] (three of a kind, Tens)
+DiggErr555: shows [Ks 8h] (high card King)
+2Ran128 collected 2456 from pot
+2Ran128 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2456 | Rake 0
+Board [7c 4s 6c Tc 3c]
+Seat 1: 2Ran128 (big blind) showed [Td Ts] and won (2456) with three of a kind, Tens
+Seat 2: DiggErr555 (button) showed [Ks 8h] and lost with high card King
+Seat 5: bowmanvillan (small blind) folded before Flop

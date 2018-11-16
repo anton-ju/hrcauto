@@ -1,0 +1,416 @@
+
+
+PokerStars Hand #189830190691: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:47:04 MSK [2018/08/12 23:47:04 ET]
+Table '2381077493 1' 6-max Seat #1 is the button
+Seat 1: HuGuinZ (500 in chips)
+Seat 2: chorls464 (500 in chips)
+Seat 3: TKDBIGDAD (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: feattoni1234 (500 in chips)
+Seat 6: FMALENAG (500 in chips)
+HuGuinZ: posts the ante 2
+chorls464: posts the ante 2
+TKDBIGDAD: posts the ante 2
+DiggErr555: posts the ante 2
+feattoni1234: posts the ante 2
+FMALENAG: posts the ante 2
+chorls464: posts small blind 10
+TKDBIGDAD: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 7h]
+DiggErr555: folds
+feattoni1234: folds
+FMALENAG: raises 20 to 40
+HuGuinZ: folds
+chorls464: folds
+TKDBIGDAD: calls 20
+*** FLOP *** [6h Qs 3h]
+TKDBIGDAD: checks
+FMALENAG: checks
+*** TURN *** [6h Qs 3h] [6c]
+TKDBIGDAD: checks
+FMALENAG: bets 58
+TKDBIGDAD: folds
+Uncalled bet (58) returned to FMALENAG
+FMALENAG collected 102 from pot
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Board [6h Qs 3h 6c]
+Seat 1: HuGuinZ (button) folded before Flop (didn't bet)
+Seat 2: chorls464 (small blind) folded before Flop
+Seat 3: TKDBIGDAD (big blind) folded on the Turn
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: feattoni1234 folded before Flop (didn't bet)
+Seat 6: FMALENAG collected (102)
+
+PokerStars Hand #189830196535: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:47:30 MSK [2018/08/12 23:47:30 ET]
+Table '2381077493 1' 6-max Seat #2 is the button
+Seat 1: HuGuinZ (498 in chips)
+Seat 2: chorls464 (488 in chips)
+Seat 3: TKDBIGDAD (458 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: feattoni1234 (498 in chips)
+Seat 6: FMALENAG (560 in chips)
+HuGuinZ: posts the ante 2
+chorls464: posts the ante 2
+TKDBIGDAD: posts the ante 2
+DiggErr555: posts the ante 2
+feattoni1234: posts the ante 2
+FMALENAG: posts the ante 2
+TKDBIGDAD: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Kc]
+feattoni1234: raises 476 to 496 and is all-in
+FMALENAG: raises 62 to 558 and is all-in
+HuGuinZ: folds
+chorls464: folds
+TKDBIGDAD: calls 446 and is all-in
+DiggErr555: folds
+Uncalled bet (62) returned to FMALENAG
+*** FLOP *** [6c 9c Jc]
+*** TURN *** [6c 9c Jc] [4s]
+*** RIVER *** [6c 9c Jc 4s] [4h]
+*** SHOW DOWN ***
+feattoni1234: shows [Ks Qd] (a pair of Fours)
+FMALENAG: shows [Qh Qc] (two pair, Queens and Fours)
+FMALENAG collected 80 from side pot
+TKDBIGDAD: shows [Qs Ac] (a pair of Fours)
+FMALENAG collected 1400 from main pot
+FMALENAG wins the $4.79 bounty for eliminating TKDBIGDAD
+FMALENAG wins the $4.79 bounty for eliminating feattoni1234
+feattoni1234 finished the tournament in 5th place
+TKDBIGDAD finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1480 Main pot 1400. Side pot 80. | Rake 0
+Board [6c 9c Jc 4s 4h]
+Seat 1: HuGuinZ folded before Flop (didn't bet)
+Seat 2: chorls464 (button) folded before Flop (didn't bet)
+Seat 3: TKDBIGDAD (small blind) showed [Qs Ac] and lost with a pair of Fours
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: feattoni1234 showed [Ks Qd] and lost with a pair of Fours
+Seat 6: FMALENAG showed [Qh Qc] and won (1480) with two pair, Queens and Fours
+
+PokerStars Hand #189830202147: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:47:54 MSK [2018/08/12 23:47:54 ET]
+Table '2381077493 1' 6-max Seat #4 is the button
+Seat 1: HuGuinZ (496 in chips)
+Seat 2: chorls464 (486 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 6: FMALENAG (1542 in chips)
+HuGuinZ: posts the ante 2
+chorls464: posts the ante 2
+DiggErr555: posts the ante 2
+FMALENAG: posts the ante 2
+FMALENAG: posts small blind 10
+HuGuinZ: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 5d]
+chorls464: raises 20 to 40
+DiggErr555: folds
+FMALENAG: raises 1500 to 1540 and is all-in
+HuGuinZ: folds
+chorls464: folds
+Uncalled bet (1500) returned to FMALENAG
+FMALENAG collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | Rake 0
+Seat 1: HuGuinZ (big blind) folded before Flop
+Seat 2: chorls464 folded before Flop
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: FMALENAG (small blind) collected (108)
+
+PokerStars Hand #189830208120: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:20 MSK [2018/08/12 23:48:20 ET]
+Table '2381077493 1' 6-max Seat #6 is the button
+Seat 1: HuGuinZ (474 in chips)
+Seat 2: chorls464 (444 in chips)
+Seat 4: DiggErr555 (474 in chips)
+Seat 6: FMALENAG (1608 in chips)
+HuGuinZ: posts the ante 3
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+FMALENAG: posts the ante 3
+HuGuinZ: posts small blind 15
+chorls464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 5d]
+DiggErr555: folds
+FMALENAG: raises 1575 to 1605 and is all-in
+HuGuinZ: folds
+chorls464: calls 411 and is all-in
+Uncalled bet (1164) returned to FMALENAG
+*** FLOP *** [5h 7d As]
+*** TURN *** [5h 7d As] [Ks]
+*** RIVER *** [5h 7d As Ks] [Ad]
+*** SHOW DOWN ***
+chorls464: shows [9s 6s] (a pair of Aces)
+FMALENAG: shows [8c Ac] (three of a kind, Aces)
+FMALENAG collected 909 from pot
+FMALENAG wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 909 | Rake 0
+Board [5h 7d As Ks Ad]
+Seat 1: HuGuinZ (small blind) folded before Flop
+Seat 2: chorls464 (big blind) showed [9s 6s] and lost with a pair of Aces
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 6: FMALENAG (button) showed [8c Ac] and won (909) with three of a kind, Aces
+
+PokerStars Hand #189830212972: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:41 MSK [2018/08/12 23:48:41 ET]
+Table '2381077493 1' 6-max Seat #1 is the button
+Seat 1: HuGuinZ (456 in chips)
+Seat 4: DiggErr555 (471 in chips)
+Seat 6: FMALENAG (2073 in chips)
+HuGuinZ: posts the ante 3
+DiggErr555: posts the ante 3
+FMALENAG: posts the ante 3
+DiggErr555: posts small blind 15
+FMALENAG: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 3c]
+HuGuinZ: folds
+DiggErr555: folds
+Uncalled bet (15) returned to FMALENAG
+FMALENAG collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 1: HuGuinZ (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: FMALENAG (big blind) collected (39)
+
+PokerStars Hand #189830216239: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:55 MSK [2018/08/12 23:48:55 ET]
+Table '2381077493 1' 6-max Seat #4 is the button
+Seat 1: HuGuinZ (453 in chips)
+Seat 4: DiggErr555 (453 in chips)
+Seat 6: FMALENAG (2094 in chips)
+HuGuinZ: posts the ante 3
+DiggErr555: posts the ante 3
+FMALENAG: posts the ante 3
+FMALENAG: posts small blind 15
+HuGuinZ: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 2s]
+DiggErr555: folds
+FMALENAG: raises 2061 to 2091 and is all-in
+HuGuinZ: folds
+Uncalled bet (2061) returned to FMALENAG
+FMALENAG collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | Rake 0
+Seat 1: HuGuinZ (big blind) folded before Flop
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: FMALENAG (small blind) collected (69)
+
+PokerStars Hand #189830221232: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:49:16 MSK [2018/08/12 23:49:16 ET]
+Table '2381077493 1' 6-max Seat #6 is the button
+Seat 1: HuGuinZ (420 in chips)
+Seat 4: DiggErr555 (450 in chips)
+Seat 6: FMALENAG (2130 in chips)
+HuGuinZ: posts the ante 3
+DiggErr555: posts the ante 3
+FMALENAG: posts the ante 3
+HuGuinZ: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 6s]
+FMALENAG: folds
+HuGuinZ: folds
+Uncalled bet (15) returned to DiggErr555
+DiggErr555 collected 39 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 1: HuGuinZ (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) collected (39)
+Seat 6: FMALENAG (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830224959: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:32 MSK [2018/08/12 23:49:32 ET]
+Table '2381077493 1' 6-max Seat #1 is the button
+Seat 1: HuGuinZ (402 in chips)
+Seat 4: DiggErr555 (471 in chips)
+Seat 6: FMALENAG (2127 in chips)
+HuGuinZ: posts the ante 4
+DiggErr555: posts the ante 4
+FMALENAG: posts the ante 4
+DiggErr555: posts small blind 20
+FMALENAG: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h Ks]
+HuGuinZ: folds
+DiggErr555: folds
+Uncalled bet (20) returned to FMALENAG
+FMALENAG collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: HuGuinZ (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: FMALENAG (big blind) collected (52)
+
+PokerStars Hand #189830227245: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:43 MSK [2018/08/12 23:49:43 ET]
+Table '2381077493 1' 6-max Seat #4 is the button
+Seat 1: HuGuinZ (398 in chips)
+Seat 4: DiggErr555 (447 in chips)
+Seat 6: FMALENAG (2155 in chips)
+HuGuinZ: posts the ante 4
+DiggErr555: posts the ante 4
+FMALENAG: posts the ante 4
+FMALENAG: posts small blind 20
+HuGuinZ: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 4s]
+DiggErr555: folds
+FMALENAG: raises 2111 to 2151 and is all-in
+HuGuinZ: folds
+Uncalled bet (2111) returned to FMALENAG
+FMALENAG collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: HuGuinZ (big blind) folded before Flop
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: FMALENAG (small blind) collected (92)
+
+PokerStars Hand #189830230238: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:49:55 MSK [2018/08/12 23:49:55 ET]
+Table '2381077493 1' 6-max Seat #6 is the button
+Seat 1: HuGuinZ (354 in chips)
+Seat 4: DiggErr555 (443 in chips)
+Seat 6: FMALENAG (2203 in chips)
+HuGuinZ: posts the ante 4
+DiggErr555: posts the ante 4
+FMALENAG: posts the ante 4
+HuGuinZ: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 2s]
+FMALENAG: folds
+HuGuinZ: raises 310 to 350 and is all-in
+DiggErr555: folds
+Uncalled bet (310) returned to HuGuinZ
+HuGuinZ collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: HuGuinZ (small blind) collected (92)
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: FMALENAG (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830232512: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:50:05 MSK [2018/08/12 23:50:05 ET]
+Table '2381077493 1' 6-max Seat #1 is the button
+Seat 1: HuGuinZ (402 in chips)
+Seat 4: DiggErr555 (399 in chips)
+Seat 6: FMALENAG (2199 in chips)
+HuGuinZ: posts the ante 4
+DiggErr555: posts the ante 4
+FMALENAG: posts the ante 4
+DiggErr555: posts small blind 20
+FMALENAG: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s Ah]
+HuGuinZ: raises 358 to 398 and is all-in
+DiggErr555: folds
+FMALENAG: calls 358
+*** FLOP *** [4c Kc Qs]
+*** TURN *** [4c Kc Qs] [Jd]
+*** RIVER *** [4c Kc Qs Jd] [9d]
+*** SHOW DOWN ***
+FMALENAG: shows [4s Kh] (two pair, Kings and Fours)
+HuGuinZ: shows [Ad 8h] (high card Ace)
+FMALENAG collected 828 from pot
+FMALENAG wins the $4.79 bounty for eliminating HuGuinZ
+HuGuinZ finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 828 | Rake 0
+Board [4c Kc Qs Jd 9d]
+Seat 1: HuGuinZ (button) showed [Ad 8h] and lost with high card Ace
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: FMALENAG (big blind) showed [4s Kh] and won (828) with two pair, Kings and Fours
+
+PokerStars Hand #189830238233: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:50:30 MSK [2018/08/12 23:50:30 ET]
+Table '2381077493 1' 6-max Seat #6 is the button
+Seat 4: DiggErr555 (375 in chips)
+Seat 6: FMALENAG (2625 in chips)
+DiggErr555: posts the ante 6
+FMALENAG: posts the ante 6
+FMALENAG: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Jh]
+FMALENAG: raises 60 to 120
+DiggErr555: raises 249 to 369 and is all-in
+FMALENAG: calls 249
+*** FLOP *** [7h Kd 2d]
+*** TURN *** [7h Kd 2d] [8c]
+*** RIVER *** [7h Kd 2d 8c] [8h]
+*** SHOW DOWN ***
+DiggErr555: shows [Kc Jh] (two pair, Kings and Eights)
+FMALENAG: shows [7c Ah] (two pair, Eights and Sevens)
+DiggErr555 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [7h Kd 2d 8c 8h]
+Seat 4: DiggErr555 (big blind) showed [Kc Jh] and won (750) with two pair, Kings and Eights
+Seat 6: FMALENAG (button) (small blind) showed [7c Ah] and lost with two pair, Eights and Sevens
+
+PokerStars Hand #189830241900: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:50:47 MSK [2018/08/12 23:50:47 ET]
+Table '2381077493 1' 6-max Seat #4 is the button
+Seat 4: DiggErr555 (750 in chips)
+Seat 6: FMALENAG (2250 in chips)
+DiggErr555: posts the ante 6
+FMALENAG: posts the ante 6
+DiggErr555: posts small blind 30
+FMALENAG: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 7s]
+DiggErr555: calls 30
+FMALENAG: raises 2184 to 2244 and is all-in
+DiggErr555: folds
+Uncalled bet (2184) returned to FMALENAG
+FMALENAG collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 4: DiggErr555 (button) (small blind) folded before Flop
+Seat 6: FMALENAG (big blind) collected (132)
+
+PokerStars Hand #189830244967: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:00 MSK [2018/08/12 23:51:00 ET]
+Table '2381077493 1' 6-max Seat #6 is the button
+Seat 4: DiggErr555 (684 in chips)
+Seat 6: FMALENAG (2316 in chips)
+DiggErr555: posts the ante 6
+FMALENAG: posts the ante 6
+FMALENAG: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 6c]
+FMALENAG: raises 2250 to 2310 and is all-in
+DiggErr555: folds
+Uncalled bet (2250) returned to FMALENAG
+FMALENAG collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: FMALENAG (button) (small blind) collected (132)
+
+PokerStars Hand #189830246861: Tournament #2381077493, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:08 MSK [2018/08/12 23:51:08 ET]
+Table '2381077493 1' 6-max Seat #4 is the button
+Seat 4: DiggErr555 (618 in chips)
+Seat 6: FMALENAG (2382 in chips)
+DiggErr555: posts the ante 6
+FMALENAG: posts the ante 6
+DiggErr555: posts small blind 30
+FMALENAG: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 4c]
+DiggErr555: raises 552 to 612 and is all-in
+FMALENAG: calls 552
+*** FLOP *** [5s 8h 3s]
+*** TURN *** [5s 8h 3s] [Ts]
+*** RIVER *** [5s 8h 3s Ts] [2c]
+*** SHOW DOWN ***
+FMALENAG: shows [Th 9h] (a pair of Tens)
+DiggErr555: shows [3c 4c] (a pair of Threes)
+FMALENAG collected 1236 from pot
+FMALENAG wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+FMALENAG wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1236 | Rake 0
+Board [5s 8h 3s Ts 2c]
+Seat 4: DiggErr555 (button) (small blind) showed [3c 4c] and lost with a pair of Threes
+Seat 6: FMALENAG (big blind) showed [Th 9h] and won (1236) with a pair of Tens

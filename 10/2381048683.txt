@@ -1,0 +1,377 @@
+
+
+PokerStars Hand #189828894553: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:25:35 MSK [2018/08/12 22:25:35 ET]
+Table '2381048683 1' 6-max Seat #1 is the button
+Seat 1: bigatello1967 (500 in chips)
+Seat 2: marie3010 (500 in chips)
+Seat 3: cowhead72 (500 in chips)
+Seat 4: Mishator (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: galpal12 (500 in chips)
+bigatello1967: posts the ante 2
+marie3010: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+galpal12: posts the ante 2
+marie3010: posts small blind 10
+cowhead72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Jd]
+Mishator: folds
+DiggErr555: raises 20 to 40
+galpal12: folds
+bigatello1967: calls 40
+marie3010: folds
+cowhead72: folds
+*** FLOP *** [As 8c 6h]
+DiggErr555: checks
+bigatello1967: checks
+*** TURN *** [As 8c 6h] [5h]
+DiggErr555: checks
+bigatello1967: checks
+*** RIVER *** [As 8c 6h 5h] [4c]
+DiggErr555: checks
+bigatello1967: bets 50
+DiggErr555: folds
+Uncalled bet (50) returned to bigatello1967
+bigatello1967 collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Board [As 8c 6h 5h 4c]
+Seat 1: bigatello1967 (button) collected (122)
+Seat 2: marie3010 (small blind) folded before Flop
+Seat 3: cowhead72 (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded on the River
+Seat 6: galpal12 folded before Flop (didn't bet)
+
+PokerStars Hand #189828911440: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:26:32 MSK [2018/08/12 22:26:32 ET]
+Table '2381048683 1' 6-max Seat #2 is the button
+Seat 1: bigatello1967 (580 in chips)
+Seat 2: marie3010 (488 in chips)
+Seat 3: cowhead72 (478 in chips)
+Seat 4: Mishator (498 in chips)
+Seat 5: DiggErr555 (458 in chips)
+Seat 6: galpal12 (498 in chips)
+bigatello1967: posts the ante 2
+marie3010: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+galpal12: posts the ante 2
+cowhead72: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 6h]
+DiggErr555: raises 20 to 40
+galpal12: folds
+bigatello1967: folds
+marie3010: folds
+cowhead72: folds
+Mishator: raises 456 to 496 and is all-in
+DiggErr555: folds
+Uncalled bet (456) returned to Mishator
+Mishator collected 102 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Seat 1: bigatello1967 folded before Flop (didn't bet)
+Seat 2: marie3010 (button) folded before Flop (didn't bet)
+Seat 3: cowhead72 (small blind) folded before Flop
+Seat 4: Mishator (big blind) collected (102)
+Seat 5: DiggErr555 folded before Flop
+Seat 6: galpal12 folded before Flop (didn't bet)
+
+PokerStars Hand #189828920377: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:27:02 MSK [2018/08/12 22:27:02 ET]
+Table '2381048683 1' 6-max Seat #3 is the button
+Seat 1: bigatello1967 (578 in chips)
+Seat 2: marie3010 (486 in chips)
+Seat 3: cowhead72 (466 in chips)
+Seat 4: Mishator (558 in chips)
+Seat 5: DiggErr555 (416 in chips)
+Seat 6: galpal12 (496 in chips)
+bigatello1967: posts the ante 2
+marie3010: posts the ante 2
+cowhead72: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+galpal12: posts the ante 2
+Mishator: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 8h]
+galpal12: folds
+bigatello1967: calls 20
+marie3010: folds
+cowhead72: calls 20
+Mishator: raises 536 to 556 and is all-in
+DiggErr555: folds
+bigatello1967: folds
+cowhead72: folds
+Uncalled bet (536) returned to Mishator
+Mishator collected 92 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: bigatello1967 folded before Flop
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 3: cowhead72 (button) folded before Flop
+Seat 4: Mishator (small blind) collected (92)
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: galpal12 folded before Flop (didn't bet)
+
+PokerStars Hand #189828930737: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:27:37 MSK [2018/08/12 22:27:37 ET]
+Table '2381048683 1' 6-max Seat #4 is the button
+Seat 1: bigatello1967 (556 in chips)
+Seat 2: marie3010 (484 in chips)
+Seat 3: cowhead72 (444 in chips)
+Seat 4: Mishator (628 in chips)
+Seat 5: DiggErr555 (394 in chips)
+Seat 6: galpal12 (494 in chips)
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+galpal12: posts the ante 3
+DiggErr555: posts small blind 15
+galpal12: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 5h]
+bigatello1967: raises 45 to 75
+marie3010: folds
+cowhead72: folds
+Mishator: folds
+DiggErr555: folds
+galpal12: folds
+Uncalled bet (45) returned to bigatello1967
+bigatello1967 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: bigatello1967 collected (93)
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 3: cowhead72 folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: galpal12 (big blind) folded before Flop
+
+PokerStars Hand #189828938170: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:28:02 MSK [2018/08/12 22:28:02 ET]
+Table '2381048683 1' 6-max Seat #5 is the button
+Seat 1: bigatello1967 (616 in chips)
+Seat 2: marie3010 (481 in chips)
+Seat 3: cowhead72 (441 in chips)
+Seat 4: Mishator (625 in chips)
+Seat 5: DiggErr555 (376 in chips)
+Seat 6: galpal12 (461 in chips)
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+galpal12: posts the ante 3
+galpal12: posts small blind 15
+bigatello1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td As]
+marie3010: raises 448 to 478 and is all-in
+cowhead72: folds
+Mishator: folds
+DiggErr555: folds
+galpal12: folds
+bigatello1967: folds
+Uncalled bet (448) returned to marie3010
+marie3010 collected 93 from pot
+marie3010: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: bigatello1967 (big blind) folded before Flop
+Seat 2: marie3010 collected (93)
+Seat 3: cowhead72 folded before Flop (didn't bet)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: galpal12 (small blind) folded before Flop
+
+PokerStars Hand #189828943547: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:28:20 MSK [2018/08/12 22:28:20 ET]
+Table '2381048683 1' 6-max Seat #6 is the button
+Seat 1: bigatello1967 (583 in chips)
+Seat 2: marie3010 (541 in chips)
+Seat 3: cowhead72 (438 in chips)
+Seat 4: Mishator (622 in chips)
+Seat 5: DiggErr555 (373 in chips)
+Seat 6: galpal12 (443 in chips)
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+galpal12: posts the ante 3
+bigatello1967: posts small blind 15
+marie3010: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4c]
+cowhead72: folds
+Mishator: folds
+DiggErr555: folds
+galpal12: raises 410 to 440 and is all-in
+bigatello1967: folds
+marie3010: folds
+Uncalled bet (410) returned to galpal12
+galpal12 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: bigatello1967 (small blind) folded before Flop
+Seat 2: marie3010 (big blind) folded before Flop
+Seat 3: cowhead72 folded before Flop (didn't bet)
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: galpal12 (button) collected (93)
+
+PokerStars Hand #189828947280: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:28:32 MSK [2018/08/12 22:28:32 ET]
+Table '2381048683 1' 6-max Seat #1 is the button
+Seat 1: bigatello1967 (565 in chips)
+Seat 2: marie3010 (508 in chips)
+Seat 3: cowhead72 (435 in chips)
+Seat 4: Mishator (619 in chips)
+Seat 5: DiggErr555 (370 in chips)
+Seat 6: galpal12 (503 in chips)
+bigatello1967: posts the ante 3
+marie3010: posts the ante 3
+cowhead72: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+galpal12: posts the ante 3
+marie3010: posts small blind 15
+cowhead72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc Jd]
+Mishator: folds
+DiggErr555: folds
+galpal12: folds
+bigatello1967: raises 532 to 562 and is all-in
+marie3010: folds
+cowhead72: folds
+Uncalled bet (532) returned to bigatello1967
+bigatello1967 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: bigatello1967 (button) collected (93)
+Seat 2: marie3010 (small blind) folded before Flop
+Seat 3: cowhead72 (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: galpal12 folded before Flop (didn't bet)
+
+PokerStars Hand #189828954449: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:28:56 MSK [2018/08/12 22:28:56 ET]
+Table '2381048683 1' 6-max Seat #2 is the button
+Seat 1: bigatello1967 (625 in chips)
+Seat 2: marie3010 (490 in chips)
+Seat 3: cowhead72 (402 in chips)
+Seat 4: Mishator (616 in chips)
+Seat 5: DiggErr555 (367 in chips)
+Seat 6: galpal12 (500 in chips)
+bigatello1967: posts the ante 4
+marie3010: posts the ante 4
+cowhead72: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+galpal12: posts the ante 4
+cowhead72: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 2h]
+DiggErr555: folds
+galpal12: folds
+bigatello1967: folds
+marie3010: folds
+cowhead72: folds
+Uncalled bet (20) returned to Mishator
+Mishator collected 64 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 64 | Rake 0
+Seat 1: bigatello1967 folded before Flop (didn't bet)
+Seat 2: marie3010 (button) folded before Flop (didn't bet)
+Seat 3: cowhead72 (small blind) folded before Flop
+Seat 4: Mishator (big blind) collected (64)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: galpal12 folded before Flop (didn't bet)
+
+PokerStars Hand #189828960459: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:29:17 MSK [2018/08/12 22:29:17 ET]
+Table '2381048683 1' 6-max Seat #3 is the button
+Seat 1: bigatello1967 (621 in chips)
+Seat 2: marie3010 (486 in chips)
+Seat 3: cowhead72 (378 in chips)
+Seat 4: Mishator (656 in chips)
+Seat 5: DiggErr555 (363 in chips)
+Seat 6: galpal12 (496 in chips)
+bigatello1967: posts the ante 4
+marie3010: posts the ante 4
+cowhead72: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+galpal12: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 5s]
+galpal12: raises 452 to 492 and is all-in
+bigatello1967: folds
+marie3010: folds
+cowhead72: folds
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (452) returned to galpal12
+galpal12 collected 124 from pot
+galpal12: doesn't show hand
+*** SUMMARY ***
+Total pot 124 | Rake 0
+Seat 1: bigatello1967 folded before Flop (didn't bet)
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 3: cowhead72 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: galpal12 collected (124)
+
+PokerStars Hand #189828970240: Tournament #2381048683, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:29:50 MSK [2018/08/12 22:29:50 ET]
+Table '2381048683 1' 6-max Seat #4 is the button
+Seat 1: bigatello1967 (617 in chips)
+Seat 2: marie3010 (482 in chips)
+Seat 3: cowhead72 (374 in chips)
+Seat 4: Mishator (632 in chips)
+Seat 5: DiggErr555 (319 in chips)
+Seat 6: galpal12 (576 in chips)
+bigatello1967: posts the ante 4
+marie3010: posts the ante 4
+cowhead72: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+galpal12: posts the ante 4
+DiggErr555: posts small blind 20
+galpal12: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 7h]
+bigatello1967: folds
+marie3010: folds
+cowhead72: folds
+Mishator: folds
+DiggErr555: raises 275 to 315 and is all-in
+galpal12: calls 275
+*** FLOP *** [Qd Td 9c]
+*** TURN *** [Qd Td 9c] [2c]
+*** RIVER *** [Qd Td 9c 2c] [2h]
+*** SHOW DOWN ***
+DiggErr555: shows [7d 7h] (two pair, Sevens and Deuces)
+galpal12: shows [Ad Qs] (two pair, Queens and Deuces)
+galpal12 collected 654 from pot
+galpal12 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 654 | Rake 0
+Board [Qd Td 9c 2c 2h]
+Seat 1: bigatello1967 folded before Flop (didn't bet)
+Seat 2: marie3010 folded before Flop (didn't bet)
+Seat 3: cowhead72 folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) showed [7d 7h] and lost with two pair, Sevens and Deuces
+Seat 6: galpal12 (big blind) showed [Ad Qs] and won (654) with two pair, Queens and Deuces

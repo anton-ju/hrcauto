@@ -1,0 +1,358 @@
+
+
+PokerStars Hand #189829410021: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:55:47 MSK [2018/08/12 22:55:47 ET]
+Table '2381059786 1' 6-max Seat #1 is the button
+Seat 1: gabrielpaldi (500 in chips)
+Seat 2: Mishator (500 in chips)
+Seat 3: Dkquality (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: qwepo1 (500 in chips)
+Seat 6: 2Ran128 (500 in chips)
+gabrielpaldi: posts the ante 2
+Mishator: posts the ante 2
+Dkquality: posts the ante 2
+DiggErr555: posts the ante 2
+qwepo1: posts the ante 2
+2Ran128: posts the ante 2
+Mishator: posts small blind 10
+Dkquality: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d Th]
+DiggErr555: folds
+qwepo1: calls 20
+2Ran128: folds
+gabrielpaldi: folds
+Mishator: folds
+Dkquality: raises 62 to 82
+qwepo1: calls 62
+*** FLOP *** [9c Js Qh]
+Dkquality: bets 186
+qwepo1: calls 186
+*** TURN *** [9c Js Qh] [9h]
+Dkquality: bets 230 and is all-in
+qwepo1: calls 230 and is all-in
+*** RIVER *** [9c Js Qh 9h] [Jh]
+*** SHOW DOWN ***
+Dkquality: shows [Ks Qd] (two pair, Queens and Jacks)
+qwepo1: shows [5c Tc] (two pair, Jacks and Nines)
+Dkquality collected 1018 from pot
+Dkquality wins the $2.38 bounty for eliminating qwepo1
+qwepo1 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1018 | Rake 0
+Board [9c Js Qh 9h Jh]
+Seat 1: gabrielpaldi (button) folded before Flop (didn't bet)
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: Dkquality (big blind) showed [Ks Qd] and won (1018) with two pair, Queens and Jacks
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: qwepo1 showed [5c Tc] and lost with two pair, Jacks and Nines
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829422252: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:56:38 MSK [2018/08/12 22:56:38 ET]
+Table '2381059786 1' 6-max Seat #2 is the button
+Seat 1: gabrielpaldi (498 in chips)
+Seat 2: Mishator (488 in chips)
+Seat 3: Dkquality (1018 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 6: 2Ran128 (498 in chips)
+gabrielpaldi: posts the ante 2
+Mishator: posts the ante 2
+Dkquality: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+Dkquality: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d Ah]
+2Ran128: folds
+gabrielpaldi: calls 20
+Mishator: folds
+Dkquality: calls 10
+DiggErr555: checks
+*** FLOP *** [Td 7s Ks]
+Dkquality: bets 70
+DiggErr555: folds
+gabrielpaldi: folds
+Uncalled bet (70) returned to Dkquality
+Dkquality collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | Rake 0
+Board [Td 7s Ks]
+Seat 1: gabrielpaldi folded on the Flop
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: Dkquality (small blind) collected (70)
+Seat 4: DiggErr555 (big blind) folded on the Flop
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829441043: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:57:21 MSK [2018/08/12 22:57:21 ET]
+Table '2381059786 1' 6-max Seat #3 is the button
+Seat 1: gabrielpaldi (476 in chips)
+Seat 2: Mishator (486 in chips)
+Seat 3: Dkquality (1066 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 6: 2Ran128 (496 in chips)
+gabrielpaldi: posts the ante 2
+Mishator: posts the ante 2
+Dkquality: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 7d]
+gabrielpaldi: folds
+Mishator: raises 20 to 40
+Dkquality: folds
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (20) returned to Mishator
+Mishator collected 60 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: gabrielpaldi folded before Flop (didn't bet)
+Seat 2: Mishator collected (60)
+Seat 3: Dkquality (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: 2Ran128 (big blind) folded before Flop
+
+PokerStars Hand #189829446761: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:57:46 MSK [2018/08/12 22:57:46 ET]
+Table '2381059786 1' 6-max Seat #4 is the button
+Seat 1: gabrielpaldi (474 in chips)
+Seat 2: Mishator (524 in chips)
+Seat 3: Dkquality (1064 in chips)
+Seat 4: DiggErr555 (464 in chips)
+Seat 6: 2Ran128 (474 in chips)
+gabrielpaldi: posts the ante 3
+Mishator: posts the ante 3
+Dkquality: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+2Ran128: posts small blind 15
+gabrielpaldi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 3s]
+Mishator: folds
+Dkquality: raises 90 to 120
+DiggErr555: folds
+2Ran128: folds
+gabrielpaldi: folds
+Uncalled bet (90) returned to Dkquality
+Dkquality collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: gabrielpaldi (big blind) folded before Flop
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: Dkquality collected (90)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: 2Ran128 (small blind) folded before Flop
+
+PokerStars Hand #189829450540: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:02 MSK [2018/08/12 22:58:02 ET]
+Table '2381059786 1' 6-max Seat #6 is the button
+Seat 1: gabrielpaldi (441 in chips)
+Seat 2: Mishator (521 in chips)
+Seat 3: Dkquality (1121 in chips)
+Seat 4: DiggErr555 (461 in chips)
+Seat 6: 2Ran128 (456 in chips)
+gabrielpaldi: posts the ante 3
+Mishator: posts the ante 3
+Dkquality: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+gabrielpaldi: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 4h]
+Dkquality: folds
+DiggErr555: folds
+2Ran128: folds
+gabrielpaldi: folds
+Uncalled bet (15) returned to Mishator
+Mishator collected 45 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: gabrielpaldi (small blind) folded before Flop
+Seat 2: Mishator (big blind) collected (45)
+Seat 3: Dkquality folded before Flop (didn't bet)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 6: 2Ran128 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829454108: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:17 MSK [2018/08/12 22:58:17 ET]
+Table '2381059786 1' 6-max Seat #1 is the button
+Seat 1: gabrielpaldi (423 in chips)
+Seat 2: Mishator (548 in chips)
+Seat 3: Dkquality (1118 in chips)
+Seat 4: DiggErr555 (458 in chips)
+Seat 6: 2Ran128 (453 in chips)
+gabrielpaldi: posts the ante 3
+Mishator: posts the ante 3
+Dkquality: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+Mishator: posts small blind 15
+Dkquality: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 5h]
+DiggErr555: folds
+2Ran128: folds
+gabrielpaldi: raises 90 to 120
+Mishator: folds
+Dkquality: raises 270 to 390
+gabrielpaldi: raises 30 to 420 and is all-in
+Dkquality: calls 30
+*** FLOP *** [3c 9s Jh]
+*** TURN *** [3c 9s Jh] [9d]
+*** RIVER *** [3c 9s Jh 9d] [9h]
+*** SHOW DOWN ***
+Dkquality: shows [4d Ac] (three of a kind, Nines)
+gabrielpaldi: shows [6s 6h] (a full house, Nines full of Sixes)
+gabrielpaldi collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0
+Board [3c 9s Jh 9d 9h]
+Seat 1: gabrielpaldi (button) showed [6s 6h] and won (870) with a full house, Nines full of Sixes
+Seat 2: Mishator (small blind) folded before Flop
+Seat 3: Dkquality (big blind) showed [4d Ac] and lost with three of a kind, Nines
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829461478: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:58:46 MSK [2018/08/12 22:58:46 ET]
+Table '2381059786 1' 6-max Seat #2 is the button
+Seat 1: gabrielpaldi (870 in chips)
+Seat 2: Mishator (530 in chips)
+Seat 3: Dkquality (695 in chips)
+Seat 4: DiggErr555 (455 in chips)
+Seat 6: 2Ran128 (450 in chips)
+gabrielpaldi: posts the ante 3
+Mishator: posts the ante 3
+Dkquality: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+Dkquality: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 9s]
+2Ran128: folds
+gabrielpaldi: raises 150 to 180
+Mishator: folds
+Dkquality: folds
+DiggErr555: folds
+Uncalled bet (150) returned to gabrielpaldi
+gabrielpaldi collected 90 from pot
+gabrielpaldi: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: gabrielpaldi collected (90)
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: Dkquality (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 6: 2Ran128 folded before Flop (didn't bet)
+
+PokerStars Hand #189829467062: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:59:10 MSK [2018/08/12 22:59:10 ET]
+Table '2381059786 1' 6-max Seat #3 is the button
+Seat 1: gabrielpaldi (927 in chips)
+Seat 2: Mishator (527 in chips)
+Seat 3: Dkquality (677 in chips)
+Seat 4: DiggErr555 (422 in chips)
+Seat 6: 2Ran128 (447 in chips)
+gabrielpaldi: posts the ante 4
+Mishator: posts the ante 4
+Dkquality: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+DiggErr555: posts small blind 20
+2Ran128: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 6h]
+gabrielpaldi: folds
+Mishator: raises 483 to 523 and is all-in
+Dkquality: folds
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (483) returned to Mishator
+Mishator collected 120 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: gabrielpaldi folded before Flop (didn't bet)
+Seat 2: Mishator collected (120)
+Seat 3: Dkquality (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 6: 2Ran128 (big blind) folded before Flop
+
+PokerStars Hand #189829471421: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:59:29 MSK [2018/08/12 22:59:29 ET]
+Table '2381059786 1' 6-max Seat #4 is the button
+Seat 1: gabrielpaldi (923 in chips)
+Seat 2: Mishator (603 in chips)
+Seat 3: Dkquality (673 in chips)
+Seat 4: DiggErr555 (398 in chips)
+Seat 6: 2Ran128 (403 in chips)
+gabrielpaldi: posts the ante 4
+Mishator: posts the ante 4
+Dkquality: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+2Ran128: posts small blind 20
+gabrielpaldi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h Th]
+Mishator: folds
+Dkquality: folds
+DiggErr555: folds
+2Ran128: calls 20
+gabrielpaldi: checks
+*** FLOP *** [Ad 3c 5d]
+2Ran128: bets 40
+gabrielpaldi: raises 180 to 220
+2Ran128: folds
+Uncalled bet (180) returned to gabrielpaldi
+gabrielpaldi collected 180 from pot
+gabrielpaldi: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [Ad 3c 5d]
+Seat 1: gabrielpaldi (big blind) collected (180)
+Seat 2: Mishator folded before Flop (didn't bet)
+Seat 3: Dkquality folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: 2Ran128 (small blind) folded on the Flop
+
+PokerStars Hand #189829479915: Tournament #2381059786, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:00:05 MSK [2018/08/12 23:00:05 ET]
+Table '2381059786 1' 6-max Seat #6 is the button
+Seat 1: gabrielpaldi (1019 in chips)
+Seat 2: Mishator (599 in chips)
+Seat 3: Dkquality (669 in chips)
+Seat 4: DiggErr555 (394 in chips)
+Seat 6: 2Ran128 (319 in chips)
+gabrielpaldi: posts the ante 4
+Mishator: posts the ante 4
+Dkquality: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+gabrielpaldi: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Td]
+Dkquality: folds
+DiggErr555: raises 350 to 390 and is all-in
+2Ran128: folds
+gabrielpaldi: folds
+Mishator: calls 350
+*** FLOP *** [6h 4h 7d]
+*** TURN *** [6h 4h 7d] [5d]
+*** RIVER *** [6h 4h 7d 5d] [5s]
+*** SHOW DOWN ***
+Mishator: shows [Qd Ac] (a pair of Fives)
+DiggErr555: shows [9d Td] (a pair of Fives - lower kicker)
+Mishator collected 820 from pot
+Mishator wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 820 | Rake 0
+Board [6h 4h 7d 5d 5s]
+Seat 1: gabrielpaldi (small blind) folded before Flop
+Seat 2: Mishator (big blind) showed [Qd Ac] and won (820) with a pair of Fives
+Seat 3: Dkquality folded before Flop (didn't bet)
+Seat 4: DiggErr555 showed [9d Td] and lost with a pair of Fives
+Seat 6: 2Ran128 (button) folded before Flop (didn't bet)

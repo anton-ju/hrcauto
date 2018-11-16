@@ -1,0 +1,487 @@
+
+
+PokerStars Hand #189828745084: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:17:22 MSK [2018/08/12 22:17:22 ET]
+Table '2381045747 1' 6-max Seat #1 is the button
+Seat 1: ProRichMan (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: SangHuynh84 (500 in chips)
+Seat 4: Mishator (500 in chips)
+Seat 5: bigatello1967 (500 in chips)
+Seat 6: ladydi1962 (500 in chips)
+ProRichMan: posts the ante 2
+DiggErr555: posts the ante 2
+SangHuynh84: posts the ante 2
+Mishator: posts the ante 2
+bigatello1967: posts the ante 2
+ladydi1962: posts the ante 2
+DiggErr555: posts small blind 10
+SangHuynh84: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 7d]
+Mishator: folds
+bigatello1967: folds
+ladydi1962: calls 20
+ProRichMan: folds
+DiggErr555: folds
+SangHuynh84: checks
+*** FLOP *** [Jh 4s 6s]
+SangHuynh84: checks
+ladydi1962: checks
+*** TURN *** [Jh 4s 6s] [Jc]
+SangHuynh84: bets 53
+ladydi1962: calls 53
+*** RIVER *** [Jh 4s 6s Jc] [Js]
+SangHuynh84: bets 425 and is all-in
+ladydi1962: calls 425 and is all-in
+*** SHOW DOWN ***
+SangHuynh84: shows [Jd 8d] (four of a kind, Jacks)
+ladydi1962: shows [9d As] (three of a kind, Jacks)
+SangHuynh84 collected 1018 from pot
+SangHuynh84 wins the $2.38 bounty for eliminating ladydi1962
+ladydi1962 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1018 | Rake 0
+Board [Jh 4s 6s Jc Js]
+Seat 1: ProRichMan (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: SangHuynh84 (big blind) showed [Jd 8d] and won (1018) with four of a kind, Jacks
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: bigatello1967 folded before Flop (didn't bet)
+Seat 6: ladydi1962 showed [9d As] and lost with three of a kind, Jacks
+
+PokerStars Hand #189828761132: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:18:15 MSK [2018/08/12 22:18:15 ET]
+Table '2381045747 1' 6-max Seat #2 is the button
+Seat 1: ProRichMan (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: SangHuynh84 (1018 in chips)
+Seat 4: Mishator (498 in chips)
+Seat 5: bigatello1967 (498 in chips)
+ProRichMan: posts the ante 2
+DiggErr555: posts the ante 2
+SangHuynh84: posts the ante 2
+Mishator: posts the ante 2
+bigatello1967: posts the ante 2
+SangHuynh84: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac Kh]
+bigatello1967: folds
+ProRichMan: raises 20 to 40
+DiggErr555: raises 446 to 486 and is all-in
+SangHuynh84: folds
+Mishator: folds
+ProRichMan: calls 446
+*** FLOP *** [7c Qs Kc]
+*** TURN *** [7c Qs Kc] [7s]
+*** RIVER *** [7c Qs Kc 7s] [9c]
+*** SHOW DOWN ***
+ProRichMan: shows [Ts Th] (two pair, Tens and Sevens)
+DiggErr555: shows [Ac Kh] (two pair, Kings and Sevens)
+DiggErr555 collected 1012 from pot
+*** SUMMARY ***
+Total pot 1012 | Rake 0
+Board [7c Qs Kc 7s 9c]
+Seat 1: ProRichMan showed [Ts Th] and lost with two pair, Tens and Sevens
+Seat 2: DiggErr555 (button) showed [Ac Kh] and won (1012) with two pair, Kings and Sevens
+Seat 3: SangHuynh84 (small blind) folded before Flop
+Seat 4: Mishator (big blind) folded before Flop
+Seat 5: bigatello1967 folded before Flop (didn't bet)
+
+PokerStars Hand #189828776611: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:19:05 MSK [2018/08/12 22:19:05 ET]
+Table '2381045747 1' 6-max Seat #3 is the button
+Seat 1: ProRichMan (10 in chips)
+Seat 2: DiggErr555 (1012 in chips)
+Seat 3: SangHuynh84 (1006 in chips)
+Seat 4: Mishator (476 in chips)
+Seat 5: bigatello1967 (496 in chips)
+ProRichMan: posts the ante 2
+DiggErr555: posts the ante 2
+SangHuynh84: posts the ante 2
+Mishator: posts the ante 2
+bigatello1967: posts the ante 2
+Mishator: posts small blind 10
+bigatello1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 7h]
+ProRichMan: folds
+DiggErr555: raises 20 to 40
+SangHuynh84: raises 20 to 60
+Mishator: folds
+bigatello1967: folds
+DiggErr555: calls 20
+*** FLOP *** [Kd Jd 5s]
+DiggErr555: checks
+SangHuynh84: bets 80
+DiggErr555: calls 80
+*** TURN *** [Kd Jd 5s] [Kh]
+DiggErr555: checks
+SangHuynh84: checks
+*** RIVER *** [Kd Jd 5s Kh] [9s]
+DiggErr555: checks
+SangHuynh84: checks
+*** SHOW DOWN ***
+DiggErr555: shows [Jh 7h] (two pair, Kings and Jacks)
+SangHuynh84: mucks hand
+DiggErr555 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [Kd Jd 5s Kh 9s]
+Seat 1: ProRichMan folded before Flop (didn't bet)
+Seat 2: DiggErr555 showed [Jh 7h] and won (320) with two pair, Kings and Jacks
+Seat 3: SangHuynh84 (button) mucked [Ac 8d]
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: bigatello1967 (big blind) folded before Flop
+
+PokerStars Hand #189828795354: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:20:07 MSK [2018/08/12 22:20:07 ET]
+Table '2381045747 1' 6-max Seat #4 is the button
+Seat 1: ProRichMan (8 in chips)
+Seat 2: DiggErr555 (1190 in chips)
+Seat 3: SangHuynh84 (864 in chips)
+Seat 4: Mishator (464 in chips)
+Seat 5: bigatello1967 (474 in chips)
+ProRichMan: posts the ante 3
+DiggErr555: posts the ante 3
+SangHuynh84: posts the ante 3
+Mishator: posts the ante 3
+bigatello1967: posts the ante 3
+bigatello1967: posts small blind 15
+ProRichMan: posts big blind 5 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8h]
+DiggErr555: raises 1172 to 1187 and is all-in
+SangHuynh84: folds
+Mishator: folds
+bigatello1967: folds
+Uncalled bet (1172) returned to DiggErr555
+*** FLOP *** [9c 3c 9s]
+*** TURN *** [9c 3c 9s] [Jh]
+*** RIVER *** [9c 3c 9s Jh] [7c]
+*** SHOW DOWN ***
+DiggErr555: shows [4d 8h] (a pair of Nines)
+DiggErr555 collected 20 from side pot
+ProRichMan: shows [Ah 8c] (a pair of Nines - Ace kicker)
+ProRichMan collected 30 from main pot
+*** SUMMARY ***
+Total pot 50 Main pot 30. Side pot 20. | Rake 0
+Board [9c 3c 9s Jh 7c]
+Seat 1: ProRichMan (big blind) showed [Ah 8c] and won (30) with a pair of Nines
+Seat 2: DiggErr555 showed [4d 8h] and won (20) with a pair of Nines
+Seat 3: SangHuynh84 folded before Flop (didn't bet)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: bigatello1967 (small blind) folded before Flop
+
+PokerStars Hand #189828804318: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:20:36 MSK [2018/08/12 22:20:36 ET]
+Table '2381045747 1' 6-max Seat #5 is the button
+Seat 1: ProRichMan (30 in chips)
+Seat 2: DiggErr555 (1192 in chips)
+Seat 3: SangHuynh84 (861 in chips)
+Seat 4: Mishator (461 in chips)
+Seat 5: bigatello1967 (456 in chips)
+ProRichMan: posts the ante 3
+DiggErr555: posts the ante 3
+SangHuynh84: posts the ante 3
+Mishator: posts the ante 3
+bigatello1967: posts the ante 3
+ProRichMan: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Qh]
+SangHuynh84: calls 30
+Mishator: folds
+bigatello1967: raises 423 to 453 and is all-in
+ProRichMan: calls 12 and is all-in
+DiggErr555: folds
+SangHuynh84: calls 423
+*** FLOP *** [5c Kh 5s]
+*** TURN *** [5c Kh 5s] [2h]
+*** RIVER *** [5c Kh 5s 2h] [6s]
+*** SHOW DOWN ***
+SangHuynh84: shows [9s Kd] (two pair, Kings and Fives)
+bigatello1967: shows [Jd Ad] (a pair of Fives)
+SangHuynh84 collected 855 from side pot
+ProRichMan: shows [Jc Ts] (a pair of Fives)
+SangHuynh84 collected 123 from main pot
+SangHuynh84 wins the $2.38 bounty for eliminating ProRichMan
+SangHuynh84 wins the $2.38 bounty for eliminating bigatello1967
+bigatello1967 finished the tournament in 4th place
+ProRichMan finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 978 Main pot 123. Side pot 855. | Rake 0
+Board [5c Kh 5s 2h 6s]
+Seat 1: ProRichMan (small blind) showed [Jc Ts] and lost with a pair of Fives
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: SangHuynh84 showed [9s Kd] and won (978) with two pair, Kings and Fives
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: bigatello1967 (button) showed [Jd Ad] and lost with a pair of Fives
+
+PokerStars Hand #189828815472: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:21:13 MSK [2018/08/12 22:21:13 ET]
+Table '2381045747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1159 in chips)
+Seat 3: SangHuynh84 (1383 in chips)
+Seat 4: Mishator (458 in chips)
+DiggErr555: posts the ante 3
+SangHuynh84: posts the ante 3
+Mishator: posts the ante 3
+SangHuynh84: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Qh]
+DiggErr555: raises 30 to 60
+SangHuynh84: raises 159 to 219
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (159) returned to SangHuynh84
+SangHuynh84 collected 159 from pot
+SangHuynh84: doesn't show hand
+*** SUMMARY ***
+Total pot 159 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop
+Seat 3: SangHuynh84 (small blind) collected (159)
+Seat 4: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189828820871: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:21:31 MSK [2018/08/12 22:21:31 ET]
+Table '2381045747 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1096 in chips)
+Seat 3: SangHuynh84 (1479 in chips)
+Seat 4: Mishator (425 in chips)
+DiggErr555: posts the ante 3
+SangHuynh84: posts the ante 3
+Mishator: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 7c]
+SangHuynh84: folds
+Mishator: raises 392 to 422 and is all-in
+DiggErr555: folds
+Uncalled bet (392) returned to Mishator
+Mishator collected 69 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 69 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: SangHuynh84 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) collected (69)
+
+PokerStars Hand #189828824880: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:44 MSK [2018/08/12 22:21:44 ET]
+Table '2381045747 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (1063 in chips)
+Seat 3: SangHuynh84 (1476 in chips)
+Seat 4: Mishator (461 in chips)
+DiggErr555: posts the ante 4
+SangHuynh84: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts small blind 20
+SangHuynh84: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 6h]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (20) returned to SangHuynh84
+SangHuynh84 collected 52 from pot
+SangHuynh84: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: SangHuynh84 (big blind) collected (52)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828828787: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:21:56 MSK [2018/08/12 22:21:56 ET]
+Table '2381045747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1039 in chips)
+Seat 3: SangHuynh84 (1504 in chips)
+Seat 4: Mishator (457 in chips)
+DiggErr555: posts the ante 4
+SangHuynh84: posts the ante 4
+Mishator: posts the ante 4
+SangHuynh84: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Jh]
+DiggErr555: folds
+SangHuynh84: calls 20
+Mishator: raises 413 to 453 and is all-in
+SangHuynh84: folds
+Uncalled bet (413) returned to Mishator
+Mishator collected 92 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: SangHuynh84 (small blind) folded before Flop
+Seat 4: Mishator (big blind) collected (92)
+
+PokerStars Hand #189828835588: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:22:19 MSK [2018/08/12 22:22:19 ET]
+Table '2381045747 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1035 in chips)
+Seat 3: SangHuynh84 (1460 in chips)
+Seat 4: Mishator (505 in chips)
+DiggErr555: posts the ante 4
+SangHuynh84: posts the ante 4
+Mishator: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h Ks]
+SangHuynh84: folds
+Mishator: raises 461 to 501 and is all-in
+DiggErr555: folds
+Uncalled bet (461) returned to Mishator
+Mishator collected 92 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: SangHuynh84 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) collected (92)
+
+PokerStars Hand #189828839507: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:22:32 MSK [2018/08/12 22:22:32 ET]
+Table '2381045747 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (991 in chips)
+Seat 3: SangHuynh84 (1456 in chips)
+Seat 4: Mishator (553 in chips)
+DiggErr555: posts the ante 4
+SangHuynh84: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts small blind 20
+SangHuynh84: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s Td]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (20) returned to SangHuynh84
+SangHuynh84 collected 52 from pot
+SangHuynh84: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: SangHuynh84 (big blind) collected (52)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828843036: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:22:44 MSK [2018/08/12 22:22:44 ET]
+Table '2381045747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (967 in chips)
+Seat 3: SangHuynh84 (1484 in chips)
+Seat 4: Mishator (549 in chips)
+DiggErr555: posts the ante 6
+SangHuynh84: posts the ante 6
+Mishator: posts the ante 6
+SangHuynh84: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 4c]
+DiggErr555: folds
+SangHuynh84: calls 30
+Mishator: raises 483 to 543 and is all-in
+SangHuynh84: folds
+Uncalled bet (483) returned to Mishator
+Mishator collected 138 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: SangHuynh84 (small blind) folded before Flop
+Seat 4: Mishator (big blind) collected (138)
+
+PokerStars Hand #189828849562: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:23:05 MSK [2018/08/12 22:23:05 ET]
+Table '2381045747 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (961 in chips)
+Seat 3: SangHuynh84 (1418 in chips)
+Seat 4: Mishator (621 in chips)
+DiggErr555: posts the ante 6
+SangHuynh84: posts the ante 6
+Mishator: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h Th]
+SangHuynh84: folds
+Mishator: raises 555 to 615 and is all-in
+DiggErr555: folds
+Uncalled bet (555) returned to Mishator
+Mishator collected 138 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: SangHuynh84 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) collected (138)
+
+PokerStars Hand #189828851994: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:23:13 MSK [2018/08/12 22:23:13 ET]
+Table '2381045747 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (895 in chips)
+Seat 3: SangHuynh84 (1412 in chips)
+Seat 4: Mishator (693 in chips)
+DiggErr555: posts the ante 6
+SangHuynh84: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts small blind 30
+SangHuynh84: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Jh]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (30) returned to SangHuynh84
+SangHuynh84 collected 78 from pot
+SangHuynh84: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: SangHuynh84 (big blind) collected (78)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828855498: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:23:25 MSK [2018/08/12 22:23:25 ET]
+Table '2381045747 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (859 in chips)
+Seat 3: SangHuynh84 (1454 in chips)
+Seat 4: Mishator (687 in chips)
+DiggErr555: posts the ante 6
+SangHuynh84: posts the ante 6
+Mishator: posts the ante 6
+SangHuynh84: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Td]
+DiggErr555: folds
+SangHuynh84: raises 120 to 180
+Mishator: folds
+Uncalled bet (120) returned to SangHuynh84
+SangHuynh84 collected 138 from pot
+SangHuynh84: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: SangHuynh84 (small blind) collected (138)
+Seat 4: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189828859085: Tournament #2381045747, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:23:36 MSK [2018/08/12 22:23:36 ET]
+Table '2381045747 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (853 in chips)
+Seat 3: SangHuynh84 (1526 in chips)
+Seat 4: Mishator (621 in chips)
+DiggErr555: posts the ante 6
+SangHuynh84: posts the ante 6
+Mishator: posts the ante 6
+Mishator: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Kh]
+SangHuynh84: raises 168 to 228
+Mishator: folds
+DiggErr555: raises 619 to 847 and is all-in
+SangHuynh84: calls 619
+*** FLOP *** [Td Ah As]
+*** TURN *** [Td Ah As] [3s]
+*** RIVER *** [Td Ah As 3s] [5d]
+*** SHOW DOWN ***
+DiggErr555: shows [Ks Kh] (two pair, Aces and Kings)
+SangHuynh84: shows [Th Ts] (a full house, Tens full of Aces)
+SangHuynh84 collected 1742 from pot
+SangHuynh84 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1742 | Rake 0
+Board [Td Ah As 3s 5d]
+Seat 2: DiggErr555 (big blind) showed [Ks Kh] and lost with two pair, Aces and Kings
+Seat 3: SangHuynh84 (button) showed [Th Ts] and won (1742) with a full house, Tens full of Aces
+Seat 4: Mishator (small blind) folded before Flop

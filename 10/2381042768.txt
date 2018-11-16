@@ -1,0 +1,828 @@
+
+
+PokerStars Hand #189828676723: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:13:41 MSK [2018/08/12 22:13:41 ET]
+Table '2381042768 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: LEandrobsn23 (500 in chips)
+Seat 4: beefstu694 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: Mumtum23 (500 in chips)
+galpal12: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts the ante 2
+beefstu694: posts the ante 2
+Mishator: posts the ante 2
+Mumtum23: posts the ante 2
+DiggErr555: posts small blind 10
+LEandrobsn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 4s]
+beefstu694: folds
+Mishator: raises 20 to 40
+Mumtum23: folds
+galpal12: folds
+DiggErr555: folds
+LEandrobsn23: calls 20
+*** FLOP *** [Kc 3c 2h]
+LEandrobsn23: checks
+Mishator: bets 40
+LEandrobsn23: folds
+Uncalled bet (40) returned to Mishator
+Mishator collected 102 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Board [Kc 3c 2h]
+Seat 1: galpal12 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: LEandrobsn23 (big blind) folded on the Flop
+Seat 4: beefstu694 folded before Flop (didn't bet)
+Seat 5: Mishator collected (102)
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828686494: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:14:13 MSK [2018/08/12 22:14:13 ET]
+Table '2381042768 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: LEandrobsn23 (458 in chips)
+Seat 4: beefstu694 (498 in chips)
+Seat 5: Mishator (560 in chips)
+Seat 6: Mumtum23 (498 in chips)
+galpal12: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts the ante 2
+beefstu694: posts the ante 2
+Mishator: posts the ante 2
+Mumtum23: posts the ante 2
+LEandrobsn23: posts small blind 10
+beefstu694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Jd]
+Mishator: folds
+Mumtum23: folds
+galpal12: folds
+DiggErr555: folds
+LEandrobsn23: folds
+Uncalled bet (10) returned to beefstu694
+beefstu694 collected 32 from pot
+beefstu694: doesn't show hand
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (small blind) folded before Flop
+Seat 4: beefstu694 (big blind) collected (32)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828691391: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:14:28 MSK [2018/08/12 22:14:28 ET]
+Table '2381042768 1' 6-max Seat #3 is the button
+Seat 1: galpal12 (496 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: LEandrobsn23 (446 in chips)
+Seat 4: beefstu694 (518 in chips)
+Seat 5: Mishator (558 in chips)
+Seat 6: Mumtum23 (496 in chips)
+galpal12: posts the ante 2
+DiggErr555: posts the ante 2
+LEandrobsn23: posts the ante 2
+beefstu694: posts the ante 2
+Mishator: posts the ante 2
+Mumtum23: posts the ante 2
+beefstu694: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 2c]
+Mumtum23: folds
+galpal12: folds
+DiggErr555: folds
+LEandrobsn23: folds
+beefstu694: folds
+Uncalled bet (10) returned to Mishator
+Mishator collected 32 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 4: beefstu694 (small blind) folded before Flop
+Seat 5: Mishator (big blind) collected (32)
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828696963: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:14:46 MSK [2018/08/12 22:14:46 ET]
+Table '2381042768 1' 6-max Seat #4 is the button
+Seat 1: galpal12 (494 in chips)
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: LEandrobsn23 (444 in chips)
+Seat 4: beefstu694 (506 in chips)
+Seat 5: Mishator (578 in chips)
+Seat 6: Mumtum23 (494 in chips)
+galpal12: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+beefstu694: posts the ante 3
+Mishator: posts the ante 3
+Mumtum23: posts the ante 3
+Mishator: posts small blind 15
+Mumtum23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 8c]
+galpal12: folds
+DiggErr555: folds
+LEandrobsn23: calls 30
+beefstu694: folds
+Mishator: folds
+Mumtum23: checks
+*** FLOP *** [8h Ah Ac]
+Mumtum23: checks
+LEandrobsn23: checks
+*** TURN *** [8h Ah Ac] [7s]
+Mumtum23: checks
+LEandrobsn23: bets 60
+Mumtum23: folds
+Uncalled bet (60) returned to LEandrobsn23
+LEandrobsn23 collected 93 from pot
+LEandrobsn23: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Board [8h Ah Ac 7s]
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 collected (93)
+Seat 4: beefstu694 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: Mumtum23 (big blind) folded on the Turn
+
+PokerStars Hand #189828719483: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:15:59 MSK [2018/08/12 22:15:59 ET]
+Table '2381042768 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (491 in chips)
+Seat 2: DiggErr555 (481 in chips)
+Seat 3: LEandrobsn23 (504 in chips)
+Seat 4: beefstu694 (503 in chips)
+Seat 5: Mishator (560 in chips)
+Seat 6: Mumtum23 (461 in chips)
+galpal12: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+beefstu694: posts the ante 3
+Mishator: posts the ante 3
+Mumtum23: posts the ante 3
+Mumtum23: posts small blind 15
+galpal12: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 2h]
+DiggErr555: folds
+LEandrobsn23: folds
+beefstu694: folds
+Mishator: folds
+Mumtum23: folds
+Uncalled bet (15) returned to galpal12
+galpal12 collected 48 from pot
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: galpal12 (big blind) collected (48)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 4: beefstu694 folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Mumtum23 (small blind) folded before Flop
+
+PokerStars Hand #189828724463: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:15 MSK [2018/08/12 22:16:15 ET]
+Table '2381042768 1' 6-max Seat #6 is the button
+Seat 1: galpal12 (521 in chips)
+Seat 2: DiggErr555 (478 in chips)
+Seat 3: LEandrobsn23 (501 in chips)
+Seat 4: beefstu694 (500 in chips)
+Seat 5: Mishator (557 in chips)
+Seat 6: Mumtum23 (443 in chips)
+galpal12: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+beefstu694: posts the ante 3
+Mishator: posts the ante 3
+Mumtum23: posts the ante 3
+galpal12: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 4h]
+LEandrobsn23: folds
+beefstu694: folds
+Mishator: raises 30 to 60
+Mumtum23: folds
+galpal12: folds
+DiggErr555: folds
+Uncalled bet (30) returned to Mishator
+Mishator collected 93 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: galpal12 (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 4: beefstu694 folded before Flop (didn't bet)
+Seat 5: Mishator collected (93)
+Seat 6: Mumtum23 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828737125: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:56 MSK [2018/08/12 22:16:56 ET]
+Table '2381042768 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (503 in chips)
+Seat 2: DiggErr555 (445 in chips)
+Seat 3: LEandrobsn23 (498 in chips)
+Seat 4: beefstu694 (497 in chips)
+Seat 5: Mishator (617 in chips)
+Seat 6: Mumtum23 (440 in chips)
+galpal12: posts the ante 3
+DiggErr555: posts the ante 3
+LEandrobsn23: posts the ante 3
+beefstu694: posts the ante 3
+Mishator: posts the ante 3
+Mumtum23: posts the ante 3
+DiggErr555: posts small blind 15
+LEandrobsn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 5c]
+beefstu694: calls 30
+Mishator: folds
+Mumtum23: folds
+galpal12: raises 470 to 500 and is all-in
+DiggErr555: folds
+LEandrobsn23: folds
+beefstu694: calls 464 and is all-in
+Uncalled bet (6) returned to galpal12
+*** FLOP *** [8s 2c Td]
+*** TURN *** [8s 2c Td] [3h]
+*** RIVER *** [8s 2c Td 3h] [9d]
+*** SHOW DOWN ***
+beefstu694: shows [Kh Ah] (high card Ace)
+galpal12: shows [Jd Jh] (a pair of Jacks)
+galpal12 collected 1051 from pot
+galpal12 wins the $2.38 bounty for eliminating beefstu694
+beefstu694 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1051 | Rake 0
+Board [8s 2c Td 3h 9d]
+Seat 1: galpal12 (button) showed [Jd Jh] and won (1051) with a pair of Jacks
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: LEandrobsn23 (big blind) folded before Flop
+Seat 4: beefstu694 showed [Kh Ah] and lost with high card Ace
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828750341: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:17:40 MSK [2018/08/12 22:17:40 ET]
+Table '2381042768 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (1057 in chips)
+Seat 2: DiggErr555 (427 in chips)
+Seat 3: LEandrobsn23 (465 in chips)
+Seat 5: Mishator (614 in chips)
+Seat 6: Mumtum23 (437 in chips)
+galpal12: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+Mishator: posts the ante 4
+Mumtum23: posts the ante 4
+LEandrobsn23: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Ah]
+Mumtum23: folds
+galpal12: folds
+DiggErr555: raises 383 to 423 and is all-in
+LEandrobsn23: folds
+Mishator: calls 383
+*** FLOP *** [3s Kc Ad]
+*** TURN *** [3s Kc Ad] [4d]
+*** RIVER *** [3s Kc Ad 4d] [4c]
+*** SHOW DOWN ***
+Mishator: shows [Kh Td] (two pair, Kings and Fours)
+DiggErr555: shows [5d Ah] (two pair, Aces and Fours)
+DiggErr555 collected 886 from pot
+*** SUMMARY ***
+Total pot 886 | Rake 0
+Board [3s Kc Ad 4d 4c]
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) showed [5d Ah] and won (886) with two pair, Aces and Fours
+Seat 3: LEandrobsn23 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [Kh Td] and lost with two pair, Kings and Fours
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828762153: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:18:18 MSK [2018/08/12 22:18:18 ET]
+Table '2381042768 1' 6-max Seat #3 is the button
+Seat 1: galpal12 (1053 in chips)
+Seat 2: DiggErr555 (886 in chips)
+Seat 3: LEandrobsn23 (441 in chips)
+Seat 5: Mishator (187 in chips)
+Seat 6: Mumtum23 (433 in chips)
+galpal12: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+Mishator: posts the ante 4
+Mumtum23: posts the ante 4
+Mishator: posts small blind 20
+Mumtum23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s As]
+galpal12: folds
+DiggErr555: raises 842 to 882 and is all-in
+LEandrobsn23: folds
+Mishator: folds
+Mumtum23: folds
+Uncalled bet (842) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 collected (120)
+Seat 3: LEandrobsn23 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: Mumtum23 (big blind) folded before Flop
+
+PokerStars Hand #189828769502: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:18:42 MSK [2018/08/12 22:18:42 ET]
+Table '2381042768 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (1049 in chips)
+Seat 2: DiggErr555 (962 in chips)
+Seat 3: LEandrobsn23 (437 in chips)
+Seat 5: Mishator (163 in chips)
+Seat 6: Mumtum23 (389 in chips)
+galpal12: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+Mishator: posts the ante 4
+Mumtum23: posts the ante 4
+Mumtum23: posts small blind 20
+galpal12: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 9d]
+DiggErr555: folds
+LEandrobsn23: folds
+Mishator: folds
+Mumtum23: raises 345 to 385 and is all-in
+galpal12: folds
+Uncalled bet (345) returned to Mumtum23
+Mumtum23 collected 100 from pot
+Mumtum23: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: galpal12 (big blind) folded before Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Mumtum23 (small blind) collected (100)
+
+PokerStars Hand #189828775717: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:19:02 MSK [2018/08/12 22:19:02 ET]
+Table '2381042768 1' 6-max Seat #6 is the button
+Seat 1: galpal12 (1005 in chips)
+Seat 2: DiggErr555 (958 in chips)
+Seat 3: LEandrobsn23 (433 in chips)
+Seat 5: Mishator (159 in chips)
+Seat 6: Mumtum23 (445 in chips)
+galpal12: posts the ante 4
+DiggErr555: posts the ante 4
+LEandrobsn23: posts the ante 4
+Mishator: posts the ante 4
+Mumtum23: posts the ante 4
+galpal12: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s Qs]
+LEandrobsn23: folds
+Mishator: folds
+Mumtum23: folds
+galpal12: raises 961 to 1001 and is all-in
+DiggErr555: folds
+Uncalled bet (961) returned to galpal12
+galpal12 collected 100 from pot
+galpal12: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: galpal12 (small blind) collected (100)
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: LEandrobsn23 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Mumtum23 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828783385: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:19:28 MSK [2018/08/12 22:19:28 ET]
+Table '2381042768 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (1061 in chips)
+Seat 2: DiggErr555 (914 in chips)
+Seat 3: LEandrobsn23 (429 in chips)
+Seat 5: Mishator (155 in chips)
+Seat 6: Mumtum23 (441 in chips)
+galpal12: posts the ante 6
+DiggErr555: posts the ante 6
+LEandrobsn23: posts the ante 6
+Mishator: posts the ante 6
+Mumtum23: posts the ante 6
+DiggErr555: posts small blind 30
+LEandrobsn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 7s]
+Mishator: folds
+Mumtum23: folds
+galpal12: folds
+DiggErr555: raises 848 to 908 and is all-in
+LEandrobsn23: calls 363 and is all-in
+Uncalled bet (485) returned to DiggErr555
+*** FLOP *** [4h Ts Ah]
+*** TURN *** [4h Ts Ah] [2c]
+*** RIVER *** [4h Ts Ah 2c] [3s]
+*** SHOW DOWN ***
+DiggErr555: shows [5s 7s] (a straight, Ace to Five)
+LEandrobsn23: shows [Qd Kc] (high card Ace)
+DiggErr555 collected 876 from pot
+DiggErr555 wins the $2.38 bounty for eliminating LEandrobsn23
+LEandrobsn23 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 876 | Rake 0
+Board [4h Ts Ah 2c 3s]
+Seat 1: galpal12 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) showed [5s 7s] and won (876) with a straight, Ace to Five
+Seat 3: LEandrobsn23 (big blind) showed [Qd Kc] and lost with high card Ace
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828789595: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:19:48 MSK [2018/08/12 22:19:48 ET]
+Table '2381042768 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (1055 in chips)
+Seat 2: DiggErr555 (1361 in chips)
+Seat 5: Mishator (149 in chips)
+Seat 6: Mumtum23 (435 in chips)
+galpal12: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Mumtum23: posts the ante 6
+Mishator: posts small blind 30
+Mumtum23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd Ah]
+galpal12: folds
+DiggErr555: raises 1295 to 1355 and is all-in
+Mishator: calls 113 and is all-in
+Mumtum23: folds
+Uncalled bet (1212) returned to DiggErr555
+*** FLOP *** [4c Jc 6s]
+*** TURN *** [4c Jc 6s] [8s]
+*** RIVER *** [4c Jc 6s 8s] [3h]
+*** SHOW DOWN ***
+Mishator: shows [Ks 6d] (a pair of Sixes)
+DiggErr555: shows [Qd Ah] (high card Ace)
+Mishator collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0
+Board [4c Jc 6s 8s 3h]
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) showed [Qd Ah] and lost with high card Ace
+Seat 5: Mishator (small blind) showed [Ks 6d] and won (370) with a pair of Sixes
+Seat 6: Mumtum23 (big blind) folded before Flop
+
+PokerStars Hand #189828796222: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:20:10 MSK [2018/08/12 22:20:10 ET]
+Table '2381042768 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (1049 in chips)
+Seat 2: DiggErr555 (1212 in chips)
+Seat 5: Mishator (370 in chips)
+Seat 6: Mumtum23 (369 in chips)
+galpal12: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Mumtum23: posts the ante 6
+Mumtum23: posts small blind 30
+galpal12: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 8h]
+DiggErr555: raises 1146 to 1206 and is all-in
+Mishator: folds
+Mumtum23: folds
+galpal12: folds
+Uncalled bet (1146) returned to DiggErr555
+DiggErr555 collected 174 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: galpal12 (big blind) folded before Flop
+Seat 2: DiggErr555 collected (174)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Mumtum23 (small blind) folded before Flop
+
+PokerStars Hand #189828803571: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:20:34 MSK [2018/08/12 22:20:34 ET]
+Table '2381042768 1' 6-max Seat #6 is the button
+Seat 1: galpal12 (983 in chips)
+Seat 2: DiggErr555 (1320 in chips)
+Seat 5: Mishator (364 in chips)
+Seat 6: Mumtum23 (333 in chips)
+galpal12: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Mumtum23: posts the ante 6
+galpal12: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Ac]
+Mishator: folds
+Mumtum23: folds
+galpal12: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 84 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 1: galpal12 (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) collected (84)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Mumtum23 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828806806: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:20:44 MSK [2018/08/12 22:20:44 ET]
+Table '2381042768 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (947 in chips)
+Seat 2: DiggErr555 (1368 in chips)
+Seat 5: Mishator (358 in chips)
+Seat 6: Mumtum23 (327 in chips)
+galpal12: posts the ante 6
+DiggErr555: posts the ante 6
+Mishator: posts the ante 6
+Mumtum23: posts the ante 6
+DiggErr555: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 8c]
+Mumtum23: folds
+galpal12: folds
+DiggErr555: raises 1302 to 1362 and is all-in
+Mishator: calls 292 and is all-in
+Uncalled bet (1010) returned to DiggErr555
+*** FLOP *** [8d 6s 6c]
+*** TURN *** [8d 6s 6c] [Js]
+*** RIVER *** [8d 6s 6c Js] [Qc]
+*** SHOW DOWN ***
+DiggErr555: shows [3c 8c] (two pair, Eights and Sixes)
+Mishator: shows [8s 7s] (two pair, Eights and Sixes)
+DiggErr555 collected 364 from pot
+Mishator collected 364 from pot
+*** SUMMARY ***
+Total pot 728 | Rake 0
+Board [8d 6s 6c Js Qc]
+Seat 1: galpal12 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) showed [3c 8c] and won (364) with two pair, Eights and Sixes
+Seat 5: Mishator (big blind) showed [8s 7s] and won (364) with two pair, Eights and Sixes
+Seat 6: Mumtum23 folded before Flop (didn't bet)
+
+PokerStars Hand #189828813447: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:21:06 MSK [2018/08/12 22:21:06 ET]
+Table '2381042768 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (941 in chips)
+Seat 2: DiggErr555 (1374 in chips)
+Seat 5: Mishator (364 in chips)
+Seat 6: Mumtum23 (321 in chips)
+galpal12: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Mumtum23: posts the ante 8
+Mishator: posts small blind 40
+Mumtum23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 6d]
+galpal12: folds
+DiggErr555: raises 1286 to 1366 and is all-in
+Mishator: folds
+Mumtum23: folds
+Uncalled bet (1286) returned to DiggErr555
+DiggErr555 collected 232 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) collected (232)
+Seat 5: Mishator (small blind) folded before Flop
+Seat 6: Mumtum23 (big blind) folded before Flop
+
+PokerStars Hand #189828817695: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:21:20 MSK [2018/08/12 22:21:20 ET]
+Table '2381042768 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (933 in chips)
+Seat 2: DiggErr555 (1518 in chips)
+Seat 5: Mishator (316 in chips)
+Seat 6: Mumtum23 (233 in chips)
+galpal12: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Mumtum23: posts the ante 8
+Mumtum23: posts small blind 40
+galpal12: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Ah]
+DiggErr555: raises 1430 to 1510 and is all-in
+Mishator: folds
+Mumtum23: calls 185 and is all-in
+galpal12: folds
+Uncalled bet (1285) returned to DiggErr555
+*** FLOP *** [Kd 4s Jd]
+*** TURN *** [Kd 4s Jd] [Ac]
+*** RIVER *** [Kd 4s Jd Ac] [9c]
+*** SHOW DOWN ***
+Mumtum23: shows [4h 4d] (three of a kind, Fours)
+DiggErr555: shows [Tc Ah] (a pair of Aces)
+Mumtum23 collected 562 from pot
+*** SUMMARY ***
+Total pot 562 | Rake 0
+Board [Kd 4s Jd Ac 9c]
+Seat 1: galpal12 (big blind) folded before Flop
+Seat 2: DiggErr555 showed [Tc Ah] and lost with a pair of Aces
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Mumtum23 (small blind) showed [4h 4d] and won (562) with three of a kind, Fours
+
+PokerStars Hand #189828822569: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:21:36 MSK [2018/08/12 22:21:36 ET]
+Table '2381042768 1' 6-max Seat #6 is the button
+Seat 1: galpal12 (845 in chips)
+Seat 2: DiggErr555 (1285 in chips)
+Seat 5: Mishator (308 in chips)
+Seat 6: Mumtum23 (562 in chips)
+galpal12: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Mumtum23: posts the ante 8
+galpal12: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 2s]
+Mishator: folds
+Mumtum23: folds
+galpal12: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 112 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 1: galpal12 (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) collected (112)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: Mumtum23 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828824215: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:21:41 MSK [2018/08/12 22:21:41 ET]
+Table '2381042768 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (797 in chips)
+Seat 2: DiggErr555 (1349 in chips)
+Seat 5: Mishator (300 in chips)
+Seat 6: Mumtum23 (554 in chips)
+galpal12: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Mumtum23: posts the ante 8
+DiggErr555: posts small blind 40
+Mishator: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Tc]
+Mumtum23: raises 466 to 546 and is all-in
+galpal12: folds
+DiggErr555: folds
+Mishator: calls 212 and is all-in
+Uncalled bet (254) returned to Mumtum23
+*** FLOP *** [Td Kh Ks]
+*** TURN *** [Td Kh Ks] [2h]
+*** RIVER *** [Td Kh Ks 2h] [Ad]
+*** SHOW DOWN ***
+Mishator: shows [As 3s] (two pair, Aces and Kings)
+Mumtum23: shows [5s 5d] (two pair, Kings and Fives)
+Mishator collected 656 from pot
+*** SUMMARY ***
+Total pot 656 | Rake 0
+Board [Td Kh Ks 2h Ad]
+Seat 1: galpal12 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [As 3s] and won (656) with two pair, Aces and Kings
+Seat 6: Mumtum23 showed [5s 5d] and lost with two pair, Kings and Fives
+
+PokerStars Hand #189828830432: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:22:02 MSK [2018/08/12 22:22:02 ET]
+Table '2381042768 1' 6-max Seat #2 is the button
+Seat 1: galpal12 (789 in chips)
+Seat 2: DiggErr555 (1301 in chips)
+Seat 5: Mishator (656 in chips)
+Seat 6: Mumtum23 (254 in chips)
+galpal12: posts the ante 8
+DiggErr555: posts the ante 8
+Mishator: posts the ante 8
+Mumtum23: posts the ante 8
+Mishator: posts small blind 40
+Mumtum23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Jh]
+galpal12: folds
+DiggErr555: folds
+Mishator: raises 568 to 648 and is all-in
+Mumtum23: calls 166 and is all-in
+Uncalled bet (402) returned to Mishator
+*** FLOP *** [2s 6s Th]
+*** TURN *** [2s 6s Th] [3c]
+*** RIVER *** [2s 6s Th 3c] [Ad]
+*** SHOW DOWN ***
+Mishator: shows [7d Qd] (high card Ace)
+Mumtum23: shows [Ts Td] (three of a kind, Tens)
+Mumtum23 collected 524 from pot
+*** SUMMARY ***
+Total pot 524 | Rake 0
+Board [2s 6s Th 3c Ad]
+Seat 1: galpal12 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) showed [7d Qd] and lost with high card Ace
+Seat 6: Mumtum23 (big blind) showed [Ts Td] and won (524) with three of a kind, Tens
+
+PokerStars Hand #189828838670: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:22:29 MSK [2018/08/12 22:22:29 ET]
+Table '2381042768 1' 6-max Seat #5 is the button
+Seat 1: galpal12 (781 in chips)
+Seat 2: DiggErr555 (1293 in chips)
+Seat 5: Mishator (402 in chips)
+Seat 6: Mumtum23 (524 in chips)
+galpal12: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Mumtum23: posts the ante 10
+Mumtum23: posts small blind 50
+galpal12: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 7d]
+DiggErr555: raises 1183 to 1283 and is all-in
+Mishator: folds
+Mumtum23: folds
+galpal12: calls 671 and is all-in
+Uncalled bet (512) returned to DiggErr555
+*** FLOP *** [2d Jc Jh]
+*** TURN *** [2d Jc Jh] [Qh]
+*** RIVER *** [2d Jc Jh Qh] [Js]
+*** SHOW DOWN ***
+galpal12: shows [Qs Qc] (a full house, Queens full of Jacks)
+DiggErr555: shows [Td 7d] (three of a kind, Jacks)
+galpal12 collected 1632 from pot
+*** SUMMARY ***
+Total pot 1632 | Rake 0
+Board [2d Jc Jh Qh Js]
+Seat 1: galpal12 (big blind) showed [Qs Qc] and won (1632) with a full house, Queens full of Jacks
+Seat 2: DiggErr555 showed [Td 7d] and lost with three of a kind, Jacks
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: Mumtum23 (small blind) folded before Flop
+
+PokerStars Hand #189828843573: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:22:45 MSK [2018/08/12 22:22:45 ET]
+Table '2381042768 1' 6-max Seat #6 is the button
+Seat 1: galpal12 (1632 in chips)
+Seat 2: DiggErr555 (512 in chips)
+Seat 5: Mishator (392 in chips)
+Seat 6: Mumtum23 (464 in chips)
+galpal12: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Mumtum23: posts the ante 10
+galpal12: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As 4h]
+Mishator: raises 282 to 382 and is all-in
+Mumtum23: folds
+galpal12: folds
+DiggErr555: calls 282
+*** FLOP *** [Ks Td 9d]
+*** TURN *** [Ks Td 9d] [Qc]
+*** RIVER *** [Ks Td 9d Qc] [8c]
+*** SHOW DOWN ***
+DiggErr555: shows [As 4h] (high card Ace)
+Mishator: shows [Qh Kc] (two pair, Kings and Queens)
+Mishator collected 854 from pot
+*** SUMMARY ***
+Total pot 854 | Rake 0
+Board [Ks Td 9d Qc 8c]
+Seat 1: galpal12 (small blind) folded before Flop
+Seat 2: DiggErr555 (big blind) showed [As 4h] and lost with high card Ace
+Seat 5: Mishator showed [Qh Kc] and won (854) with two pair, Kings and Queens
+Seat 6: Mumtum23 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828849805: Tournament #2381042768, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:23:06 MSK [2018/08/12 22:23:06 ET]
+Table '2381042768 1' 6-max Seat #1 is the button
+Seat 1: galpal12 (1572 in chips)
+Seat 2: DiggErr555 (120 in chips)
+Seat 5: Mishator (854 in chips)
+Seat 6: Mumtum23 (454 in chips)
+galpal12: posts the ante 10
+DiggErr555: posts the ante 10
+Mishator: posts the ante 10
+Mumtum23: posts the ante 10
+DiggErr555: posts small blind 50
+Mishator: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 4d]
+Mumtum23: folds
+galpal12: raises 1462 to 1562 and is all-in
+DiggErr555: calls 60 and is all-in
+Mishator: folds
+Uncalled bet (1452) returned to galpal12
+*** FLOP *** [2s 8d Tc]
+*** TURN *** [2s 8d Tc] [Th]
+*** RIVER *** [2s 8d Tc Th] [2c]
+*** SHOW DOWN ***
+DiggErr555: shows [6s 4d] (two pair, Tens and Deuces)
+galpal12: shows [Qs As] (two pair, Tens and Deuces - Ace kicker)
+galpal12 collected 360 from pot
+galpal12 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board [2s 8d Tc Th 2c]
+Seat 1: galpal12 (button) showed [Qs As] and won (360) with two pair, Tens and Deuces
+Seat 2: DiggErr555 (small blind) showed [6s 4d] and lost with two pair, Tens and Deuces
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: Mumtum23 folded before Flop (didn't bet)

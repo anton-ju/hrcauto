@@ -1,0 +1,510 @@
+
+
+PokerStars Hand #189829638591: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:10:21 MSK [2018/08/12 23:10:21 ET]
+Table '2381065517 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (500 in chips)
+Seat 2: 2Ran128 (500 in chips)
+Seat 3: takereasy001 (500 in chips)
+Seat 4: LimpAndJam (500 in chips)
+Seat 5: Andrei S101 (500 in chips)
+Seat 6: Dkquality (500 in chips)
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+takereasy001: posts the ante 2
+LimpAndJam: posts the ante 2
+Andrei S101: posts the ante 2
+Dkquality: posts the ante 2
+2Ran128: posts small blind 10
+takereasy001: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 5d]
+LimpAndJam: folds
+Andrei S101: raises 40 to 60
+Dkquality: raises 438 to 498 and is all-in
+DiggErr555: folds
+2Ran128: folds
+takereasy001: folds
+Andrei S101: calls 438 and is all-in
+*** FLOP *** [9s 6d 2s]
+*** TURN *** [9s 6d 2s] [As]
+*** RIVER *** [9s 6d 2s As] [Th]
+*** SHOW DOWN ***
+Andrei S101: shows [Kd Qh] (high card Ace)
+Dkquality: shows [Jd Js] (a pair of Jacks)
+Dkquality collected 1038 from pot
+Dkquality wins the $2.38 bounty for eliminating Andrei S101
+Andrei S101 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1038 | Rake 0
+Board [9s 6d 2s As Th]
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 3: takereasy001 (big blind) folded before Flop
+Seat 4: LimpAndJam folded before Flop (didn't bet)
+Seat 5: Andrei S101 showed [Kd Qh] and lost with high card Ace
+Seat 6: Dkquality showed [Jd Js] and won (1038) with a pair of Jacks
+
+PokerStars Hand #189829645090: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:10:46 MSK [2018/08/12 23:10:46 ET]
+Table '2381065517 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (498 in chips)
+Seat 2: 2Ran128 (488 in chips)
+Seat 3: takereasy001 (478 in chips)
+Seat 4: LimpAndJam (498 in chips)
+Seat 6: Dkquality (1038 in chips)
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+takereasy001: posts the ante 2
+LimpAndJam: posts the ante 2
+Dkquality: posts the ante 2
+takereasy001: posts small blind 10
+LimpAndJam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 5c]
+Dkquality: folds
+DiggErr555: folds
+2Ran128: raises 20 to 40
+takereasy001: calls 30
+LimpAndJam: folds
+*** FLOP *** [Jd 9s Th]
+takereasy001: checks
+2Ran128: checks
+*** TURN *** [Jd 9s Th] [Kh]
+takereasy001: checks
+2Ran128: checks
+*** RIVER *** [Jd 9s Th Kh] [Js]
+takereasy001: bets 20
+2Ran128: folds
+Uncalled bet (20) returned to takereasy001
+takereasy001 collected 110 from pot
+takereasy001: doesn't show hand
+*** SUMMARY ***
+Total pot 110 | Rake 0
+Board [Jd 9s Th Kh Js]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) folded on the River
+Seat 3: takereasy001 (small blind) collected (110)
+Seat 4: LimpAndJam (big blind) folded before Flop
+Seat 6: Dkquality folded before Flop (didn't bet)
+
+PokerStars Hand #189829666475: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:12:09 MSK [2018/08/12 23:12:09 ET]
+Table '2381065517 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (496 in chips)
+Seat 2: 2Ran128 (446 in chips)
+Seat 3: takereasy001 (546 in chips)
+Seat 4: LimpAndJam (476 in chips)
+Seat 6: Dkquality (1036 in chips)
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+takereasy001: posts the ante 2
+LimpAndJam: posts the ante 2
+Dkquality: posts the ante 2
+LimpAndJam: posts small blind 10
+Dkquality: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 2s]
+DiggErr555: folds
+2Ran128: folds
+takereasy001: folds
+LimpAndJam: calls 10
+Dkquality: checks
+*** FLOP *** [6s 8h 4s]
+LimpAndJam: checks
+Dkquality: bets 50
+LimpAndJam: folds
+Uncalled bet (50) returned to Dkquality
+Dkquality collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Board [6s 8h 4s]
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 3: takereasy001 (button) folded before Flop (didn't bet)
+Seat 4: LimpAndJam (small blind) folded on the Flop
+Seat 6: Dkquality (big blind) collected (50)
+
+PokerStars Hand #189829675192: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:43 MSK [2018/08/12 23:12:43 ET]
+Table '2381065517 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (494 in chips)
+Seat 2: 2Ran128 (444 in chips)
+Seat 3: takereasy001 (544 in chips)
+Seat 4: LimpAndJam (454 in chips)
+Seat 6: Dkquality (1064 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+takereasy001: posts the ante 3
+LimpAndJam: posts the ante 3
+Dkquality: posts the ante 3
+Dkquality: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h Ah]
+2Ran128: folds
+takereasy001: folds
+LimpAndJam: folds
+Dkquality: raises 75 to 105
+DiggErr555: folds
+Uncalled bet (75) returned to Dkquality
+Dkquality collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 3: takereasy001 folded before Flop (didn't bet)
+Seat 4: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 6: Dkquality (small blind) collected (75)
+
+PokerStars Hand #189829679947: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:02 MSK [2018/08/12 23:13:02 ET]
+Table '2381065517 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (461 in chips)
+Seat 2: 2Ran128 (441 in chips)
+Seat 3: takereasy001 (541 in chips)
+Seat 4: LimpAndJam (451 in chips)
+Seat 6: Dkquality (1106 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+takereasy001: posts the ante 3
+LimpAndJam: posts the ante 3
+Dkquality: posts the ante 3
+DiggErr555: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 6h]
+takereasy001: folds
+LimpAndJam: folds
+Dkquality: raises 90 to 120
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (90) returned to Dkquality
+Dkquality collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: 2Ran128 (big blind) folded before Flop
+Seat 3: takereasy001 folded before Flop (didn't bet)
+Seat 4: LimpAndJam folded before Flop (didn't bet)
+Seat 6: Dkquality (button) collected (90)
+
+PokerStars Hand #189829688018: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:33 MSK [2018/08/12 23:13:33 ET]
+Table '2381065517 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (443 in chips)
+Seat 2: 2Ran128 (408 in chips)
+Seat 3: takereasy001 (538 in chips)
+Seat 4: LimpAndJam (448 in chips)
+Seat 6: Dkquality (1163 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+takereasy001: posts the ante 3
+LimpAndJam: posts the ante 3
+Dkquality: posts the ante 3
+2Ran128: posts small blind 15
+takereasy001: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Kh]
+LimpAndJam: folds
+Dkquality: folds
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (15) returned to takereasy001
+takereasy001 collected 45 from pot
+takereasy001: doesn't show hand
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 3: takereasy001 (big blind) collected (45)
+Seat 4: LimpAndJam folded before Flop (didn't bet)
+Seat 6: Dkquality folded before Flop (didn't bet)
+
+PokerStars Hand #189829692971: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:52 MSK [2018/08/12 23:13:52 ET]
+Table '2381065517 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (440 in chips)
+Seat 2: 2Ran128 (390 in chips)
+Seat 3: takereasy001 (565 in chips)
+Seat 4: LimpAndJam (445 in chips)
+Seat 6: Dkquality (1160 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+takereasy001: posts the ante 3
+LimpAndJam: posts the ante 3
+Dkquality: posts the ante 3
+takereasy001: posts small blind 15
+LimpAndJam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 7d]
+Dkquality: raises 90 to 120
+DiggErr555: folds
+2Ran128: folds
+takereasy001: folds
+LimpAndJam: folds
+Uncalled bet (90) returned to Dkquality
+Dkquality collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 3: takereasy001 (small blind) folded before Flop
+Seat 4: LimpAndJam (big blind) folded before Flop
+Seat 6: Dkquality collected (90)
+
+PokerStars Hand #189829699871: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:19 MSK [2018/08/12 23:14:19 ET]
+Table '2381065517 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (437 in chips)
+Seat 2: 2Ran128 (387 in chips)
+Seat 3: takereasy001 (547 in chips)
+Seat 4: LimpAndJam (412 in chips)
+Seat 6: Dkquality (1217 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+takereasy001: posts the ante 4
+LimpAndJam: posts the ante 4
+Dkquality: posts the ante 4
+LimpAndJam: posts small blind 20
+Dkquality: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 8h]
+DiggErr555: folds
+2Ran128: folds
+takereasy001: folds
+LimpAndJam: folds
+Uncalled bet (20) returned to Dkquality
+Dkquality collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 3: takereasy001 (button) folded before Flop (didn't bet)
+Seat 4: LimpAndJam (small blind) folded before Flop
+Seat 6: Dkquality (big blind) collected (60)
+
+PokerStars Hand #189829705975: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:43 MSK [2018/08/12 23:14:43 ET]
+Table '2381065517 1' 6-max Seat #4 is the button
+Seat 1: DiggErr555 (433 in chips)
+Seat 2: 2Ran128 (383 in chips)
+Seat 3: takereasy001 (543 in chips)
+Seat 4: LimpAndJam (388 in chips)
+Seat 6: Dkquality (1253 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+takereasy001: posts the ante 4
+LimpAndJam: posts the ante 4
+Dkquality: posts the ante 4
+Dkquality: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh Jd]
+2Ran128: raises 339 to 379 and is all-in
+takereasy001: folds
+LimpAndJam: folds
+Dkquality: raises 870 to 1249 and is all-in
+DiggErr555: folds
+Uncalled bet (870) returned to Dkquality
+*** FLOP *** [Jc Qd 3s]
+*** TURN *** [Jc Qd 3s] [3d]
+*** RIVER *** [Jc Qd 3s 3d] [9d]
+*** SHOW DOWN ***
+Dkquality: shows [As 8s] (a pair of Threes)
+2Ran128: shows [7d 7h] (two pair, Sevens and Threes)
+2Ran128 collected 818 from pot
+*** SUMMARY ***
+Total pot 818 | Rake 0
+Board [Jc Qd 3s 3d 9d]
+Seat 1: DiggErr555 (big blind) folded before Flop
+Seat 2: 2Ran128 showed [7d 7h] and won (818) with two pair, Sevens and Threes
+Seat 3: takereasy001 folded before Flop (didn't bet)
+Seat 4: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 6: Dkquality (small blind) showed [As 8s] and lost with a pair of Threes
+
+PokerStars Hand #189829711770: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:15:06 MSK [2018/08/12 23:15:06 ET]
+Table '2381065517 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (389 in chips)
+Seat 2: 2Ran128 (818 in chips)
+Seat 3: takereasy001 (539 in chips)
+Seat 4: LimpAndJam (384 in chips)
+Seat 6: Dkquality (870 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+takereasy001: posts the ante 4
+LimpAndJam: posts the ante 4
+Dkquality: posts the ante 4
+DiggErr555: posts small blind 20
+2Ran128: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad Ac]
+takereasy001: folds
+LimpAndJam: raises 340 to 380 and is all-in
+Dkquality: folds
+DiggErr555: raises 5 to 385 and is all-in
+2Ran128: folds
+Uncalled bet (5) returned to DiggErr555
+*** FLOP *** [Jh Jc 3h]
+*** TURN *** [Jh Jc 3h] [Tc]
+*** RIVER *** [Jh Jc 3h Tc] [7h]
+*** SHOW DOWN ***
+DiggErr555: shows [Ad Ac] (two pair, Aces and Jacks)
+LimpAndJam: shows [Qs Qd] (two pair, Queens and Jacks)
+DiggErr555 collected 820 from pot
+DiggErr555 wins the $2.38 bounty for eliminating LimpAndJam
+LimpAndJam finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 820 | Rake 0
+Board [Jh Jc 3h Tc 7h]
+Seat 1: DiggErr555 (small blind) showed [Ad Ac] and won (820) with two pair, Aces and Jacks
+Seat 2: 2Ran128 (big blind) folded before Flop
+Seat 3: takereasy001 folded before Flop (didn't bet)
+Seat 4: LimpAndJam showed [Qs Qd] and lost with two pair, Queens and Jacks
+Seat 6: Dkquality (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829718069: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:15:32 MSK [2018/08/12 23:15:32 ET]
+Table '2381065517 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (825 in chips)
+Seat 2: 2Ran128 (774 in chips)
+Seat 3: takereasy001 (535 in chips)
+Seat 6: Dkquality (866 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+takereasy001: posts the ante 4
+Dkquality: posts the ante 4
+2Ran128: posts small blind 20
+takereasy001: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 3c]
+Dkquality: folds
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (20) returned to takereasy001
+takereasy001 collected 56 from pot
+takereasy001: doesn't show hand
+*** SUMMARY ***
+Total pot 56 | Rake 0
+Seat 1: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 3: takereasy001 (big blind) collected (56)
+Seat 6: Dkquality folded before Flop (didn't bet)
+
+PokerStars Hand #189829722090: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:47 MSK [2018/08/12 23:15:47 ET]
+Table '2381065517 1' 6-max Seat #2 is the button
+Seat 1: DiggErr555 (821 in chips)
+Seat 2: 2Ran128 (750 in chips)
+Seat 3: takereasy001 (567 in chips)
+Seat 6: Dkquality (862 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+takereasy001: posts the ante 6
+Dkquality: posts the ante 6
+takereasy001: posts small blind 30
+Dkquality: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Qc]
+DiggErr555: folds
+2Ran128: folds
+takereasy001: folds
+Uncalled bet (30) returned to Dkquality
+Dkquality collected 84 from pot
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Seat 1: DiggErr555 folded before Flop (didn't bet)
+Seat 2: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 3: takereasy001 (small blind) folded before Flop
+Seat 6: Dkquality (big blind) collected (84)
+
+PokerStars Hand #189829724691: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:58 MSK [2018/08/12 23:15:58 ET]
+Table '2381065517 1' 6-max Seat #3 is the button
+Seat 1: DiggErr555 (815 in chips)
+Seat 2: 2Ran128 (744 in chips)
+Seat 3: takereasy001 (531 in chips)
+Seat 6: Dkquality (910 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+takereasy001: posts the ante 6
+Dkquality: posts the ante 6
+Dkquality: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 6h]
+2Ran128: folds
+takereasy001: calls 60
+Dkquality: folds
+DiggErr555: checks
+*** FLOP *** [4d Kc Tc]
+DiggErr555: checks
+takereasy001: checks
+*** TURN *** [4d Kc Tc] [Ah]
+DiggErr555: checks
+takereasy001: checks
+*** RIVER *** [4d Kc Tc Ah] [2d]
+DiggErr555: checks
+takereasy001: checks
+*** SHOW DOWN ***
+DiggErr555: shows [Qs 6h] (high card Ace)
+takereasy001: mucks hand
+DiggErr555 collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Board [4d Kc Tc Ah 2d]
+Seat 1: DiggErr555 (big blind) showed [Qs 6h] and won (174) with high card Ace
+Seat 2: 2Ran128 folded before Flop (didn't bet)
+Seat 3: takereasy001 (button) mucked [Jd 6d]
+Seat 6: Dkquality (small blind) folded before Flop
+
+PokerStars Hand #189829739944: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:16:58 MSK [2018/08/12 23:16:58 ET]
+Table '2381065517 1' 6-max Seat #6 is the button
+Seat 1: DiggErr555 (923 in chips)
+Seat 2: 2Ran128 (738 in chips)
+Seat 3: takereasy001 (465 in chips)
+Seat 6: Dkquality (874 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+takereasy001: posts the ante 6
+Dkquality: posts the ante 6
+DiggErr555: posts small blind 30
+2Ran128: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh Qd]
+takereasy001: folds
+Dkquality: raises 808 to 868 and is all-in
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (808) returned to Dkquality
+Dkquality collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0
+Seat 1: DiggErr555 (small blind) folded before Flop
+Seat 2: 2Ran128 (big blind) folded before Flop
+Seat 3: takereasy001 folded before Flop (didn't bet)
+Seat 6: Dkquality (button) collected (174)
+
+PokerStars Hand #189829744936: Tournament #2381065517, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:17:17 MSK [2018/08/12 23:17:17 ET]
+Table '2381065517 1' 6-max Seat #1 is the button
+Seat 1: DiggErr555 (887 in chips)
+Seat 2: 2Ran128 (672 in chips)
+Seat 3: takereasy001 (459 in chips)
+Seat 6: Dkquality (982 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+takereasy001: posts the ante 6
+Dkquality: posts the ante 6
+2Ran128: posts small blind 30
+takereasy001: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc Kd]
+Dkquality: raises 60 to 120
+DiggErr555: raises 761 to 881 and is all-in
+2Ran128: folds
+takereasy001: folds
+Dkquality: calls 761
+*** FLOP *** [3d 3s 5c]
+*** TURN *** [3d 3s 5c] [4c]
+*** RIVER *** [3d 3s 5c 4c] [5h]
+*** SHOW DOWN ***
+Dkquality: shows [Ac As] (two pair, Aces and Fives)
+DiggErr555: shows [Tc Kd] (two pair, Fives and Threes)
+Dkquality collected 1876 from pot
+Dkquality wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1876 | Rake 0
+Board [3d 3s 5c 4c 5h]
+Seat 1: DiggErr555 (button) showed [Tc Kd] and lost with two pair, Fives and Threes
+Seat 2: 2Ran128 (small blind) folded before Flop
+Seat 3: takereasy001 (big blind) folded before Flop
+Seat 6: Dkquality showed [Ac As] and won (1876) with two pair, Aces and Fives

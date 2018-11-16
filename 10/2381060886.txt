@@ -1,0 +1,910 @@
+
+
+PokerStars Hand #189829441073: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:57:22 MSK [2018/08/12 22:57:22 ET]
+Table '2381060886 1' 6-max Seat #1 is the button
+Seat 1: Mishator (500 in chips)
+Seat 2: Xaboom1 (500 in chips)
+Seat 3: Elvasco543 (500 in chips)
+Seat 4: dweller123 (500 in chips)
+Seat 5: 2Ran128 (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+Mishator: posts the ante 2
+Xaboom1: posts the ante 2
+Elvasco543: posts the ante 2
+dweller123: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+Xaboom1: posts small blind 10
+Elvasco543: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Tc]
+dweller123: folds
+2Ran128: folds
+DiggErr555: raises 20 to 40
+Mishator: folds
+Xaboom1: folds
+Elvasco543: calls 20
+*** FLOP *** [5h 9h Ks]
+Elvasco543: bets 120
+DiggErr555: folds
+Uncalled bet (120) returned to Elvasco543
+Elvasco543 collected 102 from pot
+Elvasco543: doesn't show hand
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Board [5h 9h Ks]
+Seat 1: Mishator (button) folded before Flop (didn't bet)
+Seat 2: Xaboom1 (small blind) folded before Flop
+Seat 3: Elvasco543 (big blind) collected (102)
+Seat 4: dweller123 folded before Flop (didn't bet)
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded on the Flop
+
+PokerStars Hand #189829447941: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:57:51 MSK [2018/08/12 22:57:51 ET]
+Table '2381060886 1' 6-max Seat #2 is the button
+Seat 1: Mishator (498 in chips)
+Seat 2: Xaboom1 (488 in chips)
+Seat 3: Elvasco543 (560 in chips)
+Seat 4: dweller123 (498 in chips)
+Seat 5: 2Ran128 (498 in chips)
+Seat 6: DiggErr555 (458 in chips)
+Mishator: posts the ante 2
+Xaboom1: posts the ante 2
+Elvasco543: posts the ante 2
+dweller123: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+Elvasco543: posts small blind 10
+dweller123: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [As Ad]
+2Ran128: folds
+DiggErr555: raises 20 to 40
+Mishator: folds
+Xaboom1: folds
+Elvasco543: folds
+dweller123: calls 20
+*** FLOP *** [5c 6s 5d]
+dweller123: checks
+DiggErr555: bets 35
+dweller123: calls 35
+*** TURN *** [5c 6s 5d] [8c]
+dweller123: checks
+DiggErr555: bets 80
+dweller123: calls 80
+*** RIVER *** [5c 6s 5d 8c] [Jh]
+dweller123: checks
+DiggErr555: bets 301 and is all-in
+dweller123: folds
+Uncalled bet (301) returned to DiggErr555
+DiggErr555 collected 332 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 332 | Rake 0
+Board [5c 6s 5d 8c Jh]
+Seat 1: Mishator folded before Flop (didn't bet)
+Seat 2: Xaboom1 (button) folded before Flop (didn't bet)
+Seat 3: Elvasco543 (small blind) folded before Flop
+Seat 4: dweller123 (big blind) folded on the River
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: DiggErr555 collected (332)
+
+PokerStars Hand #189829464457: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:58:59 MSK [2018/08/12 22:58:59 ET]
+Table '2381060886 1' 6-max Seat #3 is the button
+Seat 1: Mishator (496 in chips)
+Seat 2: Xaboom1 (486 in chips)
+Seat 3: Elvasco543 (548 in chips)
+Seat 4: dweller123 (341 in chips)
+Seat 5: 2Ran128 (496 in chips)
+Seat 6: DiggErr555 (633 in chips)
+Mishator: posts the ante 2
+Xaboom1: posts the ante 2
+Elvasco543: posts the ante 2
+dweller123: posts the ante 2
+2Ran128: posts the ante 2
+DiggErr555: posts the ante 2
+dweller123: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Qh]
+DiggErr555: folds
+Mishator: folds
+Xaboom1 has timed out
+Xaboom1: folds
+Xaboom1 is sitting out
+Elvasco543: folds
+dweller123: raises 40 to 60
+2Ran128: folds
+Uncalled bet (40) returned to dweller123
+dweller123 collected 52 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 1: Mishator folded before Flop (didn't bet)
+Seat 2: Xaboom1 folded before Flop (didn't bet)
+Seat 3: Elvasco543 (button) folded before Flop (didn't bet)
+Seat 4: dweller123 (small blind) collected (52)
+Seat 5: 2Ran128 (big blind) folded before Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829476000: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:59:48 MSK [2018/08/12 22:59:48 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 1: Mishator (494 in chips)
+Seat 2: Xaboom1 (484 in chips) is sitting out
+Seat 3: Elvasco543 (546 in chips)
+Seat 4: dweller123 (371 in chips)
+Seat 5: 2Ran128 (474 in chips)
+Seat 6: DiggErr555 (631 in chips)
+Mishator: posts the ante 3
+Xaboom1: posts the ante 3
+Elvasco543: posts the ante 3
+dweller123: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 4d]
+Mishator: folds
+Xaboom1: folds
+Elvasco543: folds
+dweller123: folds
+2Ran128: folds
+Uncalled bet (15) returned to DiggErr555
+DiggErr555 collected 48 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: Mishator folded before Flop (didn't bet)
+Seat 2: Xaboom1 folded before Flop (didn't bet)
+Seat 3: Elvasco543 folded before Flop (didn't bet)
+Seat 4: dweller123 (button) folded before Flop (didn't bet)
+Seat 5: 2Ran128 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (48)
+
+PokerStars Hand #189829478415: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:59:58 MSK [2018/08/12 22:59:58 ET]
+Table '2381060886 1' 6-max Seat #5 is the button
+Seat 1: Mishator (491 in chips)
+Seat 2: Xaboom1 (481 in chips) is sitting out
+Seat 3: Elvasco543 (543 in chips)
+Seat 4: dweller123 (368 in chips)
+Seat 5: 2Ran128 (456 in chips)
+Seat 6: DiggErr555 (661 in chips)
+Mishator: posts the ante 3
+Xaboom1: posts the ante 3
+Elvasco543: posts the ante 3
+dweller123: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Qh]
+Xaboom1: folds
+Xaboom1 has returned
+Elvasco543: calls 30
+dweller123: folds
+2Ran128: folds
+DiggErr555: raises 628 to 658 and is all-in
+Mishator: folds
+Elvasco543: folds
+Uncalled bet (628) returned to DiggErr555
+DiggErr555 collected 108 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 108 | Rake 0
+Seat 1: Mishator (big blind) folded before Flop
+Seat 2: Xaboom1 folded before Flop (didn't bet)
+Seat 3: Elvasco543 folded before Flop
+Seat 4: dweller123 folded before Flop (didn't bet)
+Seat 5: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (108)
+
+PokerStars Hand #189829482024: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:00:13 MSK [2018/08/12 23:00:13 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 1: Mishator (458 in chips)
+Seat 2: Xaboom1 (478 in chips)
+Seat 3: Elvasco543 (510 in chips)
+Seat 4: dweller123 (365 in chips)
+Seat 5: 2Ran128 (453 in chips)
+Seat 6: DiggErr555 (736 in chips)
+Mishator: posts the ante 3
+Xaboom1: posts the ante 3
+Elvasco543: posts the ante 3
+dweller123: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts small blind 15
+Xaboom1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c 7c]
+Elvasco543: folds
+dweller123: raises 60 to 90
+2Ran128: folds
+DiggErr555: folds
+Mishator: folds
+Xaboom1: raises 385 to 475 and is all-in
+dweller123: calls 272 and is all-in
+Uncalled bet (113) returned to Xaboom1
+*** FLOP *** [Jd Ks 8c]
+*** TURN *** [Jd Ks 8c] [6s]
+*** RIVER *** [Jd Ks 8c 6s] [5s]
+*** SHOW DOWN ***
+Xaboom1: shows [Ac 2h] (high card Ace)
+dweller123: shows [8h 6h] (two pair, Eights and Sixes)
+dweller123 collected 757 from pot
+*** SUMMARY ***
+Total pot 757 | Rake 0
+Board [Jd Ks 8c 6s 5s]
+Seat 1: Mishator (small blind) folded before Flop
+Seat 2: Xaboom1 (big blind) showed [Ac 2h] and lost with high card Ace
+Seat 3: Elvasco543 folded before Flop (didn't bet)
+Seat 4: dweller123 showed [8h 6h] and won (757) with two pair, Eights and Sixes
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829490439: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:00:48 MSK [2018/08/12 23:00:48 ET]
+Table '2381060886 1' 6-max Seat #1 is the button
+Seat 1: Mishator (440 in chips)
+Seat 2: Xaboom1 (113 in chips)
+Seat 3: Elvasco543 (507 in chips)
+Seat 4: dweller123 (757 in chips)
+Seat 5: 2Ran128 (450 in chips)
+Seat 6: DiggErr555 (733 in chips)
+Mishator: posts the ante 3
+Xaboom1: posts the ante 3
+Elvasco543: posts the ante 3
+dweller123: posts the ante 3
+2Ran128: posts the ante 3
+DiggErr555: posts the ante 3
+Xaboom1: posts small blind 15
+Elvasco543: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 4s]
+dweller123: folds
+2Ran128: folds
+DiggErr555: folds
+Mishator: raises 407 to 437 and is all-in
+Xaboom1: folds
+Elvasco543: folds
+Uncalled bet (407) returned to Mishator
+Mishator collected 93 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: Mishator (button) collected (93)
+Seat 2: Xaboom1 (small blind) folded before Flop
+Seat 3: Elvasco543 (big blind) folded before Flop
+Seat 4: dweller123 folded before Flop (didn't bet)
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829495206: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:01:07 MSK [2018/08/12 23:01:07 ET]
+Table '2381060886 1' 6-max Seat #2 is the button
+Seat 1: Mishator (500 in chips)
+Seat 2: Xaboom1 (95 in chips)
+Seat 3: Elvasco543 (474 in chips)
+Seat 4: dweller123 (754 in chips)
+Seat 5: 2Ran128 (447 in chips)
+Seat 6: DiggErr555 (730 in chips)
+Mishator: posts the ante 4
+Xaboom1: posts the ante 4
+Elvasco543: posts the ante 4
+dweller123: posts the ante 4
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+Elvasco543: posts small blind 20
+dweller123: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd As]
+2Ran128: folds
+DiggErr555: calls 40
+Mishator: raises 456 to 496 and is all-in
+Xaboom1: folds
+Elvasco543: folds
+dweller123: folds
+DiggErr555: calls 456
+*** FLOP *** [9s Jh 7d]
+*** TURN *** [9s Jh 7d] [2h]
+*** RIVER *** [9s Jh 7d 2h] [2s]
+*** SHOW DOWN ***
+DiggErr555: shows [Jd As] (two pair, Jacks and Deuces)
+Mishator: shows [Ac Qd] (a pair of Deuces)
+DiggErr555 collected 1076 from pot
+DiggErr555 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1076 | Rake 0
+Board [9s Jh 7d 2h 2s]
+Seat 1: Mishator showed [Ac Qd] and lost with a pair of Deuces
+Seat 2: Xaboom1 (button) folded before Flop (didn't bet)
+Seat 3: Elvasco543 (small blind) folded before Flop
+Seat 4: dweller123 (big blind) folded before Flop
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: DiggErr555 showed [Jd As] and won (1076) with two pair, Jacks and Deuces
+
+PokerStars Hand #189829506278: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:01:49 MSK [2018/08/12 23:01:49 ET]
+Table '2381060886 1' 6-max Seat #3 is the button
+Seat 2: Xaboom1 (91 in chips)
+Seat 3: Elvasco543 (450 in chips)
+Seat 4: dweller123 (710 in chips)
+Seat 5: 2Ran128 (443 in chips)
+Seat 6: DiggErr555 (1306 in chips)
+Xaboom1: posts the ante 4
+Elvasco543: posts the ante 4
+dweller123: posts the ante 4
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+dweller123: posts small blind 20
+2Ran128: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 6c]
+DiggErr555: calls 40
+Xaboom1: folds
+Elvasco543: folds
+dweller123: folds
+2Ran128: checks
+*** FLOP *** [3c 7d Js]
+2Ran128: checks
+DiggErr555: checks
+*** TURN *** [3c 7d Js] [Qd]
+2Ran128: bets 48
+DiggErr555: folds
+Uncalled bet (48) returned to 2Ran128
+2Ran128 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [3c 7d Js Qd]
+Seat 2: Xaboom1 folded before Flop (didn't bet)
+Seat 3: Elvasco543 (button) folded before Flop (didn't bet)
+Seat 4: dweller123 (small blind) folded before Flop
+Seat 5: 2Ran128 (big blind) collected (120)
+Seat 6: DiggErr555 folded on the Turn
+
+PokerStars Hand #189829515151: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:02:23 MSK [2018/08/12 23:02:23 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 2: Xaboom1 (87 in chips)
+Seat 3: Elvasco543 (446 in chips)
+Seat 4: dweller123 (686 in chips)
+Seat 5: 2Ran128 (519 in chips)
+Seat 6: DiggErr555 (1262 in chips)
+Xaboom1: posts the ante 4
+Elvasco543: posts the ante 4
+dweller123: posts the ante 4
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Td]
+Xaboom1: raises 43 to 83 and is all-in
+Elvasco543: folds
+dweller123: folds
+2Ran128: raises 432 to 515 and is all-in
+DiggErr555: folds
+Uncalled bet (432) returned to 2Ran128
+*** FLOP *** [Ac Ah 9s]
+*** TURN *** [Ac Ah 9s] [Ad]
+*** RIVER *** [Ac Ah 9s Ad] [Th]
+*** SHOW DOWN ***
+2Ran128: shows [Kd 2c] (three of a kind, Aces)
+Xaboom1: shows [Qs 8s] (three of a kind, Aces - lower kicker)
+2Ran128 collected 226 from pot
+2Ran128 wins the $4.79 bounty for eliminating Xaboom1
+Xaboom1 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 226 | Rake 0
+Board [Ac Ah 9s Ad Th]
+Seat 2: Xaboom1 showed [Qs 8s] and lost with three of a kind, Aces
+Seat 3: Elvasco543 folded before Flop (didn't bet)
+Seat 4: dweller123 (button) folded before Flop (didn't bet)
+Seat 5: 2Ran128 (small blind) showed [Kd 2c] and won (226) with three of a kind, Aces
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829520113: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:02:42 MSK [2018/08/12 23:02:42 ET]
+Table '2381060886 1' 6-max Seat #5 is the button
+Seat 3: Elvasco543 (442 in chips)
+Seat 4: dweller123 (682 in chips)
+Seat 5: 2Ran128 (658 in chips)
+Seat 6: DiggErr555 (1218 in chips)
+Elvasco543: posts the ante 4
+dweller123: posts the ante 4
+2Ran128: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+Elvasco543: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 6d]
+dweller123: raises 80 to 120
+2Ran128: folds
+DiggErr555: folds
+Elvasco543: folds
+Uncalled bet (80) returned to dweller123
+dweller123 collected 116 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 3: Elvasco543 (big blind) folded before Flop
+Seat 4: dweller123 collected (116)
+Seat 5: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829524146: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:02:57 MSK [2018/08/12 23:02:57 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 3: Elvasco543 (398 in chips)
+Seat 4: dweller123 (754 in chips)
+Seat 5: 2Ran128 (654 in chips)
+Seat 6: DiggErr555 (1194 in chips)
+Elvasco543: posts the ante 6
+dweller123: posts the ante 6
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+Elvasco543: posts small blind 30
+dweller123: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 7s]
+2Ran128: folds
+DiggErr555: folds
+Elvasco543: calls 30
+dweller123: checks
+*** FLOP *** [Ac Ts Jh]
+Elvasco543: bets 240
+dweller123: raises 448 to 688 and is all-in
+Elvasco543: calls 92 and is all-in
+Uncalled bet (356) returned to dweller123
+*** TURN *** [Ac Ts Jh] [7h]
+*** RIVER *** [Ac Ts Jh 7h] [2h]
+*** SHOW DOWN ***
+Elvasco543: shows [Th Js] (two pair, Jacks and Tens)
+dweller123: shows [2c As] (two pair, Aces and Deuces)
+dweller123 collected 808 from pot
+dweller123 wins the $4.79 bounty for eliminating Elvasco543
+Elvasco543 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 808 | Rake 0
+Board [Ac Ts Jh 7h 2h]
+Seat 3: Elvasco543 (small blind) showed [Th Js] and lost with two pair, Jacks and Tens
+Seat 4: dweller123 (big blind) showed [2c As] and won (808) with two pair, Aces and Deuces
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829530502: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:03:22 MSK [2018/08/12 23:03:22 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (1164 in chips)
+Seat 5: 2Ran128 (648 in chips)
+Seat 6: DiggErr555 (1188 in chips)
+dweller123: posts the ante 6
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+2Ran128: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 3s]
+dweller123: folds
+2Ran128: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 4: dweller123 (button) folded before Flop (didn't bet)
+Seat 5: 2Ran128 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (78)
+
+PokerStars Hand #189829532520: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:03:30 MSK [2018/08/12 23:03:30 ET]
+Table '2381060886 1' 6-max Seat #5 is the button
+Seat 4: dweller123 (1158 in chips)
+Seat 5: 2Ran128 (612 in chips)
+Seat 6: DiggErr555 (1230 in chips)
+dweller123: posts the ante 6
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+dweller123: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 9c]
+2Ran128: raises 420 to 480
+DiggErr555: folds
+dweller123: folds
+Uncalled bet (420) returned to 2Ran128
+2Ran128 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 4: dweller123 (big blind) folded before Flop
+Seat 5: 2Ran128 (button) collected (168)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829534973: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:03:39 MSK [2018/08/12 23:03:39 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (1092 in chips)
+Seat 5: 2Ran128 (714 in chips)
+Seat 6: DiggErr555 (1194 in chips)
+dweller123: posts the ante 6
+2Ran128: posts the ante 6
+DiggErr555: posts the ante 6
+dweller123: posts small blind 30
+2Ran128: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c Tc]
+DiggErr555: folds
+dweller123: raises 120 to 180
+2Ran128: raises 528 to 708 and is all-in
+dweller123: calls 528
+*** FLOP *** [Ks 9s Qs]
+*** TURN *** [Ks 9s Qs] [Jc]
+*** RIVER *** [Ks 9s Qs Jc] [4s]
+*** SHOW DOWN ***
+dweller123: shows [Kc 7d] (a pair of Kings)
+2Ran128: shows [5c 5h] (a pair of Fives)
+dweller123 collected 1434 from pot
+dweller123 wins the $4.79 bounty for eliminating 2Ran128
+2Ran128 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1434 | Rake 0
+Board [Ks 9s Qs Jc 4s]
+Seat 4: dweller123 (small blind) showed [Kc 7d] and won (1434) with a pair of Kings
+Seat 5: 2Ran128 (big blind) showed [5c 5h] and lost with a pair of Fives
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829541389: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:04:04 MSK [2018/08/12 23:04:04 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (1812 in chips)
+Seat 6: DiggErr555 (1188 in chips)
+dweller123: posts the ante 6
+DiggErr555: posts the ante 6
+dweller123: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 4c]
+dweller123: raises 120 to 180
+DiggErr555: folds
+Uncalled bet (120) returned to dweller123
+dweller123 collected 132 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 4: dweller123 (button) (small blind) collected (132)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829544740: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:04:16 MSK [2018/08/12 23:04:16 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (1878 in chips)
+Seat 6: DiggErr555 (1122 in chips)
+dweller123: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+dweller123: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 8d]
+DiggErr555: calls 40
+dweller123: raises 160 to 240
+DiggErr555: folds
+Uncalled bet (160) returned to dweller123
+dweller123 collected 176 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 4: dweller123 (big blind) collected (176)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829547267: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:04:26 MSK [2018/08/12 23:04:26 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (1966 in chips)
+Seat 6: DiggErr555 (1034 in chips)
+dweller123: posts the ante 8
+DiggErr555: posts the ante 8
+dweller123: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 7h]
+dweller123: calls 40
+DiggErr555: checks
+*** FLOP *** [Jh Qh 6s]
+DiggErr555: checks
+dweller123: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to dweller123
+dweller123 collected 176 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [Jh Qh 6s]
+Seat 4: dweller123 (button) (small blind) collected (176)
+Seat 6: DiggErr555 (big blind) folded on the Flop
+
+PokerStars Hand #189829552565: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:04:46 MSK [2018/08/12 23:04:46 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (2054 in chips)
+Seat 6: DiggErr555 (946 in chips)
+dweller123: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+dweller123: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 7h]
+DiggErr555: calls 40
+dweller123: checks
+*** FLOP *** [4s 2h 6h]
+dweller123: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to dweller123
+dweller123 collected 176 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [4s 2h 6h]
+Seat 4: dweller123 (big blind) collected (176)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189829556694: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:05:02 MSK [2018/08/12 23:05:02 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (2142 in chips)
+Seat 6: DiggErr555 (858 in chips)
+dweller123: posts the ante 8
+DiggErr555: posts the ante 8
+dweller123: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 4h]
+dweller123: calls 40
+DiggErr555: checks
+*** FLOP *** [3s Qs 9c]
+DiggErr555: checks
+dweller123: checks
+*** TURN *** [3s Qs 9c] [Jh]
+DiggErr555: checks
+dweller123: checks
+*** RIVER *** [3s Qs 9c Jh] [Td]
+DiggErr555: checks
+dweller123: bets 80
+DiggErr555: folds
+Uncalled bet (80) returned to dweller123
+dweller123 collected 176 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Board [3s Qs 9c Jh Td]
+Seat 4: dweller123 (button) (small blind) collected (176)
+Seat 6: DiggErr555 (big blind) folded on the River
+
+PokerStars Hand #189829564641: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:05:33 MSK [2018/08/12 23:05:33 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (2230 in chips)
+Seat 6: DiggErr555 (770 in chips)
+dweller123: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+dweller123: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Jd]
+DiggErr555: calls 40
+dweller123: raises 160 to 240
+DiggErr555: folds
+Uncalled bet (160) returned to dweller123
+dweller123 collected 176 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 4: dweller123 (big blind) collected (176)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829570086: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:05:54 MSK [2018/08/12 23:05:54 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (2318 in chips)
+Seat 6: DiggErr555 (682 in chips)
+dweller123: posts the ante 10
+DiggErr555: posts the ante 10
+dweller123: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 2c]
+dweller123: calls 50
+DiggErr555: checks
+*** FLOP *** [Qd Th Jd]
+DiggErr555: checks
+dweller123: checks
+*** TURN *** [Qd Th Jd] [Ad]
+DiggErr555: checks
+dweller123: checks
+*** RIVER *** [Qd Th Jd Ad] [5h]
+DiggErr555: checks
+dweller123: checks
+*** SHOW DOWN ***
+DiggErr555: shows [Qh 2c] (a pair of Queens)
+dweller123: mucks hand
+DiggErr555 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Board [Qd Th Jd Ad 5h]
+Seat 4: dweller123 (button) (small blind) mucked [7s 6h]
+Seat 6: DiggErr555 (big blind) showed [Qh 2c] and won (220) with a pair of Queens
+
+PokerStars Hand #189829575080: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:06:13 MSK [2018/08/12 23:06:13 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (2208 in chips)
+Seat 6: DiggErr555 (792 in chips)
+dweller123: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+dweller123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Td]
+DiggErr555: raises 682 to 782 and is all-in
+dweller123: calls 682
+*** FLOP *** [Kc 8s 7h]
+*** TURN *** [Kc 8s 7h] [2s]
+*** RIVER *** [Kc 8s 7h 2s] [Qs]
+*** SHOW DOWN ***
+dweller123: shows [9h Ad] (high card Ace)
+DiggErr555: shows [8h Td] (a pair of Eights)
+DiggErr555 collected 1584 from pot
+*** SUMMARY ***
+Total pot 1584 | Rake 0
+Board [Kc 8s 7h 2s Qs]
+Seat 4: dweller123 (big blind) showed [9h Ad] and lost with high card Ace
+Seat 6: DiggErr555 (button) (small blind) showed [8h Td] and won (1584) with a pair of Eights
+
+PokerStars Hand #189829578138: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:06:25 MSK [2018/08/12 23:06:25 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (1416 in chips)
+Seat 6: DiggErr555 (1584 in chips)
+dweller123: posts the ante 10
+DiggErr555: posts the ante 10
+dweller123: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 4s]
+dweller123: calls 50
+DiggErr555: checks
+*** FLOP *** [Qh 2h 5d]
+DiggErr555: checks
+dweller123: checks
+*** TURN *** [Qh 2h 5d] [Ah]
+DiggErr555: bets 100
+dweller123: calls 100
+*** RIVER *** [Qh 2h 5d Ah] [9h]
+DiggErr555: bets 218
+dweller123: calls 218
+*** SHOW DOWN ***
+DiggErr555: shows [6c 4s] (high card Ace)
+dweller123: shows [7h Ks] (a flush, Ace high)
+dweller123 collected 856 from pot
+*** SUMMARY ***
+Total pot 856 | Rake 0
+Board [Qh 2h 5d Ah 9h]
+Seat 4: dweller123 (button) (small blind) showed [7h Ks] and won (856) with a flush, Ace high
+Seat 6: DiggErr555 (big blind) showed [6c 4s] and lost with high card Ace
+
+PokerStars Hand #189829585117: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:06:52 MSK [2018/08/12 23:06:52 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (1844 in chips)
+Seat 6: DiggErr555 (1156 in chips)
+dweller123: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+dweller123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 5h]
+DiggErr555: folds
+Uncalled bet (50) returned to dweller123
+dweller123 collected 120 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 4: dweller123 (big blind) collected (120)
+Seat 6: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829586069: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:06:56 MSK [2018/08/12 23:06:56 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (1904 in chips)
+Seat 6: DiggErr555 (1096 in chips)
+dweller123: posts the ante 10
+DiggErr555: posts the ante 10
+dweller123: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c As]
+dweller123: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 4: dweller123 (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (120)
+
+PokerStars Hand #189829587382: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:07:01 MSK [2018/08/12 23:07:01 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (1844 in chips)
+Seat 6: DiggErr555 (1156 in chips)
+dweller123: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+dweller123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h Kd]
+DiggErr555: calls 50
+dweller123: checks
+*** FLOP *** [2s 8c 5s]
+dweller123: bets 100
+DiggErr555: folds
+Uncalled bet (100) returned to dweller123
+dweller123 collected 220 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Board [2s 8c 5s]
+Seat 4: dweller123 (big blind) collected (220)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189829591301: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:07:16 MSK [2018/08/12 23:07:16 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (1954 in chips)
+Seat 6: DiggErr555 (1046 in chips)
+dweller123: posts the ante 12
+DiggErr555: posts the ante 12
+dweller123: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 8h]
+dweller123: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 144 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 4: dweller123 (button) (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (144)
+
+PokerStars Hand #189829592593: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:07:21 MSK [2018/08/12 23:07:21 ET]
+Table '2381060886 1' 6-max Seat #6 is the button
+Seat 4: dweller123 (1882 in chips)
+Seat 6: DiggErr555 (1118 in chips)
+dweller123: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+dweller123: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Js]
+DiggErr555: calls 60
+dweller123: checks
+*** FLOP *** [9c 8h 7h]
+dweller123: bets 120
+DiggErr555: folds
+Uncalled bet (120) returned to dweller123
+dweller123 collected 264 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 264 | Rake 0
+Board [9c 8h 7h]
+Seat 4: dweller123 (big blind) collected (264)
+Seat 6: DiggErr555 (button) (small blind) folded on the Flop
+
+PokerStars Hand #189829595948: Tournament #2381060886, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:07:34 MSK [2018/08/12 23:07:34 ET]
+Table '2381060886 1' 6-max Seat #4 is the button
+Seat 4: dweller123 (2014 in chips)
+Seat 6: DiggErr555 (986 in chips)
+dweller123: posts the ante 12
+DiggErr555: posts the ante 12
+dweller123: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Qh]
+dweller123: calls 60
+DiggErr555: raises 854 to 974 and is all-in
+dweller123: calls 854
+*** FLOP *** [9c 8s 2c]
+*** TURN *** [9c 8s 2c] [5d]
+*** RIVER *** [9c 8s 2c 5d] [7s]
+*** SHOW DOWN ***
+DiggErr555: shows [Th Qh] (high card Queen)
+dweller123: shows [Kh 8d] (a pair of Eights)
+dweller123 collected 1972 from pot
+dweller123 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+dweller123 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1972 | Rake 0
+Board [9c 8s 2c 5d 7s]
+Seat 4: dweller123 (button) (small blind) showed [Kh 8d] and won (1972) with a pair of Eights
+Seat 6: DiggErr555 (big blind) showed [Th Qh] and lost with high card Queen

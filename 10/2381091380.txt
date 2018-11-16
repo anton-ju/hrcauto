@@ -1,0 +1,48 @@
+
+
+PokerStars Hand #189830783633: Tournament #2381091380, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:32:21 MSK [2018/08/13 0:32:21 ET]
+Table '2381091380 1' 6-max Seat #1 is the button
+Seat 1: LimpAndJam (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: salppis (500 in chips)
+Seat 4: Jumbo5587 (500 in chips)
+Seat 5: Hpak205 (500 in chips)
+Seat 6: joel 1206 (500 in chips)
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+salppis: posts the ante 2
+Jumbo5587: posts the ante 2
+Hpak205: posts the ante 2
+joel 1206: posts the ante 2
+DiggErr555: posts small blind 10
+salppis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 6c]
+Jumbo5587: folds
+Hpak205: folds
+joel 1206: calls 20
+LimpAndJam: calls 20
+DiggErr555: raises 478 to 498 and is all-in
+salppis: folds
+joel 1206: calls 478 and is all-in
+LimpAndJam: calls 478 and is all-in
+*** FLOP *** [4c 4d 5h]
+*** TURN *** [4c 4d 5h] [4h]
+*** RIVER *** [4c 4d 5h 4h] [4s]
+*** SHOW DOWN ***
+DiggErr555: shows [6h 6c] (four of a kind, Fours)
+joel 1206: shows [Kh Th] (four of a kind, Fours - King kicker)
+LimpAndJam: shows [7c Kc] (four of a kind, Fours)
+joel 1206 collected 763 from pot
+LimpAndJam collected 763 from pot
+joel 1206, LimpAndJam split the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1526 | Rake 0
+Board [4c 4d 5h 4h 4s]
+Seat 1: LimpAndJam (button) showed [7c Kc] and won (763) with four of a kind, Fours
+Seat 2: DiggErr555 (small blind) showed [6h 6c] and lost with four of a kind, Fours
+Seat 3: salppis (big blind) folded before Flop
+Seat 4: Jumbo5587 folded before Flop (didn't bet)
+Seat 5: Hpak205 folded before Flop (didn't bet)
+Seat 6: joel 1206 showed [Kh Th] and won (763) with four of a kind, Fours

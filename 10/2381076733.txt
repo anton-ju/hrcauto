@@ -1,0 +1,266 @@
+
+
+PokerStars Hand #189830162440: Tournament #2381076733, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:45:04 MSK [2018/08/12 23:45:04 ET]
+Table '2381076733 1' 6-max Seat #1 is the button
+Seat 1: TKDBIGDAD (500 in chips)
+Seat 2: LuckyLeopard (500 in chips)
+Seat 3: sergo78 (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: wildchiId (500 in chips)
+Seat 6: RellasRent (500 in chips)
+TKDBIGDAD: posts the ante 2
+LuckyLeopard: posts the ante 2
+sergo78: posts the ante 2
+DiggErr555: posts the ante 2
+wildchiId: posts the ante 2
+RellasRent: posts the ante 2
+LuckyLeopard: posts small blind 10
+sergo78: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 2d]
+DiggErr555: folds
+wildchiId: folds
+RellasRent: folds
+TKDBIGDAD: calls 20
+LuckyLeopard: calls 10
+sergo78: checks
+*** FLOP *** [Qc Jh Qh]
+LuckyLeopard: checks
+sergo78: checks
+TKDBIGDAD: checks
+*** TURN *** [Qc Jh Qh] [8d]
+LuckyLeopard: bets 20
+sergo78: calls 20
+TKDBIGDAD: folds
+*** RIVER *** [Qc Jh Qh 8d] [4c]
+LuckyLeopard: checks
+sergo78: bets 120
+LuckyLeopard: folds
+Uncalled bet (120) returned to sergo78
+sergo78 collected 112 from pot
+sergo78: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Board [Qc Jh Qh 8d 4c]
+Seat 1: TKDBIGDAD (button) folded on the Turn
+Seat 2: LuckyLeopard (small blind) folded on the River
+Seat 3: sergo78 (big blind) collected (112)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: wildchiId folded before Flop (didn't bet)
+Seat 6: RellasRent folded before Flop (didn't bet)
+
+PokerStars Hand #189830174481: Tournament #2381076733, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:45:55 MSK [2018/08/12 23:45:55 ET]
+Table '2381076733 1' 6-max Seat #2 is the button
+Seat 1: TKDBIGDAD (478 in chips)
+Seat 2: LuckyLeopard (458 in chips)
+Seat 3: sergo78 (570 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: wildchiId (498 in chips)
+Seat 6: RellasRent (498 in chips)
+TKDBIGDAD: posts the ante 2
+LuckyLeopard: posts the ante 2
+sergo78: posts the ante 2
+DiggErr555: posts the ante 2
+wildchiId: posts the ante 2
+RellasRent: posts the ante 2
+sergo78: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 9d]
+wildchiId: folds
+RellasRent: folds
+TKDBIGDAD: calls 20
+LuckyLeopard: folds
+sergo78: calls 10
+DiggErr555: checks
+*** FLOP *** [3c Kh 7c]
+sergo78: checks
+DiggErr555: checks
+TKDBIGDAD: bets 80
+sergo78: calls 80
+DiggErr555: folds
+*** TURN *** [3c Kh 7c] [Ts]
+sergo78: checks
+TKDBIGDAD: bets 376 and is all-in
+sergo78: calls 376
+*** RIVER *** [3c Kh 7c Ts] [Qc]
+*** SHOW DOWN ***
+sergo78: shows [Kc Ks] (three of a kind, Kings)
+TKDBIGDAD: shows [Tc Ad] (a pair of Tens)
+sergo78 collected 984 from pot
+sergo78 wins the $4.79 bounty for eliminating TKDBIGDAD
+TKDBIGDAD finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 984 | Rake 0
+Board [3c Kh 7c Ts Qc]
+Seat 1: TKDBIGDAD showed [Tc Ad] and lost with a pair of Tens
+Seat 2: LuckyLeopard (button) folded before Flop (didn't bet)
+Seat 3: sergo78 (small blind) showed [Kc Ks] and won (984) with three of a kind, Kings
+Seat 4: DiggErr555 (big blind) folded on the Flop
+Seat 5: wildchiId folded before Flop (didn't bet)
+Seat 6: RellasRent folded before Flop (didn't bet)
+
+PokerStars Hand #189830183383: Tournament #2381076733, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:46:33 MSK [2018/08/12 23:46:33 ET]
+Table '2381076733 1' 6-max Seat #3 is the button
+Seat 2: LuckyLeopard (456 in chips)
+Seat 3: sergo78 (1076 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 5: wildchiId (496 in chips)
+Seat 6: RellasRent (496 in chips)
+LuckyLeopard: posts the ante 2
+sergo78: posts the ante 2
+DiggErr555: posts the ante 2
+wildchiId: posts the ante 2
+RellasRent: posts the ante 2
+DiggErr555: posts small blind 10
+wildchiId: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d Ac]
+RellasRent: calls 20
+LuckyLeopard: folds
+sergo78: folds
+DiggErr555: raises 454 to 474 and is all-in
+wildchiId: folds
+RellasRent: folds
+Uncalled bet (454) returned to DiggErr555
+DiggErr555 collected 70 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 70 | Rake 0
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: sergo78 (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) collected (70)
+Seat 5: wildchiId (big blind) folded before Flop
+Seat 6: RellasRent folded before Flop
+
+PokerStars Hand #189830189087: Tournament #2381076733, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:46:58 MSK [2018/08/12 23:46:58 ET]
+Table '2381076733 1' 6-max Seat #4 is the button
+Seat 2: LuckyLeopard (454 in chips)
+Seat 3: sergo78 (1074 in chips)
+Seat 4: DiggErr555 (524 in chips)
+Seat 5: wildchiId (474 in chips)
+Seat 6: RellasRent (474 in chips)
+LuckyLeopard: posts the ante 3
+sergo78: posts the ante 3
+DiggErr555: posts the ante 3
+wildchiId: posts the ante 3
+RellasRent: posts the ante 3
+wildchiId: posts small blind 15
+RellasRent: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad Tc]
+LuckyLeopard: folds
+sergo78: calls 30
+DiggErr555: raises 491 to 521 and is all-in
+wildchiId: folds
+RellasRent: calls 441 and is all-in
+sergo78: folds
+Uncalled bet (50) returned to DiggErr555
+*** FLOP *** [Ac 9c 2s]
+*** TURN *** [Ac 9c 2s] [3c]
+*** RIVER *** [Ac 9c 2s 3c] [8d]
+*** SHOW DOWN ***
+RellasRent: shows [As Qs] (a pair of Aces)
+DiggErr555: shows [Ad Tc] (a pair of Aces - lower kicker)
+RellasRent collected 1002 from pot
+*** SUMMARY ***
+Total pot 1002 | Rake 0
+Board [Ac 9c 2s 3c 8d]
+Seat 2: LuckyLeopard folded before Flop (didn't bet)
+Seat 3: sergo78 folded before Flop
+Seat 4: DiggErr555 (button) showed [Ad Tc] and lost with a pair of Aces
+Seat 5: wildchiId (small blind) folded before Flop
+Seat 6: RellasRent (big blind) showed [As Qs] and won (1002) with a pair of Aces
+
+PokerStars Hand #189830194707: Tournament #2381076733, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:47:22 MSK [2018/08/12 23:47:22 ET]
+Table '2381076733 1' 6-max Seat #5 is the button
+Seat 2: LuckyLeopard (451 in chips)
+Seat 3: sergo78 (1041 in chips)
+Seat 4: DiggErr555 (50 in chips)
+Seat 5: wildchiId (456 in chips)
+Seat 6: RellasRent (1002 in chips)
+LuckyLeopard: posts the ante 3
+sergo78: posts the ante 3
+DiggErr555: posts the ante 3
+wildchiId: posts the ante 3
+RellasRent: posts the ante 3
+RellasRent: posts small blind 15
+LuckyLeopard: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 8d]
+sergo78: calls 30
+DiggErr555: folds
+wildchiId: folds
+RellasRent: calls 15
+LuckyLeopard: checks
+*** FLOP *** [8h 9c Ac]
+RellasRent: checks
+LuckyLeopard: checks
+sergo78: bets 30
+RellasRent: calls 30
+LuckyLeopard: folds
+*** TURN *** [8h 9c Ac] [8c]
+RellasRent: checks
+sergo78: bets 30
+RellasRent: calls 30
+*** RIVER *** [8h 9c Ac 8c] [2s]
+RellasRent: bets 113
+sergo78: calls 113
+*** SHOW DOWN ***
+RellasRent: shows [2d Ad] (two pair, Aces and Eights)
+sergo78: mucks hand
+RellasRent collected 451 from pot
+*** SUMMARY ***
+Total pot 451 | Rake 0
+Board [8h 9c Ac 8c 2s]
+Seat 2: LuckyLeopard (big blind) folded on the Flop
+Seat 3: sergo78 mucked [9h 6s]
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: wildchiId (button) folded before Flop (didn't bet)
+Seat 6: RellasRent (small blind) showed [2d Ad] and won (451) with two pair, Aces and Eights
+
+PokerStars Hand #189830204458: Tournament #2381076733, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:04 MSK [2018/08/12 23:48:04 ET]
+Table '2381076733 1' 6-max Seat #6 is the button
+Seat 2: LuckyLeopard (418 in chips)
+Seat 3: sergo78 (835 in chips)
+Seat 4: DiggErr555 (47 in chips)
+Seat 5: wildchiId (453 in chips)
+Seat 6: RellasRent (1247 in chips)
+LuckyLeopard: posts the ante 3
+sergo78: posts the ante 3
+DiggErr555: posts the ante 3
+wildchiId: posts the ante 3
+RellasRent: posts the ante 3
+LuckyLeopard: posts small blind 15
+sergo78: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs As]
+DiggErr555: raises 14 to 44 and is all-in
+wildchiId: calls 44
+RellasRent: calls 44
+LuckyLeopard: calls 29
+sergo78: calls 14
+*** FLOP *** [5d 6d Kc]
+LuckyLeopard: checks
+sergo78: checks
+wildchiId: bets 406 and is all-in
+RellasRent: folds
+LuckyLeopard: folds
+sergo78: folds
+Uncalled bet (406) returned to wildchiId
+*** TURN *** [5d 6d Kc] [7h]
+*** RIVER *** [5d 6d Kc 7h] [Qc]
+*** SHOW DOWN ***
+DiggErr555: shows [Qs As] (a pair of Queens)
+wildchiId: shows [Ks Kd] (three of a kind, Kings)
+wildchiId collected 235 from pot
+wildchiId wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 235 | Rake 0
+Board [5d 6d Kc 7h Qc]
+Seat 2: LuckyLeopard (small blind) folded on the Flop
+Seat 3: sergo78 (big blind) folded on the Flop
+Seat 4: DiggErr555 showed [Qs As] and lost with a pair of Queens
+Seat 5: wildchiId showed [Ks Kd] and won (235) with three of a kind, Kings
+Seat 6: RellasRent (button) folded on the Flop

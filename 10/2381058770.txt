@@ -1,0 +1,739 @@
+
+
+PokerStars Hand #189829377287: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:53:42 MSK [2018/08/12 22:53:42 ET]
+Table '2381058770 1' 6-max Seat #1 is the button
+Seat 1: bompoker405 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: kanedog11 (500 in chips)
+Seat 4: Mishator (500 in chips)
+Seat 5: shushe (500 in chips)
+Seat 6: chorls464 (500 in chips)
+bompoker405: posts the ante 2
+DiggErr555: posts the ante 2
+kanedog11: posts the ante 2
+Mishator: posts the ante 2
+shushe: posts the ante 2
+chorls464: posts the ante 2
+DiggErr555: posts small blind 10
+kanedog11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s 8c]
+Mishator: folds
+shushe: folds
+chorls464: raises 478 to 498 and is all-in
+bompoker405: folds
+DiggErr555: calls 488 and is all-in
+kanedog11: folds
+*** FLOP *** [5s 4c 3c]
+*** TURN *** [5s 4c 3c] [2c]
+*** RIVER *** [5s 4c 3c 2c] [Kc]
+kanedog11 is disconnected
+*** SHOW DOWN ***
+DiggErr555: shows [8s 8c] (a flush, King high)
+chorls464: shows [Jh As] (a straight, Ace to Five)
+DiggErr555 collected 1028 from pot
+DiggErr555 wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1028 | Rake 0
+Board [5s 4c 3c 2c Kc]
+Seat 1: bompoker405 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) showed [8s 8c] and won (1028) with a flush, King high
+Seat 3: kanedog11 (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: shushe folded before Flop (didn't bet)
+Seat 6: chorls464 showed [Jh As] and lost with a straight, Ace to Five
+
+PokerStars Hand #189829395434: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:54:49 MSK [2018/08/12 22:54:49 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 1: bompoker405 (498 in chips)
+Seat 2: DiggErr555 (1028 in chips)
+Seat 3: kanedog11 (478 in chips)
+Seat 4: Mishator (498 in chips)
+Seat 5: shushe (498 in chips)
+bompoker405: posts the ante 2
+DiggErr555: posts the ante 2
+kanedog11: posts the ante 2
+Mishator: posts the ante 2
+shushe: posts the ante 2
+kanedog11: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Qs]
+shushe: folds
+bompoker405: folds
+DiggErr555: raises 20 to 40
+kanedog11: folds
+Mishator: calls 20
+*** FLOP *** [2d Th 9c]
+Mishator: checks
+DiggErr555: bets 35
+Mishator: calls 35
+*** TURN *** [2d Th 9c] [7s]
+Mishator: checks
+DiggErr555: bets 59
+Mishator: calls 59
+*** RIVER *** [2d Th 9c 7s] [7d]
+Mishator: checks
+DiggErr555: checks
+*** SHOW DOWN ***
+Mishator: shows [Kh 9d] (two pair, Nines and Sevens)
+DiggErr555: mucks hand
+Mishator collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | Rake 0
+Board [2d Th 9c 7s 7d]
+Seat 1: bompoker405 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) mucked [Kc Qs]
+Seat 3: kanedog11 (small blind) folded before Flop
+Seat 4: Mishator (big blind) showed [Kh 9d] and won (288) with two pair, Nines and Sevens
+Seat 5: shushe folded before Flop (didn't bet)
+
+PokerStars Hand #189829409542: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:55:45 MSK [2018/08/12 22:55:45 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 1: bompoker405 (496 in chips)
+Seat 2: DiggErr555 (892 in chips)
+Seat 3: kanedog11 (466 in chips)
+Seat 4: Mishator (650 in chips)
+Seat 5: shushe (496 in chips)
+bompoker405: posts the ante 2
+DiggErr555: posts the ante 2
+kanedog11: posts the ante 2
+Mishator: posts the ante 2
+shushe: posts the ante 2
+Mishator: posts small blind 10
+shushe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Qc]
+bompoker405: folds
+DiggErr555: raises 20 to 40
+kanedog11: folds
+Mishator: folds
+shushe: calls 20
+*** FLOP *** [Tc 9s 8d]
+shushe: bets 40
+DiggErr555: calls 40
+*** TURN *** [Tc 9s 8d] [Qd]
+shushe: checks
+DiggErr555: checks
+*** RIVER *** [Tc 9s 8d Qd] [6d]
+shushe: checks
+DiggErr555: checks
+*** SHOW DOWN ***
+shushe: shows [Ac Td] (a pair of Tens)
+DiggErr555: shows [6c Qc] (two pair, Queens and Sixes)
+DiggErr555 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [Tc 9s 8d Qd 6d]
+Seat 1: bompoker405 folded before Flop (didn't bet)
+Seat 2: DiggErr555 showed [6c Qc] and won (180) with two pair, Queens and Sixes
+Seat 3: kanedog11 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: shushe (big blind) showed [Ac Td] and lost with a pair of Tens
+
+PokerStars Hand #189829419181: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:56:25 MSK [2018/08/12 22:56:25 ET]
+Table '2381058770 1' 6-max Seat #4 is the button
+Seat 1: bompoker405 (494 in chips)
+Seat 2: DiggErr555 (990 in chips)
+Seat 3: kanedog11 (464 in chips)
+Seat 4: Mishator (638 in chips)
+Seat 5: shushe (414 in chips)
+bompoker405: posts the ante 3
+DiggErr555: posts the ante 3
+kanedog11: posts the ante 3
+Mishator: posts the ante 3
+shushe: posts the ante 3
+shushe: posts small blind 15
+bompoker405: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 3c]
+DiggErr555: folds
+kanedog11: folds
+Mishator: raises 605 to 635 and is all-in
+shushe: folds
+bompoker405: calls 461 and is all-in
+Uncalled bet (144) returned to Mishator
+*** FLOP *** [Qd 6h Ah]
+*** TURN *** [Qd 6h Ah] [Ts]
+*** RIVER *** [Qd 6h Ah Ts] [Kh]
+*** SHOW DOWN ***
+bompoker405: shows [4h 4c] (a pair of Fours)
+Mishator: shows [9h Ks] (a pair of Kings)
+Mishator collected 1012 from pot
+Mishator wins the $4.79 bounty for eliminating bompoker405
+bompoker405 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1012 | Rake 0
+Board [Qd 6h Ah Ts Kh]
+Seat 1: bompoker405 (big blind) showed [4h 4c] and lost with a pair of Fours
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: kanedog11 folded before Flop (didn't bet)
+Seat 4: Mishator (button) showed [9h Ks] and won (1012) with a pair of Kings
+Seat 5: shushe (small blind) folded before Flop
+
+PokerStars Hand #189829425484: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:56:51 MSK [2018/08/12 22:56:51 ET]
+Table '2381058770 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (987 in chips)
+Seat 3: kanedog11 (461 in chips)
+Seat 4: Mishator (1156 in chips)
+Seat 5: shushe (396 in chips)
+DiggErr555: posts the ante 3
+kanedog11: posts the ante 3
+Mishator: posts the ante 3
+shushe: posts the ante 3
+DiggErr555: posts small blind 15
+kanedog11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Th]
+Mishator: folds
+shushe: raises 363 to 393 and is all-in
+DiggErr555: folds
+kanedog11: folds
+Uncalled bet (363) returned to shushe
+shushe collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: kanedog11 (big blind) folded before Flop
+Seat 4: Mishator folded before Flop (didn't bet)
+Seat 5: shushe (button) collected (87)
+
+PokerStars Hand #189829430860: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:57:14 MSK [2018/08/12 22:57:14 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (969 in chips)
+Seat 3: kanedog11 (428 in chips)
+Seat 4: Mishator (1153 in chips)
+Seat 5: shushe (450 in chips)
+DiggErr555: posts the ante 3
+kanedog11: posts the ante 3
+Mishator: posts the ante 3
+shushe: posts the ante 3
+kanedog11: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 2d]
+shushe: folds
+DiggErr555: folds
+kanedog11: folds
+Uncalled bet (15) returned to Mishator
+Mishator collected 42 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: kanedog11 (small blind) folded before Flop
+Seat 4: Mishator (big blind) collected (42)
+Seat 5: shushe folded before Flop (didn't bet)
+
+PokerStars Hand #189829441711: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:57:24 MSK [2018/08/12 22:57:24 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (966 in chips)
+Seat 3: kanedog11 (410 in chips)
+Seat 4: Mishator (1177 in chips)
+Seat 5: shushe (447 in chips)
+DiggErr555: posts the ante 3
+kanedog11: posts the ante 3
+Mishator: posts the ante 3
+shushe: posts the ante 3
+Mishator: posts small blind 15
+shushe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc Ac]
+DiggErr555: raises 30 to 60
+kanedog11: folds
+Mishator: folds
+shushe: calls 30
+*** FLOP *** [6c 2c Td]
+shushe: checks
+DiggErr555: bets 90
+shushe: folds
+Uncalled bet (90) returned to DiggErr555
+DiggErr555 collected 147 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [6c 2c Td]
+Seat 2: DiggErr555 collected (147)
+Seat 3: kanedog11 (button) folded before Flop (didn't bet)
+Seat 4: Mishator (small blind) folded before Flop
+Seat 5: shushe (big blind) folded on the Flop
+
+PokerStars Hand #189829448347: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:57:52 MSK [2018/08/12 22:57:52 ET]
+Table '2381058770 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (1050 in chips)
+Seat 3: kanedog11 (407 in chips)
+Seat 4: Mishator (1159 in chips)
+Seat 5: shushe (384 in chips)
+DiggErr555: posts the ante 4
+kanedog11: posts the ante 4
+Mishator: posts the ante 4
+shushe: posts the ante 4
+shushe: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 8c]
+kanedog11: raises 363 to 403 and is all-in
+Mishator: folds
+shushe: folds
+DiggErr555: folds
+Uncalled bet (363) returned to kanedog11
+kanedog11 collected 116 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: kanedog11 collected (116)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+Seat 5: shushe (small blind) folded before Flop
+
+PokerStars Hand #189829451521: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:58:05 MSK [2018/08/12 22:58:05 ET]
+Table '2381058770 1' 6-max Seat #5 is the button
+Seat 2: DiggErr555 (1006 in chips)
+Seat 3: kanedog11 (479 in chips)
+Seat 4: Mishator (1155 in chips)
+Seat 5: shushe (360 in chips)
+DiggErr555: posts the ante 4
+kanedog11: posts the ante 4
+Mishator: posts the ante 4
+shushe: posts the ante 4
+DiggErr555: posts small blind 20
+kanedog11: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 7c]
+Mishator: raises 40 to 80
+shushe: raises 276 to 356 and is all-in
+DiggErr555: folds
+kanedog11: raises 119 to 475 and is all-in
+Mishator: calls 395
+*** FLOP *** [4s 7s Jc]
+*** TURN *** [4s 7s Jc] [6c]
+*** RIVER *** [4s 7s Jc 6c] [6h]
+*** SHOW DOWN ***
+kanedog11: shows [9s 9c] (two pair, Nines and Sixes)
+Mishator: shows [8s 8h] (two pair, Eights and Sixes)
+kanedog11 collected 238 from side pot
+shushe: shows [4c As] (two pair, Sixes and Fours)
+kanedog11 collected 1104 from main pot
+kanedog11 wins the $4.79 bounty for eliminating shushe
+shushe finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1342 Main pot 1104. Side pot 238. | Rake 0
+Board [4s 7s Jc 6c 6h]
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: kanedog11 (big blind) showed [9s 9c] and won (1342) with two pair, Nines and Sixes
+Seat 4: Mishator showed [8s 8h] and lost with two pair, Eights and Sixes
+Seat 5: shushe (button) showed [4c As] and lost with two pair, Sixes and Fours
+
+PokerStars Hand #189829457107: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:58:29 MSK [2018/08/12 22:58:29 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (982 in chips)
+Seat 3: kanedog11 (1342 in chips)
+Seat 4: Mishator (676 in chips)
+DiggErr555: posts the ante 4
+kanedog11: posts the ante 4
+Mishator: posts the ante 4
+kanedog11: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 8c]
+DiggErr555: folds
+kanedog11: raises 1298 to 1338 and is all-in
+Mishator: folds
+Uncalled bet (1298) returned to kanedog11
+kanedog11 collected 92 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: kanedog11 (small blind) collected (92)
+Seat 4: Mishator (big blind) folded before Flop
+
+PokerStars Hand #189829460793: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:58:44 MSK [2018/08/12 22:58:44 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (978 in chips)
+Seat 3: kanedog11 (1390 in chips)
+Seat 4: Mishator (632 in chips)
+DiggErr555: posts the ante 4
+kanedog11: posts the ante 4
+Mishator: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Ts]
+kanedog11: raises 1346 to 1386 and is all-in
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (1346) returned to kanedog11
+kanedog11 collected 112 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: kanedog11 (button) collected (112)
+Seat 4: Mishator (small blind) folded before Flop
+
+PokerStars Hand #189829463902: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:58:57 MSK [2018/08/12 22:58:57 ET]
+Table '2381058770 1' 6-max Seat #4 is the button
+Seat 2: DiggErr555 (934 in chips)
+Seat 3: kanedog11 (1458 in chips)
+Seat 4: Mishator (608 in chips)
+DiggErr555: posts the ante 6
+kanedog11: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts small blind 30
+kanedog11: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 5s]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (30) returned to kanedog11
+kanedog11 collected 78 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: kanedog11 (big blind) collected (78)
+Seat 4: Mishator (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829465854: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:59:05 MSK [2018/08/12 22:59:05 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (898 in chips)
+Seat 3: kanedog11 (1500 in chips)
+Seat 4: Mishator (602 in chips)
+DiggErr555: posts the ante 6
+kanedog11: posts the ante 6
+Mishator: posts the ante 6
+kanedog11: posts small blind 30
+Mishator: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h Jd]
+DiggErr555: folds
+kanedog11: raises 1434 to 1494 and is all-in
+Mishator: calls 536 and is all-in
+Uncalled bet (898) returned to kanedog11
+*** FLOP *** [7c Kc 5s]
+*** TURN *** [7c Kc 5s] [4d]
+*** RIVER *** [7c Kc 5s 4d] [4h]
+*** SHOW DOWN ***
+kanedog11: shows [As Tc] (a pair of Fours)
+Mishator: shows [Jc Qc] (a pair of Fours - lower kicker)
+kanedog11 collected 1210 from pot
+kanedog11 wins the $4.79 bounty for eliminating Mishator
+Mishator finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1210 | Rake 0
+Board [7c Kc 5s 4d 4h]
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: kanedog11 (small blind) showed [As Tc] and won (1210) with a pair of Fours
+Seat 4: Mishator (big blind) showed [Jc Qc] and lost with a pair of Fours
+
+PokerStars Hand #189829470462: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:59:25 MSK [2018/08/12 22:59:25 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (892 in chips)
+Seat 3: kanedog11 (2108 in chips)
+DiggErr555: posts the ante 6
+kanedog11: posts the ante 6
+kanedog11: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 9c]
+kanedog11: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 72 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 2: DiggErr555 (big blind) collected (72)
+Seat 3: kanedog11 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829471666: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:59:30 MSK [2018/08/12 22:59:30 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (928 in chips)
+Seat 3: kanedog11 (2072 in chips)
+DiggErr555: posts the ante 6
+kanedog11: posts the ante 6
+DiggErr555: posts small blind 30
+kanedog11: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts As]
+DiggErr555: calls 30
+kanedog11: checks
+*** FLOP *** [Tc 4h Ac]
+kanedog11: bets 60
+DiggErr555: calls 60
+*** TURN *** [Tc 4h Ac] [5c]
+kanedog11: checks
+DiggErr555: bets 131
+kanedog11: folds
+Uncalled bet (131) returned to DiggErr555
+DiggErr555 collected 252 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 252 | Rake 0
+Board [Tc 4h Ac 5c]
+Seat 2: DiggErr555 (button) (small blind) collected (252)
+Seat 3: kanedog11 (big blind) folded on the Turn
+
+PokerStars Hand #189829480184: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:00:06 MSK [2018/08/12 23:00:06 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1054 in chips)
+Seat 3: kanedog11 (1946 in chips)
+DiggErr555: posts the ante 6
+kanedog11: posts the ante 6
+kanedog11: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Th]
+kanedog11: raises 1880 to 1940 and is all-in
+DiggErr555: folds
+Uncalled bet (1880) returned to kanedog11
+kanedog11 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: kanedog11 (button) (small blind) collected (132)
+
+PokerStars Hand #189829482817: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:00:17 MSK [2018/08/12 23:00:17 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (988 in chips)
+Seat 3: kanedog11 (2012 in chips)
+DiggErr555: posts the ante 8
+kanedog11: posts the ante 8
+DiggErr555: posts small blind 40
+kanedog11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts 5c]
+DiggErr555: calls 40
+kanedog11: checks
+*** FLOP *** [3h 5d 9h]
+kanedog11: bets 80
+DiggErr555: raises 117 to 197
+kanedog11: calls 117
+*** TURN *** [3h 5d 9h] [Ah]
+kanedog11: bets 1727 and is all-in
+DiggErr555: folds
+Uncalled bet (1727) returned to kanedog11
+kanedog11 collected 570 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 570 | Rake 0
+Board [3h 5d 9h Ah]
+Seat 2: DiggErr555 (button) (small blind) folded on the Turn
+Seat 3: kanedog11 (big blind) collected (570)
+
+PokerStars Hand #189829489971: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:00:46 MSK [2018/08/12 23:00:46 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (703 in chips)
+Seat 3: kanedog11 (2297 in chips)
+DiggErr555: posts the ante 8
+kanedog11: posts the ante 8
+kanedog11: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah As]
+kanedog11: raises 2209 to 2289 and is all-in
+DiggErr555: calls 615 and is all-in
+Uncalled bet (1594) returned to kanedog11
+*** FLOP *** [9d 4c 9s]
+*** TURN *** [9d 4c 9s] [2h]
+*** RIVER *** [9d 4c 9s 2h] [8d]
+*** SHOW DOWN ***
+DiggErr555: shows [Ah As] (two pair, Aces and Nines)
+kanedog11: shows [Kh Td] (a pair of Nines)
+DiggErr555 collected 1406 from pot
+*** SUMMARY ***
+Total pot 1406 | Rake 0
+Board [9d 4c 9s 2h 8d]
+Seat 2: DiggErr555 (big blind) showed [Ah As] and won (1406) with two pair, Aces and Nines
+Seat 3: kanedog11 (button) (small blind) showed [Kh Td] and lost with a pair of Nines
+
+PokerStars Hand #189829493069: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:00:58 MSK [2018/08/12 23:00:58 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1406 in chips)
+Seat 3: kanedog11 (1594 in chips)
+DiggErr555: posts the ante 8
+kanedog11: posts the ante 8
+DiggErr555: posts small blind 40
+kanedog11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Qh]
+DiggErr555: calls 40
+kanedog11: raises 1506 to 1586 and is all-in
+DiggErr555: folds
+Uncalled bet (1506) returned to kanedog11
+kanedog11 collected 176 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 176 | Rake 0
+Seat 2: DiggErr555 (button) (small blind) folded before Flop
+Seat 3: kanedog11 (big blind) collected (176)
+
+PokerStars Hand #189829495945: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:01:09 MSK [2018/08/12 23:01:09 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1318 in chips)
+Seat 3: kanedog11 (1682 in chips)
+DiggErr555: posts the ante 8
+kanedog11: posts the ante 8
+kanedog11: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 4h]
+kanedog11: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: DiggErr555 (big blind) collected (96)
+Seat 3: kanedog11 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829497000: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:01:14 MSK [2018/08/12 23:01:14 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1366 in chips)
+Seat 3: kanedog11 (1634 in chips)
+DiggErr555: posts the ante 8
+kanedog11: posts the ante 8
+DiggErr555: posts small blind 40
+kanedog11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 8c]
+DiggErr555: folds
+Uncalled bet (40) returned to kanedog11
+kanedog11 collected 96 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: DiggErr555 (button) (small blind) folded before Flop
+Seat 3: kanedog11 (big blind) collected (96)
+
+PokerStars Hand #189829501757: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:01:32 MSK [2018/08/12 23:01:32 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1318 in chips)
+Seat 3: kanedog11 (1682 in chips)
+DiggErr555: posts the ante 10
+kanedog11: posts the ante 10
+kanedog11: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 7s]
+kanedog11: raises 1572 to 1672 and is all-in
+DiggErr555: folds
+Uncalled bet (1572) returned to kanedog11
+kanedog11 collected 220 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: kanedog11 (button) (small blind) collected (220)
+
+PokerStars Hand #189829506796: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:01:51 MSK [2018/08/12 23:01:51 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1208 in chips)
+Seat 3: kanedog11 (1792 in chips)
+DiggErr555: posts the ante 10
+kanedog11: posts the ante 10
+DiggErr555: posts small blind 50
+kanedog11: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts Kc]
+DiggErr555: calls 50
+kanedog11: checks
+*** FLOP *** [7d Ah Td]
+kanedog11: checks
+DiggErr555: bets 100
+kanedog11: folds
+Uncalled bet (100) returned to DiggErr555
+DiggErr555 collected 220 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Board [7d Ah Td]
+Seat 2: DiggErr555 (button) (small blind) collected (220)
+Seat 3: kanedog11 (big blind) folded on the Flop
+
+PokerStars Hand #189829513711: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:02:17 MSK [2018/08/12 23:02:17 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1318 in chips)
+Seat 3: kanedog11 (1682 in chips)
+DiggErr555: posts the ante 10
+kanedog11: posts the ante 10
+kanedog11: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8h]
+kanedog11: raises 100 to 200
+DiggErr555: folds
+Uncalled bet (100) returned to kanedog11
+kanedog11 collected 220 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: kanedog11 (button) (small blind) collected (220)
+
+PokerStars Hand #189829517459: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:02:32 MSK [2018/08/12 23:02:32 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1208 in chips)
+Seat 3: kanedog11 (1792 in chips)
+DiggErr555: posts the ante 10
+kanedog11: posts the ante 10
+DiggErr555: posts small blind 50
+kanedog11: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h Tc]
+DiggErr555: folds
+Uncalled bet (50) returned to kanedog11
+kanedog11 collected 120 from pot
+kanedog11: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: DiggErr555 (button) (small blind) folded before Flop
+Seat 3: kanedog11 (big blind) collected (120)
+
+PokerStars Hand #189829518859: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:02:37 MSK [2018/08/12 23:02:37 ET]
+Table '2381058770 1' 6-max Seat #3 is the button
+Seat 2: DiggErr555 (1148 in chips)
+Seat 3: kanedog11 (1852 in chips)
+DiggErr555: posts the ante 10
+kanedog11: posts the ante 10
+kanedog11: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 3c]
+kanedog11: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: DiggErr555 (big blind) collected (120)
+Seat 3: kanedog11 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829519965: Tournament #2381058770, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:02:41 MSK [2018/08/12 23:02:41 ET]
+Table '2381058770 1' 6-max Seat #2 is the button
+Seat 2: DiggErr555 (1208 in chips)
+Seat 3: kanedog11 (1792 in chips)
+DiggErr555: posts the ante 10
+kanedog11: posts the ante 10
+DiggErr555: posts small blind 50
+kanedog11: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d Kd]
+DiggErr555: raises 1098 to 1198 and is all-in
+kanedog11: calls 1098
+*** FLOP *** [2d 3h 4s]
+*** TURN *** [2d 3h 4s] [Td]
+*** RIVER *** [2d 3h 4s Td] [6h]
+*** SHOW DOWN ***
+kanedog11: shows [Ts 9h] (a pair of Tens)
+DiggErr555: shows [6d Kd] (a pair of Sixes)
+kanedog11 collected 2416 from pot
+kanedog11 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+kanedog11 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 2416 | Rake 0
+Board [2d 3h 4s Td 6h]
+Seat 2: DiggErr555 (button) (small blind) showed [6d Kd] and lost with a pair of Sixes
+Seat 3: kanedog11 (big blind) showed [Ts 9h] and won (2416) with a pair of Tens

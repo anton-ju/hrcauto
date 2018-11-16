@@ -1,0 +1,369 @@
+
+
+PokerStars Hand #189829035666: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:33:33 MSK [2018/08/12 22:33:33 ET]
+Table '2381046233 1' 6-max Seat #1 is the button
+Seat 1: mrzm0118 (500 in chips)
+Seat 2: Kyleddd (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: bowmanvillan (500 in chips)
+Seat 5: oposs153 (500 in chips)
+Seat 6: deckofdreams (500 in chips)
+mrzm0118: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts the ante 2
+oposs153: posts the ante 2
+deckofdreams: posts the ante 2
+Kyleddd: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9c]
+bowmanvillan: raises 40 to 60
+oposs153: folds
+deckofdreams: raises 438 to 498 and is all-in
+mrzm0118: folds
+Kyleddd: folds
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (438) returned to deckofdreams
+deckofdreams collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | Rake 0
+Seat 1: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 2: Kyleddd (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bowmanvillan folded before Flop
+Seat 5: oposs153 folded before Flop (didn't bet)
+Seat 6: deckofdreams collected (162)
+
+PokerStars Hand #189829042479: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:33:57 MSK [2018/08/12 22:33:57 ET]
+Table '2381046233 1' 6-max Seat #2 is the button
+Seat 1: mrzm0118 (498 in chips)
+Seat 2: Kyleddd (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: bowmanvillan (438 in chips)
+Seat 5: oposs153 (498 in chips)
+Seat 6: deckofdreams (600 in chips)
+mrzm0118: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts the ante 2
+oposs153: posts the ante 2
+deckofdreams: posts the ante 2
+DiggErr555: posts small blind 10
+bowmanvillan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 7h]
+oposs153: raises 476 to 496 and is all-in
+deckofdreams: folds
+mrzm0118: folds
+Kyleddd: folds
+DiggErr555: folds
+bowmanvillan: folds
+Uncalled bet (476) returned to oposs153
+oposs153 collected 62 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: mrzm0118 folded before Flop (didn't bet)
+Seat 2: Kyleddd (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: oposs153 collected (62)
+Seat 6: deckofdreams folded before Flop (didn't bet)
+
+PokerStars Hand #189829048847: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:34:18 MSK [2018/08/12 22:34:18 ET]
+Table '2381046233 1' 6-max Seat #3 is the button
+Seat 1: mrzm0118 (496 in chips)
+Seat 2: Kyleddd (486 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: bowmanvillan (416 in chips)
+Seat 5: oposs153 (538 in chips)
+Seat 6: deckofdreams (598 in chips)
+mrzm0118: posts the ante 2
+Kyleddd: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts the ante 2
+oposs153: posts the ante 2
+deckofdreams: posts the ante 2
+bowmanvillan: posts small blind 10
+oposs153: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d 6h]
+deckofdreams: folds
+mrzm0118: raises 20 to 40
+Kyleddd: folds
+DiggErr555: folds
+bowmanvillan: folds
+oposs153: raises 496 to 536 and is all-in
+mrzm0118: calls 454 and is all-in
+Uncalled bet (42) returned to oposs153
+*** FLOP *** [Qd 9h Ah]
+*** TURN *** [Qd 9h Ah] [Jh]
+*** RIVER *** [Qd 9h Ah Jh] [8h]
+*** SHOW DOWN ***
+oposs153: shows [Qc Qs] (three of a kind, Queens)
+mrzm0118: shows [4c Ac] (a pair of Aces)
+oposs153 collected 1010 from pot
+oposs153 wins the $12.01 bounty for eliminating mrzm0118
+mrzm0118 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1010 | Rake 0
+Board [Qd 9h Ah Jh 8h]
+Seat 1: mrzm0118 showed [4c Ac] and lost with a pair of Aces
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: oposs153 (big blind) showed [Qc Qs] and won (1010) with three of a kind, Queens
+Seat 6: deckofdreams folded before Flop (didn't bet)
+
+PokerStars Hand #189829063088: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:35:08 MSK [2018/08/12 22:35:08 ET]
+Table '2381046233 1' 6-max Seat #4 is the button
+Seat 2: Kyleddd (484 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: bowmanvillan (404 in chips)
+Seat 5: oposs153 (1052 in chips)
+Seat 6: deckofdreams (596 in chips)
+Kyleddd: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+oposs153: posts the ante 3
+deckofdreams: posts the ante 3
+oposs153: posts small blind 15
+deckofdreams: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6c]
+Kyleddd: folds
+DiggErr555: folds
+bowmanvillan: raises 60 to 90
+oposs153: folds
+deckofdreams: folds
+Uncalled bet (60) returned to bowmanvillan
+bowmanvillan collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) collected (90)
+Seat 5: oposs153 (small blind) folded before Flop
+Seat 6: deckofdreams (big blind) folded before Flop
+
+PokerStars Hand #189829068383: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:35:26 MSK [2018/08/12 22:35:26 ET]
+Table '2381046233 1' 6-max Seat #5 is the button
+Seat 2: Kyleddd (481 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: bowmanvillan (461 in chips)
+Seat 5: oposs153 (1034 in chips)
+Seat 6: deckofdreams (563 in chips)
+Kyleddd: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+oposs153: posts the ante 3
+deckofdreams: posts the ante 3
+deckofdreams: posts small blind 15
+Kyleddd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 2h]
+DiggErr555: folds
+bowmanvillan: folds
+oposs153: raises 1001 to 1031 and is all-in
+deckofdreams: folds
+Kyleddd: folds
+Uncalled bet (1001) returned to oposs153
+oposs153 collected 90 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 2: Kyleddd (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: oposs153 (button) collected (90)
+Seat 6: deckofdreams (small blind) folded before Flop
+
+PokerStars Hand #189829072070: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:35:39 MSK [2018/08/12 22:35:39 ET]
+Table '2381046233 1' 6-max Seat #6 is the button
+Seat 2: Kyleddd (448 in chips)
+Seat 3: DiggErr555 (458 in chips)
+Seat 4: bowmanvillan (458 in chips)
+Seat 5: oposs153 (1091 in chips)
+Seat 6: deckofdreams (545 in chips)
+Kyleddd: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+oposs153: posts the ante 3
+deckofdreams: posts the ante 3
+Kyleddd: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s Qh]
+bowmanvillan: folds
+oposs153: raises 1058 to 1088 and is all-in
+deckofdreams: folds
+Kyleddd: calls 430 and is all-in
+DiggErr555: folds
+Uncalled bet (643) returned to oposs153
+*** FLOP *** [8c Ks Jh]
+*** TURN *** [8c Ks Jh] [Qc]
+*** RIVER *** [8c Ks Jh Qc] [Ad]
+*** SHOW DOWN ***
+Kyleddd: shows [Tc Td] (a straight, Ten to Ace)
+oposs153: shows [4s 4h] (a pair of Fours)
+Kyleddd collected 935 from pot
+*** SUMMARY ***
+Total pot 935 | Rake 0
+Board [8c Ks Jh Qc Ad]
+Seat 2: Kyleddd (small blind) showed [Tc Td] and won (935) with a straight, Ten to Ace
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: oposs153 showed [4s 4h] and lost with a pair of Fours
+Seat 6: deckofdreams (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829077650: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:35:58 MSK [2018/08/12 22:35:58 ET]
+Table '2381046233 1' 6-max Seat #2 is the button
+Seat 2: Kyleddd (935 in chips)
+Seat 3: DiggErr555 (425 in chips)
+Seat 4: bowmanvillan (455 in chips)
+Seat 5: oposs153 (643 in chips)
+Seat 6: deckofdreams (542 in chips)
+Kyleddd: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts the ante 3
+oposs153: posts the ante 3
+deckofdreams: posts the ante 3
+DiggErr555: posts small blind 15
+bowmanvillan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Ad]
+oposs153: folds
+deckofdreams: folds
+Kyleddd: folds
+DiggErr555: raises 392 to 422 and is all-in
+bowmanvillan: folds
+Uncalled bet (392) returned to DiggErr555
+DiggErr555 collected 75 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 2: Kyleddd (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) collected (75)
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: oposs153 folded before Flop (didn't bet)
+Seat 6: deckofdreams folded before Flop (didn't bet)
+
+PokerStars Hand #189829083259: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:36:18 MSK [2018/08/12 22:36:18 ET]
+Table '2381046233 1' 6-max Seat #3 is the button
+Seat 2: Kyleddd (932 in chips)
+Seat 3: DiggErr555 (467 in chips)
+Seat 4: bowmanvillan (422 in chips)
+Seat 5: oposs153 (640 in chips)
+Seat 6: deckofdreams (539 in chips)
+Kyleddd: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+oposs153: posts the ante 4
+deckofdreams: posts the ante 4
+bowmanvillan: posts small blind 20
+oposs153: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6c]
+deckofdreams: raises 495 to 535 and is all-in
+Kyleddd: folds
+DiggErr555: folds
+bowmanvillan: folds
+oposs153: calls 495
+*** FLOP *** [3h 3d 4c]
+*** TURN *** [3h 3d 4c] [Ad]
+*** RIVER *** [3h 3d 4c Ad] [Jh]
+*** SHOW DOWN ***
+oposs153: shows [Ks 2s] (a pair of Threes)
+deckofdreams: shows [7s 7c] (two pair, Sevens and Threes)
+deckofdreams collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0
+Board [3h 3d 4c Ad Jh]
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: oposs153 (big blind) showed [Ks 2s] and lost with a pair of Threes
+Seat 6: deckofdreams showed [7s 7c] and won (1110) with two pair, Sevens and Threes
+
+PokerStars Hand #189829096744: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:37:05 MSK [2018/08/12 22:37:05 ET]
+Table '2381046233 1' 6-max Seat #4 is the button
+Seat 2: Kyleddd (928 in chips)
+Seat 3: DiggErr555 (463 in chips)
+Seat 4: bowmanvillan (398 in chips)
+Seat 5: oposs153 (101 in chips)
+Seat 6: deckofdreams (1110 in chips)
+Kyleddd: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+oposs153: posts the ante 4
+deckofdreams: posts the ante 4
+oposs153: posts small blind 20
+deckofdreams: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 6s]
+Kyleddd: folds
+DiggErr555: folds
+bowmanvillan: raises 80 to 120
+oposs153: calls 77 and is all-in
+deckofdreams: calls 80
+*** FLOP *** [Ah Ad 8h]
+deckofdreams: checks
+bowmanvillan: bets 274 and is all-in
+deckofdreams: folds
+Uncalled bet (274) returned to bowmanvillan
+*** TURN *** [Ah Ad 8h] [5d]
+*** RIVER *** [Ah Ad 8h 5d] [Qs]
+*** SHOW DOWN ***
+bowmanvillan: shows [Ts Tc] (two pair, Aces and Tens)
+bowmanvillan collected 46 from side pot
+oposs153: shows [8d Ac] (a full house, Aces full of Eights)
+oposs153 collected 311 from main pot
+*** SUMMARY ***
+Total pot 357 Main pot 311. Side pot 46. | Rake 0
+Board [Ah Ad 8h 5d Qs]
+Seat 2: Kyleddd folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) showed [Ts Tc] and won (46) with two pair, Aces and Tens
+Seat 5: oposs153 (small blind) showed [8d Ac] and won (311) with a full house, Aces full of Eights
+Seat 6: deckofdreams (big blind) folded on the Flop
+
+PokerStars Hand #189829106101: Tournament #2381046233, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:37:38 MSK [2018/08/12 22:37:38 ET]
+Table '2381046233 1' 6-max Seat #5 is the button
+Seat 2: Kyleddd (924 in chips)
+Seat 3: DiggErr555 (459 in chips)
+Seat 4: bowmanvillan (320 in chips)
+Seat 5: oposs153 (311 in chips)
+Seat 6: deckofdreams (986 in chips)
+Kyleddd: posts the ante 4
+DiggErr555: posts the ante 4
+bowmanvillan: posts the ante 4
+oposs153: posts the ante 4
+deckofdreams: posts the ante 4
+deckofdreams: posts small blind 20
+Kyleddd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 6h]
+DiggErr555: raises 415 to 455 and is all-in
+bowmanvillan: folds
+oposs153: folds
+deckofdreams: calls 435
+Kyleddd: folds
+*** FLOP *** [Ac 4h 2d]
+*** TURN *** [Ac 4h 2d] [Ad]
+*** RIVER *** [Ac 4h 2d Ad] [Th]
+*** SHOW DOWN ***
+deckofdreams: shows [9d 9s] (two pair, Aces and Nines)
+DiggErr555: shows [6d 6h] (two pair, Aces and Sixes)
+deckofdreams collected 970 from pot
+deckofdreams wins the $12.01 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 970 | Rake 0
+Board [Ac 4h 2d Ad Th]
+Seat 2: Kyleddd (big blind) folded before Flop
+Seat 3: DiggErr555 showed [6d 6h] and lost with two pair, Aces and Sixes
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: oposs153 (button) folded before Flop (didn't bet)
+Seat 6: deckofdreams (small blind) showed [9d 9s] and won (970) with two pair, Aces and Nines

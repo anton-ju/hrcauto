@@ -1,0 +1,549 @@
+
+
+PokerStars Hand #189829535853: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:03:43 MSK [2018/08/12 23:03:43 ET]
+Table '2381061761 1' 6-max Seat #1 is the button
+Seat 1: assassinopkr (500 in chips)
+Seat 2: bompoker405 (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: 2Ran128 (500 in chips)
+Seat 5: PAVAROTTI965 (500 in chips)
+Seat 6: bigatello1967 (500 in chips)
+assassinopkr: posts the ante 2
+bompoker405: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+PAVAROTTI965: posts the ante 2
+bigatello1967: posts the ante 2
+bompoker405: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Td]
+2Ran128: raises 20 to 40
+PAVAROTTI965: folds
+bigatello1967: folds
+assassinopkr: folds
+bompoker405: raises 458 to 498 and is all-in
+DiggErr555: folds
+2Ran128: calls 458 and is all-in
+*** FLOP *** [6c 2s 7h]
+*** TURN *** [6c 2s 7h] [As]
+*** RIVER *** [6c 2s 7h As] [Kh]
+*** SHOW DOWN ***
+bompoker405: shows [3d 3s] (a pair of Threes)
+2Ran128: shows [Kc Kd] (three of a kind, Kings)
+2Ran128 collected 1028 from pot
+2Ran128 wins the $2.38 bounty for eliminating bompoker405
+bompoker405 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1028 | Rake 0
+Board [6c 2s 7h As Kh]
+Seat 1: assassinopkr (button) folded before Flop (didn't bet)
+Seat 2: bompoker405 (small blind) showed [3d 3s] and lost with a pair of Threes
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 showed [Kc Kd] and won (1028) with three of a kind, Kings
+Seat 5: PAVAROTTI965 folded before Flop (didn't bet)
+Seat 6: bigatello1967 folded before Flop (didn't bet)
+
+PokerStars Hand #189829545897: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:04:21 MSK [2018/08/12 23:04:21 ET]
+Table '2381061761 1' 6-max Seat #3 is the button
+Seat 1: assassinopkr (498 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: 2Ran128 (1028 in chips)
+Seat 5: PAVAROTTI965 (498 in chips)
+Seat 6: bigatello1967 (498 in chips)
+assassinopkr: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+PAVAROTTI965: posts the ante 2
+bigatello1967: posts the ante 2
+2Ran128: posts small blind 10
+PAVAROTTI965: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 5s]
+bigatello1967: folds
+assassinopkr: calls 20
+DiggErr555: folds
+2Ran128: calls 10
+PAVAROTTI965: raises 476 to 496 and is all-in
+assassinopkr: calls 476 and is all-in
+2Ran128: folds
+*** FLOP *** [7d 8s 7h]
+*** TURN *** [7d 8s 7h] [6h]
+*** RIVER *** [7d 8s 7h 6h] [Th]
+*** SHOW DOWN ***
+PAVAROTTI965: shows [Qh Jh] (a flush, Queen high)
+assassinopkr: shows [Ac 9d] (a straight, Six to Ten)
+PAVAROTTI965 collected 1022 from pot
+PAVAROTTI965 wins the $2.38 bounty for eliminating assassinopkr
+assassinopkr finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1022 | Rake 0
+Board [7d 8s 7h 6h Th]
+Seat 1: assassinopkr showed [Ac 9d] and lost with a straight, Six to Ten
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: 2Ran128 (small blind) folded before Flop
+Seat 5: PAVAROTTI965 (big blind) showed [Qh Jh] and won (1022) with a flush, Queen high
+Seat 6: bigatello1967 folded before Flop (didn't bet)
+
+PokerStars Hand #189829556981: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:05:03 MSK [2018/08/12 23:05:03 ET]
+Table '2381061761 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (476 in chips)
+Seat 4: 2Ran128 (1006 in chips)
+Seat 5: PAVAROTTI965 (1022 in chips)
+Seat 6: bigatello1967 (496 in chips)
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+PAVAROTTI965: posts the ante 2
+bigatello1967: posts the ante 2
+PAVAROTTI965: posts small blind 10
+bigatello1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 9s]
+DiggErr555: folds
+2Ran128: folds
+PAVAROTTI965: folds
+Uncalled bet (10) returned to bigatello1967
+bigatello1967 collected 28 from pot
+*** SUMMARY ***
+Total pot 28 | Rake 0
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 5: PAVAROTTI965 (small blind) folded before Flop
+Seat 6: bigatello1967 (big blind) collected (28)
+
+PokerStars Hand #189829561488: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:05:21 MSK [2018/08/12 23:05:21 ET]
+Table '2381061761 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (474 in chips)
+Seat 4: 2Ran128 (1004 in chips)
+Seat 5: PAVAROTTI965 (1010 in chips)
+Seat 6: bigatello1967 (512 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+PAVAROTTI965: posts the ante 3
+bigatello1967: posts the ante 3
+bigatello1967: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 6s]
+2Ran128: folds
+PAVAROTTI965: folds
+bigatello1967: raises 479 to 509 and is all-in
+DiggErr555: folds
+Uncalled bet (479) returned to bigatello1967
+bigatello1967 collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 folded before Flop (didn't bet)
+Seat 5: PAVAROTTI965 (button) folded before Flop (didn't bet)
+Seat 6: bigatello1967 (small blind) collected (72)
+
+PokerStars Hand #189829565065: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:05:34 MSK [2018/08/12 23:05:34 ET]
+Table '2381061761 1' 6-max Seat #6 is the button
+Seat 3: DiggErr555 (441 in chips)
+Seat 4: 2Ran128 (1001 in chips)
+Seat 5: PAVAROTTI965 (1007 in chips)
+Seat 6: bigatello1967 (551 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+PAVAROTTI965: posts the ante 3
+bigatello1967: posts the ante 3
+DiggErr555: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 5d]
+PAVAROTTI965: raises 974 to 1004 and is all-in
+bigatello1967: folds
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (974) returned to PAVAROTTI965
+PAVAROTTI965 collected 87 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 2Ran128 (big blind) folded before Flop
+Seat 5: PAVAROTTI965 collected (87)
+Seat 6: bigatello1967 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829571030: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:05:57 MSK [2018/08/12 23:05:57 ET]
+Table '2381061761 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (423 in chips)
+Seat 4: 2Ran128 (968 in chips)
+Seat 5: PAVAROTTI965 (1061 in chips)
+Seat 6: bigatello1967 (548 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+PAVAROTTI965: posts the ante 3
+bigatello1967: posts the ante 3
+2Ran128: posts small blind 15
+PAVAROTTI965: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 9s]
+bigatello1967: calls 30
+DiggErr555: raises 390 to 420 and is all-in
+2Ran128: folds
+PAVAROTTI965: folds
+bigatello1967: folds
+Uncalled bet (390) returned to DiggErr555
+DiggErr555 collected 117 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 117 | Rake 0
+Seat 3: DiggErr555 (button) collected (117)
+Seat 4: 2Ran128 (small blind) folded before Flop
+Seat 5: PAVAROTTI965 (big blind) folded before Flop
+Seat 6: bigatello1967 folded before Flop
+
+PokerStars Hand #189829574649: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:06:11 MSK [2018/08/12 23:06:11 ET]
+Table '2381061761 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (507 in chips)
+Seat 4: 2Ran128 (950 in chips)
+Seat 5: PAVAROTTI965 (1028 in chips)
+Seat 6: bigatello1967 (515 in chips)
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+PAVAROTTI965: posts the ante 3
+bigatello1967: posts the ante 3
+PAVAROTTI965: posts small blind 15
+bigatello1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 8c]
+DiggErr555: folds
+2Ran128: folds
+PAVAROTTI965: calls 15
+bigatello1967: checks
+*** FLOP *** [Qh Kd 7c]
+PAVAROTTI965: checks
+bigatello1967: checks
+*** TURN *** [Qh Kd 7c] [Ad]
+PAVAROTTI965: checks
+bigatello1967: checks
+*** RIVER *** [Qh Kd 7c Ad] [Js]
+PAVAROTTI965: checks
+bigatello1967: bets 30
+PAVAROTTI965: calls 30
+*** SHOW DOWN ***
+bigatello1967: shows [8s Th] (a straight, Ten to Ace)
+PAVAROTTI965: mucks hand
+bigatello1967 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Board [Qh Kd 7c Ad Js]
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 5: PAVAROTTI965 (small blind) mucked [3s Jh]
+Seat 6: bigatello1967 (big blind) showed [8s Th] and won (132) with a straight, Ten to Ace
+
+PokerStars Hand #189829583886: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:06:47 MSK [2018/08/12 23:06:47 ET]
+Table '2381061761 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (504 in chips)
+Seat 4: 2Ran128 (947 in chips)
+Seat 5: PAVAROTTI965 (965 in chips)
+Seat 6: bigatello1967 (584 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+PAVAROTTI965: posts the ante 4
+bigatello1967: posts the ante 4
+bigatello1967: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s Jc]
+2Ran128: folds
+PAVAROTTI965: raises 921 to 961 and is all-in
+bigatello1967: calls 560 and is all-in
+DiggErr555: folds
+Uncalled bet (381) returned to PAVAROTTI965
+*** FLOP *** [9s 2c 8s]
+*** TURN *** [9s 2c 8s] [Jh]
+*** RIVER *** [9s 2c 8s Jh] [3d]
+*** SHOW DOWN ***
+bigatello1967: shows [Ah Tc] (high card Ace)
+PAVAROTTI965: shows [Ts 8h] (a pair of Eights)
+PAVAROTTI965 collected 1216 from pot
+PAVAROTTI965 wins the $2.38 bounty for eliminating bigatello1967
+bigatello1967 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1216 | Rake 0
+Board [9s 2c 8s Jh 3d]
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 folded before Flop (didn't bet)
+Seat 5: PAVAROTTI965 (button) showed [Ts 8h] and won (1216) with a pair of Eights
+Seat 6: bigatello1967 (small blind) showed [Ah Tc] and lost with high card Ace
+
+PokerStars Hand #189829589662: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:07:10 MSK [2018/08/12 23:07:10 ET]
+Table '2381061761 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (460 in chips)
+Seat 4: 2Ran128 (943 in chips)
+Seat 5: PAVAROTTI965 (1597 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+PAVAROTTI965: posts the ante 4
+2Ran128: posts small blind 20
+PAVAROTTI965: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 5c]
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (20) returned to PAVAROTTI965
+PAVAROTTI965 collected 52 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: 2Ran128 (small blind) folded before Flop
+Seat 5: PAVAROTTI965 (big blind) collected (52)
+
+PokerStars Hand #189829592752: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:07:22 MSK [2018/08/12 23:07:22 ET]
+Table '2381061761 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (456 in chips)
+Seat 4: 2Ran128 (919 in chips)
+Seat 5: PAVAROTTI965 (1625 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+PAVAROTTI965: posts the ante 4
+PAVAROTTI965: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Tc]
+2Ran128: raises 40 to 80
+PAVAROTTI965: calls 60
+DiggErr555: folds
+*** FLOP *** [6h As Jc]
+PAVAROTTI965: checks
+2Ran128: bets 85
+PAVAROTTI965: folds
+Uncalled bet (85) returned to 2Ran128
+2Ran128 collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | Rake 0
+Board [6h As Jc]
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 (button) collected (212)
+Seat 5: PAVAROTTI965 (small blind) folded on the Flop
+
+PokerStars Hand #189829599881: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:07:49 MSK [2018/08/12 23:07:49 ET]
+Table '2381061761 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (412 in chips)
+Seat 4: 2Ran128 (1047 in chips)
+Seat 5: PAVAROTTI965 (1541 in chips)
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+PAVAROTTI965: posts the ante 4
+DiggErr555: posts small blind 20
+2Ran128: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 4d]
+PAVAROTTI965: raises 80 to 120
+DiggErr555: folds
+2Ran128: calls 80
+*** FLOP *** [8h 3h 2h]
+2Ran128: checks
+PAVAROTTI965: bets 120
+2Ran128: folds
+Uncalled bet (120) returned to PAVAROTTI965
+PAVAROTTI965 collected 272 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 272 | Rake 0
+Board [8h 3h 2h]
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 2Ran128 (big blind) folded on the Flop
+Seat 5: PAVAROTTI965 (button) collected (272)
+
+PokerStars Hand #189829610186: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:08:30 MSK [2018/08/12 23:08:30 ET]
+Table '2381061761 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (388 in chips)
+Seat 4: 2Ran128 (923 in chips)
+Seat 5: PAVAROTTI965 (1689 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+PAVAROTTI965: posts the ante 6
+2Ran128: posts small blind 30
+PAVAROTTI965: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 2c]
+DiggErr555: folds
+2Ran128: calls 30
+PAVAROTTI965: checks
+*** FLOP *** [Qs 8h 5c]
+2Ran128: bets 60
+PAVAROTTI965: calls 60
+*** TURN *** [Qs 8h 5c] [3s]
+2Ran128: checks
+PAVAROTTI965: bets 120
+2Ran128: folds
+Uncalled bet (120) returned to PAVAROTTI965
+PAVAROTTI965 collected 258 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 258 | Rake 0
+Board [Qs 8h 5c 3s]
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: 2Ran128 (small blind) folded on the Turn
+Seat 5: PAVAROTTI965 (big blind) collected (258)
+
+PokerStars Hand #189829624461: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:09:25 MSK [2018/08/12 23:09:25 ET]
+Table '2381061761 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (382 in chips)
+Seat 4: 2Ran128 (797 in chips)
+Seat 5: PAVAROTTI965 (1821 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+PAVAROTTI965: posts the ante 6
+PAVAROTTI965: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 7d]
+2Ran128: folds
+PAVAROTTI965: raises 1755 to 1815 and is all-in
+DiggErr555: folds
+Uncalled bet (1755) returned to PAVAROTTI965
+PAVAROTTI965 collected 138 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 5: PAVAROTTI965 (small blind) collected (138)
+
+PokerStars Hand #189829629217: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:09:44 MSK [2018/08/12 23:09:44 ET]
+Table '2381061761 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (316 in chips)
+Seat 4: 2Ran128 (791 in chips)
+Seat 5: PAVAROTTI965 (1893 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+PAVAROTTI965: posts the ante 6
+DiggErr555: posts small blind 30
+2Ran128: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th 6d]
+PAVAROTTI965: raises 168 to 228
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (168) returned to PAVAROTTI965
+PAVAROTTI965 collected 168 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 2Ran128 (big blind) folded before Flop
+Seat 5: PAVAROTTI965 (button) collected (168)
+
+PokerStars Hand #189829632525: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:09:57 MSK [2018/08/12 23:09:57 ET]
+Table '2381061761 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (280 in chips)
+Seat 4: 2Ran128 (725 in chips)
+Seat 5: PAVAROTTI965 (1995 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+PAVAROTTI965: posts the ante 6
+2Ran128: posts small blind 30
+PAVAROTTI965: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts Qs]
+DiggErr555: raises 120 to 180
+2Ran128: folds
+PAVAROTTI965: raises 120 to 300
+DiggErr555: calls 94 and is all-in
+Uncalled bet (26) returned to PAVAROTTI965
+*** FLOP *** [Qc Th Jh]
+*** TURN *** [Qc Th Jh] [Kd]
+*** RIVER *** [Qc Th Jh Kd] [7c]
+*** SHOW DOWN ***
+PAVAROTTI965: shows [Js 8d] (a pair of Jacks)
+DiggErr555: shows [Ts Qs] (two pair, Queens and Tens)
+DiggErr555 collected 596 from pot
+*** SUMMARY ***
+Total pot 596 | Rake 0
+Board [Qc Th Jh Kd 7c]
+Seat 3: DiggErr555 (button) showed [Ts Qs] and won (596) with two pair, Queens and Tens
+Seat 4: 2Ran128 (small blind) folded before Flop
+Seat 5: PAVAROTTI965 (big blind) showed [Js 8d] and lost with a pair of Jacks
+
+PokerStars Hand #189829638780: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:10:21 MSK [2018/08/12 23:10:21 ET]
+Table '2381061761 1' 6-max Seat #4 is the button
+Seat 3: DiggErr555 (596 in chips)
+Seat 4: 2Ran128 (689 in chips)
+Seat 5: PAVAROTTI965 (1715 in chips)
+DiggErr555: posts the ante 6
+2Ran128: posts the ante 6
+PAVAROTTI965: posts the ante 6
+PAVAROTTI965: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 7d]
+2Ran128: raises 623 to 683 and is all-in
+PAVAROTTI965: calls 653
+DiggErr555: folds
+*** FLOP *** [4h Tc 5d]
+*** TURN *** [4h Tc 5d] [8c]
+*** RIVER *** [4h Tc 5d 8c] [2s]
+*** SHOW DOWN ***
+PAVAROTTI965: shows [Kh Jc] (high card King)
+2Ran128: shows [Ac 8h] (a pair of Eights)
+2Ran128 collected 1444 from pot
+*** SUMMARY ***
+Total pot 1444 | Rake 0
+Board [4h Tc 5d 8c 2s]
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: 2Ran128 (button) showed [Ac 8h] and won (1444) with a pair of Eights
+Seat 5: PAVAROTTI965 (small blind) showed [Kh Jc] and lost with high card King
+
+PokerStars Hand #189829644435: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:10:43 MSK [2018/08/12 23:10:43 ET]
+Table '2381061761 1' 6-max Seat #5 is the button
+Seat 3: DiggErr555 (530 in chips)
+Seat 4: 2Ran128 (1444 in chips)
+Seat 5: PAVAROTTI965 (1026 in chips)
+DiggErr555: posts the ante 8
+2Ran128: posts the ante 8
+PAVAROTTI965: posts the ante 8
+DiggErr555: posts small blind 40
+2Ran128: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Td]
+PAVAROTTI965: raises 938 to 1018 and is all-in
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (938) returned to PAVAROTTI965
+PAVAROTTI965 collected 224 from pot
+PAVAROTTI965: doesn't show hand
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: 2Ran128 (big blind) folded before Flop
+Seat 5: PAVAROTTI965 (button) collected (224)
+
+PokerStars Hand #189829650062: Tournament #2381061761, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:11:06 MSK [2018/08/12 23:11:06 ET]
+Table '2381061761 1' 6-max Seat #3 is the button
+Seat 3: DiggErr555 (482 in chips)
+Seat 4: 2Ran128 (1356 in chips)
+Seat 5: PAVAROTTI965 (1162 in chips)
+DiggErr555: posts the ante 8
+2Ran128: posts the ante 8
+PAVAROTTI965: posts the ante 8
+2Ran128: posts small blind 40
+PAVAROTTI965: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 7s]
+DiggErr555: raises 80 to 160
+2Ran128: raises 1188 to 1348 and is all-in
+PAVAROTTI965: folds
+DiggErr555: calls 314 and is all-in
+Uncalled bet (874) returned to 2Ran128
+*** FLOP *** [Qh 5h 6c]
+*** TURN *** [Qh 5h 6c] [Kd]
+*** RIVER *** [Qh 5h 6c Kd] [5c]
+*** SHOW DOWN ***
+2Ran128: shows [As Kh] (two pair, Kings and Fives)
+DiggErr555: shows [Ah 7s] (a pair of Fives)
+2Ran128 collected 1052 from pot
+2Ran128 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1052 | Rake 0
+Board [Qh 5h 6c Kd 5c]
+Seat 3: DiggErr555 (button) showed [Ah 7s] and lost with a pair of Fives
+Seat 4: 2Ran128 (small blind) showed [As Kh] and won (1052) with two pair, Kings and Fives
+Seat 5: PAVAROTTI965 (big blind) folded before Flop

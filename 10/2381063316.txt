@@ -1,0 +1,300 @@
+
+
+PokerStars Hand #189829573395: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:06:07 MSK [2018/08/12 23:06:07 ET]
+Table '2381063316 1' 6-max Seat #1 is the button
+Seat 1: moimob (500 in chips)
+Seat 2: bompoker405 (500 in chips)
+Seat 3: biertjeh (500 in chips)
+Seat 4: DiggErr555 (500 in chips)
+Seat 5: 2Ran128 (500 in chips)
+Seat 6: HuGuinZ (500 in chips)
+moimob: posts the ante 2
+bompoker405: posts the ante 2
+biertjeh: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+HuGuinZ: posts the ante 2
+bompoker405: posts small blind 10
+biertjeh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 5c]
+DiggErr555: folds
+2Ran128: folds
+HuGuinZ: folds
+moimob: raises 20 to 40
+bompoker405: calls 30
+biertjeh: raises 458 to 498 and is all-in
+moimob: calls 458 and is all-in
+bompoker405: folds
+*** FLOP *** [Qh 3d 9d]
+*** TURN *** [Qh 3d 9d] [Jc]
+*** RIVER *** [Qh 3d 9d Jc] [Ks]
+*** SHOW DOWN ***
+biertjeh: shows [Ad Th] (a straight, Ten to Ace)
+moimob: shows [Jd Jh] (three of a kind, Jacks)
+biertjeh collected 1048 from pot
+biertjeh wins the $4.79 bounty for eliminating moimob
+moimob finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1048 | Rake 0
+Board [Qh 3d 9d Jc Ks]
+Seat 1: moimob (button) showed [Jd Jh] and lost with three of a kind, Jacks
+Seat 2: bompoker405 (small blind) folded before Flop
+Seat 3: biertjeh (big blind) showed [Ad Th] and won (1048) with a straight, Ten to Ace
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: HuGuinZ folded before Flop (didn't bet)
+
+PokerStars Hand #189829580250: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:06:33 MSK [2018/08/12 23:06:33 ET]
+Table '2381063316 1' 6-max Seat #2 is the button
+Seat 2: bompoker405 (458 in chips)
+Seat 3: biertjeh (1048 in chips)
+Seat 4: DiggErr555 (498 in chips)
+Seat 5: 2Ran128 (498 in chips)
+Seat 6: HuGuinZ (498 in chips)
+bompoker405: posts the ante 2
+biertjeh: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+HuGuinZ: posts the ante 2
+biertjeh: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 4h]
+2Ran128: folds
+HuGuinZ: folds
+bompoker405: raises 436 to 456 and is all-in
+biertjeh: raises 590 to 1046 and is all-in
+DiggErr555: folds
+Uncalled bet (590) returned to biertjeh
+*** FLOP *** [Jc Th Ad]
+*** TURN *** [Jc Th Ad] [Ks]
+*** RIVER *** [Jc Th Ad Ks] [5c]
+*** SHOW DOWN ***
+biertjeh: shows [5h 5d] (three of a kind, Fives)
+bompoker405: shows [Kh 3c] (a pair of Kings)
+biertjeh collected 942 from pot
+biertjeh wins the $4.79 bounty for eliminating bompoker405
+bompoker405 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 942 | Rake 0
+Board [Jc Th Ad Ks 5c]
+Seat 2: bompoker405 (button) showed [Kh 3c] and lost with a pair of Kings
+Seat 3: biertjeh (small blind) showed [5h 5d] and won (942) with three of a kind, Fives
+Seat 4: DiggErr555 (big blind) folded before Flop
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: HuGuinZ folded before Flop (didn't bet)
+
+PokerStars Hand #189829585322: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:06:53 MSK [2018/08/12 23:06:53 ET]
+Table '2381063316 1' 6-max Seat #3 is the button
+Seat 3: biertjeh (1532 in chips)
+Seat 4: DiggErr555 (476 in chips)
+Seat 5: 2Ran128 (496 in chips)
+Seat 6: HuGuinZ (496 in chips)
+biertjeh: posts the ante 2
+DiggErr555: posts the ante 2
+2Ran128: posts the ante 2
+HuGuinZ: posts the ante 2
+DiggErr555: posts small blind 10
+2Ran128: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 5s]
+HuGuinZ: raises 474 to 494 and is all-in
+biertjeh: folds
+DiggErr555: folds
+2Ran128: folds
+Uncalled bet (474) returned to HuGuinZ
+HuGuinZ collected 58 from pot
+*** SUMMARY ***
+Total pot 58 | Rake 0
+Seat 3: biertjeh (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) folded before Flop
+Seat 5: 2Ran128 (big blind) folded before Flop
+Seat 6: HuGuinZ collected (58)
+
+PokerStars Hand #189829590231: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:07:12 MSK [2018/08/12 23:07:12 ET]
+Table '2381063316 1' 6-max Seat #4 is the button
+Seat 3: biertjeh (1530 in chips)
+Seat 4: DiggErr555 (464 in chips)
+Seat 5: 2Ran128 (474 in chips)
+Seat 6: HuGuinZ (532 in chips)
+biertjeh: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+HuGuinZ: posts the ante 3
+2Ran128: posts small blind 15
+HuGuinZ: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 9c]
+biertjeh: raises 1497 to 1527 and is all-in
+DiggErr555: folds
+2Ran128: folds
+HuGuinZ: folds
+Uncalled bet (1497) returned to biertjeh
+biertjeh collected 87 from pot
+biertjeh: doesn't show hand
+*** SUMMARY ***
+Total pot 87 | Rake 0
+Seat 3: biertjeh collected (87)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: 2Ran128 (small blind) folded before Flop
+Seat 6: HuGuinZ (big blind) folded before Flop
+
+PokerStars Hand #189829593726: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:07:26 MSK [2018/08/12 23:07:26 ET]
+Table '2381063316 1' 6-max Seat #5 is the button
+Seat 3: biertjeh (1584 in chips)
+Seat 4: DiggErr555 (461 in chips)
+Seat 5: 2Ran128 (456 in chips)
+Seat 6: HuGuinZ (499 in chips)
+biertjeh: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+HuGuinZ: posts the ante 3
+HuGuinZ: posts small blind 15
+biertjeh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 2s]
+DiggErr555: folds
+2Ran128: folds
+HuGuinZ: folds
+Uncalled bet (15) returned to biertjeh
+biertjeh collected 42 from pot
+biertjeh: doesn't show hand
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 3: biertjeh (big blind) collected (42)
+Seat 4: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 2Ran128 (button) folded before Flop (didn't bet)
+Seat 6: HuGuinZ (small blind) folded before Flop
+
+PokerStars Hand #189829598930: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:07:46 MSK [2018/08/12 23:07:46 ET]
+Table '2381063316 1' 6-max Seat #6 is the button
+Seat 3: biertjeh (1608 in chips)
+Seat 4: DiggErr555 (458 in chips)
+Seat 5: 2Ran128 (453 in chips)
+Seat 6: HuGuinZ (481 in chips)
+biertjeh: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+HuGuinZ: posts the ante 3
+biertjeh: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c Qc]
+2Ran128: folds
+HuGuinZ: folds
+biertjeh: folds
+Uncalled bet (15) returned to DiggErr555
+DiggErr555 collected 42 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 42 | Rake 0
+Seat 3: biertjeh (small blind) folded before Flop
+Seat 4: DiggErr555 (big blind) collected (42)
+Seat 5: 2Ran128 folded before Flop (didn't bet)
+Seat 6: HuGuinZ (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829600751: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:07:53 MSK [2018/08/12 23:07:53 ET]
+Table '2381063316 1' 6-max Seat #3 is the button
+Seat 3: biertjeh (1590 in chips)
+Seat 4: DiggErr555 (482 in chips)
+Seat 5: 2Ran128 (450 in chips)
+Seat 6: HuGuinZ (478 in chips)
+biertjeh: posts the ante 3
+DiggErr555: posts the ante 3
+2Ran128: posts the ante 3
+HuGuinZ: posts the ante 3
+DiggErr555: posts small blind 15
+2Ran128: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc Kh]
+HuGuinZ: folds
+biertjeh: folds
+DiggErr555: raises 449 to 479 and is all-in
+2Ran128: calls 417 and is all-in
+Uncalled bet (32) returned to DiggErr555
+*** FLOP *** [2d 3c As]
+*** TURN *** [2d 3c As] [4c]
+*** RIVER *** [2d 3c As 4c] [9s]
+*** SHOW DOWN ***
+DiggErr555: shows [Qc Kh] (high card Ace)
+2Ran128: shows [Kc Kd] (a pair of Kings)
+2Ran128 collected 906 from pot
+*** SUMMARY ***
+Total pot 906 | Rake 0
+Board [2d 3c As 4c 9s]
+Seat 3: biertjeh (button) folded before Flop (didn't bet)
+Seat 4: DiggErr555 (small blind) showed [Qc Kh] and lost with high card Ace
+Seat 5: 2Ran128 (big blind) showed [Kc Kd] and won (906) with a pair of Kings
+Seat 6: HuGuinZ folded before Flop (didn't bet)
+
+PokerStars Hand #189829607072: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:08:18 MSK [2018/08/12 23:08:18 ET]
+Table '2381063316 1' 6-max Seat #4 is the button
+Seat 3: biertjeh (1587 in chips)
+Seat 4: DiggErr555 (32 in chips)
+Seat 5: 2Ran128 (906 in chips)
+Seat 6: HuGuinZ (475 in chips)
+biertjeh: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+HuGuinZ: posts the ante 4
+2Ran128: posts small blind 20
+HuGuinZ: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 5c]
+biertjeh: folds
+DiggErr555: folds
+2Ran128: raises 862 to 902 and is all-in
+HuGuinZ: calls 431 and is all-in
+Uncalled bet (431) returned to 2Ran128
+*** FLOP *** [8h 6s Qd]
+*** TURN *** [8h 6s Qd] [2s]
+*** RIVER *** [8h 6s Qd 2s] [7d]
+*** SHOW DOWN ***
+2Ran128: shows [Ac 5d] (high card Ace)
+HuGuinZ: shows [Ad Kd] (high card Ace - King kicker)
+HuGuinZ collected 958 from pot
+*** SUMMARY ***
+Total pot 958 | Rake 0
+Board [8h 6s Qd 2s 7d]
+Seat 3: biertjeh folded before Flop (didn't bet)
+Seat 4: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: 2Ran128 (small blind) showed [Ac 5d] and lost with high card Ace
+Seat 6: HuGuinZ (big blind) showed [Ad Kd] and won (958) with high card Ace
+
+PokerStars Hand #189829614664: Tournament #2381063316, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:08:47 MSK [2018/08/12 23:08:47 ET]
+Table '2381063316 1' 6-max Seat #5 is the button
+Seat 3: biertjeh (1583 in chips)
+Seat 4: DiggErr555 (28 in chips)
+Seat 5: 2Ran128 (431 in chips)
+Seat 6: HuGuinZ (958 in chips)
+biertjeh: posts the ante 4
+DiggErr555: posts the ante 4
+2Ran128: posts the ante 4
+HuGuinZ: posts the ante 4
+HuGuinZ: posts small blind 20
+biertjeh: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Qh]
+DiggErr555: calls 24 and is all-in
+2Ran128: raises 387 to 427 and is all-in
+HuGuinZ: folds
+biertjeh: calls 387
+*** FLOP *** [Ad Ah 9c]
+*** TURN *** [Ad Ah 9c] [8c]
+*** RIVER *** [Ad Ah 9c 8c] [2h]
+*** SHOW DOWN ***
+biertjeh: shows [3s 6c] (a pair of Aces)
+2Ran128: shows [9d As] (a full house, Aces full of Nines)
+2Ran128 collected 806 from side pot
+DiggErr555: shows [8h Qh] (two pair, Aces and Eights)
+2Ran128 collected 108 from main pot
+2Ran128 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 914 Main pot 108. Side pot 806. | Rake 0
+Board [Ad Ah 9c 8c 2h]
+Seat 3: biertjeh (big blind) showed [3s 6c] and lost with a pair of Aces
+Seat 4: DiggErr555 showed [8h Qh] and lost with two pair, Aces and Eights
+Seat 5: 2Ran128 (button) showed [9d As] and won (914) with a full house, Aces full of Nines
+Seat 6: HuGuinZ (small blind) folded before Flop

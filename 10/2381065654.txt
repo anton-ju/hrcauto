@@ -1,0 +1,646 @@
+
+
+PokerStars Hand #189829651067: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:11:09 MSK [2018/08/12 23:11:09 ET]
+Table '2381065654 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (500 in chips)
+Seat 2: DiggErr555 (500 in chips)
+Seat 3: dweller123 (500 in chips)
+Seat 4: biertjeh (500 in chips)
+Seat 5: moimob (500 in chips)
+Seat 6: Andrei S101 (500 in chips)
+chorls464: posts the ante 2
+DiggErr555: posts the ante 2
+dweller123: posts the ante 2
+biertjeh: posts the ante 2
+moimob: posts the ante 2
+Andrei S101: posts the ante 2
+DiggErr555: posts small blind 10
+dweller123: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 6c]
+biertjeh: folds
+moimob: folds
+Andrei S101: folds
+chorls464: folds
+DiggErr555: folds
+Uncalled bet (10) returned to dweller123
+dweller123 collected 32 from pot
+dweller123: doesn't show hand
+*** SUMMARY ***
+Total pot 32 | Rake 0
+Seat 1: chorls464 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 3: dweller123 (big blind) collected (32)
+Seat 4: biertjeh folded before Flop (didn't bet)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 folded before Flop (didn't bet)
+
+PokerStars Hand #189829653546: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:11:19 MSK [2018/08/12 23:11:19 ET]
+Table '2381065654 1' 6-max Seat #2 is the button
+Seat 1: chorls464 (498 in chips)
+Seat 2: DiggErr555 (488 in chips)
+Seat 3: dweller123 (520 in chips)
+Seat 4: biertjeh (498 in chips)
+Seat 5: moimob (498 in chips)
+Seat 6: Andrei S101 (498 in chips)
+chorls464: posts the ante 2
+DiggErr555: posts the ante 2
+dweller123: posts the ante 2
+biertjeh: posts the ante 2
+moimob: posts the ante 2
+Andrei S101: posts the ante 2
+dweller123: posts small blind 10
+biertjeh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 4h]
+moimob: folds
+Andrei S101: calls 20
+chorls464: folds
+DiggErr555: folds
+dweller123: calls 10
+biertjeh: raises 476 to 496 and is all-in
+Andrei S101: folds
+dweller123: folds
+Uncalled bet (476) returned to biertjeh
+biertjeh collected 72 from pot
+biertjeh: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 3: dweller123 (small blind) folded before Flop
+Seat 4: biertjeh (big blind) collected (72)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 folded before Flop
+
+PokerStars Hand #189829657803: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:11:36 MSK [2018/08/12 23:11:36 ET]
+Table '2381065654 1' 6-max Seat #3 is the button
+Seat 1: chorls464 (496 in chips)
+Seat 2: DiggErr555 (486 in chips)
+Seat 3: dweller123 (498 in chips)
+Seat 4: biertjeh (548 in chips)
+Seat 5: moimob (496 in chips)
+Seat 6: Andrei S101 (476 in chips)
+chorls464: posts the ante 2
+DiggErr555: posts the ante 2
+dweller123: posts the ante 2
+biertjeh: posts the ante 2
+moimob: posts the ante 2
+Andrei S101: posts the ante 2
+biertjeh: posts small blind 10
+moimob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6h]
+Andrei S101: folds
+chorls464: raises 30 to 50
+DiggErr555: folds
+dweller123: folds
+biertjeh: calls 40
+moimob: folds
+*** FLOP *** [2s 2h 2c]
+biertjeh: checks
+chorls464: checks
+*** TURN *** [2s 2h 2c] [8d]
+biertjeh: checks
+chorls464: bets 20
+biertjeh: calls 20
+*** RIVER *** [2s 2h 2c 8d] [5h]
+biertjeh: checks
+chorls464: checks
+*** SHOW DOWN ***
+biertjeh: shows [7c Tc] (three of a kind, Deuces)
+chorls464: shows [Ad 6c] (three of a kind, Deuces - Ace kicker)
+chorls464 collected 172 from pot
+*** SUMMARY ***
+Total pot 172 | Rake 0
+Board [2s 2h 2c 8d 5h]
+Seat 1: chorls464 showed [Ad 6c] and won (172) with three of a kind, Deuces
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: dweller123 (button) folded before Flop (didn't bet)
+Seat 4: biertjeh (small blind) showed [7c Tc] and lost with three of a kind, Deuces
+Seat 5: moimob (big blind) folded before Flop
+Seat 6: Andrei S101 folded before Flop (didn't bet)
+
+PokerStars Hand #189829665733: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:06 MSK [2018/08/12 23:12:06 ET]
+Table '2381065654 1' 6-max Seat #4 is the button
+Seat 1: chorls464 (596 in chips)
+Seat 2: DiggErr555 (484 in chips)
+Seat 3: dweller123 (496 in chips)
+Seat 4: biertjeh (476 in chips)
+Seat 5: moimob (474 in chips)
+Seat 6: Andrei S101 (474 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+dweller123: posts the ante 3
+biertjeh: posts the ante 3
+moimob: posts the ante 3
+Andrei S101: posts the ante 3
+moimob: posts small blind 15
+Andrei S101: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c Td]
+chorls464: folds
+DiggErr555: folds
+dweller123: raises 60 to 90
+biertjeh: folds
+moimob: folds
+Andrei S101: calls 60
+*** FLOP *** [3d Ac 5s]
+Andrei S101: checks
+dweller123: checks
+*** TURN *** [3d Ac 5s] [8h]
+Andrei S101: bets 90
+dweller123: calls 90
+*** RIVER *** [3d Ac 5s 8h] [5h]
+Andrei S101: bets 90
+dweller123: calls 90
+*** SHOW DOWN ***
+Andrei S101: shows [9s As] (two pair, Aces and Fives)
+dweller123: mucks hand
+Andrei S101 collected 573 from pot
+*** SUMMARY ***
+Total pot 573 | Rake 0
+Board [3d Ac 5s 8h 5h]
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: dweller123 mucked [4s 4d]
+Seat 4: biertjeh (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) folded before Flop
+Seat 6: Andrei S101 (big blind) showed [9s As] and won (573) with two pair, Aces and Fives
+
+PokerStars Hand #189829673824: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:38 MSK [2018/08/12 23:12:38 ET]
+Table '2381065654 1' 6-max Seat #5 is the button
+Seat 1: chorls464 (593 in chips)
+Seat 2: DiggErr555 (481 in chips)
+Seat 3: dweller123 (223 in chips)
+Seat 4: biertjeh (473 in chips)
+Seat 5: moimob (456 in chips)
+Seat 6: Andrei S101 (774 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+dweller123: posts the ante 3
+biertjeh: posts the ante 3
+moimob: posts the ante 3
+Andrei S101: posts the ante 3
+Andrei S101: posts small blind 15
+chorls464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 2d]
+DiggErr555: folds
+dweller123: folds
+biertjeh: raises 440 to 470 and is all-in
+moimob: folds
+Andrei S101: folds
+chorls464: folds
+Uncalled bet (440) returned to biertjeh
+biertjeh collected 93 from pot
+biertjeh: doesn't show hand
+*** SUMMARY ***
+Total pot 93 | Rake 0
+Seat 1: chorls464 (big blind) folded before Flop
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 3: dweller123 folded before Flop (didn't bet)
+Seat 4: biertjeh collected (93)
+Seat 5: moimob (button) folded before Flop (didn't bet)
+Seat 6: Andrei S101 (small blind) folded before Flop
+
+PokerStars Hand #189829678538: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:12:56 MSK [2018/08/12 23:12:56 ET]
+Table '2381065654 1' 6-max Seat #6 is the button
+Seat 1: chorls464 (560 in chips)
+Seat 2: DiggErr555 (478 in chips)
+Seat 3: dweller123 (220 in chips)
+Seat 4: biertjeh (533 in chips)
+Seat 5: moimob (453 in chips)
+Seat 6: Andrei S101 (756 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+dweller123: posts the ante 3
+biertjeh: posts the ante 3
+moimob: posts the ante 3
+Andrei S101: posts the ante 3
+chorls464: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Th]
+dweller123: calls 30
+biertjeh: folds
+moimob: folds
+Andrei S101: calls 30
+chorls464: raises 527 to 557 and is all-in
+DiggErr555: folds
+dweller123: calls 187 and is all-in
+Andrei S101: folds
+Uncalled bet (340) returned to chorls464
+*** FLOP *** [7s 4d 9d]
+*** TURN *** [7s 4d 9d] [Jd]
+*** RIVER *** [7s 4d 9d Jd] [3c]
+*** SHOW DOWN ***
+chorls464: shows [Kd Ad] (a flush, Ace high)
+dweller123: shows [Qh Qd] (a pair of Queens)
+chorls464 collected 512 from pot
+chorls464 wins the $4.79 bounty for eliminating dweller123
+dweller123 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 512 | Rake 0
+Board [7s 4d 9d Jd 3c]
+Seat 1: chorls464 (small blind) showed [Kd Ad] and won (512) with a flush, Ace high
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 3: dweller123 showed [Qh Qd] and lost with a pair of Queens
+Seat 4: biertjeh folded before Flop (didn't bet)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 (button) folded before Flop
+
+PokerStars Hand #189829685789: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:13:24 MSK [2018/08/12 23:13:24 ET]
+Table '2381065654 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (852 in chips)
+Seat 2: DiggErr555 (445 in chips)
+Seat 4: biertjeh (530 in chips)
+Seat 5: moimob (450 in chips)
+Seat 6: Andrei S101 (723 in chips)
+chorls464: posts the ante 3
+DiggErr555: posts the ante 3
+biertjeh: posts the ante 3
+moimob: posts the ante 3
+Andrei S101: posts the ante 3
+DiggErr555: posts small blind 15
+biertjeh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Jc]
+moimob: folds
+Andrei S101: folds
+chorls464: raises 819 to 849 and is all-in
+DiggErr555: folds
+biertjeh: folds
+Uncalled bet (819) returned to chorls464
+chorls464 collected 90 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: chorls464 (button) collected (90)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 4: biertjeh (big blind) folded before Flop
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 folded before Flop (didn't bet)
+
+PokerStars Hand #189829690072: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:13:41 MSK [2018/08/12 23:13:41 ET]
+Table '2381065654 1' 6-max Seat #2 is the button
+Seat 1: chorls464 (909 in chips)
+Seat 2: DiggErr555 (427 in chips)
+Seat 4: biertjeh (497 in chips)
+Seat 5: moimob (447 in chips)
+Seat 6: Andrei S101 (720 in chips)
+chorls464: posts the ante 4
+DiggErr555: posts the ante 4
+biertjeh: posts the ante 4
+moimob: posts the ante 4
+Andrei S101: posts the ante 4
+biertjeh: posts small blind 20
+moimob: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 4h]
+Andrei S101: folds
+chorls464: folds
+DiggErr555: folds
+biertjeh: raises 40 to 80
+moimob: calls 40
+*** FLOP *** [9s Kd 5s]
+biertjeh: bets 80
+moimob: raises 283 to 363 and is all-in
+biertjeh: calls 283
+*** TURN *** [9s Kd 5s] [Jh]
+*** RIVER *** [9s Kd 5s Jh] [9h]
+*** SHOW DOWN ***
+biertjeh: shows [8c 8s] (two pair, Nines and Eights)
+moimob: shows [Qh Jd] (two pair, Jacks and Nines)
+moimob collected 906 from pot
+*** SUMMARY ***
+Total pot 906 | Rake 0
+Board [9s Kd 5s Jh 9h]
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: biertjeh (small blind) showed [8c 8s] and lost with two pair, Nines and Eights
+Seat 5: moimob (big blind) showed [Qh Jd] and won (906) with two pair, Jacks and Nines
+Seat 6: Andrei S101 folded before Flop (didn't bet)
+
+PokerStars Hand #189829698428: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:14 MSK [2018/08/12 23:14:14 ET]
+Table '2381065654 1' 6-max Seat #4 is the button
+Seat 1: chorls464 (905 in chips)
+Seat 2: DiggErr555 (423 in chips)
+Seat 4: biertjeh (50 in chips)
+Seat 5: moimob (906 in chips)
+Seat 6: Andrei S101 (716 in chips)
+chorls464: posts the ante 4
+DiggErr555: posts the ante 4
+biertjeh: posts the ante 4
+moimob: posts the ante 4
+Andrei S101: posts the ante 4
+moimob: posts small blind 20
+Andrei S101: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Js]
+chorls464: raises 861 to 901 and is all-in
+DiggErr555: folds
+biertjeh: folds
+moimob: folds
+Andrei S101: folds
+Uncalled bet (861) returned to chorls464
+chorls464 collected 120 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: chorls464 collected (120)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 4: biertjeh (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) folded before Flop
+Seat 6: Andrei S101 (big blind) folded before Flop
+
+PokerStars Hand #189829702195: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:29 MSK [2018/08/12 23:14:29 ET]
+Table '2381065654 1' 6-max Seat #5 is the button
+Seat 1: chorls464 (981 in chips)
+Seat 2: DiggErr555 (419 in chips)
+Seat 4: biertjeh (46 in chips)
+Seat 5: moimob (882 in chips)
+Seat 6: Andrei S101 (672 in chips)
+chorls464: posts the ante 4
+DiggErr555: posts the ante 4
+biertjeh: posts the ante 4
+moimob: posts the ante 4
+Andrei S101: posts the ante 4
+Andrei S101: posts small blind 20
+chorls464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 9h]
+DiggErr555: folds
+biertjeh: raises 2 to 42 and is all-in
+moimob: calls 42
+Andrei S101: calls 22
+chorls464: raises 935 to 977 and is all-in
+moimob: folds
+Andrei S101: folds
+Uncalled bet (935) returned to chorls464
+*** FLOP *** [6s 3s Qd]
+*** TURN *** [6s 3s Qd] [5s]
+*** RIVER *** [6s 3s Qd 5s] [3h]
+*** SHOW DOWN ***
+chorls464: shows [Jc Tc] (a pair of Threes)
+biertjeh: shows [Kc Ts] (a pair of Threes - King kicker)
+biertjeh collected 188 from pot
+*** SUMMARY ***
+Total pot 188 | Rake 0
+Board [6s 3s Qd 5s 3h]
+Seat 1: chorls464 (big blind) showed [Jc Tc] and lost with a pair of Threes
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 4: biertjeh showed [Kc Ts] and won (188) with a pair of Threes
+Seat 5: moimob (button) folded before Flop
+Seat 6: Andrei S101 (small blind) folded before Flop
+
+PokerStars Hand #189829708669: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:14:54 MSK [2018/08/12 23:14:54 ET]
+Table '2381065654 1' 6-max Seat #6 is the button
+Seat 1: chorls464 (935 in chips)
+Seat 2: DiggErr555 (415 in chips)
+Seat 4: biertjeh (188 in chips)
+Seat 5: moimob (836 in chips)
+Seat 6: Andrei S101 (626 in chips)
+chorls464: posts the ante 4
+DiggErr555: posts the ante 4
+biertjeh: posts the ante 4
+moimob: posts the ante 4
+Andrei S101: posts the ante 4
+chorls464: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8h]
+biertjeh: folds
+moimob: folds
+Andrei S101: folds
+chorls464: raises 891 to 931 and is all-in
+DiggErr555: folds
+Uncalled bet (891) returned to chorls464
+chorls464 collected 100 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: chorls464 (small blind) collected (100)
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 4: biertjeh folded before Flop (didn't bet)
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829712340: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:09 MSK [2018/08/12 23:15:09 ET]
+Table '2381065654 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (991 in chips)
+Seat 2: DiggErr555 (371 in chips)
+Seat 4: biertjeh (184 in chips)
+Seat 5: moimob (832 in chips)
+Seat 6: Andrei S101 (622 in chips)
+chorls464: posts the ante 6
+DiggErr555: posts the ante 6
+biertjeh: posts the ante 6
+moimob: posts the ante 6
+Andrei S101: posts the ante 6
+DiggErr555: posts small blind 30
+biertjeh: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 8s]
+moimob: folds
+Andrei S101: folds
+chorls464: raises 925 to 985 and is all-in
+DiggErr555: folds
+biertjeh: calls 118 and is all-in
+Uncalled bet (807) returned to chorls464
+*** FLOP *** [7d Js 6c]
+*** TURN *** [7d Js 6c] [Jd]
+*** RIVER *** [7d Js 6c Jd] [Qc]
+*** SHOW DOWN ***
+biertjeh: shows [Ts Ah] (a pair of Jacks)
+chorls464: shows [6h Ac] (two pair, Jacks and Sixes)
+chorls464 collected 416 from pot
+chorls464 wins the $4.79 bounty for eliminating biertjeh
+biertjeh finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 416 | Rake 0
+Board [7d Js 6c Jd Qc]
+Seat 1: chorls464 (button) showed [6h Ac] and won (416) with two pair, Jacks and Sixes
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 4: biertjeh (big blind) showed [Ts Ah] and lost with a pair of Jacks
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 folded before Flop (didn't bet)
+
+PokerStars Hand #189829716532: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:25 MSK [2018/08/12 23:15:25 ET]
+Table '2381065654 1' 6-max Seat #2 is the button
+Seat 1: chorls464 (1223 in chips)
+Seat 2: DiggErr555 (335 in chips)
+Seat 5: moimob (826 in chips)
+Seat 6: Andrei S101 (616 in chips)
+chorls464: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+Andrei S101: posts the ante 6
+moimob: posts small blind 30
+Andrei S101: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Js]
+chorls464: folds
+DiggErr555: folds
+moimob: raises 760 to 820 and is all-in
+Andrei S101: folds
+Uncalled bet (760) returned to moimob
+moimob collected 144 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: chorls464 folded before Flop (didn't bet)
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) collected (144)
+Seat 6: Andrei S101 (big blind) folded before Flop
+
+PokerStars Hand #189829721511: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:15:45 MSK [2018/08/12 23:15:45 ET]
+Table '2381065654 1' 6-max Seat #5 is the button
+Seat 1: chorls464 (1217 in chips)
+Seat 2: DiggErr555 (329 in chips)
+Seat 5: moimob (904 in chips)
+Seat 6: Andrei S101 (550 in chips)
+chorls464: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+Andrei S101: posts the ante 6
+Andrei S101: posts small blind 30
+chorls464: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 7c]
+DiggErr555: folds
+moimob: calls 60
+Andrei S101: calls 30
+chorls464: raises 1151 to 1211 and is all-in
+moimob: folds
+Andrei S101: folds
+Uncalled bet (1151) returned to chorls464
+chorls464 collected 204 from pot
+chorls464: doesn't show hand
+*** SUMMARY ***
+Total pot 204 | Rake 0
+Seat 1: chorls464 (big blind) collected (204)
+Seat 2: DiggErr555 folded before Flop (didn't bet)
+Seat 5: moimob (button) folded before Flop
+Seat 6: Andrei S101 (small blind) folded before Flop
+
+PokerStars Hand #189829727297: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:16:07 MSK [2018/08/12 23:16:07 ET]
+Table '2381065654 1' 6-max Seat #6 is the button
+Seat 1: chorls464 (1355 in chips)
+Seat 2: DiggErr555 (323 in chips)
+Seat 5: moimob (838 in chips)
+Seat 6: Andrei S101 (484 in chips)
+chorls464: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+Andrei S101: posts the ante 6
+chorls464: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 7s]
+moimob: folds
+Andrei S101: raises 418 to 478 and is all-in
+chorls464: raises 871 to 1349 and is all-in
+DiggErr555: folds
+Uncalled bet (871) returned to chorls464
+*** FLOP *** [Qh 7h Ts]
+*** TURN *** [Qh 7h Ts] [6h]
+*** RIVER *** [Qh 7h Ts 6h] [9c]
+*** SHOW DOWN ***
+chorls464: shows [Ah 8c] (a straight, Six to Ten)
+Andrei S101: shows [As 5c] (high card Ace)
+chorls464 collected 1040 from pot
+chorls464 wins the $4.79 bounty for eliminating Andrei S101
+Andrei S101 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1040 | Rake 0
+Board [Qh 7h Ts 6h 9c]
+Seat 1: chorls464 (small blind) showed [Ah 8c] and won (1040) with a straight, Six to Ten
+Seat 2: DiggErr555 (big blind) folded before Flop
+Seat 5: moimob folded before Flop (didn't bet)
+Seat 6: Andrei S101 (button) showed [As 5c] and lost with high card Ace
+
+PokerStars Hand #189829731494: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:16:24 MSK [2018/08/12 23:16:24 ET]
+Table '2381065654 1' 6-max Seat #1 is the button
+Seat 1: chorls464 (1911 in chips)
+Seat 2: DiggErr555 (257 in chips)
+Seat 5: moimob (832 in chips)
+chorls464: posts the ante 6
+DiggErr555: posts the ante 6
+moimob: posts the ante 6
+DiggErr555: posts small blind 30
+moimob: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h 6c]
+chorls464: folds
+DiggErr555: folds
+Uncalled bet (30) returned to moimob
+moimob collected 78 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 1: chorls464 (button) folded before Flop (didn't bet)
+Seat 2: DiggErr555 (small blind) folded before Flop
+Seat 5: moimob (big blind) collected (78)
+
+PokerStars Hand #189829734655: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:37 MSK [2018/08/12 23:16:37 ET]
+Table '2381065654 1' 6-max Seat #2 is the button
+Seat 1: chorls464 (1905 in chips)
+Seat 2: DiggErr555 (221 in chips)
+Seat 5: moimob (874 in chips)
+chorls464: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+moimob: posts small blind 40
+chorls464: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 7d]
+DiggErr555: folds
+moimob: calls 40
+chorls464: checks
+*** FLOP *** [4h Qs 6d]
+moimob: checks
+chorls464: bets 80
+moimob: raises 706 to 786 and is all-in
+chorls464: folds
+Uncalled bet (706) returned to moimob
+moimob collected 344 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 344 | Rake 0
+Board [4h Qs 6d]
+Seat 1: chorls464 (big blind) folded on the Flop
+Seat 2: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: moimob (small blind) collected (344)
+
+PokerStars Hand #189829739850: Tournament #2381065654, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:16:57 MSK [2018/08/12 23:16:57 ET]
+Table '2381065654 1' 6-max Seat #5 is the button
+Seat 1: chorls464 (1737 in chips)
+Seat 2: DiggErr555 (213 in chips)
+Seat 5: moimob (1050 in chips)
+chorls464: posts the ante 8
+DiggErr555: posts the ante 8
+moimob: posts the ante 8
+chorls464: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 4s]
+moimob: folds
+chorls464: raises 1649 to 1729 and is all-in
+DiggErr555: calls 125 and is all-in
+Uncalled bet (1524) returned to chorls464
+*** FLOP *** [Ts Jd 4c]
+*** TURN *** [Ts Jd 4c] [5h]
+*** RIVER *** [Ts Jd 4c 5h] [Tc]
+*** SHOW DOWN ***
+chorls464: shows [Jc Ks] (two pair, Jacks and Tens)
+DiggErr555: shows [5d 4s] (two pair, Tens and Fives)
+chorls464 collected 434 from pot
+chorls464 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 434 | Rake 0
+Board [Ts Jd 4c 5h Tc]
+Seat 1: chorls464 (small blind) showed [Jc Ks] and won (434) with two pair, Jacks and Tens
+Seat 2: DiggErr555 (big blind) showed [5d 4s] and lost with two pair, Tens and Fives
+Seat 5: moimob (button) folded before Flop (didn't bet)

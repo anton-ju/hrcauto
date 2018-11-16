@@ -1,0 +1,362 @@
+
+
+PokerStars Hand #189829169936: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:41:10 MSK [2018/08/12 22:41:10 ET]
+Table '2381054847 1' 6-max Seat #1 is the button
+Seat 1: labinot25 (500 in chips)
+Seat 2: pokerholique (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: Lars9 (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: LOS0709 (500 in chips)
+labinot25: posts the ante 2
+pokerholique: posts the ante 2
+DiggErr555: posts the ante 2
+Lars9: posts the ante 2
+Mishator: posts the ante 2
+LOS0709: posts the ante 2
+pokerholique: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 8h]
+Lars9: folds
+Mishator: folds
+LOS0709: folds
+labinot25: raises 40 to 60
+pokerholique: folds
+DiggErr555: folds
+Uncalled bet (40) returned to labinot25
+labinot25 collected 62 from pot
+labinot25: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: labinot25 (button) collected (62)
+Seat 2: pokerholique (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: Lars9 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: LOS0709 folded before Flop (didn't bet)
+
+PokerStars Hand #189829176067: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:41:32 MSK [2018/08/12 22:41:32 ET]
+Table '2381054847 1' 6-max Seat #2 is the button
+Seat 1: labinot25 (540 in chips)
+Seat 2: pokerholique (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: Lars9 (498 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: LOS0709 (498 in chips)
+labinot25: posts the ante 2
+pokerholique: posts the ante 2
+DiggErr555: posts the ante 2
+Lars9: posts the ante 2
+Mishator: posts the ante 2
+LOS0709: posts the ante 2
+DiggErr555: posts small blind 10
+Lars9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Tc]
+Mishator: raises 20 to 40
+LOS0709: folds
+labinot25: calls 40
+pokerholique: calls 40
+DiggErr555: folds
+Lars9: folds
+*** FLOP *** [4d Ac 5c]
+Mishator: checks
+labinot25: checks
+pokerholique: checks
+*** TURN *** [4d Ac 5c] [Qc]
+Mishator: checks
+labinot25: checks
+pokerholique: checks
+*** RIVER *** [4d Ac 5c Qc] [Qs]
+Mishator: checks
+labinot25: checks
+pokerholique: checks
+*** SHOW DOWN ***
+Mishator: shows [Ad 7d] (two pair, Aces and Queens)
+labinot25: mucks hand
+pokerholique: mucks hand
+Mishator collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | Rake 0
+Board [4d Ac 5c Qc Qs]
+Seat 1: labinot25 mucked [9h 7h]
+Seat 2: pokerholique (button) mucked [Kh Td]
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: Lars9 (big blind) folded before Flop
+Seat 5: Mishator showed [Ad 7d] and won (162) with two pair, Aces and Queens
+Seat 6: LOS0709 folded before Flop (didn't bet)
+
+PokerStars Hand #189829188866: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:42:18 MSK [2018/08/12 22:42:18 ET]
+Table '2381054847 1' 6-max Seat #3 is the button
+Seat 1: labinot25 (498 in chips)
+Seat 2: pokerholique (446 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: Lars9 (476 in chips)
+Seat 5: Mishator (618 in chips)
+Seat 6: LOS0709 (496 in chips)
+labinot25: posts the ante 2
+pokerholique: posts the ante 2
+DiggErr555: posts the ante 2
+Lars9: posts the ante 2
+Mishator: posts the ante 2
+LOS0709: posts the ante 2
+Lars9: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 7d]
+LOS0709: folds
+labinot25: folds
+pokerholique: raises 424 to 444 and is all-in
+DiggErr555: folds
+Lars9: folds
+Mishator: calls 424
+*** FLOP *** [9s Ac Js]
+*** TURN *** [9s Ac Js] [9h]
+*** RIVER *** [9s Ac Js 9h] [4h]
+*** SHOW DOWN ***
+Mishator: shows [9d 9c] (four of a kind, Nines)
+pokerholique: shows [Qh Qc] (two pair, Queens and Nines)
+Mishator collected 910 from pot
+Mishator wins the $2.38 bounty for eliminating pokerholique
+pokerholique finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 910 | Rake 0
+Board [9s Ac Js 9h 4h]
+Seat 1: labinot25 folded before Flop (didn't bet)
+Seat 2: pokerholique showed [Qh Qc] and lost with two pair, Queens and Nines
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Lars9 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [9d 9c] and won (910) with four of a kind, Nines
+Seat 6: LOS0709 folded before Flop (didn't bet)
+
+PokerStars Hand #189829198081: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:42:51 MSK [2018/08/12 22:42:51 ET]
+Table '2381054847 1' 6-max Seat #4 is the button
+Seat 1: labinot25 (496 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: Lars9 (464 in chips)
+Seat 5: Mishator (1082 in chips)
+Seat 6: LOS0709 (494 in chips)
+labinot25: posts the ante 3
+DiggErr555: posts the ante 3
+Lars9: posts the ante 3
+Mishator: posts the ante 3
+LOS0709: posts the ante 3
+Mishator: posts small blind 15
+LOS0709: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d Qd]
+labinot25: calls 30
+DiggErr555: folds
+Lars9: folds
+Mishator: raises 1049 to 1079 and is all-in
+LOS0709: folds
+labinot25: folds
+Uncalled bet (1049) returned to Mishator
+Mishator collected 105 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 105 | Rake 0
+Seat 1: labinot25 folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: Lars9 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (105)
+Seat 6: LOS0709 (big blind) folded before Flop
+
+PokerStars Hand #189829203980: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:43:12 MSK [2018/08/12 22:43:12 ET]
+Table '2381054847 1' 6-max Seat #5 is the button
+Seat 1: labinot25 (463 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: Lars9 (461 in chips)
+Seat 5: Mishator (1154 in chips)
+Seat 6: LOS0709 (461 in chips)
+labinot25: posts the ante 3
+DiggErr555: posts the ante 3
+Lars9: posts the ante 3
+Mishator: posts the ante 3
+LOS0709: posts the ante 3
+LOS0709: posts small blind 15
+labinot25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah Jc]
+DiggErr555: raises 30 to 60
+Lars9: calls 60
+Mishator: folds
+LOS0709: folds
+labinot25: folds
+*** FLOP *** [6d 9d 8c]
+DiggErr555: checks
+Lars9: bets 180
+DiggErr555: folds
+Uncalled bet (180) returned to Lars9
+Lars9 collected 180 from pot
+Lars9: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [6d 9d 8c]
+Seat 1: labinot25 (big blind) folded before Flop
+Seat 3: DiggErr555 folded on the Flop
+Seat 4: Lars9 collected (180)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: LOS0709 (small blind) folded before Flop
+
+PokerStars Hand #189829215853: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:43:54 MSK [2018/08/12 22:43:54 ET]
+Table '2381054847 1' 6-max Seat #6 is the button
+Seat 1: labinot25 (430 in chips)
+Seat 3: DiggErr555 (398 in chips)
+Seat 4: Lars9 (578 in chips)
+Seat 5: Mishator (1151 in chips)
+Seat 6: LOS0709 (443 in chips)
+labinot25: posts the ante 3
+DiggErr555: posts the ante 3
+Lars9: posts the ante 3
+Mishator: posts the ante 3
+LOS0709: posts the ante 3
+labinot25: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 4d]
+Lars9: folds
+Mishator: folds
+LOS0709: calls 30
+labinot25: calls 15
+DiggErr555: checks
+*** FLOP *** [Qh Kc Ad]
+labinot25: checks
+DiggErr555: checks
+LOS0709: bets 60
+labinot25: folds
+DiggErr555: folds
+Uncalled bet (60) returned to LOS0709
+LOS0709 collected 105 from pot
+LOS0709: doesn't show hand
+*** SUMMARY ***
+Total pot 105 | Rake 0
+Board [Qh Kc Ad]
+Seat 1: labinot25 (small blind) folded on the Flop
+Seat 3: DiggErr555 (big blind) folded on the Flop
+Seat 4: Lars9 folded before Flop (didn't bet)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: LOS0709 (button) collected (105)
+
+PokerStars Hand #189829223678: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:44:22 MSK [2018/08/12 22:44:22 ET]
+Table '2381054847 1' 6-max Seat #1 is the button
+Seat 1: labinot25 (397 in chips)
+Seat 3: DiggErr555 (365 in chips)
+Seat 4: Lars9 (575 in chips)
+Seat 5: Mishator (1148 in chips)
+Seat 6: LOS0709 (515 in chips)
+labinot25: posts the ante 3
+DiggErr555: posts the ante 3
+Lars9: posts the ante 3
+Mishator: posts the ante 3
+LOS0709: posts the ante 3
+DiggErr555: posts small blind 15
+Lars9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd Kc]
+Mishator: folds
+LOS0709: folds
+labinot25: raises 30 to 60
+DiggErr555: raises 302 to 362 and is all-in
+Lars9: folds
+labinot25: calls 302
+*** FLOP *** [7c Qh 2h]
+*** TURN *** [7c Qh 2h] [4h]
+*** RIVER *** [7c Qh 2h 4h] [6s]
+*** SHOW DOWN ***
+DiggErr555: shows [Qd Kc] (a pair of Queens)
+labinot25: shows [Js Kh] (high card King)
+DiggErr555 collected 769 from pot
+*** SUMMARY ***
+Total pot 769 | Rake 0
+Board [7c Qh 2h 4h 6s]
+Seat 1: labinot25 (button) showed [Js Kh] and lost with high card King
+Seat 3: DiggErr555 (small blind) showed [Qd Kc] and won (769) with a pair of Queens
+Seat 4: Lars9 (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: LOS0709 folded before Flop (didn't bet)
+
+PokerStars Hand #189829236550: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:45:09 MSK [2018/08/12 22:45:09 ET]
+Table '2381054847 1' 6-max Seat #3 is the button
+Seat 1: labinot25 (32 in chips)
+Seat 3: DiggErr555 (769 in chips)
+Seat 4: Lars9 (542 in chips)
+Seat 5: Mishator (1145 in chips)
+Seat 6: LOS0709 (512 in chips)
+labinot25: posts the ante 4
+DiggErr555: posts the ante 4
+Lars9: posts the ante 4
+Mishator: posts the ante 4
+LOS0709: posts the ante 4
+Lars9: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 5c]
+LOS0709: folds
+labinot25: calls 28 and is all-in
+DiggErr555: folds
+Lars9: calls 20
+Mishator: raises 1101 to 1141 and is all-in
+Lars9: folds
+Uncalled bet (1101) returned to Mishator
+*** FLOP *** [Qs 6s 5d]
+*** TURN *** [Qs 6s 5d] [Ks]
+*** RIVER *** [Qs 6s 5d Ks] [8c]
+*** SHOW DOWN ***
+Mishator: shows [As 2c] (high card Ace)
+Mishator collected 24 from side pot
+labinot25: shows [Qc Td] (a pair of Queens)
+labinot25 collected 104 from main pot
+*** SUMMARY ***
+Total pot 128 Main pot 104. Side pot 24. | Rake 0
+Board [Qs 6s 5d Ks 8c]
+Seat 1: labinot25 showed [Qc Td] and won (104) with a pair of Queens
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Lars9 (small blind) folded before Flop
+Seat 5: Mishator (big blind) showed [As 2c] and won (24) with high card Ace
+Seat 6: LOS0709 folded before Flop (didn't bet)
+
+PokerStars Hand #189829245994: Tournament #2381054847, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:45:43 MSK [2018/08/12 22:45:43 ET]
+Table '2381054847 1' 6-max Seat #4 is the button
+Seat 1: labinot25 (104 in chips)
+Seat 3: DiggErr555 (765 in chips)
+Seat 4: Lars9 (498 in chips)
+Seat 5: Mishator (1125 in chips)
+Seat 6: LOS0709 (508 in chips)
+labinot25: posts the ante 4
+DiggErr555: posts the ante 4
+Lars9: posts the ante 4
+Mishator: posts the ante 4
+LOS0709: posts the ante 4
+Mishator: posts small blind 20
+LOS0709: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c As]
+labinot25: raises 60 to 100 and is all-in
+DiggErr555: raises 661 to 761 and is all-in
+Lars9: folds
+Mishator: raises 360 to 1121 and is all-in
+LOS0709: folds
+Uncalled bet (360) returned to Mishator
+*** FLOP *** [3h Qs 9s]
+*** TURN *** [3h Qs 9s] [6d]
+*** RIVER *** [3h Qs 9s 6d] [5d]
+*** SHOW DOWN ***
+Mishator: shows [Ks Kc] (a pair of Kings)
+DiggErr555: shows [9c As] (a pair of Nines)
+Mishator collected 1322 from side pot
+labinot25: shows [Kd Ad] (high card Ace)
+Mishator collected 360 from main pot
+Mishator wins the $2.38 bounty for eliminating labinot25
+Mishator wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 4th place
+labinot25 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1682 Main pot 360. Side pot 1322. | Rake 0
+Board [3h Qs 9s 6d 5d]
+Seat 1: labinot25 showed [Kd Ad] and lost with high card Ace
+Seat 3: DiggErr555 showed [9c As] and lost with a pair of Nines
+Seat 4: Lars9 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) showed [Ks Kc] and won (1682) with a pair of Kings
+Seat 6: LOS0709 (big blind) folded before Flop

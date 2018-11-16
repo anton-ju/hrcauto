@@ -1,0 +1,782 @@
+
+
+PokerStars Hand #189829604322: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:08:07 MSK [2018/08/12 23:08:07 ET]
+Table '2381064447 1' 6-max Seat #1 is the button
+Seat 1: moimob (500 in chips)
+Seat 2: luiz290688 (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: YoungGun1994 (500 in chips)
+Seat 5: mrzm0118 (500 in chips)
+Seat 6: chorls464 (500 in chips)
+moimob: posts the ante 2
+luiz290688: posts the ante 2
+DiggErr555: posts the ante 2
+YoungGun1994: posts the ante 2
+mrzm0118: posts the ante 2
+chorls464: posts the ante 2
+luiz290688: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c Tc]
+YoungGun1994: folds
+mrzm0118: folds
+chorls464: folds
+moimob: raises 20 to 40
+luiz290688: raises 40 to 80
+DiggErr555: folds
+moimob: calls 40
+*** FLOP *** [2d Js 4h]
+luiz290688: bets 80
+moimob: calls 80
+*** TURN *** [2d Js 4h] [Th]
+luiz290688: checks
+moimob: bets 338 and is all-in
+luiz290688: folds
+Uncalled bet (338) returned to moimob
+moimob collected 352 from pot
+moimob: doesn't show hand
+*** SUMMARY ***
+Total pot 352 | Rake 0
+Board [2d Js 4h Th]
+Seat 1: moimob (button) collected (352)
+Seat 2: luiz290688 (small blind) folded on the Turn
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: YoungGun1994 folded before Flop (didn't bet)
+Seat 5: mrzm0118 folded before Flop (didn't bet)
+Seat 6: chorls464 folded before Flop (didn't bet)
+
+PokerStars Hand #189829617413: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:08:58 MSK [2018/08/12 23:08:58 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 1: moimob (690 in chips)
+Seat 2: luiz290688 (338 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: YoungGun1994 (498 in chips)
+Seat 5: mrzm0118 (498 in chips)
+Seat 6: chorls464 (498 in chips)
+moimob: posts the ante 2
+luiz290688: posts the ante 2
+DiggErr555: posts the ante 2
+YoungGun1994: posts the ante 2
+mrzm0118: posts the ante 2
+chorls464: posts the ante 2
+DiggErr555: posts small blind 10
+YoungGun1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 7c]
+mrzm0118: folds
+chorls464: raises 24 to 44
+moimob: folds
+luiz290688: raises 292 to 336 and is all-in
+DiggErr555: folds
+YoungGun1994: folds
+chorls464: calls 292
+*** FLOP *** [Ah 9c Qd]
+*** TURN *** [Ah 9c Qd] [6d]
+*** RIVER *** [Ah 9c Qd 6d] [2c]
+*** SHOW DOWN ***
+chorls464: shows [Td Jh] (high card Ace)
+luiz290688: shows [6s 2s] (two pair, Sixes and Deuces)
+luiz290688 collected 714 from pot
+*** SUMMARY ***
+Total pot 714 | Rake 0
+Board [Ah 9c Qd 6d 2c]
+Seat 1: moimob folded before Flop (didn't bet)
+Seat 2: luiz290688 (button) showed [6s 2s] and won (714) with two pair, Sixes and Deuces
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: YoungGun1994 (big blind) folded before Flop
+Seat 5: mrzm0118 folded before Flop (didn't bet)
+Seat 6: chorls464 showed [Td Jh] and lost with high card Ace
+
+PokerStars Hand #189829626050: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:09:32 MSK [2018/08/12 23:09:32 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 1: moimob (688 in chips)
+Seat 2: luiz290688 (714 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: YoungGun1994 (476 in chips)
+Seat 5: mrzm0118 (496 in chips)
+Seat 6: chorls464 (160 in chips)
+moimob: posts the ante 2
+luiz290688: posts the ante 2
+DiggErr555: posts the ante 2
+YoungGun1994: posts the ante 2
+mrzm0118: posts the ante 2
+chorls464: posts the ante 2
+YoungGun1994: posts small blind 10
+mrzm0118: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 5c]
+chorls464: raises 138 to 158 and is all-in
+moimob: raises 528 to 686 and is all-in
+luiz290688: raises 26 to 712 and is all-in
+DiggErr555: folds
+YoungGun1994: folds
+mrzm0118: folds
+Uncalled bet (26) returned to luiz290688
+*** FLOP *** [5h Qd Kd]
+*** TURN *** [5h Qd Kd] [3h]
+*** RIVER *** [5h Qd Kd 3h] [4c]
+*** SHOW DOWN ***
+moimob: shows [8h 8s] (a pair of Eights)
+luiz290688: shows [5d 5s] (three of a kind, Fives)
+luiz290688 collected 1056 from side pot
+chorls464: shows [Ad 6d] (high card Ace)
+luiz290688 collected 516 from main pot
+luiz290688 wins the $4.79 bounty for eliminating moimob
+luiz290688 wins the $4.79 bounty for eliminating chorls464
+moimob finished the tournament in 5th place
+chorls464 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1572 Main pot 516. Side pot 1056. | Rake 0
+Board [5h Qd Kd 3h 4c]
+Seat 1: moimob showed [8h 8s] and lost with a pair of Eights
+Seat 2: luiz290688 showed [5d 5s] and won (1572) with three of a kind, Fives
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: YoungGun1994 (small blind) folded before Flop
+Seat 5: mrzm0118 (big blind) folded before Flop
+Seat 6: chorls464 showed [Ad 6d] and lost with high card Ace
+
+PokerStars Hand #189829633678: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:10:01 MSK [2018/08/12 23:10:01 ET]
+Table '2381064447 1' 6-max Seat #4 is the button
+Seat 2: luiz290688 (1598 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: YoungGun1994 (464 in chips)
+Seat 5: mrzm0118 (474 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+YoungGun1994: posts the ante 3
+mrzm0118: posts the ante 3
+mrzm0118: posts small blind 15
+luiz290688: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5h Ac]
+DiggErr555: folds
+YoungGun1994: folds
+mrzm0118: calls 15
+luiz290688: raises 60 to 90
+mrzm0118: calls 60
+*** FLOP *** [9s Qh 5d]
+mrzm0118: checks
+luiz290688: bets 60
+mrzm0118: calls 60
+*** TURN *** [9s Qh 5d] [4s]
+mrzm0118: checks
+luiz290688: checks
+*** RIVER *** [9s Qh 5d 4s] [7h]
+mrzm0118: checks
+luiz290688: checks
+*** SHOW DOWN ***
+mrzm0118: shows [2c 2s] (a pair of Deuces)
+luiz290688: mucks hand
+mrzm0118 collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | Rake 0
+Board [9s Qh 5d 4s 7h]
+Seat 2: luiz290688 (big blind) mucked [Tc Jh]
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: YoungGun1994 (button) folded before Flop (didn't bet)
+Seat 5: mrzm0118 (small blind) showed [2c 2s] and won (312) with a pair of Deuces
+
+PokerStars Hand #189829645447: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:10:47 MSK [2018/08/12 23:10:47 ET]
+Table '2381064447 1' 6-max Seat #5 is the button
+Seat 2: luiz290688 (1445 in chips)
+Seat 3: DiggErr555 (461 in chips)
+Seat 4: YoungGun1994 (461 in chips)
+Seat 5: mrzm0118 (633 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+YoungGun1994: posts the ante 3
+mrzm0118: posts the ante 3
+luiz290688: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 6h]
+YoungGun1994: raises 36 to 66
+mrzm0118: raises 564 to 630 and is all-in
+luiz290688: folds
+DiggErr555: folds
+YoungGun1994: folds
+Uncalled bet (564) returned to mrzm0118
+mrzm0118 collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | Rake 0
+Seat 2: luiz290688 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: YoungGun1994 folded before Flop
+Seat 5: mrzm0118 (button) collected (189)
+
+PokerStars Hand #189829650033: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:11:05 MSK [2018/08/12 23:11:05 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (1427 in chips)
+Seat 3: DiggErr555 (428 in chips)
+Seat 4: YoungGun1994 (392 in chips)
+Seat 5: mrzm0118 (753 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+YoungGun1994: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts small blind 15
+YoungGun1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Th]
+mrzm0118: folds
+luiz290688: raises 1394 to 1424 and is all-in
+DiggErr555: folds
+YoungGun1994: calls 359 and is all-in
+Uncalled bet (1035) returned to luiz290688
+*** FLOP *** [5c 5h Kd]
+*** TURN *** [5c 5h Kd] [Qh]
+*** RIVER *** [5c 5h Kd Qh] [Jh]
+*** SHOW DOWN ***
+YoungGun1994: shows [Kc Jc] (two pair, Kings and Jacks)
+luiz290688: shows [Kh Ah] (a flush, Ace high)
+luiz290688 collected 805 from pot
+luiz290688 wins the $4.79 bounty for eliminating YoungGun1994
+YoungGun1994 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 805 | Rake 0
+Board [5c 5h Kd Qh Jh]
+Seat 2: luiz290688 (button) showed [Kh Ah] and won (805) with a flush, Ace high
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: YoungGun1994 (big blind) showed [Kc Jc] and lost with two pair, Kings and Jacks
+Seat 5: mrzm0118 folded before Flop (didn't bet)
+
+PokerStars Hand #189829656575: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:11:31 MSK [2018/08/12 23:11:31 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (1840 in chips)
+Seat 3: DiggErr555 (410 in chips)
+Seat 5: mrzm0118 (750 in chips)
+luiz290688: posts the ante 3
+DiggErr555: posts the ante 3
+mrzm0118: posts the ante 3
+mrzm0118: posts small blind 15
+luiz290688: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c Td]
+DiggErr555: folds
+mrzm0118: folds
+Uncalled bet (15) returned to luiz290688
+luiz290688 collected 39 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 2: luiz290688 (big blind) collected (39)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: mrzm0118 (small blind) folded before Flop
+
+PokerStars Hand #189829659409: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:11:42 MSK [2018/08/12 23:11:42 ET]
+Table '2381064447 1' 6-max Seat #5 is the button
+Seat 2: luiz290688 (1861 in chips)
+Seat 3: DiggErr555 (407 in chips)
+Seat 5: mrzm0118 (732 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts the ante 4
+luiz290688: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Ac]
+mrzm0118: raises 40 to 80
+luiz290688: calls 60
+DiggErr555: calls 40
+*** FLOP *** [4h Qc 6d]
+luiz290688: checks
+DiggErr555: checks
+mrzm0118: bets 80
+luiz290688: folds
+DiggErr555: folds
+Uncalled bet (80) returned to mrzm0118
+mrzm0118 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | Rake 0
+Board [4h Qc 6d]
+Seat 2: luiz290688 (small blind) folded on the Flop
+Seat 3: DiggErr555 (big blind) folded on the Flop
+Seat 5: mrzm0118 (button) collected (252)
+
+PokerStars Hand #189829670708: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:12:25 MSK [2018/08/12 23:12:25 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (1777 in chips)
+Seat 3: DiggErr555 (323 in chips)
+Seat 5: mrzm0118 (900 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts small blind 20
+mrzm0118: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 2d]
+luiz290688: calls 40
+DiggErr555: folds
+mrzm0118: checks
+*** FLOP *** [Qh 9d 6c]
+mrzm0118: checks
+luiz290688: bets 80
+mrzm0118: folds
+Uncalled bet (80) returned to luiz290688
+luiz290688 collected 112 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Board [Qh 9d 6c]
+Seat 2: luiz290688 (button) collected (112)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: mrzm0118 (big blind) folded on the Flop
+
+PokerStars Hand #189829675283: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:12:43 MSK [2018/08/12 23:12:43 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (1845 in chips)
+Seat 3: DiggErr555 (299 in chips)
+Seat 5: mrzm0118 (856 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts the ante 4
+mrzm0118: posts small blind 20
+luiz290688: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Ac]
+DiggErr555: raises 255 to 295 and is all-in
+mrzm0118: raises 557 to 852 and is all-in
+luiz290688: folds
+Uncalled bet (557) returned to mrzm0118
+*** FLOP *** [Qs 6s 4s]
+*** TURN *** [Qs 6s 4s] [Jh]
+*** RIVER *** [Qs 6s 4s Jh] [7h]
+*** SHOW DOWN ***
+mrzm0118: shows [Th Tc] (a pair of Tens)
+DiggErr555: shows [Jd Ac] (a pair of Jacks)
+DiggErr555 collected 642 from pot
+*** SUMMARY ***
+Total pot 642 | Rake 0
+Board [Qs 6s 4s Jh 7h]
+Seat 2: luiz290688 (big blind) folded before Flop
+Seat 3: DiggErr555 (button) showed [Jd Ac] and won (642) with a pair of Jacks
+Seat 5: mrzm0118 (small blind) showed [Th Tc] and lost with a pair of Tens
+
+PokerStars Hand #189829679725: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:13:01 MSK [2018/08/12 23:13:01 ET]
+Table '2381064447 1' 6-max Seat #5 is the button
+Seat 2: luiz290688 (1801 in chips)
+Seat 3: DiggErr555 (642 in chips)
+Seat 5: mrzm0118 (557 in chips)
+luiz290688: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts the ante 4
+luiz290688: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c Ts]
+mrzm0118: folds
+luiz290688: folds
+Uncalled bet (20) returned to DiggErr555
+DiggErr555 collected 52 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 2: luiz290688 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (52)
+Seat 5: mrzm0118 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829682813: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:13:13 MSK [2018/08/12 23:13:13 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (1777 in chips)
+Seat 3: DiggErr555 (670 in chips)
+Seat 5: mrzm0118 (553 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+mrzm0118: posts the ante 6
+DiggErr555: posts small blind 30
+mrzm0118: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Ts]
+luiz290688: calls 60
+DiggErr555: folds
+mrzm0118: raises 487 to 547 and is all-in
+luiz290688: folds
+Uncalled bet (487) returned to mrzm0118
+mrzm0118 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: luiz290688 (button) folded before Flop
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: mrzm0118 (big blind) collected (168)
+
+PokerStars Hand #189829689548: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:13:39 MSK [2018/08/12 23:13:39 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (1711 in chips)
+Seat 3: DiggErr555 (634 in chips)
+Seat 5: mrzm0118 (655 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+mrzm0118: posts the ante 6
+mrzm0118: posts small blind 30
+luiz290688: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd Ks]
+DiggErr555: raises 568 to 628 and is all-in
+mrzm0118: raises 21 to 649 and is all-in
+luiz290688: calls 589
+*** FLOP *** [4d Kd 4c]
+*** TURN *** [4d Kd 4c] [2h]
+*** RIVER *** [4d Kd 4c 2h] [9d]
+*** SHOW DOWN ***
+mrzm0118: shows [3c 3h] (two pair, Fours and Threes)
+luiz290688: shows [Jh Ah] (a pair of Fours)
+mrzm0118 collected 42 from side pot
+DiggErr555: shows [Jd Ks] (two pair, Kings and Fours)
+DiggErr555 collected 1902 from main pot
+*** SUMMARY ***
+Total pot 1944 Main pot 1902. Side pot 42. | Rake 0
+Board [4d Kd 4c 2h 9d]
+Seat 2: luiz290688 (big blind) showed [Jh Ah] and lost with a pair of Fours
+Seat 3: DiggErr555 (button) showed [Jd Ks] and won (1902) with two pair, Kings and Fours
+Seat 5: mrzm0118 (small blind) showed [3c 3h] and won (42) with two pair, Fours and Threes
+
+PokerStars Hand #189829696003: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:14:04 MSK [2018/08/12 23:14:04 ET]
+Table '2381064447 1' 6-max Seat #5 is the button
+Seat 2: luiz290688 (1056 in chips)
+Seat 3: DiggErr555 (1902 in chips)
+Seat 5: mrzm0118 (42 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+mrzm0118: posts the ante 6
+luiz290688: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 7s]
+mrzm0118: calls 36 and is all-in
+luiz290688: raises 60 to 120
+DiggErr555: calls 60
+*** FLOP *** [7d Td 3s]
+luiz290688: bets 930 and is all-in
+DiggErr555: calls 930
+*** TURN *** [7d Td 3s] [6c]
+*** RIVER *** [7d Td 3s 6c] [8c]
+*** SHOW DOWN ***
+luiz290688: shows [Qs Qh] (a pair of Queens)
+DiggErr555: shows [2h 7s] (a pair of Sevens)
+luiz290688 collected 2028 from side pot
+mrzm0118: shows [3c 5c] (a pair of Threes)
+luiz290688 collected 126 from main pot
+luiz290688 wins the $4.79 bounty for eliminating mrzm0118
+mrzm0118 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2154 Main pot 126. Side pot 2028. | Rake 0
+Board [7d Td 3s 6c 8c]
+Seat 2: luiz290688 (small blind) showed [Qs Qh] and won (2154) with a pair of Queens
+Seat 3: DiggErr555 (big blind) showed [2h 7s] and lost with a pair of Sevens
+Seat 5: mrzm0118 (button) showed [3c 5c] and lost with a pair of Threes
+
+PokerStars Hand #189829702082: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:14:28 MSK [2018/08/12 23:14:28 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (2154 in chips)
+Seat 3: DiggErr555 (846 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+luiz290688: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7d Ad]
+DiggErr555: raises 60 to 120
+luiz290688: calls 60
+*** FLOP *** [Qs Ts 3h]
+luiz290688: checks
+DiggErr555: bets 88
+luiz290688: folds
+Uncalled bet (88) returned to DiggErr555
+DiggErr555 collected 252 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 252 | Rake 0
+Board [Qs Ts 3h]
+Seat 2: luiz290688 (big blind) folded on the Flop
+Seat 3: DiggErr555 (button) (small blind) collected (252)
+
+PokerStars Hand #189829705534: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:14:42 MSK [2018/08/12 23:14:42 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (2028 in chips)
+Seat 3: DiggErr555 (972 in chips)
+luiz290688: posts the ante 6
+DiggErr555: posts the ante 6
+luiz290688: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h Qd]
+luiz290688: raises 60 to 120
+DiggErr555: folds
+Uncalled bet (60) returned to luiz290688
+luiz290688 collected 132 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 2: luiz290688 (button) (small blind) collected (132)
+Seat 3: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829707969: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:14:52 MSK [2018/08/12 23:14:52 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (2094 in chips)
+Seat 3: DiggErr555 (906 in chips)
+luiz290688: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+luiz290688: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 7s]
+DiggErr555: folds
+Uncalled bet (40) returned to luiz290688
+luiz290688 collected 96 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: luiz290688 (big blind) collected (96)
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829708985: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:14:55 MSK [2018/08/12 23:14:55 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (2142 in chips)
+Seat 3: DiggErr555 (858 in chips)
+luiz290688: posts the ante 8
+DiggErr555: posts the ante 8
+luiz290688: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 2d]
+luiz290688: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: luiz290688 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (96)
+
+PokerStars Hand #189829710099: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:15:00 MSK [2018/08/12 23:15:00 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (2094 in chips)
+Seat 3: DiggErr555 (906 in chips)
+luiz290688: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+luiz290688: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 3s]
+DiggErr555: folds
+Uncalled bet (40) returned to luiz290688
+luiz290688 collected 96 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: luiz290688 (big blind) collected (96)
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829711143: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:15:04 MSK [2018/08/12 23:15:04 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (2142 in chips)
+Seat 3: DiggErr555 (858 in chips)
+luiz290688: posts the ante 8
+DiggErr555: posts the ante 8
+luiz290688: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 8s]
+luiz290688: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 96 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: luiz290688 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (96)
+
+PokerStars Hand #189829712188: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:15:08 MSK [2018/08/12 23:15:08 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (2094 in chips)
+Seat 3: DiggErr555 (906 in chips)
+luiz290688: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+luiz290688: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 8d]
+DiggErr555: calls 40
+luiz290688: checks
+*** FLOP *** [6d Kh 9c]
+luiz290688: checks
+DiggErr555: bets 80
+luiz290688: calls 80
+*** TURN *** [6d Kh 9c] [Kc]
+luiz290688: checks
+DiggErr555: bets 175
+luiz290688: folds
+Uncalled bet (175) returned to DiggErr555
+DiggErr555 collected 336 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 336 | Rake 0
+Board [6d Kh 9c Kc]
+Seat 2: luiz290688 (big blind) folded on the Turn
+Seat 3: DiggErr555 (button) (small blind) collected (336)
+
+PokerStars Hand #189829718819: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:15:34 MSK [2018/08/12 23:15:34 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (1926 in chips)
+Seat 3: DiggErr555 (1074 in chips)
+luiz290688: posts the ante 10
+DiggErr555: posts the ante 10
+luiz290688: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 4d]
+luiz290688: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: luiz290688 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (120)
+
+PokerStars Hand #189829720107: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:15:40 MSK [2018/08/12 23:15:40 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (1866 in chips)
+Seat 3: DiggErr555 (1134 in chips)
+luiz290688: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+luiz290688: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 4h]
+DiggErr555: calls 50
+luiz290688: raises 1756 to 1856 and is all-in
+DiggErr555: folds
+Uncalled bet (1756) returned to luiz290688
+luiz290688 collected 220 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: luiz290688 (big blind) collected (220)
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829723054: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:15:51 MSK [2018/08/12 23:15:51 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (1976 in chips)
+Seat 3: DiggErr555 (1024 in chips)
+luiz290688: posts the ante 10
+DiggErr555: posts the ante 10
+luiz290688: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 4h]
+luiz290688: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 120 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: luiz290688 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (120)
+
+PokerStars Hand #189829724130: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:15:55 MSK [2018/08/12 23:15:55 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (1916 in chips)
+Seat 3: DiggErr555 (1084 in chips)
+luiz290688: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+luiz290688: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 2c]
+DiggErr555: folds
+Uncalled bet (50) returned to luiz290688
+luiz290688 collected 120 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: luiz290688 (big blind) collected (120)
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829725397: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:16:00 MSK [2018/08/12 23:16:00 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (1976 in chips)
+Seat 3: DiggErr555 (1024 in chips)
+luiz290688: posts the ante 10
+DiggErr555: posts the ante 10
+luiz290688: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Td 4s]
+luiz290688: raises 1866 to 1966 and is all-in
+DiggErr555: folds
+Uncalled bet (1866) returned to luiz290688
+luiz290688 collected 220 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: luiz290688 (button) (small blind) collected (220)
+Seat 3: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829727097: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:16:07 MSK [2018/08/12 23:16:07 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (2086 in chips)
+Seat 3: DiggErr555 (914 in chips)
+luiz290688: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+luiz290688: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 8d]
+DiggErr555: calls 50
+luiz290688: raises 1976 to 2076 and is all-in
+DiggErr555: folds
+Uncalled bet (1976) returned to luiz290688
+luiz290688 collected 220 from pot
+luiz290688: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 2: luiz290688 (big blind) collected (220)
+Seat 3: DiggErr555 (button) (small blind) folded before Flop
+
+PokerStars Hand #189829729816: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:16:18 MSK [2018/08/12 23:16:18 ET]
+Table '2381064447 1' 6-max Seat #2 is the button
+Seat 2: luiz290688 (2196 in chips)
+Seat 3: DiggErr555 (804 in chips)
+luiz290688: posts the ante 12
+DiggErr555: posts the ante 12
+luiz290688: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 8d]
+luiz290688: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 144 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 2: luiz290688 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (144)
+
+PokerStars Hand #189829730926: Tournament #2381064447, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 6:16:22 MSK [2018/08/12 23:16:22 ET]
+Table '2381064447 1' 6-max Seat #3 is the button
+Seat 2: luiz290688 (2124 in chips)
+Seat 3: DiggErr555 (876 in chips)
+luiz290688: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+luiz290688: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 5s]
+DiggErr555: raises 744 to 864 and is all-in
+luiz290688: calls 744
+*** FLOP *** [Qh Kc 9d]
+*** TURN *** [Qh Kc 9d] [9h]
+*** RIVER *** [Qh Kc 9d 9h] [Ts]
+*** SHOW DOWN ***
+luiz290688: shows [Js Qd] (a straight, Nine to King)
+DiggErr555: shows [Ad 5s] (a pair of Nines)
+luiz290688 collected 1752 from pot
+luiz290688 wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+luiz290688 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1752 | Rake 0
+Board [Qh Kc 9d 9h Ts]
+Seat 2: luiz290688 (big blind) showed [Js Qd] and won (1752) with a straight, Nine to King
+Seat 3: DiggErr555 (button) (small blind) showed [Ad 5s] and lost with a pair of Nines

@@ -1,0 +1,871 @@
+
+
+PokerStars Hand #189828872478: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:24:21 MSK [2018/08/12 22:24:21 ET]
+Table '2381047126 1' 6-max Seat #1 is the button
+Seat 1: desert120 (500 in chips)
+Seat 2: ProRichMan (500 in chips)
+Seat 3: bigatello1967 (500 in chips)
+Seat 4: stockwatch (500 in chips)
+Seat 5: Mishator (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+desert120: posts the ante 2
+ProRichMan: posts the ante 2
+bigatello1967: posts the ante 2
+stockwatch: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+ProRichMan: posts small blind 10
+bigatello1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 2h]
+stockwatch: raises 40 to 60
+Mishator: folds
+DiggErr555: folds
+desert120: folds
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (40) returned to stockwatch
+stockwatch collected 62 from pot
+stockwatch: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: desert120 (button) folded before Flop (didn't bet)
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) folded before Flop
+Seat 4: stockwatch collected (62)
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828879185: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:24:43 MSK [2018/08/12 22:24:43 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 1: desert120 (498 in chips)
+Seat 2: ProRichMan (488 in chips)
+Seat 3: bigatello1967 (478 in chips)
+Seat 4: stockwatch (540 in chips)
+Seat 5: Mishator (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+desert120: posts the ante 2
+ProRichMan: posts the ante 2
+bigatello1967: posts the ante 2
+stockwatch: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+bigatello1967: posts small blind 10
+stockwatch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 8d]
+Mishator: folds
+DiggErr555: folds
+desert120: calls 20
+ProRichMan: folds
+bigatello1967: raises 20 to 40
+stockwatch: calls 20
+desert120: calls 20
+*** FLOP *** [2h 4s Ah]
+bigatello1967: bets 70
+stockwatch: calls 70
+desert120: calls 70
+*** TURN *** [2h 4s Ah] [9d]
+bigatello1967: bets 366 and is all-in
+stockwatch: calls 366
+desert120: folds
+*** RIVER *** [2h 4s Ah 9d] [8s]
+*** SHOW DOWN ***
+bigatello1967: shows [Ac 6h] (a pair of Aces)
+stockwatch: shows [5d 9h] (a pair of Nines)
+bigatello1967 collected 1074 from pot
+*** SUMMARY ***
+Total pot 1074 | Rake 0
+Board [2h 4s Ah 9d 8s]
+Seat 1: desert120 folded on the Turn
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) showed [Ac 6h] and won (1074) with a pair of Aces
+Seat 4: stockwatch (big blind) showed [5d 9h] and lost with a pair of Nines
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828893858: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:25:33 MSK [2018/08/12 22:25:33 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 1: desert120 (386 in chips)
+Seat 2: ProRichMan (486 in chips)
+Seat 3: bigatello1967 (1074 in chips)
+Seat 4: stockwatch (62 in chips)
+Seat 5: Mishator (496 in chips)
+Seat 6: DiggErr555 (496 in chips)
+desert120: posts the ante 2
+ProRichMan: posts the ante 2
+bigatello1967: posts the ante 2
+stockwatch: posts the ante 2
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+stockwatch: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc Qs]
+DiggErr555: raises 474 to 494 and is all-in
+desert120: folds
+ProRichMan: folds
+bigatello1967: folds
+stockwatch: calls 50 and is all-in
+Mishator: folds
+Uncalled bet (434) returned to DiggErr555
+*** FLOP *** [3d Js 9s]
+*** TURN *** [3d Js 9s] [4d]
+*** RIVER *** [3d Js 9s 4d] [Qc]
+*** SHOW DOWN ***
+stockwatch: shows [Jd 2c] (a pair of Jacks)
+DiggErr555: shows [Kc Qs] (a pair of Queens)
+DiggErr555 collected 152 from pot
+DiggErr555 wins the $2.38 bounty for eliminating stockwatch
+stockwatch finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 152 | Rake 0
+Board [3d Js 9s 4d Qc]
+Seat 1: desert120 folded before Flop (didn't bet)
+Seat 2: ProRichMan folded before Flop (didn't bet)
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 4: stockwatch (small blind) showed [Jd 2c] and lost with a pair of Jacks
+Seat 5: Mishator (big blind) folded before Flop
+Seat 6: DiggErr555 showed [Kc Qs] and won (152) with a pair of Queens
+
+PokerStars Hand #189828903010: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:26:03 MSK [2018/08/12 22:26:03 ET]
+Table '2381047126 1' 6-max Seat #5 is the button
+Seat 1: desert120 (384 in chips)
+Seat 2: ProRichMan (484 in chips)
+Seat 3: bigatello1967 (1072 in chips)
+Seat 5: Mishator (474 in chips)
+Seat 6: DiggErr555 (586 in chips)
+desert120: posts the ante 3
+ProRichMan: posts the ante 3
+bigatello1967: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+desert120: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 3h]
+ProRichMan: folds
+bigatello1967: folds
+Mishator: folds
+DiggErr555: raises 553 to 583 and is all-in
+desert120: folds
+Uncalled bet (553) returned to DiggErr555
+DiggErr555 collected 75 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: desert120 (big blind) folded before Flop
+Seat 2: ProRichMan folded before Flop (didn't bet)
+Seat 3: bigatello1967 folded before Flop (didn't bet)
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (75)
+
+PokerStars Hand #189828910052: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:26:27 MSK [2018/08/12 22:26:27 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 1: desert120 (351 in chips)
+Seat 2: ProRichMan (481 in chips)
+Seat 3: bigatello1967 (1069 in chips)
+Seat 5: Mishator (471 in chips)
+Seat 6: DiggErr555 (628 in chips)
+desert120: posts the ante 3
+ProRichMan: posts the ante 3
+bigatello1967: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+desert120: posts small blind 15
+ProRichMan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d 3s]
+bigatello1967: raises 30 to 60
+Mishator: folds
+DiggErr555: folds
+desert120: raises 288 to 348 and is all-in
+ProRichMan: folds
+bigatello1967: calls 288
+*** FLOP *** [2h 4d 7h]
+*** TURN *** [2h 4d 7h] [5c]
+*** RIVER *** [2h 4d 7h 5c] [Ac]
+*** SHOW DOWN ***
+desert120: shows [Kh Ks] (a pair of Kings)
+bigatello1967: shows [8s Ad] (a pair of Aces)
+bigatello1967 collected 741 from pot
+bigatello1967 wins the $2.38 bounty for eliminating desert120
+desert120 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 741 | Rake 0
+Board [2h 4d 7h 5c Ac]
+Seat 1: desert120 (small blind) showed [Kh Ks] and lost with a pair of Kings
+Seat 2: ProRichMan (big blind) folded before Flop
+Seat 3: bigatello1967 showed [8s Ad] and won (741) with a pair of Aces
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828920168: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:27:01 MSK [2018/08/12 22:27:01 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (448 in chips)
+Seat 3: bigatello1967 (1459 in chips)
+Seat 5: Mishator (468 in chips)
+Seat 6: DiggErr555 (625 in chips)
+ProRichMan: posts the ante 3
+bigatello1967: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+bigatello1967: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 9h]
+DiggErr555: folds
+ProRichMan: folds
+bigatello1967: raises 30 to 60
+Mishator: calls 30
+*** FLOP *** [8c Ac Qc]
+bigatello1967: checks
+Mishator: checks
+*** TURN *** [8c Ac Qc] [Js]
+bigatello1967: checks
+Mishator: checks
+*** RIVER *** [8c Ac Qc Js] [4h]
+bigatello1967: bets 75
+Mishator: folds
+Uncalled bet (75) returned to bigatello1967
+bigatello1967 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Board [8c Ac Qc Js 4h]
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) collected (132)
+Seat 5: Mishator (big blind) folded on the River
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828930577: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:27:36 MSK [2018/08/12 22:27:36 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (445 in chips)
+Seat 3: bigatello1967 (1528 in chips)
+Seat 5: Mishator (405 in chips)
+Seat 6: DiggErr555 (622 in chips)
+ProRichMan: posts the ante 3
+bigatello1967: posts the ante 3
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Jc]
+ProRichMan: folds
+bigatello1967: folds
+Mishator: raises 372 to 402 and is all-in
+DiggErr555: folds
+Uncalled bet (372) returned to Mishator
+Mishator collected 72 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 72 | Rake 0
+Seat 2: ProRichMan folded before Flop (didn't bet)
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (72)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828937927: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:28:01 MSK [2018/08/12 22:28:01 ET]
+Table '2381047126 1' 6-max Seat #5 is the button
+Seat 2: ProRichMan (442 in chips)
+Seat 3: bigatello1967 (1525 in chips)
+Seat 5: Mishator (444 in chips)
+Seat 6: DiggErr555 (589 in chips)
+ProRichMan: posts the ante 4
+bigatello1967: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+ProRichMan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 7s]
+bigatello1967: calls 40
+Mishator: folds
+DiggErr555: folds
+ProRichMan: checks
+*** FLOP *** [Ah 5d Js]
+ProRichMan: checks
+bigatello1967: checks
+*** TURN *** [Ah 5d Js] [Kd]
+ProRichMan: checks
+bigatello1967: checks
+*** RIVER *** [Ah 5d Js Kd] [Qs]
+ProRichMan: bets 80
+bigatello1967: calls 80
+*** SHOW DOWN ***
+ProRichMan: shows [8c Td] (a straight, Ten to Ace)
+bigatello1967: mucks hand
+ProRichMan collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | Rake 0
+Board [Ah 5d Js Kd Qs]
+Seat 2: ProRichMan (big blind) showed [8c Td] and won (276) with a straight, Ten to Ace
+Seat 3: bigatello1967 mucked [2h Ac]
+Seat 5: Mishator (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828950274: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:28:42 MSK [2018/08/12 22:28:42 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (594 in chips)
+Seat 3: bigatello1967 (1401 in chips)
+Seat 5: Mishator (440 in chips)
+Seat 6: DiggErr555 (565 in chips)
+ProRichMan: posts the ante 4
+bigatello1967: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+ProRichMan: posts small blind 20
+bigatello1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad Jd]
+Mishator: folds
+DiggErr555: raises 40 to 80
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 116 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 116 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) folded before Flop
+Seat 5: Mishator folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) collected (116)
+
+PokerStars Hand #189828954547: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:28:57 MSK [2018/08/12 22:28:57 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (570 in chips)
+Seat 3: bigatello1967 (1357 in chips)
+Seat 5: Mishator (436 in chips)
+Seat 6: DiggErr555 (637 in chips)
+ProRichMan: posts the ante 4
+bigatello1967: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+bigatello1967: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 4c]
+DiggErr555: folds
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (20) returned to Mishator
+Mishator collected 56 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 56 | Rake 0
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 5: Mishator (big blind) collected (56)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189828956826: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:29:05 MSK [2018/08/12 22:29:05 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (566 in chips)
+Seat 3: bigatello1967 (1333 in chips)
+Seat 5: Mishator (468 in chips)
+Seat 6: DiggErr555 (633 in chips)
+ProRichMan: posts the ante 4
+bigatello1967: posts the ante 4
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 6s]
+ProRichMan: folds
+bigatello1967: folds
+Mishator: raises 424 to 464 and is all-in
+DiggErr555: folds
+Uncalled bet (424) returned to Mishator
+Mishator collected 96 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 96 | Rake 0
+Seat 2: ProRichMan folded before Flop (didn't bet)
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: Mishator (small blind) collected (96)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828961331: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:29:20 MSK [2018/08/12 22:29:20 ET]
+Table '2381047126 1' 6-max Seat #5 is the button
+Seat 2: ProRichMan (562 in chips)
+Seat 3: bigatello1967 (1329 in chips)
+Seat 5: Mishator (520 in chips)
+Seat 6: DiggErr555 (589 in chips)
+ProRichMan: posts the ante 6
+bigatello1967: posts the ante 6
+Mishator: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+ProRichMan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h Jc]
+bigatello1967: raises 510 to 570
+Mishator: calls 514 and is all-in
+DiggErr555: folds
+ProRichMan: folds
+Uncalled bet (56) returned to bigatello1967
+*** FLOP *** [8c 4h Th]
+*** TURN *** [8c 4h Th] [5c]
+*** RIVER *** [8c 4h Th 5c] [3c]
+*** SHOW DOWN ***
+bigatello1967: shows [Kh As] (high card Ace)
+Mishator: shows [Qs Ac] (high card Ace - lower kicker)
+bigatello1967 collected 1142 from pot
+bigatello1967 wins the $2.38 bounty for eliminating Mishator
+Mishator finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1142 | Rake 0
+Board [8c 4h Th 5c 3c]
+Seat 2: ProRichMan (big blind) folded before Flop
+Seat 3: bigatello1967 showed [Kh As] and won (1142) with high card Ace
+Seat 5: Mishator (button) showed [Qs Ac] and lost with high card Ace
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828969990: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:29:49 MSK [2018/08/12 22:29:49 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (496 in chips)
+Seat 3: bigatello1967 (1951 in chips)
+Seat 6: DiggErr555 (553 in chips)
+ProRichMan: posts the ante 6
+bigatello1967: posts the ante 6
+DiggErr555: posts the ante 6
+ProRichMan: posts small blind 30
+bigatello1967: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8h 5h]
+DiggErr555: folds
+ProRichMan: folds
+Uncalled bet (30) returned to bigatello1967
+bigatello1967 collected 78 from pot
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) collected (78)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189828971916: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:29:56 MSK [2018/08/12 22:29:56 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (460 in chips)
+Seat 3: bigatello1967 (1993 in chips)
+Seat 6: DiggErr555 (547 in chips)
+ProRichMan: posts the ante 6
+bigatello1967: posts the ante 6
+DiggErr555: posts the ante 6
+bigatello1967: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh As]
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (30) returned to DiggErr555
+DiggErr555 collected 78 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 78 | Rake 0
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (78)
+
+PokerStars Hand #189828973762: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:30:02 MSK [2018/08/12 22:30:02 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (454 in chips)
+Seat 3: bigatello1967 (1957 in chips)
+Seat 6: DiggErr555 (589 in chips)
+ProRichMan: posts the ante 6
+bigatello1967: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+ProRichMan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Jh]
+bigatello1967: folds
+DiggErr555: raises 523 to 583 and is all-in
+ProRichMan: folds
+Uncalled bet (523) returned to DiggErr555
+DiggErr555 collected 138 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: ProRichMan (big blind) folded before Flop
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (138)
+
+PokerStars Hand #189828980303: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:30:24 MSK [2018/08/12 22:30:24 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (388 in chips)
+Seat 3: bigatello1967 (1951 in chips)
+Seat 6: DiggErr555 (661 in chips)
+ProRichMan: posts the ante 6
+bigatello1967: posts the ante 6
+DiggErr555: posts the ante 6
+ProRichMan: posts small blind 30
+bigatello1967: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Ah]
+DiggErr555: raises 595 to 655 and is all-in
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (595) returned to DiggErr555
+DiggErr555 collected 168 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) collected (168)
+
+PokerStars Hand #189828984227: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:30:37 MSK [2018/08/12 22:30:37 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (352 in chips)
+Seat 3: bigatello1967 (1885 in chips)
+Seat 6: DiggErr555 (763 in chips)
+ProRichMan: posts the ante 8
+bigatello1967: posts the ante 8
+DiggErr555: posts the ante 8
+bigatello1967: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 4s]
+ProRichMan: raises 264 to 344 and is all-in
+bigatello1967: folds
+DiggErr555: folds
+Uncalled bet (264) returned to ProRichMan
+ProRichMan collected 224 from pot
+ProRichMan: doesn't show hand
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 2: ProRichMan (button) collected (224)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189828991932: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:31:04 MSK [2018/08/12 22:31:04 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (488 in chips)
+Seat 3: bigatello1967 (1837 in chips)
+Seat 6: DiggErr555 (675 in chips)
+ProRichMan: posts the ante 8
+bigatello1967: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+ProRichMan: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c Js]
+bigatello1967: calls 80
+DiggErr555: folds
+ProRichMan: checks
+*** FLOP *** [Qh Tc 3c]
+ProRichMan: checks
+bigatello1967: bets 80
+ProRichMan: folds
+Uncalled bet (80) returned to bigatello1967
+bigatello1967 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Board [Qh Tc 3c]
+Seat 2: ProRichMan (big blind) folded on the Flop
+Seat 3: bigatello1967 (button) collected (224)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189828999222: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:31:28 MSK [2018/08/12 22:31:28 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (400 in chips)
+Seat 3: bigatello1967 (1973 in chips)
+Seat 6: DiggErr555 (627 in chips)
+ProRichMan: posts the ante 8
+bigatello1967: posts the ante 8
+DiggErr555: posts the ante 8
+ProRichMan: posts small blind 40
+bigatello1967: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s 2d]
+DiggErr555: folds
+ProRichMan: folds
+Uncalled bet (40) returned to bigatello1967
+bigatello1967 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) collected (104)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829001457: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:31:36 MSK [2018/08/12 22:31:36 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (352 in chips)
+Seat 3: bigatello1967 (2029 in chips)
+Seat 6: DiggErr555 (619 in chips)
+ProRichMan: posts the ante 8
+bigatello1967: posts the ante 8
+DiggErr555: posts the ante 8
+bigatello1967: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 3h]
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (40) returned to DiggErr555
+DiggErr555 collected 104 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (104)
+
+PokerStars Hand #189829004153: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:31:45 MSK [2018/08/12 22:31:45 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (344 in chips)
+Seat 3: bigatello1967 (1981 in chips)
+Seat 6: DiggErr555 (675 in chips)
+ProRichMan: posts the ante 8
+bigatello1967: posts the ante 8
+DiggErr555: posts the ante 8
+DiggErr555: posts small blind 40
+ProRichMan: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Tc]
+bigatello1967: raises 80 to 160
+DiggErr555: folds
+ProRichMan: folds
+Uncalled bet (80) returned to bigatello1967
+bigatello1967 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 2: ProRichMan (big blind) folded before Flop
+Seat 3: bigatello1967 (button) collected (224)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829010884: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:32:08 MSK [2018/08/12 22:32:08 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (256 in chips)
+Seat 3: bigatello1967 (2117 in chips)
+Seat 6: DiggErr555 (627 in chips)
+ProRichMan: posts the ante 10
+bigatello1967: posts the ante 10
+DiggErr555: posts the ante 10
+ProRichMan: posts small blind 50
+bigatello1967: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 8h]
+DiggErr555: raises 517 to 617 and is all-in
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (517) returned to DiggErr555
+DiggErr555 collected 280 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) collected (280)
+
+PokerStars Hand #189829014994: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:32:22 MSK [2018/08/12 22:32:22 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (196 in chips)
+Seat 3: bigatello1967 (2007 in chips)
+Seat 6: DiggErr555 (797 in chips)
+ProRichMan: posts the ante 10
+bigatello1967: posts the ante 10
+DiggErr555: posts the ante 10
+bigatello1967: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Js]
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 130 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (130)
+
+PokerStars Hand #189829019743: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:32:39 MSK [2018/08/12 22:32:39 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (186 in chips)
+Seat 3: bigatello1967 (1947 in chips)
+Seat 6: DiggErr555 (867 in chips)
+ProRichMan: posts the ante 10
+bigatello1967: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+ProRichMan: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h 8c]
+bigatello1967: folds
+DiggErr555: raises 757 to 857 and is all-in
+ProRichMan: calls 76 and is all-in
+Uncalled bet (681) returned to DiggErr555
+*** FLOP *** [5h 9d Ts]
+*** TURN *** [5h 9d Ts] [Jd]
+*** RIVER *** [5h 9d Ts Jd] [5s]
+*** SHOW DOWN ***
+DiggErr555: shows [3h 8c] (a pair of Fives)
+ProRichMan: shows [2d 2s] (two pair, Fives and Deuces)
+ProRichMan collected 382 from pot
+*** SUMMARY ***
+Total pot 382 | Rake 0
+Board [5h 9d Ts Jd 5s]
+Seat 2: ProRichMan (big blind) showed [2d 2s] and won (382) with two pair, Fives and Deuces
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) showed [3h 8c] and lost with a pair of Fives
+
+PokerStars Hand #189829024636: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:32:55 MSK [2018/08/12 22:32:55 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (382 in chips)
+Seat 3: bigatello1967 (1937 in chips)
+Seat 6: DiggErr555 (681 in chips)
+ProRichMan: posts the ante 10
+bigatello1967: posts the ante 10
+DiggErr555: posts the ante 10
+ProRichMan: posts small blind 50
+bigatello1967: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 9s]
+DiggErr555: folds
+ProRichMan: folds
+Uncalled bet (50) returned to bigatello1967
+bigatello1967 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) collected (130)
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829027809: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:33:06 MSK [2018/08/12 22:33:06 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (322 in chips)
+Seat 3: bigatello1967 (2007 in chips)
+Seat 6: DiggErr555 (671 in chips)
+ProRichMan: posts the ante 10
+bigatello1967: posts the ante 10
+DiggErr555: posts the ante 10
+bigatello1967: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8d 7d]
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 130 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 2: ProRichMan (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) collected (130)
+
+PokerStars Hand #189829030130: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 5:33:14 MSK [2018/08/12 22:33:14 ET]
+Table '2381047126 1' 6-max Seat #3 is the button
+Seat 2: ProRichMan (312 in chips)
+Seat 3: bigatello1967 (1947 in chips)
+Seat 6: DiggErr555 (741 in chips)
+ProRichMan: posts the ante 10
+bigatello1967: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+ProRichMan: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js Jc]
+bigatello1967: raises 100 to 200
+DiggErr555: raises 531 to 731 and is all-in
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (531) returned to DiggErr555
+DiggErr555 collected 530 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 530 | Rake 0
+Seat 2: ProRichMan (big blind) folded before Flop
+Seat 3: bigatello1967 (button) folded before Flop
+Seat 6: DiggErr555 (small blind) collected (530)
+
+PokerStars Hand #189829037998: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:33:41 MSK [2018/08/12 22:33:41 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 2: ProRichMan (202 in chips)
+Seat 3: bigatello1967 (1737 in chips)
+Seat 6: DiggErr555 (1061 in chips)
+ProRichMan: posts the ante 12
+bigatello1967: posts the ante 12
+DiggErr555: posts the ante 12
+ProRichMan: posts small blind 60
+bigatello1967: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Js]
+DiggErr555: raises 929 to 1049 and is all-in
+ProRichMan: folds
+bigatello1967: folds
+Uncalled bet (929) returned to DiggErr555
+DiggErr555 collected 336 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 336 | Rake 0
+Seat 2: ProRichMan (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) folded before Flop
+Seat 6: DiggErr555 (button) collected (336)
+
+PokerStars Hand #189829044312: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:34:03 MSK [2018/08/12 22:34:03 ET]
+Table '2381047126 1' 6-max Seat #2 is the button
+Seat 2: ProRichMan (130 in chips)
+Seat 3: bigatello1967 (1605 in chips)
+Seat 6: DiggErr555 (1265 in chips)
+ProRichMan: posts the ante 12
+bigatello1967: posts the ante 12
+DiggErr555: posts the ante 12
+bigatello1967: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ts Qc]
+ProRichMan: calls 118 and is all-in
+bigatello1967: raises 1473 to 1593 and is all-in
+DiggErr555: calls 1133 and is all-in
+Uncalled bet (340) returned to bigatello1967
+*** FLOP *** [2d Th 6c]
+*** TURN *** [2d Th 6c] [2s]
+*** RIVER *** [2d Th 6c 2s] [5c]
+*** SHOW DOWN ***
+bigatello1967: shows [Ad Kd] (a pair of Deuces)
+DiggErr555: shows [Ts Qc] (two pair, Tens and Deuces)
+DiggErr555 collected 2270 from side pot
+ProRichMan: shows [As 3h] (a pair of Deuces)
+DiggErr555 collected 390 from main pot
+DiggErr555 wins the $2.38 bounty for eliminating ProRichMan
+ProRichMan finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2660 Main pot 390. Side pot 2270. | Rake 0
+Board [2d Th 6c 2s 5c]
+Seat 2: ProRichMan (button) showed [As 3h] and lost with a pair of Deuces
+Seat 3: bigatello1967 (small blind) showed [Ad Kd] and lost with a pair of Deuces
+Seat 6: DiggErr555 (big blind) showed [Ts Qc] and won (2660) with two pair, Tens and Deuces
+
+PokerStars Hand #189829052263: Tournament #2381047126, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 5:34:30 MSK [2018/08/12 22:34:30 ET]
+Table '2381047126 1' 6-max Seat #6 is the button
+Seat 3: bigatello1967 (340 in chips)
+Seat 6: DiggErr555 (2660 in chips)
+bigatello1967: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+bigatello1967: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks As]
+DiggErr555: raises 2528 to 2648 and is all-in
+bigatello1967: calls 208 and is all-in
+Uncalled bet (2320) returned to DiggErr555
+*** FLOP *** [2h Kc 8d]
+*** TURN *** [2h Kc 8d] [3s]
+*** RIVER *** [2h Kc 8d 3s] [7s]
+*** SHOW DOWN ***
+bigatello1967: shows [8c 6h] (a pair of Eights)
+DiggErr555: shows [Ks As] (a pair of Kings)
+DiggErr555 collected 680 from pot
+DiggErr555 wins the $2.38 bounty for eliminating bigatello1967
+bigatello1967 finished the tournament in 2nd place and received $7.14.
+DiggErr555 wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 680 | Rake 0
+Board [2h Kc 8d 3s 7s]
+Seat 3: bigatello1967 (big blind) showed [8c 6h] and lost with a pair of Eights
+Seat 6: DiggErr555 (button) (small blind) showed [Ks As] and won (680) with a pair of Kings

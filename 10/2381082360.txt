@@ -1,0 +1,1027 @@
+
+
+PokerStars Hand #189830472473: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:08:25 MSK [2018/08/13 0:08:25 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (500 in chips)
+Seat 2: Andrei S101 (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: chorls464 (500 in chips)
+Seat 5: 1kidpoker.nz (500 in chips)
+Seat 6: m25090993 (500 in chips)
+rafa_ortiz71: posts the ante 2
+Andrei S101: posts the ante 2
+DiggErr555: posts the ante 2
+chorls464: posts the ante 2
+1kidpoker.nz: posts the ante 2
+m25090993: posts the ante 2
+Andrei S101: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d 4s]
+chorls464: raises 30 to 50
+1kidpoker.nz: folds
+m25090993: raises 448 to 498 and is all-in
+rafa_ortiz71: folds
+Andrei S101: folds
+DiggErr555: folds
+chorls464: calls 448 and is all-in
+*** FLOP *** [2s As Qc]
+*** TURN *** [2s As Qc] [Ah]
+*** RIVER *** [2s As Qc Ah] [9d]
+*** SHOW DOWN ***
+chorls464: shows [Jh Kh] (a pair of Aces)
+m25090993: shows [Js Ad] (three of a kind, Aces)
+m25090993 collected 1038 from pot
+m25090993 wins the $4.79 bounty for eliminating chorls464
+chorls464 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1038 | Rake 0
+Board [2s As Qc Ah 9d]
+Seat 1: rafa_ortiz71 (button) folded before Flop (didn't bet)
+Seat 2: Andrei S101 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: chorls464 showed [Jh Kh] and lost with a pair of Aces
+Seat 5: 1kidpoker.nz folded before Flop (didn't bet)
+Seat 6: m25090993 showed [Js Ad] and won (1038) with three of a kind, Aces
+
+PokerStars Hand #189830479259: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:08:56 MSK [2018/08/13 0:08:56 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (498 in chips)
+Seat 2: Andrei S101 (488 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 5: 1kidpoker.nz (498 in chips)
+Seat 6: m25090993 (1038 in chips)
+rafa_ortiz71: posts the ante 2
+Andrei S101: posts the ante 2
+DiggErr555: posts the ante 2
+1kidpoker.nz: posts the ante 2
+m25090993: posts the ante 2
+DiggErr555: posts small blind 10
+1kidpoker.nz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h Jc]
+m25090993: folds
+rafa_ortiz71: folds
+Andrei S101: calls 20
+DiggErr555: folds
+1kidpoker.nz: checks
+*** FLOP *** [2c Jh 6s]
+1kidpoker.nz: checks
+Andrei S101: bets 20
+1kidpoker.nz: calls 20
+*** TURN *** [2c Jh 6s] [5h]
+1kidpoker.nz: checks
+Andrei S101: bets 20
+1kidpoker.nz: calls 20
+*** RIVER *** [2c Jh 6s 5h] [Ks]
+1kidpoker.nz: checks
+Andrei S101: bets 60
+1kidpoker.nz: folds
+Uncalled bet (60) returned to Andrei S101
+Andrei S101 collected 140 from pot
+Andrei S101: doesn't show hand
+*** SUMMARY ***
+Total pot 140 | Rake 0
+Board [2c Jh 6s 5h Ks]
+Seat 1: rafa_ortiz71 folded before Flop (didn't bet)
+Seat 2: Andrei S101 (button) collected (140)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: 1kidpoker.nz (big blind) folded on the River
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830489258: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:09:42 MSK [2018/08/13 0:09:42 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (496 in chips)
+Seat 2: Andrei S101 (566 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 5: 1kidpoker.nz (436 in chips)
+Seat 6: m25090993 (1036 in chips)
+rafa_ortiz71: posts the ante 2
+Andrei S101: posts the ante 2
+DiggErr555: posts the ante 2
+1kidpoker.nz: posts the ante 2
+m25090993: posts the ante 2
+1kidpoker.nz: posts small blind 10
+m25090993: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ac 6d]
+rafa_ortiz71: folds
+Andrei S101: calls 20
+DiggErr555: folds
+1kidpoker.nz: calls 10
+m25090993: checks
+*** FLOP *** [7h Kd 4c]
+1kidpoker.nz: checks
+m25090993: checks
+Andrei S101: bets 20
+1kidpoker.nz: folds
+m25090993: calls 20
+*** TURN *** [7h Kd 4c] [6c]
+m25090993: checks
+Andrei S101: bets 20
+m25090993: calls 20
+*** RIVER *** [7h Kd 4c 6c] [Qs]
+m25090993: checks
+Andrei S101: checks
+*** SHOW DOWN ***
+m25090993: shows [3h 6s] (a pair of Sixes)
+Andrei S101: mucks hand
+m25090993 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Board [7h Kd 4c 6c Qs]
+Seat 1: rafa_ortiz71 folded before Flop (didn't bet)
+Seat 2: Andrei S101 mucked [9h Ts]
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz (small blind) folded on the Flop
+Seat 6: m25090993 (big blind) showed [3h 6s] and won (150) with a pair of Sixes
+
+PokerStars Hand #189830499090: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:10:27 MSK [2018/08/13 0:10:27 ET]
+Table '2381082360 1' 6-max Seat #5 is the button
+Seat 1: rafa_ortiz71 (494 in chips)
+Seat 2: Andrei S101 (504 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 5: 1kidpoker.nz (414 in chips)
+Seat 6: m25090993 (1124 in chips)
+rafa_ortiz71: posts the ante 3
+Andrei S101: posts the ante 3
+DiggErr555: posts the ante 3
+1kidpoker.nz: posts the ante 3
+m25090993: posts the ante 3
+m25090993: posts small blind 15
+rafa_ortiz71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Jh]
+Andrei S101: folds
+DiggErr555: raises 30 to 60
+1kidpoker.nz: calls 60
+m25090993: folds
+rafa_ortiz71: calls 30
+*** FLOP *** [Kc 3d Jc]
+rafa_ortiz71: checks
+DiggErr555: checks
+1kidpoker.nz: bets 30
+rafa_ortiz71: calls 30
+DiggErr555: calls 30
+*** TURN *** [Kc 3d Jc] [Ad]
+rafa_ortiz71: checks
+DiggErr555: checks
+1kidpoker.nz: bets 60
+rafa_ortiz71: calls 60
+DiggErr555: folds
+*** RIVER *** [Kc 3d Jc Ad] [7d]
+rafa_ortiz71: checks
+1kidpoker.nz: checks
+*** SHOW DOWN ***
+rafa_ortiz71: shows [5c Qc] (high card Ace)
+1kidpoker.nz: shows [Kh 4h] (a pair of Kings)
+1kidpoker.nz collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Board [Kc 3d Jc Ad 7d]
+Seat 1: rafa_ortiz71 (big blind) showed [5c Qc] and lost with high card Ace
+Seat 2: Andrei S101 folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded on the Turn
+Seat 5: 1kidpoker.nz (button) showed [Kh 4h] and won (420) with a pair of Kings
+Seat 6: m25090993 (small blind) folded before Flop
+
+PokerStars Hand #189830517448: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:11:51 MSK [2018/08/13 0:11:51 ET]
+Table '2381082360 1' 6-max Seat #6 is the button
+Seat 1: rafa_ortiz71 (341 in chips)
+Seat 2: Andrei S101 (501 in chips)
+Seat 3: DiggErr555 (371 in chips)
+Seat 5: 1kidpoker.nz (681 in chips)
+Seat 6: m25090993 (1106 in chips)
+rafa_ortiz71: posts the ante 3
+Andrei S101: posts the ante 3
+DiggErr555: posts the ante 3
+1kidpoker.nz: posts the ante 3
+m25090993: posts the ante 3
+rafa_ortiz71: posts small blind 15
+Andrei S101: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3h Ts]
+DiggErr555: folds
+1kidpoker.nz: calls 30
+m25090993: folds
+rafa_ortiz71: calls 15
+Andrei S101: checks
+*** FLOP *** [9d Ah 6h]
+rafa_ortiz71: checks
+Andrei S101: checks
+1kidpoker.nz: bets 60
+rafa_ortiz71: folds
+Andrei S101: folds
+Uncalled bet (60) returned to 1kidpoker.nz
+1kidpoker.nz collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | Rake 0
+Board [9d Ah 6h]
+Seat 1: rafa_ortiz71 (small blind) folded on the Flop
+Seat 2: Andrei S101 (big blind) folded on the Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz collected (105)
+Seat 6: m25090993 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830524835: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:12:25 MSK [2018/08/13 0:12:25 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (308 in chips)
+Seat 2: Andrei S101 (468 in chips)
+Seat 3: DiggErr555 (368 in chips)
+Seat 5: 1kidpoker.nz (753 in chips)
+Seat 6: m25090993 (1103 in chips)
+rafa_ortiz71: posts the ante 3
+Andrei S101: posts the ante 3
+DiggErr555: posts the ante 3
+1kidpoker.nz: posts the ante 3
+m25090993: posts the ante 3
+Andrei S101: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 7s]
+1kidpoker.nz: raises 30 to 60
+m25090993: folds
+rafa_ortiz71: folds
+Andrei S101: folds
+DiggErr555: folds
+Uncalled bet (30) returned to 1kidpoker.nz
+1kidpoker.nz collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: rafa_ortiz71 (button) folded before Flop (didn't bet)
+Seat 2: Andrei S101 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: 1kidpoker.nz collected (90)
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830528316: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:12:41 MSK [2018/08/13 0:12:41 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (305 in chips)
+Seat 2: Andrei S101 (450 in chips)
+Seat 3: DiggErr555 (335 in chips)
+Seat 5: 1kidpoker.nz (810 in chips)
+Seat 6: m25090993 (1100 in chips)
+rafa_ortiz71: posts the ante 3
+Andrei S101: posts the ante 3
+DiggErr555: posts the ante 3
+1kidpoker.nz: posts the ante 3
+m25090993: posts the ante 3
+DiggErr555: posts small blind 15
+1kidpoker.nz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 2d]
+m25090993: folds
+rafa_ortiz71: raises 272 to 302 and is all-in
+Andrei S101: folds
+DiggErr555: folds
+1kidpoker.nz: folds
+Uncalled bet (272) returned to rafa_ortiz71
+rafa_ortiz71 collected 90 from pot
+rafa_ortiz71: doesn't show hand
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Seat 1: rafa_ortiz71 collected (90)
+Seat 2: Andrei S101 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: 1kidpoker.nz (big blind) folded before Flop
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830532169: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:12:59 MSK [2018/08/13 0:12:59 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (362 in chips)
+Seat 2: Andrei S101 (447 in chips)
+Seat 3: DiggErr555 (317 in chips)
+Seat 5: 1kidpoker.nz (777 in chips)
+Seat 6: m25090993 (1097 in chips)
+rafa_ortiz71: posts the ante 4
+Andrei S101: posts the ante 4
+DiggErr555: posts the ante 4
+1kidpoker.nz: posts the ante 4
+m25090993: posts the ante 4
+1kidpoker.nz: posts small blind 20
+m25090993: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 4c]
+rafa_ortiz71: folds
+Andrei S101: raises 40 to 80
+DiggErr555: folds
+1kidpoker.nz: calls 60
+m25090993: folds
+*** FLOP *** [Jc 4s Kc]
+1kidpoker.nz: checks
+Andrei S101: bets 80
+1kidpoker.nz: folds
+Uncalled bet (80) returned to Andrei S101
+Andrei S101 collected 220 from pot
+Andrei S101: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Board [Jc 4s Kc]
+Seat 1: rafa_ortiz71 folded before Flop (didn't bet)
+Seat 2: Andrei S101 collected (220)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz (small blind) folded on the Flop
+Seat 6: m25090993 (big blind) folded before Flop
+
+PokerStars Hand #189830537795: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:13:24 MSK [2018/08/13 0:13:24 ET]
+Table '2381082360 1' 6-max Seat #5 is the button
+Seat 1: rafa_ortiz71 (358 in chips)
+Seat 2: Andrei S101 (583 in chips)
+Seat 3: DiggErr555 (313 in chips)
+Seat 5: 1kidpoker.nz (693 in chips)
+Seat 6: m25090993 (1053 in chips)
+rafa_ortiz71: posts the ante 4
+Andrei S101: posts the ante 4
+DiggErr555: posts the ante 4
+1kidpoker.nz: posts the ante 4
+m25090993: posts the ante 4
+m25090993: posts small blind 20
+rafa_ortiz71: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh 3d]
+Andrei S101: folds
+DiggErr555: folds
+1kidpoker.nz: folds
+m25090993: folds
+Uncalled bet (20) returned to rafa_ortiz71
+rafa_ortiz71 collected 60 from pot
+rafa_ortiz71: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: rafa_ortiz71 (big blind) collected (60)
+Seat 2: Andrei S101 folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz (button) folded before Flop (didn't bet)
+Seat 6: m25090993 (small blind) folded before Flop
+
+PokerStars Hand #189830542239: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:13:44 MSK [2018/08/13 0:13:44 ET]
+Table '2381082360 1' 6-max Seat #6 is the button
+Seat 1: rafa_ortiz71 (394 in chips)
+Seat 2: Andrei S101 (579 in chips)
+Seat 3: DiggErr555 (309 in chips)
+Seat 5: 1kidpoker.nz (689 in chips)
+Seat 6: m25090993 (1029 in chips)
+rafa_ortiz71: posts the ante 4
+Andrei S101: posts the ante 4
+DiggErr555: posts the ante 4
+1kidpoker.nz: posts the ante 4
+m25090993: posts the ante 4
+rafa_ortiz71: posts small blind 20
+Andrei S101: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 7h]
+DiggErr555: folds
+1kidpoker.nz: raises 40 to 80
+m25090993: folds
+rafa_ortiz71: folds
+Andrei S101: calls 40
+*** FLOP *** [5s Kh Kd]
+Andrei S101: checks
+1kidpoker.nz: checks
+*** TURN *** [5s Kh Kd] [6c]
+Andrei S101: checks
+1kidpoker.nz: checks
+*** RIVER *** [5s Kh Kd 6c] [Ad]
+Andrei S101: bets 40
+1kidpoker.nz: calls 40
+*** SHOW DOWN ***
+Andrei S101: shows [2c Ac] (two pair, Aces and Kings)
+1kidpoker.nz: mucks hand
+Andrei S101 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Board [5s Kh Kd 6c Ad]
+Seat 1: rafa_ortiz71 (small blind) folded before Flop
+Seat 2: Andrei S101 (big blind) showed [2c Ac] and won (280) with two pair, Aces and Kings
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz mucked [3s 3h]
+Seat 6: m25090993 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830557610: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:14:54 MSK [2018/08/13 0:14:54 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (370 in chips)
+Seat 2: Andrei S101 (735 in chips)
+Seat 3: DiggErr555 (305 in chips)
+Seat 5: 1kidpoker.nz (565 in chips)
+Seat 6: m25090993 (1025 in chips)
+rafa_ortiz71: posts the ante 4
+Andrei S101: posts the ante 4
+DiggErr555: posts the ante 4
+1kidpoker.nz: posts the ante 4
+m25090993: posts the ante 4
+Andrei S101: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c As]
+1kidpoker.nz: folds
+m25090993: folds
+rafa_ortiz71: raises 40 to 80
+Andrei S101 is connected
+Andrei S101 is disconnected
+Andrei S101 is connected
+Andrei S101 has timed out
+Andrei S101: folds
+Andrei S101 is sitting out
+Andrei S101 has returned
+DiggErr555: folds
+Uncalled bet (40) returned to rafa_ortiz71
+rafa_ortiz71 collected 120 from pot
+rafa_ortiz71: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: rafa_ortiz71 (button) collected (120)
+Seat 2: Andrei S101 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 5: 1kidpoker.nz folded before Flop (didn't bet)
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830568838: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:15:45 MSK [2018/08/13 0:15:45 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (446 in chips)
+Seat 2: Andrei S101 (711 in chips)
+Seat 3: DiggErr555 (261 in chips)
+Seat 5: 1kidpoker.nz (561 in chips)
+Seat 6: m25090993 (1021 in chips)
+rafa_ortiz71: posts the ante 6
+Andrei S101: posts the ante 6
+DiggErr555: posts the ante 6
+1kidpoker.nz: posts the ante 6
+m25090993: posts the ante 6
+DiggErr555: posts small blind 30
+1kidpoker.nz: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s 9c]
+m25090993: folds
+rafa_ortiz71: folds
+Andrei S101: calls 60
+DiggErr555: folds
+1kidpoker.nz: checks
+*** FLOP *** [Qh Tc 7c]
+1kidpoker.nz: checks
+Andrei S101: bets 60
+1kidpoker.nz: folds
+Uncalled bet (60) returned to Andrei S101
+Andrei S101 collected 180 from pot
+Andrei S101: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [Qh Tc 7c]
+Seat 1: rafa_ortiz71 folded before Flop (didn't bet)
+Seat 2: Andrei S101 (button) collected (180)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 5: 1kidpoker.nz (big blind) folded on the Flop
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830575450: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:16:15 MSK [2018/08/13 0:16:15 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (440 in chips)
+Seat 2: Andrei S101 (825 in chips)
+Seat 3: DiggErr555 (225 in chips)
+Seat 5: 1kidpoker.nz (495 in chips)
+Seat 6: m25090993 (1015 in chips)
+rafa_ortiz71: posts the ante 6
+Andrei S101: posts the ante 6
+DiggErr555: posts the ante 6
+1kidpoker.nz: posts the ante 6
+m25090993: posts the ante 6
+1kidpoker.nz: posts small blind 30
+m25090993: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 3h]
+rafa_ortiz71: raises 374 to 434 and is all-in
+Andrei S101: folds
+DiggErr555: folds
+1kidpoker.nz: calls 404
+m25090993: calls 374
+*** FLOP *** [6d 3c Jh]
+1kidpoker.nz: bets 55 and is all-in
+m25090993: calls 55
+*** TURN *** [6d 3c Jh] [5d]
+*** RIVER *** [6d 3c Jh 5d] [Js]
+*** SHOW DOWN ***
+1kidpoker.nz: shows [7s Ad] (a pair of Jacks)
+m25090993: shows [Kd Ts] (a pair of Jacks - lower kicker)
+1kidpoker.nz collected 110 from side pot
+rafa_ortiz71: shows [Ac Qh] (a pair of Jacks - Ace+Queen kicker)
+rafa_ortiz71 collected 1332 from main pot
+*** SUMMARY ***
+Total pot 1442 Main pot 1332. Side pot 110. | Rake 0
+Board [6d 3c Jh 5d Js]
+Seat 1: rafa_ortiz71 showed [Ac Qh] and won (1332) with a pair of Jacks
+Seat 2: Andrei S101 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz (small blind) showed [7s Ad] and won (110) with a pair of Jacks
+Seat 6: m25090993 (big blind) showed [Kd Ts] and lost with a pair of Jacks
+
+PokerStars Hand #189830583667: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:16:53 MSK [2018/08/13 0:16:53 ET]
+Table '2381082360 1' 6-max Seat #5 is the button
+Seat 1: rafa_ortiz71 (1332 in chips)
+Seat 2: Andrei S101 (819 in chips)
+Seat 3: DiggErr555 (219 in chips)
+Seat 5: 1kidpoker.nz (110 in chips)
+Seat 6: m25090993 (520 in chips)
+rafa_ortiz71: posts the ante 6
+Andrei S101: posts the ante 6
+DiggErr555: posts the ante 6
+1kidpoker.nz: posts the ante 6
+m25090993: posts the ante 6
+m25090993: posts small blind 30
+rafa_ortiz71: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 3d]
+Andrei S101: calls 60
+DiggErr555: folds
+1kidpoker.nz: folds
+m25090993: calls 30
+rafa_ortiz71: checks
+*** FLOP *** [Ah 3c 8d]
+m25090993: checks
+rafa_ortiz71: checks
+Andrei S101: checks
+*** TURN *** [Ah 3c 8d] [Th]
+m25090993: checks
+rafa_ortiz71: checks
+Andrei S101: bets 60
+m25090993: folds
+rafa_ortiz71: calls 60
+*** RIVER *** [Ah 3c 8d Th] [5c]
+rafa_ortiz71: checks
+Andrei S101: checks
+*** SHOW DOWN ***
+rafa_ortiz71: shows [Ks Jc] (high card Ace)
+Andrei S101: mucks hand
+rafa_ortiz71 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0
+Board [Ah 3c 8d Th 5c]
+Seat 1: rafa_ortiz71 (big blind) showed [Ks Jc] and won (330) with high card Ace
+Seat 2: Andrei S101 mucked [9d Kd]
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz (button) folded before Flop (didn't bet)
+Seat 6: m25090993 (small blind) folded on the Turn
+
+PokerStars Hand #189830593700: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:17:39 MSK [2018/08/13 0:17:39 ET]
+Table '2381082360 1' 6-max Seat #6 is the button
+Seat 1: rafa_ortiz71 (1536 in chips)
+Seat 2: Andrei S101 (693 in chips)
+Seat 3: DiggErr555 (213 in chips)
+Seat 5: 1kidpoker.nz (104 in chips)
+Seat 6: m25090993 (454 in chips)
+rafa_ortiz71: posts the ante 6
+Andrei S101: posts the ante 6
+DiggErr555: posts the ante 6
+1kidpoker.nz: posts the ante 6
+m25090993: posts the ante 6
+rafa_ortiz71: posts small blind 30
+Andrei S101: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h 5s]
+DiggErr555: folds
+1kidpoker.nz: raises 38 to 98 and is all-in
+m25090993: raises 350 to 448 and is all-in
+rafa_ortiz71: folds
+Andrei S101: folds
+Uncalled bet (350) returned to m25090993
+*** FLOP *** [9s 5d Kd]
+*** TURN *** [9s 5d Kd] [7c]
+*** RIVER *** [9s 5d Kd 7c] [8d]
+*** SHOW DOWN ***
+1kidpoker.nz: shows [Ah 4s] (high card Ace)
+m25090993: shows [Ks Qs] (a pair of Kings)
+m25090993 collected 316 from pot
+m25090993 wins the $4.79 bounty for eliminating 1kidpoker.nz
+1kidpoker.nz finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 316 | Rake 0
+Board [9s 5d Kd 7c 8d]
+Seat 1: rafa_ortiz71 (small blind) folded before Flop
+Seat 2: Andrei S101 (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 5: 1kidpoker.nz showed [Ah 4s] and lost with high card Ace
+Seat 6: m25090993 (button) showed [Ks Qs] and won (316) with a pair of Kings
+
+PokerStars Hand #189830599530: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:18:06 MSK [2018/08/13 0:18:06 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (1500 in chips)
+Seat 2: Andrei S101 (627 in chips)
+Seat 3: DiggErr555 (207 in chips)
+Seat 6: m25090993 (666 in chips)
+rafa_ortiz71: posts the ante 6
+Andrei S101: posts the ante 6
+DiggErr555: posts the ante 6
+m25090993: posts the ante 6
+Andrei S101: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c 9d]
+m25090993: folds
+rafa_ortiz71: raises 1434 to 1494 and is all-in
+Andrei S101: folds
+DiggErr555: calls 141 and is all-in
+Uncalled bet (1293) returned to rafa_ortiz71
+*** FLOP *** [3d Qd Qh]
+*** TURN *** [3d Qd Qh] [8d]
+*** RIVER *** [3d Qd Qh 8d] [9s]
+*** SHOW DOWN ***
+DiggErr555: shows [9c 9d] (a full house, Nines full of Queens)
+rafa_ortiz71: shows [Kh Jd] (a pair of Queens)
+DiggErr555 collected 456 from pot
+*** SUMMARY ***
+Total pot 456 | Rake 0
+Board [3d Qd Qh 8d 9s]
+Seat 1: rafa_ortiz71 (button) showed [Kh Jd] and lost with a pair of Queens
+Seat 2: Andrei S101 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) showed [9c 9d] and won (456) with a full house, Nines full of Queens
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830604514: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:18:28 MSK [2018/08/13 0:18:28 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (1293 in chips)
+Seat 2: Andrei S101 (591 in chips)
+Seat 3: DiggErr555 (456 in chips)
+Seat 6: m25090993 (660 in chips)
+rafa_ortiz71: posts the ante 8
+Andrei S101: posts the ante 8
+DiggErr555: posts the ante 8
+m25090993: posts the ante 8
+DiggErr555: posts small blind 40
+m25090993: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 7d]
+rafa_ortiz71: folds
+Andrei S101: folds
+DiggErr555: raises 368 to 448 and is all-in
+m25090993: calls 368
+*** FLOP *** [5s 7s Ah]
+*** TURN *** [5s 7s Ah] [Td]
+*** RIVER *** [5s 7s Ah Td] [As]
+*** SHOW DOWN ***
+DiggErr555: shows [5d 7d] (two pair, Aces and Sevens)
+m25090993: shows [Kh 8s] (a pair of Aces)
+DiggErr555 collected 928 from pot
+*** SUMMARY ***
+Total pot 928 | Rake 0
+Board [5s 7s Ah Td As]
+Seat 1: rafa_ortiz71 folded before Flop (didn't bet)
+Seat 2: Andrei S101 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) showed [5d 7d] and won (928) with two pair, Aces and Sevens
+Seat 6: m25090993 (big blind) showed [Kh 8s] and lost with a pair of Aces
+
+PokerStars Hand #189830610053: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:18:53 MSK [2018/08/13 0:18:53 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (1285 in chips)
+Seat 2: Andrei S101 (583 in chips)
+Seat 3: DiggErr555 (928 in chips)
+Seat 6: m25090993 (204 in chips)
+rafa_ortiz71: posts the ante 8
+Andrei S101: posts the ante 8
+DiggErr555: posts the ante 8
+m25090993: posts the ante 8
+m25090993: posts small blind 40
+rafa_ortiz71: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d 2c]
+Andrei S101: folds
+DiggErr555: folds
+m25090993: raises 116 to 196 and is all-in
+rafa_ortiz71: calls 116
+*** FLOP *** [2s 5c Ks]
+*** TURN *** [2s 5c Ks] [7s]
+*** RIVER *** [2s 5c Ks 7s] [6c]
+*** SHOW DOWN ***
+m25090993: shows [Ac 6s] (a pair of Sixes)
+rafa_ortiz71: shows [Qd Jc] (high card King)
+m25090993 collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | Rake 0
+Board [2s 5c Ks 7s 6c]
+Seat 1: rafa_ortiz71 (big blind) showed [Qd Jc] and lost with high card King
+Seat 2: Andrei S101 folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: m25090993 (small blind) showed [Ac 6s] and won (424) with a pair of Sixes
+
+PokerStars Hand #189830614347: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:19:13 MSK [2018/08/13 0:19:13 ET]
+Table '2381082360 1' 6-max Seat #6 is the button
+Seat 1: rafa_ortiz71 (1081 in chips)
+Seat 2: Andrei S101 (575 in chips)
+Seat 3: DiggErr555 (920 in chips)
+Seat 6: m25090993 (424 in chips)
+rafa_ortiz71: posts the ante 8
+Andrei S101: posts the ante 8
+DiggErr555: posts the ante 8
+m25090993: posts the ante 8
+rafa_ortiz71: posts small blind 40
+Andrei S101: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jh Js]
+DiggErr555: raises 832 to 912 and is all-in
+m25090993: folds
+rafa_ortiz71: folds
+Andrei S101: folds
+Uncalled bet (832) returned to DiggErr555
+DiggErr555 collected 232 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Seat 1: rafa_ortiz71 (small blind) folded before Flop
+Seat 2: Andrei S101 (big blind) folded before Flop
+Seat 3: DiggErr555 collected (232)
+Seat 6: m25090993 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830616872: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:19:25 MSK [2018/08/13 0:19:25 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (1033 in chips)
+Seat 2: Andrei S101 (487 in chips)
+Seat 3: DiggErr555 (1064 in chips)
+Seat 6: m25090993 (416 in chips)
+rafa_ortiz71: posts the ante 8
+Andrei S101: posts the ante 8
+DiggErr555: posts the ante 8
+m25090993: posts the ante 8
+Andrei S101: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 7h]
+m25090993: folds
+rafa_ortiz71: folds
+Andrei S101: raises 399 to 479 and is all-in
+DiggErr555: calls 399
+*** FLOP *** [6d As Ad]
+*** TURN *** [6d As Ad] [5h]
+*** RIVER *** [6d As Ad 5h] [Jh]
+*** SHOW DOWN ***
+Andrei S101: shows [7c Kh] (a pair of Aces)
+DiggErr555: shows [Kd 7h] (a pair of Aces)
+Andrei S101 collected 495 from pot
+DiggErr555 collected 495 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0
+Board [6d As Ad 5h Jh]
+Seat 1: rafa_ortiz71 (button) folded before Flop (didn't bet)
+Seat 2: Andrei S101 (small blind) showed [7c Kh] and won (495) with a pair of Aces
+Seat 3: DiggErr555 (big blind) showed [Kd 7h] and won (495) with a pair of Aces
+Seat 6: m25090993 folded before Flop (didn't bet)
+
+PokerStars Hand #189830621735: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 7:19:47 MSK [2018/08/13 0:19:47 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (1025 in chips)
+Seat 2: Andrei S101 (495 in chips)
+Seat 3: DiggErr555 (1072 in chips)
+Seat 6: m25090993 (408 in chips)
+rafa_ortiz71: posts the ante 8
+Andrei S101: posts the ante 8
+DiggErr555: posts the ante 8
+m25090993: posts the ante 8
+DiggErr555: posts small blind 40
+m25090993: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8s Jd]
+rafa_ortiz71: raises 937 to 1017 and is all-in
+Andrei S101 is disconnected
+Andrei S101 has timed out while disconnected
+Andrei S101: folds
+Andrei S101 is sitting out
+DiggErr555: folds
+m25090993: folds
+Uncalled bet (937) returned to rafa_ortiz71
+Andrei S101 is disconnected
+rafa_ortiz71 collected 232 from pot
+rafa_ortiz71: doesn't show hand
+*** SUMMARY ***
+Total pot 232 | Rake 0
+Seat 1: rafa_ortiz71 collected (232)
+Seat 2: Andrei S101 (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 6: m25090993 (big blind) folded before Flop
+
+PokerStars Hand #189830627312: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:20:12 MSK [2018/08/13 0:20:12 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (1169 in chips)
+Seat 2: Andrei S101 (487 in chips)
+Seat 3: DiggErr555 (1024 in chips)
+Seat 6: m25090993 (320 in chips)
+rafa_ortiz71: posts the ante 10
+Andrei S101: posts the ante 10
+DiggErr555: posts the ante 10
+m25090993: posts the ante 10
+m25090993: posts small blind 50
+rafa_ortiz71: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Th]
+Andrei S101: raises 377 to 477 and is all-in
+DiggErr555: folds
+m25090993: calls 260 and is all-in
+rafa_ortiz71: folds
+Uncalled bet (167) returned to Andrei S101
+*** FLOP *** [8c 8d Ad]
+*** TURN *** [8c 8d Ad] [Kh]
+*** RIVER *** [8c 8d Ad Kh] [8s]
+*** SHOW DOWN ***
+m25090993: shows [Kc 7c] (a full house, Eights full of Kings)
+Andrei S101: shows [Ac As] (a full house, Aces full of Eights)
+Andrei S101 collected 760 from pot
+m25090993 is sitting out
+Andrei S101 wins the $4.79 bounty for eliminating m25090993
+m25090993 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 760 | Rake 0
+Board [8c 8d Ad Kh 8s]
+Seat 1: rafa_ortiz71 (big blind) folded before Flop
+Seat 2: Andrei S101 showed [Ac As] and won (760) with a full house, Aces full of Eights
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: m25090993 (small blind) showed [Kc 7c] and lost with a full house, Eights full of Kings
+
+PokerStars Hand #189830632651: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:20:36 MSK [2018/08/13 0:20:36 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (1059 in chips)
+Seat 2: Andrei S101 (927 in chips)
+Seat 3: DiggErr555 (1014 in chips)
+rafa_ortiz71: posts the ante 10
+Andrei S101: posts the ante 10
+DiggErr555: posts the ante 10
+Andrei S101: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h Jc]
+rafa_ortiz71: folds
+Andrei S101: calls 50
+DiggErr555: checks
+*** FLOP *** [8s 6h 9d]
+Andrei S101: checks
+DiggErr555: checks
+*** TURN *** [8s 6h 9d] [Ac]
+Andrei S101: checks
+DiggErr555: checks
+*** RIVER *** [8s 6h 9d Ac] [Jd]
+Andrei S101: checks
+DiggErr555: checks
+*** SHOW DOWN ***
+Andrei S101: shows [4c Qc] (high card Ace)
+DiggErr555: shows [2h Jc] (a pair of Jacks)
+DiggErr555 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0
+Board [8s 6h 9d Ac Jd]
+Seat 1: rafa_ortiz71 (button) folded before Flop (didn't bet)
+Seat 2: Andrei S101 (small blind) showed [4c Qc] and lost with high card Ace
+Seat 3: DiggErr555 (big blind) showed [2h Jc] and won (230) with a pair of Jacks
+
+PokerStars Hand #189830637664: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:20:59 MSK [2018/08/13 0:20:59 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (1049 in chips)
+Seat 2: Andrei S101 (817 in chips)
+Seat 3: DiggErr555 (1134 in chips)
+rafa_ortiz71: posts the ante 10
+Andrei S101: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+rafa_ortiz71: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 4h]
+Andrei S101: calls 100
+DiggErr555: folds
+rafa_ortiz71: checks
+*** FLOP *** [Th 3d 7c]
+rafa_ortiz71: checks
+Andrei S101: bets 100
+rafa_ortiz71: folds
+Uncalled bet (100) returned to Andrei S101
+Andrei S101 collected 280 from pot
+Andrei S101: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Board [Th 3d 7c]
+Seat 1: rafa_ortiz71 (big blind) folded on the Flop
+Seat 2: Andrei S101 (button) collected (280)
+Seat 3: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189830640711: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:21:14 MSK [2018/08/13 0:21:14 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (939 in chips)
+Seat 2: Andrei S101 (987 in chips)
+Seat 3: DiggErr555 (1074 in chips)
+rafa_ortiz71: posts the ante 10
+Andrei S101: posts the ante 10
+DiggErr555: posts the ante 10
+rafa_ortiz71: posts small blind 50
+Andrei S101: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 2d]
+DiggErr555: folds
+rafa_ortiz71: raises 100 to 200
+Andrei S101: calls 100
+*** FLOP *** [3h 3s Kc]
+rafa_ortiz71: bets 215
+Andrei S101: folds
+Uncalled bet (215) returned to rafa_ortiz71
+rafa_ortiz71 collected 430 from pot
+rafa_ortiz71: doesn't show hand
+*** SUMMARY ***
+Total pot 430 | Rake 0
+Board [3h 3s Kc]
+Seat 1: rafa_ortiz71 (small blind) collected (430)
+Seat 2: Andrei S101 (big blind) folded on the Flop
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830645077: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:21:34 MSK [2018/08/13 0:21:34 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (1159 in chips)
+Seat 2: Andrei S101 (777 in chips)
+Seat 3: DiggErr555 (1064 in chips)
+rafa_ortiz71: posts the ante 10
+Andrei S101: posts the ante 10
+DiggErr555: posts the ante 10
+Andrei S101: posts small blind 50
+DiggErr555: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jd 9c]
+rafa_ortiz71: folds
+Andrei S101: folds
+Uncalled bet (50) returned to DiggErr555
+DiggErr555 collected 130 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 130 | Rake 0
+Seat 1: rafa_ortiz71 (button) folded before Flop (didn't bet)
+Seat 2: Andrei S101 (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (130)
+
+PokerStars Hand #189830646167: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 7:21:39 MSK [2018/08/13 0:21:39 ET]
+Table '2381082360 1' 6-max Seat #2 is the button
+Seat 1: rafa_ortiz71 (1149 in chips)
+Seat 2: Andrei S101 (717 in chips)
+Seat 3: DiggErr555 (1134 in chips)
+rafa_ortiz71: posts the ante 10
+Andrei S101: posts the ante 10
+DiggErr555: posts the ante 10
+DiggErr555: posts small blind 50
+rafa_ortiz71: posts big blind 100
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc As]
+Andrei S101: raises 607 to 707 and is all-in
+DiggErr555: raises 417 to 1124 and is all-in
+rafa_ortiz71: folds
+Uncalled bet (417) returned to DiggErr555
+*** FLOP *** [Ks 4h Kh]
+*** TURN *** [Ks 4h Kh] [8d]
+*** RIVER *** [Ks 4h Kh 8d] [4c]
+*** SHOW DOWN ***
+DiggErr555: shows [Kc As] (a full house, Kings full of Fours)
+Andrei S101: shows [Qc Th] (two pair, Kings and Fours)
+DiggErr555 collected 1544 from pot
+DiggErr555 wins the $4.79 bounty for eliminating Andrei S101
+Andrei S101 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1544 | Rake 0
+Board [Ks 4h Kh 8d 4c]
+Seat 1: rafa_ortiz71 (big blind) folded before Flop
+Seat 2: Andrei S101 (button) showed [Qc Th] and lost with two pair, Kings and Fours
+Seat 3: DiggErr555 (small blind) showed [Kc As] and won (1544) with a full house, Kings full of Fours
+
+PokerStars Hand #189830650166: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:21:57 MSK [2018/08/13 0:21:57 ET]
+Table '2381082360 1' 6-max Seat #1 is the button
+Seat 1: rafa_ortiz71 (1039 in chips)
+Seat 3: DiggErr555 (1961 in chips)
+rafa_ortiz71: posts the ante 12
+DiggErr555: posts the ante 12
+rafa_ortiz71: posts small blind 60
+DiggErr555: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 4h]
+rafa_ortiz71: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 144 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 144 | Rake 0
+Seat 1: rafa_ortiz71 (button) (small blind) folded before Flop
+Seat 3: DiggErr555 (big blind) collected (144)
+
+PokerStars Hand #189830651893: Tournament #2381082360, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/13 7:22:05 MSK [2018/08/13 0:22:05 ET]
+Table '2381082360 1' 6-max Seat #3 is the button
+Seat 1: rafa_ortiz71 (967 in chips)
+Seat 3: DiggErr555 (2033 in chips)
+rafa_ortiz71: posts the ante 12
+DiggErr555: posts the ante 12
+DiggErr555: posts small blind 60
+rafa_ortiz71: posts big blind 120
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 6c]
+DiggErr555: raises 1901 to 2021 and is all-in
+rafa_ortiz71: calls 835 and is all-in
+Uncalled bet (1066) returned to DiggErr555
+*** FLOP *** [Jh 4s 4c]
+*** TURN *** [Jh 4s 4c] [5h]
+*** RIVER *** [Jh 4s 4c 5h] [Kc]
+*** SHOW DOWN ***
+rafa_ortiz71: shows [5s Qs] (two pair, Fives and Fours)
+DiggErr555: shows [6s 6c] (two pair, Sixes and Fours)
+DiggErr555 collected 1934 from pot
+DiggErr555 wins the $4.79 bounty for eliminating rafa_ortiz71
+rafa_ortiz71 finished the tournament in 2nd place and received $14.37.
+DiggErr555 wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 1934 | Rake 0
+Board [Jh 4s 4c 5h Kc]
+Seat 1: rafa_ortiz71 (big blind) showed [5s Qs] and lost with two pair, Fives and Fours
+Seat 3: DiggErr555 (button) (small blind) showed [6s 6c] and won (1934) with two pair, Sixes and Fours

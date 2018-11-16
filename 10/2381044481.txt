@@ -1,0 +1,316 @@
+
+
+PokerStars Hand #189828690862: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:14:27 MSK [2018/08/12 22:14:27 ET]
+Table '2381044481 1' 6-max Seat #1 is the button
+Seat 1: adrianr1993 (500 in chips)
+Seat 2: Mishator (500 in chips)
+Seat 3: dreia75 (500 in chips)
+Seat 4: bigatello1967 (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: ktrinity (500 in chips)
+adrianr1993: posts the ante 2
+Mishator: posts the ante 2
+dreia75: posts the ante 2
+bigatello1967: posts the ante 2
+DiggErr555: posts the ante 2
+ktrinity: posts the ante 2
+Mishator: posts small blind 10
+dreia75: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ah 7h]
+bigatello1967: raises 20 to 40
+DiggErr555: folds
+ktrinity: folds
+adrianr1993: calls 40
+Mishator: raises 458 to 498 and is all-in
+dreia75: folds
+bigatello1967: calls 458 and is all-in
+adrianr1993: calls 458 and is all-in
+*** FLOP *** [9h 3h 5c]
+*** TURN *** [9h 3h 5c] [6s]
+*** RIVER *** [9h 3h 5c 6s] [Qc]
+*** SHOW DOWN ***
+Mishator: shows [8d 8h] (a pair of Eights)
+bigatello1967: shows [Kh Jc] (high card King)
+adrianr1993: shows [Jd 7d] (high card Queen)
+Mishator collected 1526 from pot
+Mishator wins the $2.38 bounty for eliminating adrianr1993
+Mishator wins the $2.38 bounty for eliminating bigatello1967
+adrianr1993 finished the tournament in 5th place
+bigatello1967 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1526 | Rake 0
+Board [9h 3h 5c 6s Qc]
+Seat 1: adrianr1993 (button) showed [Jd 7d] and lost with high card Queen
+Seat 2: Mishator (small blind) showed [8d 8h] and won (1526) with a pair of Eights
+Seat 3: dreia75 (big blind) folded before Flop
+Seat 4: bigatello1967 showed [Kh Jc] and lost with high card King
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: ktrinity folded before Flop (didn't bet)
+
+PokerStars Hand #189828701683: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:15:02 MSK [2018/08/12 22:15:02 ET]
+Table '2381044481 1' 6-max Seat #2 is the button
+Seat 2: Mishator (1526 in chips)
+Seat 3: dreia75 (478 in chips)
+Seat 5: DiggErr555 (498 in chips)
+Seat 6: ktrinity (498 in chips)
+Mishator: posts the ante 2
+dreia75: posts the ante 2
+DiggErr555: posts the ante 2
+ktrinity: posts the ante 2
+dreia75: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c Tc]
+ktrinity: calls 20
+Mishator: folds
+dreia75: calls 10
+DiggErr555: checks
+*** FLOP *** [Qd 3s 9s]
+dreia75: bets 20
+DiggErr555: folds
+ktrinity: raises 456 to 476 and is all-in
+dreia75: calls 436 and is all-in
+Uncalled bet (20) returned to ktrinity
+*** TURN *** [Qd 3s 9s] [Js]
+*** RIVER *** [Qd 3s 9s Js] [Jc]
+*** SHOW DOWN ***
+dreia75: shows [6d 9c] (two pair, Jacks and Nines)
+ktrinity: shows [Qs 5d] (two pair, Queens and Jacks)
+ktrinity collected 980 from pot
+ktrinity wins the $2.38 bounty for eliminating dreia75
+dreia75 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 980 | Rake 0
+Board [Qd 3s 9s Js Jc]
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 3: dreia75 (small blind) showed [6d 9c] and lost with two pair, Jacks and Nines
+Seat 5: DiggErr555 (big blind) folded on the Flop
+Seat 6: ktrinity showed [Qs 5d] and won (980) with two pair, Queens and Jacks
+
+PokerStars Hand #189828713161: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:15:39 MSK [2018/08/12 22:15:39 ET]
+Table '2381044481 1' 6-max Seat #5 is the button
+Seat 2: Mishator (1524 in chips)
+Seat 5: DiggErr555 (476 in chips)
+Seat 6: ktrinity (1000 in chips)
+Mishator: posts the ante 2
+DiggErr555: posts the ante 2
+ktrinity: posts the ante 2
+ktrinity: posts small blind 10
+Mishator: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 5c]
+DiggErr555: folds
+ktrinity: calls 10
+Mishator: raises 20 to 40
+ktrinity: calls 20
+*** FLOP *** [3h 9c Th]
+ktrinity: bets 80
+Mishator: folds
+Uncalled bet (80) returned to ktrinity
+ktrinity collected 86 from pot
+ktrinity: doesn't show hand
+*** SUMMARY ***
+Total pot 86 | Rake 0
+Board [3h 9c Th]
+Seat 2: Mishator (big blind) folded on the Flop
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: ktrinity (small blind) collected (86)
+
+PokerStars Hand #189828723365: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:11 MSK [2018/08/12 22:16:11 ET]
+Table '2381044481 1' 6-max Seat #6 is the button
+Seat 2: Mishator (1482 in chips)
+Seat 5: DiggErr555 (474 in chips)
+Seat 6: ktrinity (1044 in chips)
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+ktrinity: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 4d]
+ktrinity: calls 30
+Mishator: folds
+DiggErr555: checks
+*** FLOP *** [Kc 2d 6h]
+DiggErr555: checks
+ktrinity: bets 90
+DiggErr555: folds
+Uncalled bet (90) returned to ktrinity
+ktrinity collected 84 from pot
+ktrinity: doesn't show hand
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Board [Kc 2d 6h]
+Seat 2: Mishator (small blind) folded before Flop
+Seat 5: DiggErr555 (big blind) folded on the Flop
+Seat 6: ktrinity (button) collected (84)
+
+PokerStars Hand #189828731530: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:38 MSK [2018/08/12 22:16:38 ET]
+Table '2381044481 1' 6-max Seat #2 is the button
+Seat 2: Mishator (1464 in chips)
+Seat 5: DiggErr555 (441 in chips)
+Seat 6: ktrinity (1095 in chips)
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+ktrinity: posts the ante 3
+DiggErr555: posts small blind 15
+ktrinity: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d 2d]
+Mishator: folds
+DiggErr555: folds
+Uncalled bet (15) returned to ktrinity
+ktrinity collected 39 from pot
+ktrinity: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 2: Mishator (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: ktrinity (big blind) collected (39)
+
+PokerStars Hand #189828735616: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:51 MSK [2018/08/12 22:16:51 ET]
+Table '2381044481 1' 6-max Seat #5 is the button
+Seat 2: Mishator (1461 in chips)
+Seat 5: DiggErr555 (423 in chips)
+Seat 6: ktrinity (1116 in chips)
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+ktrinity: posts the ante 3
+ktrinity: posts small blind 15
+Mishator: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kh 2d]
+DiggErr555: folds
+ktrinity: folds
+Uncalled bet (15) returned to Mishator
+Mishator collected 39 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 39 | Rake 0
+Seat 2: Mishator (big blind) collected (39)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: ktrinity (small blind) folded before Flop
+
+PokerStars Hand #189828737672: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:16:58 MSK [2018/08/12 22:16:58 ET]
+Table '2381044481 1' 6-max Seat #6 is the button
+Seat 2: Mishator (1482 in chips)
+Seat 5: DiggErr555 (420 in chips)
+Seat 6: ktrinity (1098 in chips)
+Mishator: posts the ante 3
+DiggErr555: posts the ante 3
+ktrinity: posts the ante 3
+Mishator: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 5s]
+ktrinity: calls 30
+Mishator: raises 90 to 120
+DiggErr555: folds
+ktrinity: calls 90
+*** FLOP *** [Kd 7s Jh]
+Mishator: bets 167
+ktrinity: raises 808 to 975 and is all-in
+Mishator: calls 808
+*** TURN *** [Kd 7s Jh] [Th]
+*** RIVER *** [Kd 7s Jh Th] [5c]
+*** SHOW DOWN ***
+Mishator: shows [Qs Kc] (a pair of Kings)
+ktrinity: shows [Ad Kh] (a pair of Kings - Ace kicker)
+ktrinity collected 2229 from pot
+*** SUMMARY ***
+Total pot 2229 | Rake 0
+Board [Kd 7s Jh Th 5c]
+Seat 2: Mishator (small blind) showed [Qs Kc] and lost with a pair of Kings
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: ktrinity (button) showed [Ad Kh] and won (2229) with a pair of Kings
+
+PokerStars Hand #189828748997: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:17:35 MSK [2018/08/12 22:17:35 ET]
+Table '2381044481 1' 6-max Seat #2 is the button
+Seat 2: Mishator (384 in chips)
+Seat 5: DiggErr555 (387 in chips)
+Seat 6: ktrinity (2229 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+ktrinity: posts the ante 4
+DiggErr555: posts small blind 20
+ktrinity: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 5h]
+Mishator: raises 340 to 380 and is all-in
+DiggErr555: folds
+ktrinity: folds
+Uncalled bet (340) returned to Mishator
+Mishator collected 112 from pot
+Mishator: doesn't show hand
+*** SUMMARY ***
+Total pot 112 | Rake 0
+Seat 2: Mishator (button) collected (112)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: ktrinity (big blind) folded before Flop
+
+PokerStars Hand #189828755784: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:17:58 MSK [2018/08/12 22:17:58 ET]
+Table '2381044481 1' 6-max Seat #5 is the button
+Seat 2: Mishator (452 in chips)
+Seat 5: DiggErr555 (363 in chips)
+Seat 6: ktrinity (2185 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+ktrinity: posts the ante 4
+ktrinity: posts small blind 20
+Mishator: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6c 2d]
+DiggErr555: folds
+ktrinity: calls 20
+Mishator: checks
+*** FLOP *** [7d Qs 6d]
+ktrinity: checks
+Mishator: checks
+*** TURN *** [7d Qs 6d] [Ks]
+ktrinity: checks
+Mishator: checks
+*** RIVER *** [7d Qs 6d Ks] [Kc]
+ktrinity: bets 40
+Mishator: folds
+Uncalled bet (40) returned to ktrinity
+ktrinity collected 92 from pot
+ktrinity: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Board [7d Qs 6d Ks Kc]
+Seat 2: Mishator (big blind) folded on the River
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: ktrinity (small blind) collected (92)
+
+PokerStars Hand #189828768044: Tournament #2381044481, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:18:37 MSK [2018/08/12 22:18:37 ET]
+Table '2381044481 1' 6-max Seat #6 is the button
+Seat 2: Mishator (408 in chips)
+Seat 5: DiggErr555 (359 in chips)
+Seat 6: ktrinity (2233 in chips)
+Mishator: posts the ante 4
+DiggErr555: posts the ante 4
+ktrinity: posts the ante 4
+Mishator: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 7c]
+ktrinity: folds
+Mishator: raises 364 to 404 and is all-in
+DiggErr555: calls 315 and is all-in
+Uncalled bet (49) returned to Mishator
+*** FLOP *** [9h 5h 8d]
+*** TURN *** [9h 5h 8d] [Js]
+*** RIVER *** [9h 5h 8d Js] [8h]
+*** SHOW DOWN ***
+Mishator: shows [Ts Qc] (a straight, Eight to Queen)
+DiggErr555: shows [Ad 7c] (a pair of Eights)
+Mishator collected 722 from pot
+Mishator wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 722 | Rake 0
+Board [9h 5h 8d Js 8h]
+Seat 2: Mishator (small blind) showed [Ts Qc] and won (722) with a straight, Eight to Queen
+Seat 5: DiggErr555 (big blind) showed [Ad 7c] and lost with a pair of Eights
+Seat 6: ktrinity (button) folded before Flop (didn't bet)

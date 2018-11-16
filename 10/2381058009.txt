@@ -1,0 +1,535 @@
+
+
+PokerStars Hand #189829325454: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:50:32 MSK [2018/08/12 22:50:32 ET]
+Table '2381058009 1' 6-max Seat #1 is the button
+Seat 1: Mishator (500 in chips)
+Seat 2: shushe (500 in chips)
+Seat 3: TORJAKIE (500 in chips)
+Seat 4: bowmanvillan (500 in chips)
+Seat 5: mrzm0118 (500 in chips)
+Seat 6: DiggErr555 (500 in chips)
+Mishator: posts the ante 2
+shushe: posts the ante 2
+TORJAKIE: posts the ante 2
+bowmanvillan: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+shushe: posts small blind 10
+TORJAKIE: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5d 2h]
+bowmanvillan: raises 40 to 60
+mrzm0118: folds
+DiggErr555: folds
+Mishator: folds
+shushe: folds
+TORJAKIE: calls 40
+*** FLOP *** [Qc Ad 7c]
+TORJAKIE: bets 220
+bowmanvillan: folds
+Uncalled bet (220) returned to TORJAKIE
+TORJAKIE collected 142 from pot
+TORJAKIE: doesn't show hand
+*** SUMMARY ***
+Total pot 142 | Rake 0
+Board [Qc Ad 7c]
+Seat 1: Mishator (button) folded before Flop (didn't bet)
+Seat 2: shushe (small blind) folded before Flop
+Seat 3: TORJAKIE (big blind) collected (142)
+Seat 4: bowmanvillan folded on the Flop
+Seat 5: mrzm0118 folded before Flop (didn't bet)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829334301: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:51:04 MSK [2018/08/12 22:51:04 ET]
+Table '2381058009 1' 6-max Seat #2 is the button
+Seat 1: Mishator (498 in chips)
+Seat 2: shushe (488 in chips)
+Seat 3: TORJAKIE (580 in chips)
+Seat 4: bowmanvillan (438 in chips)
+Seat 5: mrzm0118 (498 in chips)
+Seat 6: DiggErr555 (498 in chips)
+Mishator: posts the ante 2
+shushe: posts the ante 2
+TORJAKIE: posts the ante 2
+bowmanvillan: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+TORJAKIE: posts small blind 10
+bowmanvillan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5s Tc]
+mrzm0118: raises 20 to 40
+DiggErr555: folds
+Mishator: folds
+shushe: folds
+TORJAKIE: folds
+bowmanvillan: folds
+Uncalled bet (20) returned to mrzm0118
+mrzm0118 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: Mishator folded before Flop (didn't bet)
+Seat 2: shushe (button) folded before Flop (didn't bet)
+Seat 3: TORJAKIE (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) folded before Flop
+Seat 5: mrzm0118 collected (62)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829340044: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 5:51:25 MSK [2018/08/12 22:51:25 ET]
+Table '2381058009 1' 6-max Seat #3 is the button
+Seat 1: Mishator (496 in chips)
+Seat 2: shushe (486 in chips)
+Seat 3: TORJAKIE (568 in chips)
+Seat 4: bowmanvillan (416 in chips)
+Seat 5: mrzm0118 (538 in chips)
+Seat 6: DiggErr555 (496 in chips)
+Mishator: posts the ante 2
+shushe: posts the ante 2
+TORJAKIE: posts the ante 2
+bowmanvillan: posts the ante 2
+mrzm0118: posts the ante 2
+DiggErr555: posts the ante 2
+bowmanvillan: posts small blind 10
+mrzm0118: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4d Jh]
+DiggErr555: folds
+Mishator: folds
+shushe: folds
+TORJAKIE: folds
+bowmanvillan: raises 20 to 40
+mrzm0118: raises 496 to 536 and is all-in
+bowmanvillan: folds
+Uncalled bet (496) returned to mrzm0118
+mrzm0118 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: Mishator folded before Flop (didn't bet)
+Seat 2: shushe folded before Flop (didn't bet)
+Seat 3: TORJAKIE (button) folded before Flop (didn't bet)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: mrzm0118 (big blind) collected (92)
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829347699: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:51:53 MSK [2018/08/12 22:51:53 ET]
+Table '2381058009 1' 6-max Seat #4 is the button
+Seat 1: Mishator (494 in chips)
+Seat 2: shushe (484 in chips)
+Seat 3: TORJAKIE (566 in chips)
+Seat 4: bowmanvillan (374 in chips)
+Seat 5: mrzm0118 (588 in chips)
+Seat 6: DiggErr555 (494 in chips)
+Mishator: posts the ante 3
+shushe: posts the ante 3
+TORJAKIE: posts the ante 3
+bowmanvillan: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+mrzm0118: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3c 5s]
+Mishator: raises 30 to 60
+shushe: calls 60
+TORJAKIE: raises 330 to 390
+bowmanvillan: folds
+mrzm0118: folds
+DiggErr555: folds
+Mishator: raises 101 to 491 and is all-in
+shushe: calls 421 and is all-in
+TORJAKIE: calls 101
+*** FLOP *** [Js As 2s]
+*** TURN *** [Js As 2s] [7d]
+*** RIVER *** [Js As 2s 7d] [6d]
+*** SHOW DOWN ***
+Mishator: shows [Ad Kd] (a pair of Aces)
+TORJAKIE: shows [Ac Jc] (two pair, Aces and Jacks)
+TORJAKIE collected 20 from side pot
+shushe: shows [Kh Ks] (a pair of Kings)
+TORJAKIE collected 1506 from main pot
+TORJAKIE wins the $4.79 bounty for eliminating Mishator
+TORJAKIE wins the $4.79 bounty for eliminating shushe
+Mishator finished the tournament in 5th place
+shushe finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1526 Main pot 1506. Side pot 20. | Rake 0
+Board [Js As 2s 7d 6d]
+Seat 1: Mishator showed [Ad Kd] and lost with a pair of Aces
+Seat 2: shushe showed [Kh Ks] and lost with a pair of Kings
+Seat 3: TORJAKIE showed [Ac Jc] and won (1526) with two pair, Aces and Jacks
+Seat 4: bowmanvillan (button) folded before Flop (didn't bet)
+Seat 5: mrzm0118 (small blind) folded before Flop
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829358003: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:52:31 MSK [2018/08/12 22:52:31 ET]
+Table '2381058009 1' 6-max Seat #5 is the button
+Seat 3: TORJAKIE (1598 in chips)
+Seat 4: bowmanvillan (371 in chips)
+Seat 5: mrzm0118 (570 in chips)
+Seat 6: DiggErr555 (461 in chips)
+TORJAKIE: posts the ante 3
+bowmanvillan: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+DiggErr555: posts small blind 15
+TORJAKIE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2h 3c]
+bowmanvillan: folds
+mrzm0118: raises 30 to 60
+DiggErr555: folds
+TORJAKIE: calls 30
+*** FLOP *** [As Kd 6d]
+TORJAKIE: checks
+mrzm0118: bets 60
+TORJAKIE: folds
+Uncalled bet (60) returned to mrzm0118
+mrzm0118 collected 147 from pot
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [As Kd 6d]
+Seat 3: TORJAKIE (big blind) folded on the Flop
+Seat 4: bowmanvillan folded before Flop (didn't bet)
+Seat 5: mrzm0118 (button) collected (147)
+Seat 6: DiggErr555 (small blind) folded before Flop
+
+PokerStars Hand #189829367406: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:53:06 MSK [2018/08/12 22:53:06 ET]
+Table '2381058009 1' 6-max Seat #6 is the button
+Seat 3: TORJAKIE (1535 in chips)
+Seat 4: bowmanvillan (368 in chips)
+Seat 5: mrzm0118 (654 in chips)
+Seat 6: DiggErr555 (443 in chips)
+TORJAKIE: posts the ante 3
+bowmanvillan: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+TORJAKIE: posts small blind 15
+bowmanvillan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ks Ad]
+mrzm0118: folds
+DiggErr555: raises 30 to 60
+TORJAKIE: folds
+bowmanvillan: calls 30
+*** FLOP *** [Qs 7d 2c]
+bowmanvillan: checks
+DiggErr555: bets 45
+bowmanvillan: folds
+Uncalled bet (45) returned to DiggErr555
+DiggErr555 collected 147 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [Qs 7d 2c]
+Seat 3: TORJAKIE (small blind) folded before Flop
+Seat 4: bowmanvillan (big blind) folded on the Flop
+Seat 5: mrzm0118 folded before Flop (didn't bet)
+Seat 6: DiggErr555 (button) collected (147)
+
+PokerStars Hand #189829373749: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 5:53:29 MSK [2018/08/12 22:53:29 ET]
+Table '2381058009 1' 6-max Seat #3 is the button
+Seat 3: TORJAKIE (1517 in chips)
+Seat 4: bowmanvillan (305 in chips)
+Seat 5: mrzm0118 (651 in chips)
+Seat 6: DiggErr555 (527 in chips)
+TORJAKIE: posts the ante 3
+bowmanvillan: posts the ante 3
+mrzm0118: posts the ante 3
+DiggErr555: posts the ante 3
+bowmanvillan: posts small blind 15
+mrzm0118: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s Th]
+DiggErr555: folds
+TORJAKIE: raises 30 to 60
+bowmanvillan: folds
+mrzm0118: calls 30
+*** FLOP *** [9s 2s 6s]
+mrzm0118: checks
+TORJAKIE: bets 30
+mrzm0118: folds
+Uncalled bet (30) returned to TORJAKIE
+TORJAKIE collected 147 from pot
+TORJAKIE: doesn't show hand
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [9s 2s 6s]
+Seat 3: TORJAKIE (button) collected (147)
+Seat 4: bowmanvillan (small blind) folded before Flop
+Seat 5: mrzm0118 (big blind) folded on the Flop
+Seat 6: DiggErr555 folded before Flop (didn't bet)
+
+PokerStars Hand #189829380019: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:53:52 MSK [2018/08/12 22:53:52 ET]
+Table '2381058009 1' 6-max Seat #4 is the button
+Seat 3: TORJAKIE (1601 in chips)
+Seat 4: bowmanvillan (287 in chips)
+Seat 5: mrzm0118 (588 in chips)
+Seat 6: DiggErr555 (524 in chips)
+TORJAKIE: posts the ante 4
+bowmanvillan: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+mrzm0118: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 2c]
+TORJAKIE: folds
+bowmanvillan: raises 80 to 120
+mrzm0118: raises 464 to 584 and is all-in
+DiggErr555: folds
+bowmanvillan: calls 163 and is all-in
+Uncalled bet (301) returned to mrzm0118
+*** FLOP *** [Th Tc 9s]
+*** TURN *** [Th Tc 9s] [8s]
+*** RIVER *** [Th Tc 9s 8s] [7s]
+*** SHOW DOWN ***
+mrzm0118: shows [Ad 8c] (two pair, Tens and Eights)
+bowmanvillan: shows [Ah 4s] (a pair of Tens)
+mrzm0118 collected 622 from pot
+mrzm0118 wins the $4.79 bounty for eliminating bowmanvillan
+bowmanvillan finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 622 | Rake 0
+Board [Th Tc 9s 8s 7s]
+Seat 3: TORJAKIE folded before Flop (didn't bet)
+Seat 4: bowmanvillan (button) showed [Ah 4s] and lost with a pair of Tens
+Seat 5: mrzm0118 (small blind) showed [Ad 8c] and won (622) with two pair, Tens and Eights
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829386597: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:54:16 MSK [2018/08/12 22:54:16 ET]
+Table '2381058009 1' 6-max Seat #5 is the button
+Seat 3: TORJAKIE (1597 in chips)
+Seat 5: mrzm0118 (923 in chips)
+Seat 6: DiggErr555 (480 in chips)
+TORJAKIE: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+DiggErr555: posts small blind 20
+TORJAKIE: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Ad 6c]
+mrzm0118: folds
+DiggErr555: raises 436 to 476 and is all-in
+TORJAKIE: folds
+Uncalled bet (436) returned to DiggErr555
+DiggErr555 collected 92 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 3: TORJAKIE (big blind) folded before Flop
+Seat 5: mrzm0118 (button) folded before Flop (didn't bet)
+Seat 6: DiggErr555 (small blind) collected (92)
+
+PokerStars Hand #189829390198: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:54:30 MSK [2018/08/12 22:54:30 ET]
+Table '2381058009 1' 6-max Seat #6 is the button
+Seat 3: TORJAKIE (1553 in chips)
+Seat 5: mrzm0118 (919 in chips)
+Seat 6: DiggErr555 (528 in chips)
+TORJAKIE: posts the ante 4
+mrzm0118: posts the ante 4
+DiggErr555: posts the ante 4
+TORJAKIE: posts small blind 20
+mrzm0118: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd 4s]
+DiggErr555: folds
+TORJAKIE: raises 40 to 80
+mrzm0118: calls 40
+*** FLOP *** [9d Ah Qs]
+TORJAKIE: bets 240
+mrzm0118: raises 595 to 835 and is all-in
+TORJAKIE: calls 595
+*** TURN *** [9d Ah Qs] [6c]
+*** RIVER *** [9d Ah Qs 6c] [5c]
+*** SHOW DOWN ***
+TORJAKIE: shows [4h Ad] (a pair of Aces)
+mrzm0118: shows [Qc 7s] (a pair of Queens)
+TORJAKIE collected 1842 from pot
+TORJAKIE wins the $4.79 bounty for eliminating mrzm0118
+mrzm0118 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1842 | Rake 0
+Board [9d Ah Qs 6c 5c]
+Seat 3: TORJAKIE (small blind) showed [4h Ad] and won (1842) with a pair of Aces
+Seat 5: mrzm0118 (big blind) showed [Qc 7s] and lost with a pair of Queens
+Seat 6: DiggErr555 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189829398075: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 5:54:59 MSK [2018/08/12 22:54:59 ET]
+Table '2381058009 1' 6-max Seat #3 is the button
+Seat 3: TORJAKIE (2476 in chips)
+Seat 6: DiggErr555 (524 in chips)
+TORJAKIE: posts the ante 4
+DiggErr555: posts the ante 4
+TORJAKIE: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qs 9s]
+TORJAKIE: raises 200 to 240
+DiggErr555: folds
+Uncalled bet (200) returned to TORJAKIE
+TORJAKIE collected 88 from pot
+TORJAKIE: doesn't show hand
+*** SUMMARY ***
+Total pot 88 | Rake 0
+Seat 3: TORJAKIE (button) (small blind) collected (88)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829403106: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:55:18 MSK [2018/08/12 22:55:18 ET]
+Table '2381058009 1' 6-max Seat #6 is the button
+Seat 3: TORJAKIE (2520 in chips)
+Seat 6: DiggErr555 (480 in chips)
+TORJAKIE: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+TORJAKIE: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h Kh]
+DiggErr555: raises 414 to 474 and is all-in
+TORJAKIE: calls 414
+*** FLOP *** [Jd 6d Jc]
+*** TURN *** [Jd 6d Jc] [9s]
+*** RIVER *** [Jd 6d Jc 9s] [Js]
+*** SHOW DOWN ***
+TORJAKIE: shows [Qs 2c] (three of a kind, Jacks)
+DiggErr555: shows [4h Kh] (three of a kind, Jacks - King kicker)
+DiggErr555 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0
+Board [Jd 6d Jc 9s Js]
+Seat 3: TORJAKIE (big blind) showed [Qs 2c] and lost with three of a kind, Jacks
+Seat 6: DiggErr555 (button) (small blind) showed [4h Kh] and won (960) with three of a kind, Jacks
+
+PokerStars Hand #189829406215: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:55:30 MSK [2018/08/12 22:55:30 ET]
+Table '2381058009 1' 6-max Seat #3 is the button
+Seat 3: TORJAKIE (2040 in chips)
+Seat 6: DiggErr555 (960 in chips)
+TORJAKIE: posts the ante 6
+DiggErr555: posts the ante 6
+TORJAKIE: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 2h]
+TORJAKIE: raises 480 to 540
+DiggErr555: folds
+Uncalled bet (480) returned to TORJAKIE
+TORJAKIE collected 132 from pot
+TORJAKIE: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Seat 3: TORJAKIE (button) (small blind) collected (132)
+Seat 6: DiggErr555 (big blind) folded before Flop
+
+PokerStars Hand #189829408361: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:55:40 MSK [2018/08/12 22:55:40 ET]
+Table '2381058009 1' 6-max Seat #6 is the button
+Seat 3: TORJAKIE (2106 in chips)
+Seat 6: DiggErr555 (894 in chips)
+TORJAKIE: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+TORJAKIE: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [8c 4c]
+DiggErr555: calls 30
+TORJAKIE: checks
+*** FLOP *** [Qc Qh 8h]
+TORJAKIE: checks
+DiggErr555: bets 60
+TORJAKIE: folds
+Uncalled bet (60) returned to DiggErr555
+DiggErr555 collected 132 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 132 | Rake 0
+Board [Qc Qh 8h]
+Seat 3: TORJAKIE (big blind) folded on the Flop
+Seat 6: DiggErr555 (button) (small blind) collected (132)
+
+PokerStars Hand #189829412212: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:55:56 MSK [2018/08/12 22:55:56 ET]
+Table '2381058009 1' 6-max Seat #3 is the button
+Seat 3: TORJAKIE (2040 in chips)
+Seat 6: DiggErr555 (960 in chips)
+TORJAKIE: posts the ante 6
+DiggErr555: posts the ante 6
+TORJAKIE: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc 6s]
+TORJAKIE: calls 30
+DiggErr555: checks
+*** FLOP *** [5s Jd 5h]
+DiggErr555: checks
+TORJAKIE: bets 240
+DiggErr555: calls 240
+*** TURN *** [5s Jd 5h] [2h]
+DiggErr555: checks
+TORJAKIE: checks
+*** RIVER *** [5s Jd 5h 2h] [7d]
+DiggErr555: checks
+TORJAKIE: checks
+*** SHOW DOWN ***
+DiggErr555: shows [Jc 6s] (two pair, Jacks and Fives)
+TORJAKIE: mucks hand
+DiggErr555 collected 612 from pot
+*** SUMMARY ***
+Total pot 612 | Rake 0
+Board [5s Jd 5h 2h 7d]
+Seat 3: TORJAKIE (button) (small blind) mucked [As Ks]
+Seat 6: DiggErr555 (big blind) showed [Jc 6s] and won (612) with two pair, Jacks and Fives
+
+PokerStars Hand #189829419966: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 5:56:28 MSK [2018/08/12 22:56:28 ET]
+Table '2381058009 1' 6-max Seat #6 is the button
+Seat 3: TORJAKIE (1734 in chips)
+Seat 6: DiggErr555 (1266 in chips)
+TORJAKIE: posts the ante 6
+DiggErr555: posts the ante 6
+DiggErr555: posts small blind 30
+TORJAKIE: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6h 7d]
+DiggErr555: calls 30
+TORJAKIE: checks
+*** FLOP *** [3h Kh 5d]
+TORJAKIE: checks
+DiggErr555: bets 60
+TORJAKIE: calls 60
+*** TURN *** [3h Kh 5d] [8s]
+TORJAKIE: checks
+DiggErr555: bets 100
+TORJAKIE: folds
+Uncalled bet (100) returned to DiggErr555
+DiggErr555 collected 252 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 252 | Rake 0
+Board [3h Kh 5d 8s]
+Seat 3: TORJAKIE (big blind) folded on the Turn
+Seat 6: DiggErr555 (button) (small blind) collected (252)
+
+PokerStars Hand #189829426169: Tournament #2381058009, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 5:56:54 MSK [2018/08/12 22:56:54 ET]
+Table '2381058009 1' 6-max Seat #3 is the button
+Seat 3: TORJAKIE (1608 in chips)
+Seat 6: DiggErr555 (1392 in chips)
+TORJAKIE: posts the ante 8
+DiggErr555: posts the ante 8
+TORJAKIE: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7h 7d]
+TORJAKIE: raises 400 to 480
+DiggErr555: raises 904 to 1384 and is all-in
+TORJAKIE: calls 904
+*** FLOP *** [Ts 4s 6c]
+*** TURN *** [Ts 4s 6c] [4h]
+*** RIVER *** [Ts 4s 6c 4h] [9h]
+*** SHOW DOWN ***
+DiggErr555: shows [7h 7d] (two pair, Sevens and Fours)
+TORJAKIE: shows [4d 4c] (four of a kind, Fours)
+TORJAKIE collected 2784 from pot
+TORJAKIE wins the $4.79 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $14.37.
+TORJAKIE wins the tournament and receives $14.37 - congratulations!
+*** SUMMARY ***
+Total pot 2784 | Rake 0
+Board [Ts 4s 6c 4h 9h]
+Seat 3: TORJAKIE (button) (small blind) showed [4d 4c] and won (2784) with four of a kind, Fours
+Seat 6: DiggErr555 (big blind) showed [7h 7d] and lost with two pair, Sevens and Fours

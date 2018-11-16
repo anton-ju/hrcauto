@@ -1,0 +1,427 @@
+
+
+PokerStars Hand #189830763693: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:30:46 MSK [2018/08/13 0:30:46 ET]
+Table '2381090739 1' 6-max Seat #1 is the button
+Seat 1: time part 90 (500 in chips)
+Seat 2: LimpAndJam (500 in chips)
+Seat 3: bigatello1967 (500 in chips)
+Seat 4: Jumbo5587 (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: cmerg777 (500 in chips)
+time part 90: posts the ante 2
+LimpAndJam: posts the ante 2
+bigatello1967: posts the ante 2
+Jumbo5587: posts the ante 2
+DiggErr555: posts the ante 2
+cmerg777: posts the ante 2
+LimpAndJam: posts small blind 10
+bigatello1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 9c]
+Jumbo5587: folds
+DiggErr555: folds
+cmerg777: folds
+time part 90: raises 26 to 46
+LimpAndJam: folds
+bigatello1967: folds
+Uncalled bet (26) returned to time part 90
+time part 90 collected 62 from pot
+time part 90: doesn't show hand
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: time part 90 (button) collected (62)
+Seat 2: LimpAndJam (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) folded before Flop
+Seat 4: Jumbo5587 folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cmerg777 folded before Flop (didn't bet)
+
+PokerStars Hand #189830767502: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:31:04 MSK [2018/08/13 0:31:04 ET]
+Table '2381090739 1' 6-max Seat #2 is the button
+Seat 1: time part 90 (540 in chips)
+Seat 2: LimpAndJam (488 in chips)
+Seat 3: bigatello1967 (478 in chips)
+Seat 4: Jumbo5587 (498 in chips)
+Seat 5: DiggErr555 (498 in chips)
+Seat 6: cmerg777 (498 in chips)
+time part 90: posts the ante 2
+LimpAndJam: posts the ante 2
+bigatello1967: posts the ante 2
+Jumbo5587: posts the ante 2
+DiggErr555: posts the ante 2
+cmerg777: posts the ante 2
+bigatello1967: posts small blind 10
+Jumbo5587: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9s 8d]
+DiggErr555: folds
+cmerg777: raises 476 to 496 and is all-in
+time part 90: folds
+LimpAndJam: folds
+bigatello1967: folds
+Jumbo5587: calls 476 and is all-in
+*** FLOP *** [As 3h 3c]
+*** TURN *** [As 3h 3c] [Kd]
+*** RIVER *** [As 3h 3c Kd] [Tc]
+*** SHOW DOWN ***
+Jumbo5587: shows [7h 7s] (two pair, Sevens and Threes)
+cmerg777: shows [Jh Ad] (two pair, Aces and Threes)
+cmerg777 collected 1014 from pot
+cmerg777 wins the $2.38 bounty for eliminating Jumbo5587
+Jumbo5587 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1014 | Rake 0
+Board [As 3h 3c Kd Tc]
+Seat 1: time part 90 folded before Flop (didn't bet)
+Seat 2: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) folded before Flop
+Seat 4: Jumbo5587 (big blind) showed [7h 7s] and lost with two pair, Sevens and Threes
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cmerg777 showed [Jh Ad] and won (1014) with two pair, Aces and Threes
+
+PokerStars Hand #189830773788: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 7:31:34 MSK [2018/08/13 0:31:34 ET]
+Table '2381090739 1' 6-max Seat #3 is the button
+Seat 1: time part 90 (538 in chips)
+Seat 2: LimpAndJam (486 in chips)
+Seat 3: bigatello1967 (466 in chips)
+Seat 5: DiggErr555 (496 in chips)
+Seat 6: cmerg777 (1014 in chips)
+time part 90: posts the ante 2
+LimpAndJam: posts the ante 2
+bigatello1967: posts the ante 2
+DiggErr555: posts the ante 2
+cmerg777: posts the ante 2
+DiggErr555: posts small blind 10
+cmerg777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qh 2d]
+time part 90: folds
+LimpAndJam: folds
+bigatello1967: folds
+DiggErr555: folds
+Uncalled bet (10) returned to cmerg777
+cmerg777 collected 30 from pot
+cmerg777: doesn't show hand
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 1: time part 90 folded before Flop (didn't bet)
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: cmerg777 (big blind) collected (30)
+
+PokerStars Hand #189830779784: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:32:02 MSK [2018/08/13 0:32:02 ET]
+Table '2381090739 1' 6-max Seat #5 is the button
+Seat 1: time part 90 (536 in chips)
+Seat 2: LimpAndJam (484 in chips)
+Seat 3: bigatello1967 (464 in chips)
+Seat 5: DiggErr555 (484 in chips)
+Seat 6: cmerg777 (1032 in chips)
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+bigatello1967: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+cmerg777: posts small blind 15
+time part 90: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s Jh]
+LimpAndJam: folds
+bigatello1967: folds
+DiggErr555: folds
+cmerg777: folds
+Uncalled bet (15) returned to time part 90
+time part 90 collected 45 from pot
+time part 90: doesn't show hand
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: time part 90 (big blind) collected (45)
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: bigatello1967 folded before Flop (didn't bet)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: cmerg777 (small blind) folded before Flop
+
+PokerStars Hand #189830783995: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:32:22 MSK [2018/08/13 0:32:22 ET]
+Table '2381090739 1' 6-max Seat #6 is the button
+Seat 1: time part 90 (563 in chips)
+Seat 2: LimpAndJam (481 in chips)
+Seat 3: bigatello1967 (461 in chips)
+Seat 5: DiggErr555 (481 in chips)
+Seat 6: cmerg777 (1014 in chips)
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+bigatello1967: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+time part 90: posts small blind 15
+LimpAndJam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Kc]
+bigatello1967: folds
+DiggErr555: folds
+cmerg777: folds
+time part 90: folds
+Uncalled bet (15) returned to LimpAndJam
+LimpAndJam collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: time part 90 (small blind) folded before Flop
+Seat 2: LimpAndJam (big blind) collected (45)
+Seat 3: bigatello1967 folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cmerg777 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830788105: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:32:42 MSK [2018/08/13 0:32:42 ET]
+Table '2381090739 1' 6-max Seat #1 is the button
+Seat 1: time part 90 (545 in chips)
+Seat 2: LimpAndJam (508 in chips)
+Seat 3: bigatello1967 (458 in chips)
+Seat 5: DiggErr555 (478 in chips)
+Seat 6: cmerg777 (1011 in chips)
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+bigatello1967: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+LimpAndJam: posts small blind 15
+bigatello1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Js]
+DiggErr555: folds
+cmerg777: folds
+time part 90: folds
+LimpAndJam: folds
+Uncalled bet (15) returned to bigatello1967
+bigatello1967 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: time part 90 (button) folded before Flop (didn't bet)
+Seat 2: LimpAndJam (small blind) folded before Flop
+Seat 3: bigatello1967 (big blind) collected (45)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: cmerg777 folded before Flop (didn't bet)
+
+PokerStars Hand #189830792676: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 7:33:03 MSK [2018/08/13 0:33:03 ET]
+Table '2381090739 1' 6-max Seat #2 is the button
+Seat 1: time part 90 (542 in chips)
+Seat 2: LimpAndJam (490 in chips)
+Seat 3: bigatello1967 (485 in chips)
+Seat 5: DiggErr555 (475 in chips)
+Seat 6: cmerg777 (1008 in chips)
+time part 90: posts the ante 3
+LimpAndJam: posts the ante 3
+bigatello1967: posts the ante 3
+DiggErr555: posts the ante 3
+cmerg777: posts the ante 3
+bigatello1967: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 7c]
+cmerg777: folds
+time part 90: folds
+LimpAndJam: folds
+bigatello1967: calls 15
+DiggErr555: checks
+*** FLOP *** [8s 2c 7s]
+bigatello1967: bets 45
+DiggErr555: calls 45
+*** TURN *** [8s 2c 7s] [As]
+bigatello1967: bets 45
+DiggErr555: calls 45
+*** RIVER *** [8s 2c 7s As] [3h]
+bigatello1967: bets 60
+DiggErr555: calls 60
+*** SHOW DOWN ***
+bigatello1967: shows [8d Jc] (a pair of Eights)
+DiggErr555: mucks hand
+bigatello1967 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Board [8s 2c 7s As 3h]
+Seat 1: time part 90 folded before Flop (didn't bet)
+Seat 2: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 3: bigatello1967 (small blind) showed [8d Jc] and won (375) with a pair of Eights
+Seat 5: DiggErr555 (big blind) mucked [Tc 7c]
+Seat 6: cmerg777 folded before Flop (didn't bet)
+
+PokerStars Hand #189830804687: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:34:00 MSK [2018/08/13 0:34:00 ET]
+Table '2381090739 1' 6-max Seat #3 is the button
+Seat 1: time part 90 (539 in chips)
+Seat 2: LimpAndJam (487 in chips)
+Seat 3: bigatello1967 (677 in chips)
+Seat 5: DiggErr555 (292 in chips)
+Seat 6: cmerg777 (1005 in chips)
+time part 90: posts the ante 4
+LimpAndJam: posts the ante 4
+bigatello1967: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+DiggErr555: posts small blind 20
+cmerg777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 9c]
+time part 90: raises 495 to 535 and is all-in
+LimpAndJam: calls 483 and is all-in
+bigatello1967: folds
+DiggErr555: folds
+cmerg777: calls 495
+*** FLOP *** [Jc 5c Qc]
+*** TURN *** [Jc 5c Qc] [Ts]
+*** RIVER *** [Jc 5c Qc Ts] [9s]
+*** SHOW DOWN ***
+cmerg777: shows [Ah Ac] (a pair of Aces)
+time part 90: shows [As 3h] (high card Ace)
+cmerg777 collected 104 from side pot
+LimpAndJam: shows [6c 6d] (a pair of Sixes)
+cmerg777 collected 1489 from main pot
+cmerg777 wins the $2.38 bounty for eliminating time part 90
+cmerg777 wins the $2.38 bounty for eliminating LimpAndJam
+time part 90 finished the tournament in 4th place
+LimpAndJam finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1593 Main pot 1489. Side pot 104. | Rake 0
+Board [Jc 5c Qc Ts 9s]
+Seat 1: time part 90 showed [As 3h] and lost with high card Ace
+Seat 2: LimpAndJam showed [6c 6d] and lost with a pair of Sixes
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) folded before Flop
+Seat 6: cmerg777 (big blind) showed [Ah Ac] and won (1593) with a pair of Aces
+
+PokerStars Hand #189830812110: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:34:36 MSK [2018/08/13 0:34:36 ET]
+Table '2381090739 1' 6-max Seat #5 is the button
+Seat 3: bigatello1967 (673 in chips)
+Seat 5: DiggErr555 (268 in chips)
+Seat 6: cmerg777 (2059 in chips)
+bigatello1967: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+cmerg777: posts small blind 20
+bigatello1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4h 2d]
+DiggErr555: folds
+cmerg777: folds
+Uncalled bet (20) returned to bigatello1967
+bigatello1967 collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0
+Seat 3: bigatello1967 (big blind) collected (52)
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: cmerg777 (small blind) folded before Flop
+
+PokerStars Hand #189830814837: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:34:49 MSK [2018/08/13 0:34:49 ET]
+Table '2381090739 1' 6-max Seat #6 is the button
+Seat 3: bigatello1967 (701 in chips)
+Seat 5: DiggErr555 (264 in chips)
+Seat 6: cmerg777 (2035 in chips)
+bigatello1967: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+bigatello1967: posts small blind 20
+DiggErr555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2c 4s]
+cmerg777: folds
+bigatello1967: raises 100 to 140
+DiggErr555: folds
+Uncalled bet (100) returned to bigatello1967
+bigatello1967 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 3: bigatello1967 (small blind) collected (92)
+Seat 5: DiggErr555 (big blind) folded before Flop
+Seat 6: cmerg777 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830816928: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 7:35:00 MSK [2018/08/13 0:35:00 ET]
+Table '2381090739 1' 6-max Seat #3 is the button
+Seat 3: bigatello1967 (749 in chips)
+Seat 5: DiggErr555 (220 in chips)
+Seat 6: cmerg777 (2031 in chips)
+bigatello1967: posts the ante 4
+DiggErr555: posts the ante 4
+cmerg777: posts the ante 4
+DiggErr555: posts small blind 20
+cmerg777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9h Ks]
+bigatello1967: folds
+DiggErr555: raises 176 to 216 and is all-in
+cmerg777: calls 176
+*** FLOP *** [Kh 8d 4h]
+*** TURN *** [Kh 8d 4h] [6s]
+*** RIVER *** [Kh 8d 4h 6s] [2d]
+*** SHOW DOWN ***
+DiggErr555: shows [9h Ks] (a pair of Kings)
+cmerg777: shows [Ad 4d] (a pair of Fours)
+DiggErr555 collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | Rake 0
+Board [Kh 8d 4h 6s 2d]
+Seat 3: bigatello1967 (button) folded before Flop (didn't bet)
+Seat 5: DiggErr555 (small blind) showed [9h Ks] and won (444) with a pair of Kings
+Seat 6: cmerg777 (big blind) showed [Ad 4d] and lost with a pair of Fours
+
+PokerStars Hand #189830821406: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:35:21 MSK [2018/08/13 0:35:21 ET]
+Table '2381090739 1' 6-max Seat #5 is the button
+Seat 3: bigatello1967 (745 in chips)
+Seat 5: DiggErr555 (444 in chips)
+Seat 6: cmerg777 (1811 in chips)
+bigatello1967: posts the ante 6
+DiggErr555: posts the ante 6
+cmerg777: posts the ante 6
+cmerg777: posts small blind 30
+bigatello1967: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7c 4s]
+DiggErr555: folds
+cmerg777: calls 30
+bigatello1967: checks
+*** FLOP *** [Jc Kh 4h]
+cmerg777: bets 138
+bigatello1967: calls 138
+*** TURN *** [Jc Kh 4h] [8c]
+cmerg777: bets 1607 and is all-in
+bigatello1967: calls 541 and is all-in
+Uncalled bet (1066) returned to cmerg777
+*** RIVER *** [Jc Kh 4h 8c] [4d]
+*** SHOW DOWN ***
+cmerg777: shows [Kd Js] (two pair, Kings and Jacks)
+bigatello1967: shows [Kc 2h] (two pair, Kings and Fours)
+cmerg777 collected 1496 from pot
+cmerg777 wins the $2.38 bounty for eliminating bigatello1967
+bigatello1967 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1496 | Rake 0
+Board [Jc Kh 4h 8c 4d]
+Seat 3: bigatello1967 (big blind) showed [Kc 2h] and lost with two pair, Kings and Fours
+Seat 5: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 6: cmerg777 (small blind) showed [Kd Js] and won (1496) with two pair, Kings and Jacks
+
+PokerStars Hand #189830826321: Tournament #2381090739, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 7:35:45 MSK [2018/08/13 0:35:45 ET]
+Table '2381090739 1' 6-max Seat #6 is the button
+Seat 5: DiggErr555 (438 in chips)
+Seat 6: cmerg777 (2562 in chips)
+DiggErr555: posts the ante 6
+cmerg777: posts the ante 6
+cmerg777: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9d Ac]
+cmerg777: raises 2496 to 2556 and is all-in
+DiggErr555: calls 372 and is all-in
+Uncalled bet (2124) returned to cmerg777
+*** FLOP *** [2h 5d 5h]
+*** TURN *** [2h 5d 5h] [Ah]
+*** RIVER *** [2h 5d 5h Ah] [Jh]
+*** SHOW DOWN ***
+DiggErr555: shows [9d Ac] (two pair, Aces and Fives)
+cmerg777: shows [Qh Jd] (a flush, Ace high)
+cmerg777 collected 876 from pot
+cmerg777 wins the $2.38 bounty for eliminating DiggErr555
+DiggErr555 finished the tournament in 2nd place and received $7.14.
+cmerg777 wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 876 | Rake 0
+Board [2h 5d 5h Ah Jh]
+Seat 5: DiggErr555 (big blind) showed [9d Ac] and lost with two pair, Aces and Fives
+Seat 6: cmerg777 (button) (small blind) showed [Qh Jd] and won (876) with a flush, Ace high

@@ -1,0 +1,757 @@
+
+
+PokerStars Hand #189830179443: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:46:16 MSK [2018/08/12 23:46:16 ET]
+Table '2381077598 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (500 in chips)
+Seat 2: LimpAndJam (500 in chips)
+Seat 3: DiggErr555 (500 in chips)
+Seat 4: Hattushilli (500 in chips)
+Seat 5: PainEcho (500 in chips)
+Seat 6: desert120 (500 in chips)
+oposs153: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+Hattushilli: posts the ante 2
+PainEcho: posts the ante 2
+desert120: posts the ante 2
+LimpAndJam: posts small blind 10
+DiggErr555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Jc Ts]
+Hattushilli has timed out
+Hattushilli: folds
+Hattushilli is sitting out
+PainEcho: folds
+Hattushilli has returned
+desert120: calls 20
+oposs153: calls 20
+LimpAndJam: raises 478 to 498 and is all-in
+DiggErr555: folds
+desert120: folds
+oposs153: folds
+Uncalled bet (478) returned to LimpAndJam
+LimpAndJam collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: oposs153 (button) folded before Flop
+Seat 2: LimpAndJam (small blind) collected (92)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: Hattushilli folded before Flop (didn't bet)
+Seat 5: PainEcho folded before Flop (didn't bet)
+Seat 6: desert120 folded before Flop
+
+PokerStars Hand #189830190104: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:47:02 MSK [2018/08/12 23:47:02 ET]
+Table '2381077598 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (478 in chips)
+Seat 2: LimpAndJam (570 in chips)
+Seat 3: DiggErr555 (478 in chips)
+Seat 4: Hattushilli (498 in chips)
+Seat 5: PainEcho (498 in chips)
+Seat 6: desert120 (478 in chips)
+oposs153: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+Hattushilli: posts the ante 2
+PainEcho: posts the ante 2
+desert120: posts the ante 2
+DiggErr555: posts small blind 10
+Hattushilli: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [7s 2s]
+PainEcho: folds
+desert120: calls 20
+oposs153: folds
+LimpAndJam: folds
+DiggErr555: folds
+Hattushilli: checks
+*** FLOP *** [Tc 5c Kc]
+Hattushilli: checks
+desert120: checks
+*** TURN *** [Tc 5c Kc] [As]
+Hattushilli: checks
+desert120: checks
+*** RIVER *** [Tc 5c Kc As] [Kd]
+Hattushilli: checks
+desert120: checks
+*** SHOW DOWN ***
+Hattushilli: shows [Qs 6c] (a pair of Kings)
+desert120: shows [9h Qc] (a pair of Kings)
+Hattushilli collected 31 from pot
+desert120 collected 31 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Board [Tc 5c Kc As Kd]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: Hattushilli (big blind) showed [Qs 6c] and won (31) with a pair of Kings
+Seat 5: PainEcho folded before Flop (didn't bet)
+Seat 6: desert120 showed [9h Qc] and won (31) with a pair of Kings
+
+PokerStars Hand #189830198902: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level I (10/20) - 2018/08/13 6:47:40 MSK [2018/08/12 23:47:40 ET]
+Table '2381077598 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (476 in chips)
+Seat 2: LimpAndJam (568 in chips)
+Seat 3: DiggErr555 (466 in chips)
+Seat 4: Hattushilli (507 in chips)
+Seat 5: PainEcho (496 in chips)
+Seat 6: desert120 (487 in chips)
+oposs153: posts the ante 2
+LimpAndJam: posts the ante 2
+DiggErr555: posts the ante 2
+Hattushilli: posts the ante 2
+PainEcho: posts the ante 2
+desert120: posts the ante 2
+Hattushilli: posts small blind 10
+PainEcho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d Kd]
+desert120: calls 20
+oposs153: folds
+LimpAndJam: folds
+DiggErr555: folds
+Hattushilli: folds
+PainEcho: checks
+*** FLOP *** [5c Ad 4d]
+PainEcho: checks
+desert120: checks
+*** TURN *** [5c Ad 4d] [Jh]
+PainEcho: checks
+desert120: checks
+*** RIVER *** [5c Ad 4d Jh] [6c]
+PainEcho: checks
+desert120: bets 20
+PainEcho: calls 20
+*** SHOW DOWN ***
+desert120: shows [7s 5s] (a pair of Fives)
+PainEcho: shows [Qc Jc] (a pair of Jacks)
+PainEcho collected 102 from pot
+*** SUMMARY ***
+Total pot 102 | Rake 0
+Board [5c Ad 4d Jh 6c]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Hattushilli (small blind) folded before Flop
+Seat 5: PainEcho (big blind) showed [Qc Jc] and won (102) with a pair of Jacks
+Seat 6: desert120 showed [7s 5s] and lost with a pair of Fives
+
+PokerStars Hand #189830214934: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:48:49 MSK [2018/08/12 23:48:49 ET]
+Table '2381077598 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (474 in chips)
+Seat 2: LimpAndJam (566 in chips)
+Seat 3: DiggErr555 (464 in chips)
+Seat 4: Hattushilli (495 in chips)
+Seat 5: PainEcho (556 in chips)
+Seat 6: desert120 (445 in chips)
+oposs153: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+Hattushilli: posts the ante 3
+PainEcho: posts the ante 3
+desert120: posts the ante 3
+PainEcho: posts small blind 15
+desert120: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kd Qd]
+oposs153: folds
+LimpAndJam: folds
+DiggErr555: raises 30 to 60
+Hattushilli: raises 30 to 90
+PainEcho: folds
+desert120: folds
+DiggErr555: raises 371 to 461 and is all-in
+Hattushilli: folds
+Uncalled bet (371) returned to DiggErr555
+DiggErr555 collected 243 from pot
+DiggErr555: doesn't show hand
+*** SUMMARY ***
+Total pot 243 | Rake 0
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: DiggErr555 collected (243)
+Seat 4: Hattushilli (button) folded before Flop
+Seat 5: PainEcho (small blind) folded before Flop
+Seat 6: desert120 (big blind) folded before Flop
+
+PokerStars Hand #189830222652: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:49:23 MSK [2018/08/12 23:49:23 ET]
+Table '2381077598 1' 6-max Seat #5 is the button
+Seat 1: oposs153 (471 in chips)
+Seat 2: LimpAndJam (563 in chips)
+Seat 3: DiggErr555 (614 in chips)
+Seat 4: Hattushilli (402 in chips)
+Seat 5: PainEcho (538 in chips)
+Seat 6: desert120 (412 in chips)
+oposs153: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+Hattushilli: posts the ante 3
+PainEcho: posts the ante 3
+desert120: posts the ante 3
+desert120: posts small blind 15
+oposs153: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3s 6h]
+LimpAndJam: folds
+DiggErr555: folds
+Hattushilli: folds
+PainEcho: raises 505 to 535 and is all-in
+desert120: calls 394 and is all-in
+oposs153: folds
+Uncalled bet (126) returned to PainEcho
+*** FLOP *** [7c Qh 9s]
+*** TURN *** [7c Qh 9s] [Jd]
+*** RIVER *** [7c Qh 9s Jd] [Js]
+*** SHOW DOWN ***
+desert120: shows [Ad Qc] (two pair, Queens and Jacks)
+PainEcho: shows [6c Ac] (a pair of Jacks)
+desert120 collected 866 from pot
+*** SUMMARY ***
+Total pot 866 | Rake 0
+Board [7c Qh 9s Jd Js]
+Seat 1: oposs153 (big blind) folded before Flop
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: Hattushilli folded before Flop (didn't bet)
+Seat 5: PainEcho (button) showed [6c Ac] and lost with a pair of Jacks
+Seat 6: desert120 (small blind) showed [Ad Qc] and won (866) with two pair, Queens and Jacks
+
+PokerStars Hand #189830227297: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:49:43 MSK [2018/08/12 23:49:43 ET]
+Table '2381077598 1' 6-max Seat #6 is the button
+Seat 1: oposs153 (438 in chips)
+Seat 2: LimpAndJam (560 in chips)
+Seat 3: DiggErr555 (611 in chips)
+Seat 4: Hattushilli (399 in chips)
+Seat 5: PainEcho (126 in chips)
+Seat 6: desert120 (866 in chips)
+oposs153: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+Hattushilli: posts the ante 3
+PainEcho: posts the ante 3
+desert120: posts the ante 3
+oposs153: posts small blind 15
+LimpAndJam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [3d Jd]
+DiggErr555: folds
+Hattushilli: folds
+PainEcho: folds
+desert120: calls 30
+oposs153: raises 405 to 435 and is all-in
+LimpAndJam: folds
+desert120: folds
+Uncalled bet (405) returned to oposs153
+oposs153 collected 108 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 108 | Rake 0
+Seat 1: oposs153 (small blind) collected (108)
+Seat 2: LimpAndJam (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: Hattushilli folded before Flop (didn't bet)
+Seat 5: PainEcho folded before Flop (didn't bet)
+Seat 6: desert120 (button) folded before Flop
+
+PokerStars Hand #189830233433: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level II (15/30) - 2018/08/13 6:50:09 MSK [2018/08/12 23:50:09 ET]
+Table '2381077598 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (513 in chips)
+Seat 2: LimpAndJam (527 in chips)
+Seat 3: DiggErr555 (608 in chips)
+Seat 4: Hattushilli (396 in chips)
+Seat 5: PainEcho (123 in chips)
+Seat 6: desert120 (833 in chips)
+oposs153: posts the ante 3
+LimpAndJam: posts the ante 3
+DiggErr555: posts the ante 3
+Hattushilli: posts the ante 3
+PainEcho: posts the ante 3
+desert120: posts the ante 3
+LimpAndJam: posts small blind 15
+DiggErr555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2d Jh]
+Hattushilli: folds
+PainEcho: raises 90 to 120 and is all-in
+desert120: folds
+oposs153: folds
+LimpAndJam: raises 404 to 524 and is all-in
+DiggErr555: folds
+Uncalled bet (404) returned to LimpAndJam
+*** FLOP *** [7h Qs Ac]
+*** TURN *** [7h Qs Ac] [3d]
+*** RIVER *** [7h Qs Ac 3d] [9c]
+*** SHOW DOWN ***
+LimpAndJam: shows [9s 8d] (a pair of Nines)
+PainEcho: shows [Ts Jd] (high card Ace)
+LimpAndJam collected 288 from pot
+LimpAndJam wins the $2.38 bounty for eliminating PainEcho
+PainEcho finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 288 | Rake 0
+Board [7h Qs Ac 3d 9c]
+Seat 1: oposs153 (button) folded before Flop (didn't bet)
+Seat 2: LimpAndJam (small blind) showed [9s 8d] and won (288) with a pair of Nines
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: Hattushilli folded before Flop (didn't bet)
+Seat 5: PainEcho showed [Ts Jd] and lost with high card Ace
+Seat 6: desert120 folded before Flop (didn't bet)
+
+PokerStars Hand #189830239976: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:50:38 MSK [2018/08/12 23:50:38 ET]
+Table '2381077598 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (510 in chips)
+Seat 2: LimpAndJam (692 in chips)
+Seat 3: DiggErr555 (575 in chips)
+Seat 4: Hattushilli (393 in chips)
+Seat 6: desert120 (830 in chips)
+oposs153: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+Hattushilli: posts the ante 4
+desert120: posts the ante 4
+DiggErr555: posts small blind 20
+Hattushilli: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qc 9h]
+desert120: calls 40
+oposs153: folds
+LimpAndJam: folds
+DiggErr555: folds
+Hattushilli: checks
+*** FLOP *** [8h 4h 5c]
+Hattushilli: checks
+desert120: checks
+*** TURN *** [8h 4h 5c] [Ts]
+Hattushilli: checks
+desert120: checks
+*** RIVER *** [8h 4h 5c Ts] [3d]
+Hattushilli: bets 120
+desert120: folds
+Uncalled bet (120) returned to Hattushilli
+Hattushilli collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [8h 4h 5c Ts 3d]
+Seat 1: oposs153 folded before Flop (didn't bet)
+Seat 2: LimpAndJam (button) folded before Flop (didn't bet)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: Hattushilli (big blind) collected (120)
+Seat 6: desert120 folded on the River
+
+PokerStars Hand #189830248969: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:51:17 MSK [2018/08/12 23:51:17 ET]
+Table '2381077598 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (506 in chips)
+Seat 2: LimpAndJam (688 in chips)
+Seat 3: DiggErr555 (551 in chips)
+Seat 4: Hattushilli (469 in chips)
+Seat 6: desert120 (786 in chips)
+oposs153: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+Hattushilli: posts the ante 4
+desert120: posts the ante 4
+Hattushilli: posts small blind 20
+desert120: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6s 2d]
+oposs153: raises 462 to 502 and is all-in
+LimpAndJam: folds
+DiggErr555: folds
+Hattushilli: folds
+desert120: folds
+Uncalled bet (462) returned to oposs153
+oposs153 collected 120 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: oposs153 collected (120)
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Hattushilli (small blind) folded before Flop
+Seat 6: desert120 (big blind) folded before Flop
+
+PokerStars Hand #189830251429: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:51:27 MSK [2018/08/12 23:51:27 ET]
+Table '2381077598 1' 6-max Seat #4 is the button
+Seat 1: oposs153 (582 in chips)
+Seat 2: LimpAndJam (684 in chips)
+Seat 3: DiggErr555 (547 in chips)
+Seat 4: Hattushilli (445 in chips)
+Seat 6: desert120 (742 in chips)
+oposs153: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+Hattushilli: posts the ante 4
+desert120: posts the ante 4
+desert120: posts small blind 20
+oposs153: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [2s Ad]
+LimpAndJam: folds
+DiggErr555: folds
+Hattushilli: folds
+desert120: folds
+Uncalled bet (20) returned to oposs153
+oposs153 collected 60 from pot
+oposs153: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: oposs153 (big blind) collected (60)
+Seat 2: LimpAndJam folded before Flop (didn't bet)
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: Hattushilli (button) folded before Flop (didn't bet)
+Seat 6: desert120 (small blind) folded before Flop
+
+PokerStars Hand #189830253390: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level III (20/40) - 2018/08/13 6:51:36 MSK [2018/08/12 23:51:36 ET]
+Table '2381077598 1' 6-max Seat #6 is the button
+Seat 1: oposs153 (618 in chips)
+Seat 2: LimpAndJam (680 in chips)
+Seat 3: DiggErr555 (543 in chips)
+Seat 4: Hattushilli (441 in chips)
+Seat 6: desert120 (718 in chips)
+oposs153: posts the ante 4
+LimpAndJam: posts the ante 4
+DiggErr555: posts the ante 4
+Hattushilli: posts the ante 4
+desert120: posts the ante 4
+oposs153: posts small blind 20
+LimpAndJam: posts big blind 40
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 6s]
+DiggErr555: folds
+Hattushilli: folds
+desert120: raises 674 to 714 and is all-in
+oposs153: calls 594 and is all-in
+LimpAndJam: folds
+Uncalled bet (100) returned to desert120
+*** FLOP *** [Qc 5h 4d]
+*** TURN *** [Qc 5h 4d] [3h]
+*** RIVER *** [Qc 5h 4d 3h] [Td]
+*** SHOW DOWN ***
+oposs153: shows [7h 7c] (a pair of Sevens)
+desert120: shows [Ah Ks] (high card Ace)
+oposs153 collected 1288 from pot
+*** SUMMARY ***
+Total pot 1288 | Rake 0
+Board [Qc 5h 4d 3h Td]
+Seat 1: oposs153 (small blind) showed [7h 7c] and won (1288) with a pair of Sevens
+Seat 2: LimpAndJam (big blind) folded before Flop
+Seat 3: DiggErr555 folded before Flop (didn't bet)
+Seat 4: Hattushilli folded before Flop (didn't bet)
+Seat 6: desert120 (button) showed [Ah Ks] and lost with high card Ace
+
+PokerStars Hand #189830257995: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:51:55 MSK [2018/08/12 23:51:55 ET]
+Table '2381077598 1' 6-max Seat #1 is the button
+Seat 1: oposs153 (1288 in chips)
+Seat 2: LimpAndJam (636 in chips)
+Seat 3: DiggErr555 (539 in chips)
+Seat 4: Hattushilli (437 in chips)
+Seat 6: desert120 (100 in chips)
+oposs153: posts the ante 6
+LimpAndJam: posts the ante 6
+DiggErr555: posts the ante 6
+Hattushilli: posts the ante 6
+desert120: posts the ante 6
+LimpAndJam: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4c Tc]
+Hattushilli: folds
+desert120: folds
+oposs153: calls 60
+LimpAndJam: calls 30
+DiggErr555: checks
+*** FLOP *** [8d 8h Ks]
+LimpAndJam: checks
+DiggErr555: checks
+oposs153: checks
+*** TURN *** [8d 8h Ks] [2d]
+LimpAndJam: checks
+DiggErr555: checks
+oposs153: checks
+*** RIVER *** [8d 8h Ks 2d] [Ac]
+LimpAndJam: bets 75
+DiggErr555: folds
+oposs153: folds
+Uncalled bet (75) returned to LimpAndJam
+LimpAndJam collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0
+Board [8d 8h Ks 2d Ac]
+Seat 1: oposs153 (button) folded on the River
+Seat 2: LimpAndJam (small blind) collected (210)
+Seat 3: DiggErr555 (big blind) folded on the River
+Seat 4: Hattushilli folded before Flop (didn't bet)
+Seat 6: desert120 folded before Flop (didn't bet)
+
+PokerStars Hand #189830271015: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:52:51 MSK [2018/08/12 23:52:51 ET]
+Table '2381077598 1' 6-max Seat #2 is the button
+Seat 1: oposs153 (1222 in chips)
+Seat 2: LimpAndJam (780 in chips)
+Seat 3: DiggErr555 (473 in chips)
+Seat 4: Hattushilli (431 in chips)
+Seat 6: desert120 (94 in chips)
+oposs153: posts the ante 6
+LimpAndJam: posts the ante 6
+DiggErr555: posts the ante 6
+Hattushilli: posts the ante 6
+desert120: posts the ante 6
+DiggErr555: posts small blind 30
+Hattushilli: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 8s]
+desert120: raises 28 to 88 and is all-in
+oposs153: raises 1128 to 1216 and is all-in
+LimpAndJam: calls 774 and is all-in
+DiggErr555: folds
+Hattushilli: folds
+Uncalled bet (442) returned to oposs153
+*** FLOP *** [4c 9d Ac]
+*** TURN *** [4c 9d Ac] [6c]
+*** RIVER *** [4c 9d Ac 6c] [7c]
+*** SHOW DOWN ***
+oposs153: shows [Kh 4d] (a pair of Fours)
+LimpAndJam: shows [Tc Qc] (a flush, Ace high)
+LimpAndJam collected 1372 from side pot
+desert120: shows [As Kd] (a pair of Aces)
+LimpAndJam collected 384 from main pot
+LimpAndJam wins the $2.38 bounty for eliminating desert120
+desert120 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1756 Main pot 384. Side pot 1372. | Rake 0
+Board [4c 9d Ac 6c 7c]
+Seat 1: oposs153 showed [Kh 4d] and lost with a pair of Fours
+Seat 2: LimpAndJam (button) showed [Tc Qc] and won (1756) with a flush, Ace high
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: Hattushilli (big blind) folded before Flop
+Seat 6: desert120 showed [As Kd] and lost with a pair of Aces
+
+PokerStars Hand #189830276191: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:53:13 MSK [2018/08/12 23:53:13 ET]
+Table '2381077598 1' 6-max Seat #3 is the button
+Seat 1: oposs153 (442 in chips)
+Seat 2: LimpAndJam (1756 in chips)
+Seat 3: DiggErr555 (437 in chips)
+Seat 4: Hattushilli (365 in chips)
+oposs153: posts the ante 6
+LimpAndJam: posts the ante 6
+DiggErr555: posts the ante 6
+Hattushilli: posts the ante 6
+Hattushilli: posts small blind 30
+oposs153: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Tc 9c]
+LimpAndJam: raises 1690 to 1750 and is all-in
+DiggErr555: folds
+Hattushilli: folds
+oposs153: calls 376 and is all-in
+Uncalled bet (1314) returned to LimpAndJam
+*** FLOP *** [2d 8d As]
+*** TURN *** [2d 8d As] [3c]
+*** RIVER *** [2d 8d As 3c] [Kh]
+*** SHOW DOWN ***
+oposs153: shows [Qh Ks] (a pair of Kings)
+LimpAndJam: shows [7h Ad] (a pair of Aces)
+LimpAndJam collected 926 from pot
+LimpAndJam wins the $2.38 bounty for eliminating oposs153
+oposs153 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 926 | Rake 0
+Board [2d 8d As 3c Kh]
+Seat 1: oposs153 (big blind) showed [Qh Ks] and lost with a pair of Kings
+Seat 2: LimpAndJam showed [7h Ad] and won (926) with a pair of Aces
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Hattushilli (small blind) folded before Flop
+
+PokerStars Hand #189830280487: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:53:32 MSK [2018/08/12 23:53:32 ET]
+Table '2381077598 1' 6-max Seat #4 is the button
+Seat 2: LimpAndJam (2240 in chips)
+Seat 3: DiggErr555 (431 in chips)
+Seat 4: Hattushilli (329 in chips)
+LimpAndJam: posts the ante 6
+DiggErr555: posts the ante 6
+Hattushilli: posts the ante 6
+LimpAndJam: posts small blind 30
+DiggErr555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Qd 4c]
+Hattushilli: folds
+LimpAndJam: raises 2174 to 2234 and is all-in
+DiggErr555: folds
+Uncalled bet (2174) returned to LimpAndJam
+LimpAndJam collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Seat 2: LimpAndJam (small blind) collected (138)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: Hattushilli (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830283341: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level IV (30/60) - 2018/08/13 6:53:44 MSK [2018/08/12 23:53:44 ET]
+Table '2381077598 1' 6-max Seat #2 is the button
+Seat 2: LimpAndJam (2312 in chips)
+Seat 3: DiggErr555 (365 in chips)
+Seat 4: Hattushilli (323 in chips)
+LimpAndJam: posts the ante 6
+DiggErr555: posts the ante 6
+Hattushilli: posts the ante 6
+DiggErr555: posts small blind 30
+Hattushilli: posts big blind 60
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Th Kc]
+LimpAndJam: raises 2246 to 2306 and is all-in
+DiggErr555: folds
+Hattushilli: folds
+Uncalled bet (2246) returned to LimpAndJam
+LimpAndJam collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | Rake 0
+Seat 2: LimpAndJam (button) collected (168)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: Hattushilli (big blind) folded before Flop
+
+PokerStars Hand #189830286257: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:53:57 MSK [2018/08/12 23:53:57 ET]
+Table '2381077598 1' 6-max Seat #3 is the button
+Seat 2: LimpAndJam (2414 in chips)
+Seat 3: DiggErr555 (329 in chips)
+Seat 4: Hattushilli (257 in chips)
+LimpAndJam: posts the ante 8
+DiggErr555: posts the ante 8
+Hattushilli: posts the ante 8
+Hattushilli: posts small blind 40
+LimpAndJam: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [5c 2c]
+DiggErr555: folds
+Hattushilli: folds
+Uncalled bet (40) returned to LimpAndJam
+LimpAndJam collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 2: LimpAndJam (big blind) collected (104)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Hattushilli (small blind) folded before Flop
+
+PokerStars Hand #189830288057: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:54:05 MSK [2018/08/12 23:54:05 ET]
+Table '2381077598 1' 6-max Seat #4 is the button
+Seat 2: LimpAndJam (2470 in chips)
+Seat 3: DiggErr555 (321 in chips)
+Seat 4: Hattushilli (209 in chips)
+LimpAndJam: posts the ante 8
+DiggErr555: posts the ante 8
+Hattushilli: posts the ante 8
+LimpAndJam: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Kc 4h]
+Hattushilli: folds
+LimpAndJam: raises 2382 to 2462 and is all-in
+DiggErr555: folds
+Uncalled bet (2382) returned to LimpAndJam
+LimpAndJam collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 2: LimpAndJam (small blind) collected (184)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: Hattushilli (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830290342: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:54:15 MSK [2018/08/12 23:54:15 ET]
+Table '2381077598 1' 6-max Seat #2 is the button
+Seat 2: LimpAndJam (2566 in chips)
+Seat 3: DiggErr555 (233 in chips)
+Seat 4: Hattushilli (201 in chips)
+LimpAndJam: posts the ante 8
+DiggErr555: posts the ante 8
+Hattushilli: posts the ante 8
+DiggErr555: posts small blind 40
+Hattushilli: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [Js 8d]
+LimpAndJam: raises 2478 to 2558 and is all-in
+DiggErr555: folds
+Hattushilli: folds
+Uncalled bet (2478) returned to LimpAndJam
+LimpAndJam collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0
+Seat 2: LimpAndJam (button) collected (224)
+Seat 3: DiggErr555 (small blind) folded before Flop
+Seat 4: Hattushilli (big blind) folded before Flop
+
+PokerStars Hand #189830293267: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:54:28 MSK [2018/08/12 23:54:28 ET]
+Table '2381077598 1' 6-max Seat #3 is the button
+Seat 2: LimpAndJam (2702 in chips)
+Seat 3: DiggErr555 (185 in chips)
+Seat 4: Hattushilli (113 in chips)
+LimpAndJam: posts the ante 8
+DiggErr555: posts the ante 8
+Hattushilli: posts the ante 8
+Hattushilli: posts small blind 40
+LimpAndJam: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 3h]
+DiggErr555: folds
+Hattushilli: folds
+Uncalled bet (40) returned to LimpAndJam
+LimpAndJam collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 2: LimpAndJam (big blind) collected (104)
+Seat 3: DiggErr555 (button) folded before Flop (didn't bet)
+Seat 4: Hattushilli (small blind) folded before Flop
+
+PokerStars Hand #189830295748: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level V (40/80) - 2018/08/13 6:54:38 MSK [2018/08/12 23:54:38 ET]
+Table '2381077598 1' 6-max Seat #4 is the button
+Seat 2: LimpAndJam (2758 in chips)
+Seat 3: DiggErr555 (177 in chips)
+Seat 4: Hattushilli (65 in chips)
+LimpAndJam: posts the ante 8
+DiggErr555: posts the ante 8
+Hattushilli: posts the ante 8
+LimpAndJam: posts small blind 40
+DiggErr555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to DiggErr555 [6d 5h]
+Hattushilli: folds
+LimpAndJam: raises 2670 to 2750 and is all-in
+DiggErr555: folds
+Uncalled bet (2670) returned to LimpAndJam
+LimpAndJam collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 2: LimpAndJam (small blind) collected (184)
+Seat 3: DiggErr555 (big blind) folded before Flop
+Seat 4: Hattushilli (button) folded before Flop (didn't bet)
+
+PokerStars Hand #189830299273: Tournament #2381077598, $2.38+$2.38+$0.24 USD Hold'em No Limit - Level VI (50/100) - 2018/08/13 6:54:53 MSK [2018/08/12 23:54:53 ET]
+Table '2381077598 1' 6-max Seat #2 is the button
+Seat 2: LimpAndJam (2854 in chips)
+Seat 3: DiggErr555 (89 in chips)
+Seat 4: Hattushilli (57 in chips)
+LimpAndJam: posts the ante 10
+DiggErr555: posts the ante 10
+Hattushilli: posts the ante 10
+DiggErr555: posts small blind 50
+Hattushilli: posts big blind 47 and is all-in
+*** HOLE CARDS ***
+Dealt to DiggErr555 [4s 3c]
+LimpAndJam: raises 2794 to 2844 and is all-in
+DiggErr555: calls 29 and is all-in
+Uncalled bet (2765) returned to LimpAndJam
+*** FLOP *** [8d Kd Jc]
+*** TURN *** [8d Kd Jc] [8s]
+*** RIVER *** [8d Kd Jc 8s] [3d]
+*** SHOW DOWN ***
+DiggErr555: shows [4s 3c] (two pair, Eights and Threes)
+LimpAndJam: shows [8h 9h] (three of a kind, Eights)
+LimpAndJam collected 64 from side pot
+Hattushilli: shows [2d Ts] (a pair of Eights)
+LimpAndJam collected 171 from main pot
+LimpAndJam wins the $2.38 bounty for eliminating DiggErr555
+LimpAndJam wins the $2.38 bounty for eliminating Hattushilli
+DiggErr555 finished the tournament in 2nd place and received $7.14.
+Hattushilli finished the tournament in 3rd place
+LimpAndJam wins the tournament and receives $7.14 - congratulations!
+*** SUMMARY ***
+Total pot 235 Main pot 171. Side pot 64. | Rake 0
+Board [8d Kd Jc 8s 3d]
+Seat 2: LimpAndJam (button) showed [8h 9h] and won (235) with three of a kind, Eights
+Seat 3: DiggErr555 (small blind) showed [4s 3c] and lost with two pair, Eights and Threes
+Seat 4: Hattushilli (big blind) showed [2d Ts] and lost with a pair of Eights
