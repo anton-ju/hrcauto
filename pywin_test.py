@@ -1,161 +1,153 @@
-# импортируем модули для работы с windows оберткой
-import win32api
-import win32con
-import win32gui
-import time
-import win32com.client
-# from tkinter import Tk
+
+import logging
+import os
+import psutil
+import subprocess
+import re
 import pyperclip
 import hhparser as hh
+import time
 from hand_storage import HandStorage
-import logging
-
-HISTORY = """
-PokerStars Hand #189807795760: Tournament #2380726500, $4.79+$4.79+$0.42 USD Hold'em No Limit - Level VII (60/120) - 2018/08/12 19:53:24 MSK [2018/08/12 12:53:24 ET]
-Table '2380726500 1' 6-max Seat #1 is the button
-Seat 1: dimitriskous (1676 in chips)
-Seat 4: MM7000k (544 in chips)
-Seat 5: DiggErr555 (780 in chips)
-dimitriskous: posts the ante 12
-MM7000k: posts the ante 12
-DiggErr555: posts the ante 12
-MM7000k: posts small blind 60
-DiggErr555: posts big blind 120
-*** HOLE CARDS ***
-Dealt to DiggErr555 [Td Kc]
-dimitriskous: folds
-MM7000k: raises 412 to 532 and is all-in
-DiggErr555: calls 412
-*** FLOP *** [Jc 6c 6h]
-*** TURN *** [Jc 6c 6h] [Js]
-*** RIVER *** [Jc 6c 6h Js] [7d]
-*** SHOW DOWN ***
-MM7000k: shows [Ad 4d] (two pair, Jacks and Sixes)
-DiggErr555: shows [Td Kc] (two pair, Jacks and Sixes - lower kicker)
-MM7000k collected 1100 from pot
-*** SUMMARY ***
-Total pot 1100 | Rake 0
-Board [Jc 6c 6h Js 7d]
-Seat 1: dimitriskous (button) folded before Flop (didn't bet)
-Seat 4: MM7000k (small blind) showed [Ad 4d] and won (1100) with two pair, Jacks and Sixes
-Seat 5: DiggErr555 (big blind) showed [Td Kc] and lost with two pair, Jacks and Sixes
-"""
 logging.basicConfig(level = logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-# hs = HandStorage('hands/debug/test_hand')
-hs = HandStorage('C:\\Users\\user\\code\\python\\hrcauto\\test')
-
-
-# c = Tk()
-# c.withdraw()
-# c.clipboard_clear()
-# c.clipboard_append('rrrr')
-# c.update()
-# c.destroy()
-
-# c = Tk()
-# c.withdraw()
-# clip = c.clipboard_get()
-# c.update()
-# c.destroy()
-# print(clip)
 
 
 
-# функция клика в определенном месте
-def click(x, y):
-    # сначала выставляем позицию
-    win32api.SetCursorPos((x, y))
-    time.sleep(0.2)
-    # а потом кликаем (небольшая задержка для большей человечности)
-    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, x, y, 0, 0)
-    time.sleep(0.3)
-    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, x, y, 0, 0)
+class HRCAuto:
+    MAIN_WINDOW_TITLE = 'HoldemResources Calculator '
+    BASIC_HAND_TITLE = 'Basic Hand Setup '
+    CMD_ACTIVATE_MAIN = ['wmctrl', '-R', MAIN_WINDOW_TITLE]
+    CMD_ACTIVATE_BASIC = ['wmctrl', '-R', BASIC_HAND_TITLE]
+    CMD_BASIC_HAND = [
+        ['xdotool', 'key', 'ctrl+w'],
+        ['xdotool', 'key', 'p', 'sleep', '2']
+    ]
+    CMD_PASTE_CALCULATE = [
+        'xdotool', 'mousemove', '421', '617',
+        'sleep', '0.5', 'click', '1', 'key', 'Tab', 'sleep', '0.5', 'key', 'Return',
+        'sleep', '2', 'key', 'Return', 'sleep', '2'
+    ]
+    NAME = 'default'
+    CMD_SAVE_CLOSE = [
+        ['xdotool', 'key', 'alt+h'],
+        ['xdotool', 'key', 'e', 'sleep', '0.5'],
+        ['xdotool', 'key', 'Up'],
+        ['xdotool', 'key', 'Return'],
+        ['xdotool', 'type', NAME],
+        ['xdotool','key', 'Down', 'key', 'Down', 'key', 'Return'],
+        ['xdotool', 'key', 'alt+F4']
+    ]
 
+    def __init__(self, hrc_path):
+        self.errors = []
+        self.out = []
 
-# данная функция - фильтр по выбору нужного окна (по названию этого окна)
-def openItNow(hwnd, windowText):
-    if windowText in win32gui.GetWindowText(hwnd):
-        win32gui.SetForegroundWindow(hwnd)
+        if not self.is_active():
+            self._run_command(hrc_path)
+            if self.check_errors():
+                raise ValueError('HRC opening error')
 
-
-# приступим
-
-
-def hrcauto(hid):
-
-    # выбираем среди открытых окон то, которое содержит название Notepad
-    # заметьте что используется фильтр, описанный выше
-    win32gui.EnumWindows(openItNow, 'HoldemResources Calculator')
-
-    # нажимать на клавиши будет с помощью shell
-    shell = win32com.client.Dispatch("WScript.Shell")
-
-    # метод SendKeys программно нажимает на клавиши, поэтому далее записана последовательность нажатий
-    shell.SendKeys("%")
-    time.sleep(0.1)
-
-    shell.SendKeys("{DOWN}")
-    time.sleep(0.1)
-
-    shell.SendKeys("{ENTER}")
-    time.sleep(1)
-
-
-    # win32gui.EnumWindows(openItNow, 'New')
-    shell.SendKeys('{ENTER}')
-    time.sleep(0.1)
-
-    shell.SendKeys('{ENTER}')
-    time.sleep(0.1)
-
-    shell.SendKeys("{TAB 18}")
-    time.sleep(0.1)
-
-    shell.SendKeys('{ENTER}')
-    # shell.SendKeys('{TAB}')
-    # shell.SendKeys('222')
-    # shell.SendKeys('{TAB}')
-    # shell.SendKeys('333')
-    # shell.SendKeys('{TAB}')
-    # shell.SendKeys('444')
-    #
-    # # win32gui.EnumWindows(openItNow, 'Basic Hand Setup')
-    shell.SendKeys('{ENTER}')
-    # # time.sleep(0.1)
-    #cчитается рука
-    shell.SendKeys('{ENTER}')
-    time.sleep(5)
-    #
-    # # вызов диалога экспорта руки
-    shell.SendKeys("%")
-    #
-    shell.SendKeys("{RIGHT}")
-    shell.SendKeys("{DOWN}")
-    shell.SendKeys("{DOWN}")
-    #
-    #
-    shell.SendKeys("{ENTER}")
-    time.sleep(1)
-    #
-    # # сохранение
-    shell.SendKeys("{UP}")
-    shell.SendKeys("{ENTER}")
-    time.sleep(1)
-    #
-    # # ввод имени файла
-    shell.SendKeys(hid)
-    shell.SendKeys("{ENTER}")
-    time.sleep(1)
-
-
-for history in hs.read_hand():
-    hand = hh.HHParser(history)
-
-    if hand.players_number() == 3:
-        print(hand)
-        hid = hand.hid()
+    def calculate_basic(self, history):
         pyperclip.copy(history)
-        hrcauto(hid)
+        if self.is_active():
+            self._run_command_list(self.CMD_BASIC_HAND)
+            self._run_command(self.CMD_PASTE_CALCULATE)
+
+            while self.is_calculating():
+                time.sleep(2)
+            self._run_command_list(self.CMD_SAVE_CLOSE)
+        else:
+            raise RuntimeError('Activation Error: HRC is not running')
+        self.check_errors()
+
+    def is_calculating(self):
+        self._run_command(self.CMD_ACTIVATE_BASIC)
+        time.sleep(1)
+        if self._get_active_window_title() == self.BASIC_HAND_TITLE:
+            return True
+        else:
+            return False
+
+    def is_active(self):
+        self._run_command(self.CMD_ACTIVATE_MAIN)
+        time.sleep(1)
+        if self._get_active_window_title() == self.MAIN_WINDOW_TITLE:
+            return True
+        else:
+            return False
+
+    def _run_command_list(self, cmdlist):
+        if isinstance(cmdlist, list):
+            for cmd in cmdlist:
+                self._run_command(cmd)
+
+
+    def _run_command(self, cmd):
+        root = subprocess.Popen(cmd, stdout=subprocess.PIPE)
+        stdout, stderr = root.communicate()
+        if stdout:
+            self.out.append(stdout)
+
+        if stderr:
+            self.errors.append(stderr)
+
+    @staticmethod
+    def _find_procs_by_name(name):
+
+        ls = []
+        for p in psutil.process_iter(attrs=['name']):
+            if p.info['name'] == name:
+                ls.append(p)
+        return ls
+
+    @staticmethod
+    def _get_active_window_title():
+        root = subprocess.Popen(['xprop', '-root', '_NET_ACTIVE_WINDOW'], stdout=subprocess.PIPE)
+        stdout, stderr = root.communicate()
+
+        m = re.search(b'^_NET_ACTIVE_WINDOW.* ([\w]+)$', stdout)
+        if m != None:
+            window_id = m.group(1)
+            window = subprocess.Popen(['xprop', '-id', window_id, 'WM_NAME'], stdout=subprocess.PIPE)
+            stdout, stderr = window.communicate()
+        else:
+            return None
+
+        match = re.match(b"WM_NAME\(\w+\) = (?P<name>.+)$", stdout)
+        if match != None:
+            return match.group("name").strip(b'"').decode('utf-8')
+
+        return None
+
+    def check_errors(self):
+        if self.errors or self.out:
+            logging.error(str(self.out))
+            logging.error(str(self.errors))
+            return True
+        else:
+            return False
+
+
+if __name__ == '__main__':
+
+    hs = HandStorage('test/')
+
+    for history in hs.read_hand():
+        hand = hh.HHParser(history)
+
+        print(hand)
+        hrc = HRCAuto(' ')
+        hrc.calculate_basic(hand.hand_history)
+        break
+
+
+
+
+
+
+
+
+
+
 
