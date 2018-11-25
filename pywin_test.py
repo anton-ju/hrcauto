@@ -8,10 +8,8 @@ import pyperclip
 import hhparser as hh
 import time
 from hand_storage import HandStorage
-logging.basicConfig(level = logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
-
-
 
 
 class HRCAuto:
@@ -30,33 +28,47 @@ class HRCAuto:
     ]
     NAME = 'default'
     CMD_SAVE_CLOSE = [
-        ['xdotool', 'key', 'alt+h'],
-        ['xdotool', 'key', 'e', 'sleep', '0.5'],
-        ['xdotool', 'key', 'Up'],
-        ['xdotool', 'key', 'Return'],
+        ['xdotool', 'key', 'alt+h', 'sleep', '1'],
+        ['xdotool', 'key', 'e', 'sleep', '1'],
+        ['xdotool', 'key', 'Up', 'sleep', '1'],
+        ['xdotool', 'key', 'Return', 'sleep', '3'],
         ['xdotool', 'type', NAME],
-        ['xdotool','key', 'Down', 'key', 'Down', 'key', 'Return'],
-        ['xdotool', 'key', 'alt+F4']
+        ['xdotool', 'sleep', '1', 'key', 'Down', 'key', 'Down', 'key', 'Return', 'sleep', '1'],
+        # ['xdotool', 'key', 'ctrl+F4']
     ]
 
     def __init__(self, hrc_path):
         self.errors = []
         self.out = []
-
+        if not os.path.exists(hrc_path):
+            raise ValueError('Invalid path to HRC')
         if not self.is_active():
-            self._run_command(hrc_path)
-            if self.check_errors():
+            try:
+                self._run_command(hrc_path)
+
+            except:
+                self.errors.append('HRC opening error')
+            time.sleep(15)
+            if self.check_errors() or not self.is_active():
                 raise ValueError('HRC opening error')
 
-    def calculate_basic(self, history):
+    def calculate_basic(self, history, hid):
+        # TODO how to do better and not change const???
+        self.CMD_SAVE_CLOSE[4] = ['xdotool', 'type', hid]
         pyperclip.copy(history)
         if self.is_active():
             self._run_command_list(self.CMD_BASIC_HAND)
             self._run_command(self.CMD_PASTE_CALCULATE)
 
-            while self.is_calculating():
-                time.sleep(2)
-            self._run_command_list(self.CMD_SAVE_CLOSE)
+            for i in range(0, 40):
+                time.sleep(3)
+                if not self.is_calculating():
+                    break
+            if self.is_active():
+                self._run_command_list(self.CMD_SAVE_CLOSE)
+            else:
+                self.errors.append('Error while saving hand')
+
         else:
             raise RuntimeError('Activation Error: HRC is not running')
         self.check_errors()
@@ -81,7 +93,6 @@ class HRCAuto:
         if isinstance(cmdlist, list):
             for cmd in cmdlist:
                 self._run_command(cmd)
-
 
     def _run_command(self, cmd):
         root = subprocess.Popen(cmd, stdout=subprocess.PIPE)
@@ -122,8 +133,11 @@ class HRCAuto:
 
     def check_errors(self):
         if self.errors or self.out:
-            logging.error(str(self.out))
-            logging.error(str(self.errors))
+            for error in self.errors:
+                logging.error(error)
+
+            for out in self.out:
+                logging.error(out)
             return True
         else:
             return False
@@ -132,14 +146,13 @@ class HRCAuto:
 if __name__ == '__main__':
 
     hs = HandStorage('test/')
-
+    hrc = HRCAuto('/home/ant/holdemresources/calculator')
     for history in hs.read_hand():
         hand = hh.HHParser(history)
 
         print(hand)
-        hrc = HRCAuto(' ')
-        hrc.calculate_basic(hand.hand_history)
-        break
+
+        hrc.calculate_basic(hand.hand_history, hand.hid)
 
 
 
