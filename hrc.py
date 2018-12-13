@@ -12,6 +12,8 @@ from itertools import chain
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
+# TODO check if wmctrl and xdotool installed
+
 
 class HRCAuto:
     PROCESS_NAME = 'calculator'
@@ -79,7 +81,7 @@ class HRCAuto:
     def _start_hrc(self):
         try:
             self._run_command(self.hrc_path, shell=True)
-            logging.info('Starting HRC')
+            logger.info('Starting HRC')
 
         except:
             self._errors.append('HRC opening error')
@@ -105,7 +107,7 @@ class HRCAuto:
                     raise RuntimeError('HRC crashed!')
                     break
 
-    def __init__(self, hrc_path):
+    def __init__(self, hrc_path='/home/ant/holdemresources/calculator'):
 
         self._current_title = self.MAIN_WINDOW_TITLE
         self._cmd_activate = ['wmctrl', '-R', self._current_title]
@@ -114,17 +116,18 @@ class HRCAuto:
         self._out = []
         self.hrc_path = hrc_path
 
-        if not os.path.exists(hrc_path):
+        if not os.path.exists(self.hrc_path):
             raise ValueError('Invalid path to HRC')
 
         self._run_command(self._cmd_activate)
+        time.sleep(1)
         if not self.is_active():
             self._start_hrc()
             if self.check_errors() or not self.is_active():
                 raise ValueError('HRC opening error')
 
-    def calculate_basic(self, history, hid):
-        cmd_type = [['xdotool', 'type', hid]]
+    def calculate_basic(self, history, file_name):
+        cmd_type = [['xdotool', 'type', file_name]]
         pyperclip.copy(history)
 
         for trials in range(0, 2):
@@ -154,15 +157,15 @@ class HRCAuto:
                 self._run_command_list(self.CMD_CLOSE_TAB)
             except Exception as e:
                 self.check_errors()
-                logging.error(e.args)
-                logging.error(f'Error while saving hand: {hid}')
+                logger.error(e.args)
+                logger.error(f'Error while saving hand: {file_name}')
 
 
             if not self.check_errors():
-                logging.info(f'Hand: {hid} saved')
+                logger.info(f'Hand: {file_name} saved')
                 break
             else:
-                logging.error(f'Error while saving hand: {hid}')
+                logging.error(f'Error while saving hand: {file_name}')
 
     def is_calculating(self):
         self._run_command(self.CMD_ACTIVATE_BASIC)
@@ -179,10 +182,10 @@ class HRCAuto:
         """
         if self._errors or self._out:
             for error in self._errors:
-                logging.error(error)
+                logger.error(error)
 
             for out in self._out:
-                logging.error(out)
+                logger.error(out)
 
             self._errors.clear()
             self._out.clear()
@@ -194,13 +197,14 @@ class HRCAuto:
 if __name__ == '__main__':
 
     hs = HandStorage('test/')
-    calc = HRCAuto('/home/ant/holdemresources/calculator')
+    calc = HRCAuto()
     for history in hs.read_hand():
         hand = hh.HHParser(history)
 
         print(hand)
 
-        calc.calculate_basic(hand.hand_history, hand.hid)
+        fn = os.path.join('~', '1results', '-'.join([hand.tid, hand.hid, hand.hero_cards]))
+        calc.calculate_basic(hand.hand_history, fn)
 
 
 
