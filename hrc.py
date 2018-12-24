@@ -5,12 +5,21 @@ import psutil
 import subprocess
 import re
 import pyperclip
-import hhparser as hh
 import time
-from hand_storage import HandStorage
 from itertools import chain
-logging.basicConfig(level=logging.DEBUG)
-logger = logging.getLogger(__name__)
+
+def configure_logger():
+
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.DEBUG)
+    fh = logging.FileHandler(f'{__name__}.log')
+    formatter = logging.Formatter('[%(asctime)s] %(levelname).1s %(message)s',
+                                  datefmt='%Y.%m.%d %H:%M:%S')
+    fh.setFormatter(formatter)
+    logger.addHandler(fh)
+    return logger
+
+logger = configure_logger()
 
 # TODO check if wmctrl and xdotool installed
 
@@ -165,7 +174,7 @@ class HRCAuto:
                 logger.info(f'Hand: {file_name} saved')
                 break
             else:
-                logging.error(f'Error while saving hand: {file_name}')
+                logger.error(f'Error while saving hand: {file_name}')
 
     def is_calculating(self):
         self._run_command(self.CMD_ACTIVATE_BASIC)
@@ -195,16 +204,17 @@ class HRCAuto:
 
 
 if __name__ == '__main__':
-
-    hs = HandStorage('test/')
-    calc = HRCAuto()
-    for history in hs.read_hand():
-        hand = hh.HHParser(history)
-
-        print(hand)
-
-        fn = os.path.join('~', '1results', '-'.join([hand.tid, hand.hid, hand.hero_cards]))
-        calc.calculate_basic(hand.hand_history, fn)
+    pass
+    #
+    # hs = HandStorage('test/')
+    # calc = HRCAuto()
+    # for history in hs.read_hand():
+    #     hand = hh.HHParser(history)
+    #
+    #     print(hand)
+    #
+    #     fn = os.path.join('~', '1results', '-'.join([hand.tid, hand.hid, hand.hero_cards]))
+    #     calc.calculate_basic(hand.hand_history, fn)
 
 
 
