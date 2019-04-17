@@ -1,15 +1,14 @@
 import os
 import time
 from hrc import HRCAuto
-from poker.parsers.hhparser import HHParser
-from poker.parsers.hrcparser import HRCParser
 import logging
 from queue import PriorityQueue
 from threading import Thread
+from pypokertools.parsers import PSHandHistory as HHParser
+from pypokertools.parsers import HRCOutput as HRCParser
 
-SEARCH_DIR = '/mnt/hands'
+SEARCH_DIR = os.path.expanduser('~/mnt/hands')
 RESULT_DIR = os.path.expanduser('~/1results')
-
 
 def configure_logger():
     logger = logging.getLogger(__name__)
@@ -43,11 +42,14 @@ def process_files(in_q: PriorityQueue):
         for history in read_hh_files(file):
             parsed_hand = HHParser(history)
             logger.info(f'Hand received: {parsed_hand} {parsed_hand.hero_cards}')
-            fn = os.path.join(RESULT_DIR, '-'.join([parsed_hand.tid, parsed_hand.hid, parsed_hand.hero_cards]))
+            fn = os.path.join(RESULT_DIR,
+                              '-'.join([parsed_hand.tid,
+                                        parsed_hand.hid,
+                                        parsed_hand.hero_cards]))
             # calculate and save html file fn with results
             saved = False
             while not saved:
-                calc.calculate_basic(parsed_hand.hand_history, fn)
+                calc.calculate_monte(parsed_hand.hand_history, fn)
                 saved = os.path.exists(fn + '.html')
                 logger.debug(('saved', saved, fn))
 
@@ -67,7 +69,7 @@ def read_hh_files(file):
             s = f.read()
             s = s.split('\n\n')
             for ss in s:
-                if ss == '\n\n' or ss == None or ss == '':
+                if ss == '\n\n' or ss is None or ss == '':
                     continue
                 yield ss
 

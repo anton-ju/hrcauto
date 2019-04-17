@@ -8,6 +8,7 @@ import pyperclip
 import time
 from itertools import chain
 
+
 def configure_logger():
 
     logger = logging.getLogger(__name__)
@@ -19,6 +20,7 @@ def configure_logger():
     logger.addHandler(fh)
     return logger
 
+
 logger = configure_logger()
 
 # TODO check if wmctrl and xdotool installed
@@ -28,16 +30,27 @@ class HRCAuto:
     PROCESS_NAME = 'calculator'
     MAIN_WINDOW_TITLE = 'HoldemResources Calculator '
     BASIC_HAND_TITLE = 'Basic Hand Setup '
+    MONTE_CARLO_TITLE = 'Monte Carlo Hand Setup'
     CMD_ACTIVATE_MAIN = ['wmctrl', '-R', MAIN_WINDOW_TITLE]
     CMD_ACTIVATE_BASIC = ['wmctrl', '-R', BASIC_HAND_TITLE]
+    CMD_ACTIVATE_MONTE = ['wmctrl', '-R', MONTE_CARLO_TITLE]
     CMD_BASIC_HAND = [
         ['xdotool', 'key', 'ctrl+w', 'key', 'p', 'sleep', '2']
+    ]
+    CMD_MONTE_HAND = [
+        ['xdotool', 'mousemove', '214', '282', 'click', '1'],
     ]
     CMD_PASTE_CALCULATE = [[
         'xdotool', 'mousemove', '421', '617',
         'sleep', '0.5', 'click', '1', 'key', 'Tab', 'sleep', '0.5', 'key', 'Return',
         'sleep', '2', 'key', 'Return', 'sleep', '2'
     ]]
+    CMD_MONTE_PASTE = [
+        ['xdotool', 'key', 'Return', 'mousemove', '726', '584', 'click', '1', 'type', '4'],
+        CMD_ACTIVATE_MONTE,
+        ['xdotool', 'key', 'Return', 'mousemove', '709', '605', 'click', '1', 'key', 'Return'],
+        ['xdotool', 'mousemove', '914', '755', 'click', '1'],
+    ]
     NAME = 'default'
     CMD_SAVE_DIALOG = [
         ['xdotool', 'key', 'alt+h', 'sleep', '1', 'key', 'e', 'sleep', '1',
@@ -64,15 +77,16 @@ class HRCAuto:
         stdout, stderr = root.communicate()
 
         m = re.search(b'^_NET_ACTIVE_WINDOW.* ([\w]+)$', stdout)
-        if m != None:
+        if m is not None:
             window_id = m.group(1)
-            window = subprocess.Popen(['xprop', '-id', window_id, 'WM_NAME'], stdout=subprocess.PIPE)
+            window = subprocess.Popen(['xprop', '-id', window_id, 'WM_NAME'],
+                                      stdout=subprocess.PIPE)
             stdout, stderr = window.communicate()
         else:
             return None
 
         match = re.match(b"WM_NAME\(\w+\) = (?P<name>.+)$", stdout)
-        if match != None:
+        if match is not None:
             return match.group("name").strip(b'"').decode('utf-8')
 
         return None
@@ -116,7 +130,7 @@ class HRCAuto:
                     raise RuntimeError('HRC crashed!')
                     break
 
-    def __init__(self, hrc_path='/home/ant/holdemresources/calculator'):
+    def __init__(self, hrc_path='/home/ant/hrc/calculator'):
 
         self._current_title = self.MAIN_WINDOW_TITLE
         self._cmd_activate = ['wmctrl', '-R', self._current_title]
@@ -155,7 +169,47 @@ class HRCAuto:
                 # loop waiting until calculatinon done
                 for i in range(0, 40):
                     time.sleep(3)
-                    if not self.is_calculating():
+                    if not self.is_calculating(self._current_title):
+                        break
+
+                self._current_title = self.MAIN_WINDOW_TITLE
+                self._run_command_list(self.CMD_SAVE_DIALOG)
+                cmd_save_close = chain(cmd_type, self.CMD_RETURN_SAVE)
+
+                self._run_command_list(list(cmd_save_close), activate=False)
+                self._run_command_list(self.CMD_CLOSE_TAB)
+            except Exception as e:
+                self.check_errors()
+                logger.error(e.args)
+                logger.error(f'Error while saving hand: {file_name}')
+
+            if not self.check_errors():
+                logger.info(f'Hand: {file_name} saved')
+                break
+            else:
+                logger.error(f'Error while saving hand: {file_name}')
+
+    def calculate_monte(self, history, file_name):
+        cmd_type = [['xdotool', 'type', file_name]]
+        pyperclip.copy(history)
+
+        for trials in range(0, 2):
+
+            try:
+                # trying calculate hand 3 times if no errors loop breaks
+                self._current_title = self.MAIN_WINDOW_TITLE
+                self._run_command(self._cmd_activate)
+                if not self.is_active():
+                    self._start_hrc()
+
+                self._run_command_list(self.CMD_MONTE_HAND)
+                self._current_title = self.MONTE_CARLO_TITLE
+                self._run_command_list(self.CMD_MONTE_PASTE)
+
+                # loop waiting until calculatinon done
+                for i in range(0, 40):
+                    time.sleep(3)
+                    if not self.is_calculating(self._current_title):
                         break
 
                 self._current_title = self.MAIN_WINDOW_TITLE
@@ -176,10 +230,10 @@ class HRCAuto:
             else:
                 logger.error(f'Error while saving hand: {file_name}')
 
-    def is_calculating(self):
+    def is_calculating(self, title):
         self._run_command(self.CMD_ACTIVATE_BASIC)
         time.sleep(1)
-        if self._get_active_window_title() == self.BASIC_HAND_TITLE:
+        if self._get_active_window_title() == title:
             return True
         else:
             return False
